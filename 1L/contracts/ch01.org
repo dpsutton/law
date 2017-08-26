@@ -1,0 +1,254 @@
+* Introduction to Contract Law
+
+organized zround the cause of action for breach of contract
+** three dimensions of law
+
+
+*** doctrine
+what the public general thinks of as the law, and what we may expect to learn before law schoool
+*** facts
+actual application of doctine by courts and its efects on contracting parties and the public at large
+*** theory
+rationales or reasons for legal doctrine
+sources:
+most popular: common sense, history economics, philosophy. why we have chosen a particular rule if no rule, what should it be
+** restatement and the uniform commercial code
+
+*** Restatement
+Americna Law Institute private nonprofit select gruop of practicing lawyers judges and professors. principal projects is restatements of the law. although supposedly a summary, invariably reshapre the law beeing summarized. first published in 1932. second commenced in 1962 and completed 1979.
+
+*** UCC
+purpose to harmonize and make uniform the laws of the 50 staes.
+
+Uniform Comercial Code is a statute adopted by the legislatures of 49 states and is binding on courts; supersedes any common law rules that are inconsistent with its provisions. by contrast, Restatement is good "authority" widely accepted but not binding.
+
+** how to brief cases for this class
+
+way to start
+
+- identify parties
+- procedural facts
+- historical facts
+- what form of relief is being sought
+- identify arguments
+- outcom eof the case
+- reasoning of the court
+  - what reasons did the court offer for granting or denying relief Did it summarize these reasonas as a basic principle or holding?
+- your analysis
+  - do you agree with the outcome of the case? How would you have decided the case
+  - do you agree with teh reasoning of the court? can you give any other rationales for the outcome
+  - how does this case relate to other cases and materials you have read
+  - before and udringhte lawsuit, whyhave the parties behaved in the ways that they have?
+
+** nature and history of contract
+
+*** background of contracts
+
+common law or civil actions were very very rigid. then there were
+
+- common law writ system
+
+subject to the wager of laws. if you could get 11 individuals that you were telling the truth then you would win. these people didn't have to know anything about the instant
+
+- debt
+- detinue
+- covenant
+
+from these others, develop assumpsit, originating on tresspass on the case.
+
+initially, it was any promise that could be enforced, proved unworkable. the statute of frauds came about, required writing for particular types of contracts. has changed very very little. also requires consideration. a promise will only be enforced by law if there is consideration on both sides.
+
+** law v equity
+
+too many cases did not fit the writ system
+
+high ranking officer appointed to provide equitable reflief in chancery courts.
+
+division of equitable vs legal damages.
+- equitable damages: specific performance
+- legal: money damages for breach
+
+but cannot get equitable
+
+*** shaheen v knight
+
+**** discussion
+
+why not tort? no negligence?
+
+PA, 1957
+
+**** parties
+Shaheen suing physician Knight because of operation he claims
+
+**** procedural
+plaintiff in his compliant does not allege any negligence by D suit is based on contract.
+**** historical
+operatoin in 1954, wife has fifth child as a reult of sex after operation.
+**** arguments
+***** Defendant
+1. contract to sterilize man is void against public policy and public morals
+2. no implied warranty of cure  by physician
+3. charges no lack of skill, malpractice or negligence but seeks to recover upon the ground that the operation did not achieve the purpose sought and the results _allegedly_ promised.
+4. that while the complaint is said to be i nassumpsit, it appears to be grounded on deceit, that is that the defendant made a statement, misrepresenting material facts, known to be false or made in ognorance or reckless disregard of its truth, with an intent to induce the plaintiff to act in reliance thereon, and the plaintiff, believing it to be true, did act thereon to his damage. If this be true the plaintiff has made no allegation of fraudulent intent on defendant's part, or any of the elements of deceit.
+5. healing is not a contract, in essenece. "The duty of a physician or surgeon to bring skill and care to the amelioration of the condition of his patient does not arise from contract but has its foundation in public considerations which are insepearable from the nature and exercise of his calling; it is predicated by the law on the relation which exists between physician and patient, which is the result of a consensual transactoin.
+6. no damage, you got a baby
+**** relief
+
+**** outcome
+no damages
+
+**** reasoning
+1. not void due to public policy or public morals. by precedent
+2. D _made_ a guarantee. people are free to contract.
+3. failure to produce is separate from malpractice grounded in negligence
+4. not grounded on deceit
+5. disagree, free to contract
+6. agree with you, no damages. "We are of the opinion that to allow damages for the normal birth of a normal child is foreign to the universal public sentiment of the people"
+**** analysis
+*** restatement of torts
+**** contract
+a contract is a promise or a set of promises for the breach of which the law gives a remedy, or the performacne of which the law in some way recognizes as a duty.
+**** promise: promisor promisee beneficiary
+- a promise is a manifestation of intention to act or refrain from acting in a specified wya, so made as to justify a promisee in understanding that a commitment has been made.
+**** agreement defined; bargain
+an agreement is a manifestation of mutual assent on the part of two or more persons. A bargain is an agreetoment to exchange promises or to exchange a promise for a performance or to exchange performances.
+**** how promise may be made
+may be stated in words either oral or written, or may be inferred wholly or partly from conduct.
+*** sir henry main, ancient law 163-165, 1864
+gradual dissolution of familiy dependency and the growth of individual obligation in its place
+
+why is this here? Gradual transition from Status to Contract. no idea
+*** rise of assumpsit
+not all promises enforceable. freedom to change one's mind rquired for the real world.
+
+two approaches
+1. promiess are generally enforceable with exceptions
+2. generally unenforceable and then create exceptions for pommises thought desirable to enforce
+
+common law is the second approach, same as roman law. promise does not give rise to an action.. no recovery unless fittted withon one of the established forms of action. middle ages did not touch contracts, not enforced by the court of the king. merchant courts allow commerce actions., ecclesiastical censures.
+
+court politics expanded use of the promise. "succeeded less on the intrinsic merits than as an incident of the victories of those courts in their struggles to expand their own jurisdiction at the expense of their rivals". common law stole from commercial courts "as to stifle the law merchant's practice of enforcing promises made by merchants in ocmmerce". common law had a chancellor who would intervene so they reacted to keep him out, enforcing claims.
+
+thus basif for enforcing promises within the framework of the forms of action. (parenthetical, "the forms of action we have uried, but they still rule us from their graves".) focus exceptoins into rules, general basis for enforcing promises, "including purely executory exchanges of promises" (? eh?)
+
+basis:
+- coventant. formal acknowledgment of liability, similar to roman stipulation. came to rely on the wax seal, but then on the physical wax seal so became tied to a physical thing rather than that being evidence of.
+- debt concept f loan. recover a sum of money, not seen as based on a mere promise, in depended instead on the debtor's recept f what the debtor had asked for -- called a quid pro quo-- in the form of the loan. it was therefore thought to be unjust to allow the debotor to retain it without paying for it. (is it based on the thing owned by the creditor or the thing owed by the debtor). finally broadened to services. but still tied to quid pro quo, benefit must happen to have liability. not just the promise to do so.
+
+**** answer:
+law of torts. liability in tort which allowed for person to perform a duty and then the performance could cause harm, leading to liability.
+"tresspass on the case" : assumpsit (meaning the defendant undertook). based more on restitution more than reliance. but clear right to recover.
+
+initially, no recover when just failure to produce. growing inclination among common law judges, "conscious of rival jurisdictions" to enforce promises even with just nonfeasance. but which promises?
+
+economic cost to reliance on promises serves as recovery. but slowly extending to purely promise when no work or anything was done
+
+originally exclusive to debt, if debt available, asssumpsit not.
+
+** freedom contract and public poliyc
+
+*** baby "m"
+
+**** participants
+
+**** procedural
+
+**** historical
+
+**** arguments
+
+**** relief
+given specific performance.
+**** reasoning
+* class
+** common law
+
+contracts are a common law basis. law developed from the particular facts of a given situation, based on the customs and mores of a circumstace. then if similar circumstances would come up would base it on.
+*** civilian jurisdiction
+we have civilian jursidction. made a determination that the law would be decided and written down by a body of experts. case law is secondary to the rule of law in the code.
+
+jump ahead to now, almost every comon law jurisdiction has codified every possible rule that it ca ncodify.
+**** reasons to dump stare decisis
+
+1. morals have changed
+2. don't like previous decision
+3. policy changes
+
+** contract development through time
+contract law developed slowly and incrementally.
+
+for a long time courts did not feel that they had a way to enforce contracts.
+
+detremental reliance. relied on to her detriment and therefore suffered injury. an incremental step towards promises being upholdable. in these cases courts treated as a tort; damages based not on the promise but the damages; tort
+
+decide some promises need to be enforced: written and have to be sealed. very formal promises. discrepacy between rich and poor in contracts, poor can't get access to seals, paper, etc.
+
+merchants
+
+promise is super duper important in commerce. need to start enforcing some promises. from the merchant class. key to promises and contract law:
+
+consideration
+
+In order for a promise to be binding, I have to be giving something in exchange for something. Its what makes contracts enforceable. Otherwise unenforcable promise or a gift. Consideration that makes it enforceable.
+
+** contract basics
+
+*** mutual assent
+
+**** source of law
+
+common law concept
+
+1. jurisprudence
+2. restatement of contracts
+
+probably the most influential, persuasive, legal source there is out there. persuasive not mandatory.
+
+3. uniform commercial code
+
+deals mostly with the sale of goods. sale of gum. gonna look here if in a contract for goods. otherwise look to the restatement.
+
+**** two pieces
+
+1. offer
+oral, written, etc. can be inferred
+
+difference between a solication for offer vs offer.
+
+2. acceptance
+capacity, knowledge, state of mind,
+
+*** enforceability
+
+1. consideration
+2. object theory of assent/intent
+3. prpomissory estoppel
+
+*** breach
+
+1. performance
+2. condition
+3. breach
+
+*** remedies
+
+- damages
+  - expectation
+  - reliance
+  - restitution
+- specific performance
+- injunctions
+
+** contract
+
+a contract is a promise or a set of promises for the brach of which the law gives a remedy or the performance of which the law in some way recognizes a duty.
+
+go to westlaw, restatement second of 1st article.
+
+** how to proceed
+
+1. did we have an offer
+2. do we have acceptance
+3. was there consideration
+4.

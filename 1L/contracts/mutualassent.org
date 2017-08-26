@@ -1,0 +1,171 @@
+* Reaching an Agreement
+
+  formation of a contract requires two basic elements
+1. the mutual assent of the prties
+2. and some showing that this assent is the _kind_ that the law will enforce.
+
+distinguish subjective v obective conceptions of assent. but objective approach contains a subjective approach as well.
+
+** Objective theory of assent
+
+*** naive view
+
+**** meeting of the minds Dickinson v Dodds:
+
+     "it must, to constitute a contract, appear that the two minds were at one at the same moment of time ..." and that "the existence of the same mind between two parties is essential in point of law to the making of an agreement". often referred to as "meeting of the minds".
+
+     thoughts to be aware of: objective theory of assent at contract formation vs contract interpretation
+
+*** Embry v Hargadine, McKittrick Dry Goods Co
+
+St. Louis Court of Appeals, 1907
+
+**** Procedural History
+
+Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
+
+**** Questions Presented
+
+***** Facts
+
+Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
+
+***** jury instruction requested
+
+Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
+
+***** jury instruction given
+
+if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
+
+***** Question
+
+Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
+
+"whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
+
+**** Rule
+
+General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
+
+Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
+
+"The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
+
+**** Reasoning
+
+***** Can it be a contract
+
+Taking these exceptions to the "meeting of the minds" rule, its possible that McKittrick may not have intended to employ Embry but it would have been "taken by a reasonable man to be an employment, and Embry so understood it, it consttuted a valid contract of employment for the ensuing year"
+
+so two parts?
+1. a reasonable person would have understand the (publicly viewable) intention to form a contract
+2. Embry did so understand
+
+***** Was the language of this character
+
+When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
+
+**** Holding
+
+Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
+
+The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
+
+**** Main Takeaway
+
+*** Lucy v Zehmer
+
+    Supreme Court of Appeals of VA 1954
+
+**** Procedural History
+
+***** facts
+
+      Zehmer wife and husband write contract to Lucys for sale of their farm for 50k. Argue they thought the offer was in jest and had several drinks. Got his wife to sign the document but did not "deliver the memorandum to Lucy, but that Lucy picked it up, read it, put it in his pocket, attempted to offer Zehmer $5 to bind the bargain, which Zehmer refused to accept". At this point, Zehmer realized that Lucy was serious and reassured him he had no intention to sell and thought the matter a joke.
+
+      Terribly confusing narratives but seem consistent that
+- something was written stating "I" intend to sell
+- was redrafted to include "We" intend to sell to include the wife
+- included provision that title satisfaction was part of deal
+- there was alcohol involved
+- there was some joking. Zehmer says about the whole thing, Lucy understood about payment of 50k that night
+
+***** previous ruling
+
+      Held that Lucys had "failed to establish their right to specific performance" and dismissed the bill.
+
+***** contract?
+
+      My thoughts
+
+      The is an equitable solution which doesn't mean that the contract wasn't formed. Perhaps the court thought that there were other remedies available?
+
+**** Questions Presented
+
+     Does Zehmer's contention that he never intended a real contract negate the whole thing?
+
+**** Rule
+
+     "we must look to the outward expression of a person as manifesting his intention rather than to his secreat and unexpressed intention"
+
+**** Reasoning
+
+***** drunk?
+
+He drove home that night and testified that he was not too drunk to execute a binding agreement.
+
+***** not earnest?
+
+      Did not let the Lucys in on the joke until after they had done title research and were prepared to execute the contract. "Had argued about it, discusssed its terms, as Zehmer admitted, for a long time. Lucy testified that if there was any jesting it was about paying 50k that night. the contract and evidence show that he was not expected to pay the money that night. ... In any event there had been what appeared to be a good faith offer and good faither acceptance, followed by the execution and apparent delivery of a written contract" ... "Not until then, even under the defendant's evidence, was anythign said or done to indicate that the matter was a joke." He wishpered to his wife that it was a joke specifically so that the Lucys would not be able to hear it.
+
+***** mental assent
+
+"if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
+
+"So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
+
+**** Holding
+
+"Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
+
+Reversed and remanded for entry of t
+
+**** Main Takeaway
+
+***  (Restatement of Contracts)
+
+**** Requirement of a bargain
+formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
+
+**** Manifestation of mutual assent
+
+manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
+
+**** conduct as manifestation of assent
+
+1. the manifestation of assent may be made wholly or partly by written or spoken words or by other acts or by failure to act
+2. the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in teh conduct and knows or has reason to know that hte other party may infer from his conduct that he assents.
+3. the conduct of a party may manifest assent even though he does not in fact assent. In such cases a resulting contract may be voidable because of fraud, duress, mistake, or other invalidating cause.
+
+*** Restatement of contracts
+
+**** requirement of a bargain
+
+**** manifestation of mutual assent
+
+**** mode of assent: offer and acceptance
+
+**** offer defined
+
+**** option contracts
+
+**** offeree's power of acceptance
+
+**** methods of termination of the power of acceptance
+
+**** termination of power of acceptnce under option contract
+
+**** revocation by communication from offeror received by offerree
+
+**** indirect communication of revocation

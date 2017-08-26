@@ -1,0 +1,184 @@
+* three damage interests
+Lon L. Fller & William R. Perdue, Jr. The Reliance Interest in Contract Damages, Yale Law review 52 1936
+
+specific relief is compelling someone to perform a promise, pretty rare.
+
+more often a sum of money to compensate
+
+** expectation
+
+"the benefit of the bargain"
+
+? does this assume the promisee has paid his consideration?
+
+"in the position in which the promisee would have been had the promise been performed."
+
+** reliance
+
+- if changed position to its detriment in reliance on the promsie
+- "at attempt to put the promisee back in the position in which the pormisee would have been in had the promsie not been made".
+- does not take account of the promsee's lost profit, normally less generous than recovery measured on expectation
+
+** restitution
+
+deprivation of promisor's unjust gains. an attempt to put back in position had promise not been made.
+
+* hawkins v mcgee
+
+nonsuited - means evidence wasn't put on or they decided they would just stick with the contract. wasn't decided.
+
+** Procedural History
+
+suing doctor for botched hand operation. judgment rendered but is "excessive" and doctor appeals. there appellate court says let's cap it at $500, do you accept? and appeal because no, he doesn't accept
+
+** Questions Presented
+
+how do we measure damages under a contract
+
+** Rule
+
+We do not compensate for what the boy has paid for the surgery, we just award the value that separates present condition from the promised condition.
+
+** Reasoning
+
+He was promised a 100% healthy hand, so he gets the value that separates his messed up hand to a healed hand. He gets no damages for pain and suffering because that's what he agreed to pay in the first place.
+
+Damages are not limited to restoring the hand to the previous condition from its current condition but from its current condition to promised condition.
+
+** Holding
+
+send it back to redo damages, probably larger. don't have to look at the mental reservations of the two contract participants; its immaterial.
+
+* mcgee v us fidelity and guaranty
+
+us first circuit 1931
+
+** Procedural History
+
+suit arising from previous as insurance company intends to not cover damages resulting from trial
+
+** Questions Presented
+
+does the insurance policy for malpractice cover this special contract
+
+** Rule
+
+this doctor's warranty was above and beyond and not covered under the malpractice clauses
+
+** Reasoning
+
+** Holding
+
+** Main Takeaway
+
+* sullivan v oconnor
+
+1973 suprepe judicial court MA
+
+** Procedural History
+
+
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+** Holding
+
+pain and suffering has to be over and above the expectations.
+
+** Main Takeaway
+
+* j. o. hooker & sons v. roberts cabinet
+
+on advice of counsel, voided the contract.
+
+
+storage
+administrative costs
+lost profit
+
+facts:
+roberts is subcontractor, hooker is contractor. in course of contract, roberts asks for more money, had underestimated. hooker paid. they fought about who would dispose of the old cabinets, bad attorney and breach of contract.
+
+settled under common law rather than ucc. it was on the service of cabinets and sale of goods. the focus of whether restatements apply or UCC apply is what part of contract is at issue with breach.
+
+** Procedural History
+
+roberts awarded damages for storage, administrative costs, lost profit.
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+not entitled for storage costs as he was going to pay them anyways. no additional expenses therefore hooker not liable. key to that was that they didn't have to lease more stuff, outcome would have been different if they had to lease additional stuff, no incidental costs. money related to storage couldn't be recovered
+
+roberts is gonna pay for a general manager either way. but when he was working on the contract with hooker he was taken away from work on other contracts.
+
+lost profit: second part of really bad lawyering. evidence put before court suggesting profit margin was high: did not contest the claim of 26% profit margin.
+
+** Holding
+
+** Main Takeaway
+
+* kmg harvesting co v fresh network
+
+** Procedural History
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+** Holding
+
+** Main Takeaway
+
+* notes
+
+** assumpsit
+
+"he undertook"
+
+- implied or express promise, not under eal, but which one person undertakes to do som eact or pay for something
+
+common law action for breach
+
+* class notes
+
+** damages
+
+always ask what kind of damages did they ask for and what kind of damages did they receive
+
+*** hypos
+
+give $10 and copy of notes
+****
+resale is 15
+value of notes is 1
+photocopy is 3
+
+expectation:
+expected $15 value for $10, so net is $5
+reliance, was $3
+restitution: $10, $1
+
+**** now only notes
+restitutition $1
+reliance: $3 for photocopy
+expectation: $5 since your current position ($10) is only 5 from
+
+**** having given nothing
+no restutituion
+no reliance
+expectation $2. would have spent 10 + 3 leaving 2 from the expected
+
+**** paid and notes, but market value is 9 not 15
+
+general measure of damages
+expectation damages + other loss - coss avoided - loss avoided

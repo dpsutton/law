@@ -1,0 +1,152 @@
+* liability upon fault
+
+** intro
+tort from tortus, twisted, french meaning injury or wrong. is a civil wrong other than a breach of contract. "this area of law imposes duties on persons to act in a manner that will not injure other persons. a person who breaches a tort duty has committed a tort and may be liable to pay damages in a lawsuit brought by a person injured because of that tort."
+
+major purposes
+1. provide a peaceful means for adjusting the rights of parties who might otherwise "take the law into their own hands"
+2. to deter wrongful conduct
+3. to encourage socially responsible behavior
+4. to restore injured parties to their original condition, insofar as the law can do this, by compensating them for their injry.
+
+*** notion of tresspass versus case
+
+trespass rooted in criminal law and direct harm. tresspass on the case was a special writ to be applied for on your circumstances; more indirect. the former required no damages as the force and intrusion on the person was enough, accordingly it found no requirement for fault. The latter, being more indirect, required actual damages and attribution or culpability. While tresspass was partly criminal, the case was purely civil to being with; the criminal part of tresspass fell away in the late 1600s. Due to precedence, the actual damages requirement did not fall away with the criminal component but courts were reluctant to extend this standard to the torts descending from tresspass on the case.
+
+** Anonymous
+
+Kings Bench, 1466
+
+*** Rule
+
+"if a man does a thing he isbound to do it in such a manner that by his deed no injury or damage is inflected upon others."
+
+*** Reasoning
+
+There seems to be no case and here the judge is acting apparently as counsel in this case. Seems to be a summary of well settled law at the time.
+
+*** Holding
+
+
+*** Main Takeaway
+
+** weaver v ward
+
+King's Bench 1616
+
+*** Procedural History
+
+military man against military man, weaver brings suit against ward for trespass of assault and battery. in a training maneuver, gun discharges and wounds the other.
+
+*** Questions Presented
+
+
+
+*** Rule
+
+"yet in trespass, which tends only to give damages according to hurt or loss, it is not so; and therefore if a lunatick hurt a man, he shall be answerable in trespass; and therefore no man shall be excused of a tresspass (for this is the nature of an ecuse, and not of a jstification), except it may be judged utterly without his fault."
+
+*** Reasoning
+
+Criminal interaction requires the criminal mind, civil liability requires damages. The court separates things from which you are not liable, a strong standard to reach "as if a man by force take my hand and strike you, or if here the defendant had said, that the plaintiff ran cross his piece when it was discharging" or if the result was "inevitable and that the defendant had committed no negligence to give occasion to the hurt".
+
+*** Holding
+
+Ward was responsible for damages to Weaver
+
+*** Main Takeaway
+
+The standard for liability is "negligence" and based on damages no criminal mind. however, "this is the earliest known case in which it was clearly recognized that a defendant might not be liable, even in a trespass action, for a purely accidental injury occurring entirely without his fault." maybe damages plus? damages plus tie him to it.
+
+** brown v kendall
+
+Supreme Judicial Court of Massachusetts, 1850
+
+*** Procedural History
+
+Two dogs fighting. Defendant, Kendall, in trying to separate them, injuries Brown. In original trial jury is given instructions that the standard of care is in how necessary it was to separate the dogs. For instance, if it were "necessary ... then defendant was required to use only ordinary care in doing it; but if it were only a proper and permissible act, defendant was liable unless he exercised extraordinary care; and that the burden of proving the extraordinary care was on the defendant".
+
+find in favor of plaintiff and defendant appeals.
+
+*** Questions Presented
+
+In an "inadvertant and unintentional [injury]: how far, and under what qualificatoins, the party by whose unconscious act the damage was done is responsible for it".
+
+Does tresspass have some component more than just damages?
+
+*** Rule
+
+"that when the proof is all in, and before the jury, from whatever side it comes, and whether directly proved, or inferred from circumstances, it it appears that the defendant was doing a lawful act, and unintentionally hit and hurt the plaintiff, then unless it also appears to the satisfaction of the jury, that the dfendant is chargeable with some fault, negligence, carelessness, or want or prudence, the plaintiff fails to sustain the burden of proof, and is not entitled to recover.
+
+Overturning "that damage received by a direct act of force from another will be sufficient to maintain an action of trespass, whether the act was lawful or unlawful, and neither wilful, intentional, or careless.
+
+*** Reasoning
+
+Overturning the notion that in injury lay liability. the courts confused the claim of action with what it required. For instance, tresspass was for direct injury and case for indirect; it eventually became conflated that any direct injury _was_ a tresspass and the other had to be proved. This notion is tossed out on its head for an intent based regime.
+
+Flatly tossed out liability from acts of "duty" vs those which are merely "proper and lawful". Not intentional and part of a lawful act; if you want to charge undue care then that is your burden.
+
+*** Holding
+
+Sent back for a new trial to reflect the shifting of proving due care on the defendant to proving undue care on the plaintiff.
+
+*** Main Takeaway
+
+    Intent not fault is the source of liability.
+** cohen v petty
+
+court of appeals of the district of columbia, 1933
+
+*** Procedural History
+
+Petty was driving, said he felt sick, fainted and the car ran off the road, permanently injuring plaintiff. Having uncontested testimony that petty said "I feel sick" and then fainted, Trial court directs a verdict, preventing jury consideration.
+
+*** Questions Presented
+
+Can the court find negligence, or even allow for a jury to find negligence, in a man who becomes sick and faints when he had no knowledge of any illness.
+
+*** Rule
+
+no
+
+*** Reasoning
+
+*** Holding
+
+the lower court was correct in not letting this go to jury
+
+*** Main Takeaway
+
+Seriousness of injury, etc, are not the source of liability. it is intent or negligence which must be shown by the evidence.
+
+** spano v perini corp
+
+court of appeals NY 1969
+
+*** Procedural History
+
+Blasting for constructing a tunnel damages cars in nearby or adjacent garage. Sue for damages, winning for plaintiffs (not sure what spano is as this is a combined case). Judgement reveresed on appeal and that affirmed on another appeal landing finally in this case.
+
+*** Questions Presented
+
+*** Rule
+
+Limit to the negligence standard and a glimpse of our ancient tort foundations.
+
+*** Reasoning
+
+Both defendants  allege negligence but neither tries to show in what capacity, relying solely on "absolute liability". its just crazy dangerous. "in such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
+
+*** Holding
+
+Return to a lower court to check the evidence to ensure that the damage is in fact cause by the blasting. "the fact that the magazine was liable to such a contingency, which could not be guarded against or averted by the greatest degree of care and vigilance, evinces its dangerous character... In such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
+
+*** Main Takeaway
+
+The negligence plus standard is not absolute. Absolute liability seems to return back to the ancient roots of torts of sole damage but it makes sense in this case. Categorically has been applied by "[t]he overwhelming majority of American jurisdictoins"
+
+* different types
+
+1. intentional
+2. negligence
+3. strict liability
