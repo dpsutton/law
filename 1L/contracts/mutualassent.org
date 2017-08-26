@@ -169,3 +169,126 @@ manifestation of mutual assent to an exchange requires that each party either ma
 **** revocation by communication from offeror received by offerree
 
 **** indirect communication of revocation
+** Preliminary Negotiations
+*** What is an offer
+
+traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
+
+offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
+
+in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
+
+*** Nebraska seed co v harsh
+
+Supreme Court of Nebraska, 1915
+
+**** Procedural History
+
+***** facts
+
+Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
+
+***** previous court ruling
+
+"trial to a jury, verdict and judgment for plaintiff, defendant appeals"
+
+**** Questions Presented
+
+Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
+
+**** Rule
+
+A request for bids does not constitute an offer
+
+**** Reasoning
+
+- no explicit use of "I offer to you" but general language as in an advertisement "addressed generally to those engaged in teh seed business, and is not an offer by which he may be bound, if accepted, by any or all of the persons addresse". 'invitations to trade ... such inquiries may lead to bargains, but do not make them'
+- did not fix time of delivery, "and this seems to have been regarded as one of the essentials by plaintiff"
+  - does this matter? seems like some final technicalities can be worked out after a principal agreement... can you not shake hands on an agreement and then figure out details after binding?
+- "offer" lacked specificity as to the exact amount of grain to be sold. "we may assume that when he wrote the letter he did not contemplate the sale of more seed than he had"
+- practicality concerns: if this was binding and he sent advertisements to multiple seed buyers "would subject him to a suit by each one receiving a letter, or invitatoins to id, even though his supply of seed were exhausted.
+  - seems like the strongest argument
+  - Quoted from MA Supreme Court: "Care should always be taken not to construe as an agreement letters which the parties intended only as a preleminary negotiation".
+
+**** Holding
+
+"In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
+
+**** Main Takeaway
+
+*** lefkowitz v great minneapolis surplus store, include
+
+SC Minnesota 1957
+
+**** Procedural History
+
+**** facts
+
+Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
+
+**** previous court ruling
+
+"Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
+
+previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
+
+**** Questions Presented
+
+"We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
+
+**** Rule
+
+"The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
+
+"when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
+
+**** Reasoning
+
+***** Was it an offer
+
+"The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
+
+***** Can it be modified (house rules)
+
+"advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
+
+**** Holding
+
+The lower court was correct
+
+**** Main Takeaway
+
+*** Leonard v Pepsico
+
+US District Court, Southern district o new york 1999
+
+**** Procedural History
+
+***** facts
+
+Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
+
+**** Questions Presented
+
+Whether the offer was serious
+
+**** Rule
+
+"the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
+
+"a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
+
+**** Reasoning
+
+***** for the rule
+the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
+
+***** application of the rule
+
+"Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
+
+**** Holding
+
+     Pepsi gets summary judgment
+
+**** Main Takeaway

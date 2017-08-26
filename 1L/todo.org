@@ -15,6 +15,7 @@ already on twen
 *** DONE restatment provisions on pages 300-302
 *** DONE objective theory of assent 243-256;262-263, skim 265-262
 *** TODO damages computation with formula from hypos
+*** TODO preliminary negotiations: 263-284, 288-295
 ** torts
 *** TODO [5/5] first five cases
 **** DONE thorns case (hulle v orynge)
