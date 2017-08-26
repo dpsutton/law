@@ -18,59 +18,59 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 
 *** Embry v Hargadine, McKittrick Dry Goods Co
 
-St. Louis Court of Appeals, 1907
+    St. Louis Court of Appeals, 1907
 
 **** Procedural History
 
-Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
+     Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
 
 **** Questions Presented
 
 ***** Facts
 
-Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
+      Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
 
 ***** jury instruction requested
 
-Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
+      Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
 
 ***** jury instruction given
 
-if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
+      if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
 
 ***** Question
 
-Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
+      Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
 
-"whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
+      "whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
 
 **** Rule
 
-General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
+     General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
 
-Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
+     Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
 
-"The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
+     "The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
 
 **** Reasoning
 
 ***** Can it be a contract
 
-Taking these exceptions to the "meeting of the minds" rule, its possible that McKittrick may not have intended to employ Embry but it would have been "taken by a reasonable man to be an employment, and Embry so understood it, it consttuted a valid contract of employment for the ensuing year"
+      Taking these exceptions to the "meeting of the minds" rule, its possible that McKittrick may not have intended to employ Embry but it would have been "taken by a reasonable man to be an employment, and Embry so understood it, it consttuted a valid contract of employment for the ensuing year"
 
-so two parts?
+      so two parts?
 1. a reasonable person would have understand the (publicly viewable) intention to form a contract
 2. Embry did so understand
 
 ***** Was the language of this character
 
-When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
+      When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
 
 **** Holding
 
-Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
+     Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
 
-The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
+     The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
 
 **** Main Takeaway
 
@@ -113,7 +113,7 @@ The contract formation does not require the secret intentions but the visible in
 
 ***** drunk?
 
-He drove home that night and testified that he was not too drunk to execute a binding agreement.
+      He drove home that night and testified that he was not too drunk to execute a binding agreement.
 
 ***** not earnest?
 
@@ -121,26 +121,26 @@ He drove home that night and testified that he was not too drunk to execute a bi
 
 ***** mental assent
 
-"if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
+      "if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
 
-"So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
+      "So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
 
 **** Holding
 
-"Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
+     "Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
 
-Reversed and remanded for entry of t
+     Reversed and remanded for entry of t
 
 **** Main Takeaway
 
 ***  (Restatement of Contracts)
 
 **** Requirement of a bargain
-formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
+     formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
 
 **** Manifestation of mutual assent
 
-manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
+     manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
 
 **** conduct as manifestation of assent
 
@@ -172,33 +172,33 @@ manifestation of mutual assent to an exchange requires that each party either ma
 ** Preliminary Negotiations
 *** What is an offer
 
-traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
+    traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
 
-offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
+    offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
 
-in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
+    in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
 
 *** Nebraska seed co v harsh
 
-Supreme Court of Nebraska, 1915
+    Supreme Court of Nebraska, 1915
 
 **** Procedural History
 
 ***** facts
 
-Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
+      Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
 
 ***** previous court ruling
 
-"trial to a jury, verdict and judgment for plaintiff, defendant appeals"
+      "trial to a jury, verdict and judgment for plaintiff, defendant appeals"
 
 **** Questions Presented
 
-Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
+     Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
 
 **** Rule
 
-A request for bids does not constitute an offer
+     A request for bids does not constitute an offer
 
 **** Reasoning
 
@@ -212,80 +212,80 @@ A request for bids does not constitute an offer
 
 **** Holding
 
-"In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
+     "In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
 
 **** Main Takeaway
 
 *** lefkowitz v great minneapolis surplus store, include
 
-SC Minnesota 1957
+    SC Minnesota 1957
 
 **** Procedural History
 
 **** facts
 
-Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
+     Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
 
 **** previous court ruling
 
-"Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
+     "Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
 
-previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
+     previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
 
 **** Questions Presented
 
-"We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
+     "We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
 
 **** Rule
 
-"The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
+     "The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
 
-"when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
+     "when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
 
 **** Reasoning
 
 ***** Was it an offer
 
-"The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
+      "The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
 
 ***** Can it be modified (house rules)
 
-"advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
+      "advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
 
 **** Holding
 
-The lower court was correct
+     The lower court was correct
 
 **** Main Takeaway
 
 *** Leonard v Pepsico
 
-US District Court, Southern district o new york 1999
+    US District Court, Southern district o new york 1999
 
 **** Procedural History
 
 ***** facts
 
-Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
+      Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
 
 **** Questions Presented
 
-Whether the offer was serious
+     Whether the offer was serious
 
 **** Rule
 
-"the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
+     "the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
 
-"a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
+     "a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
 
 **** Reasoning
 
 ***** for the rule
-the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
+      the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
 
 ***** application of the rule
 
-"Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
+      "Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
 
 **** Holding
 
