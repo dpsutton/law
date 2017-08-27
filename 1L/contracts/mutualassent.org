@@ -326,21 +326,21 @@ Empro may have had the intention to form an offer with this but the intention wa
 
 *** arnold palmer golf co v guque industries
 
-united states court of appeals, 6th circuit 1976
+    united states court of appeals, 6th circuit 1976
 
 **** Procedural History
 
 ***** facts
 
-arnold palmer company wanted to inhouse its manufacturing, so set out to trade 25% of its stock to a company in exchange for a manufacturing subisidiary. A "Memorandum of Intent" was finalized laying out the general terms and going into quite a bit of detail. It had a section maintaining that lawyers were responsible for forming a contract.
+      arnold palmer company wanted to inhouse its manufacturing, so set out to trade 25% of its stock to a company in exchange for a manufacturing subisidiary. A "Memorandum of Intent" was finalized laying out the general terms and going into quite a bit of detail. It had a section maintaining that lawyers were responsible for forming a contract.
 
 ***** lower court
 
-Held that this draft was indeed not a binding contract because it provided evidence of the parties not to be contractually bound. the case was granted summary judgment.
+      Held that this draft was indeed not a binding contract because it provided evidence of the parties not to be contractually bound. the case was granted summary judgment.
 
 **** Questions Presented
 
-How does a court determine whether the intent was present between two parties to form a contract in a memorandum of intent.
+     How does a court determine whether the intent was present between two parties to form a contract in a memorandum of intent.
 
 **** Rule
 
@@ -348,16 +348,75 @@ How does a court determine whether the intent was present between two parties to
 
 **** Reasoning
 
-Luckily, the court did not have to. They find that there is a plausible reading both ways. This could be the agreement and intent from both sides with instructions to memorialize it, or this could be a letter stating where they are now and the lawyers must finish it. As such, summary judgment is an inappropriate tool as the settling of this is not a matter of law but a matter of fact.
+     Luckily, the court did not have to. They find that there is a plausible reading both ways. This could be the agreement and intent from both sides with instructions to memorialize it, or this could be a letter stating where they are now and the lawyers must finish it. As such, summary judgment is an inappropriate tool as the settling of this is not a matter of law but a matter of fact.
 
 **** Holding
 
-"Considering this appeal in the light of these authorities, we determine that our proper course is to remand this case to the district court for tiral because we believe that the issue of the parties' intention to be bound is a proper one for resolution by the trier of fact."
+     "Considering this appeal in the light of these authorities, we determine that our proper course is to remand this case to the district court for tiral because we believe that the issue of the parties' intention to be bound is a proper one for resolution by the trier of fact."
 
 **** Main Takeaway
 
-Mutual assent is not necessarily a matter of law. The UCC and restatement necessarily fall back to notions of understanding and generalities.
+     Mutual assent is not necessarily a matter of law. The UCC and restatement necessarily fall back to notions of understanding and generalities.
 
-"a contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract"
+     "a contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract"
 
-"an offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understandin that his assent to that bargin is invited and will conclude it".
+     "an offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understandin that his assent to that bargin is invited and will conclude it".
+
+*** Copeland v Baskin Robbins usa
+    Court of Appeal, Second District, Division 7 California 2002
+
+**** Procedural History
+
+***** facts
+
+      Copeland wants to purchase an ice cream plant that Baskin Robbins is shutting down but only on the condition that BR agrees to buy ice cream from him for 3 years. They agree and negotiate and lay out a lot of legwork along with a leeter stating this is their intention but stating there are more details to be worked out. After some time BR decides the ice cream purchasing plan is not in its interests and breaks off negotiations. Copeland sues for breach; lost profits
+
+***** lower court
+
+      Held that although there are many different interpretations of the letter, the important details of the co-packing agreement "were never agreed to and no reasonable basis upon which to determine them." Thus summary judgment for BR to which Copeland appeals.
+
+**** Questions Presented
+
+     may a party sue for breach of a contract to negotiate an agreement or is such a "contract" merely an unenforcable "agreement to agree"
+
+**** Rule
+
+     contract to negotiate an agreement is distinguishable from a so-called "agreemment to agree" and can be formed and breached just like any other contract. However the only remedy for breach are reliance damages.
+
+
+**** Reasoning
+
+- why not? people can enter into agreements and there's nothing illegal, so of course they can contract for negotiations
+- a contract to negotiate terms is not absurd on its face, it just creates obligations to negotiate; note that this does not, however, it does not create an obligation to agree, only negotiate. This is distinguishable from "an agreement to agree" which does not create any obligations. Previous rulings against this have ruled more on the underlying instrument rather than the obligation to negotiate.
+
+***** arguments against
+
+1. would discourage negotiations by imposing a regime of good faith and fair dealings into every negotiation
+2. increase pressure to conclude negotiations for fear they would be held as bad-faith actors
+3. precontractual wrong-doing already have remedies in unjust enrichment, promissory fraud and promissory estoppel.
+   1. Promissory estoppel is a legal principle that a promise is enforceable by law, even if made without formal consideration, when a promisor has made a promise to a promisee who then relies on that promise to his subsequent detriment.
+4. bad faith could cost people millions in expectancy damages when negotiations stall
+
+***** reasons debunking these
+
+1. the contractual imposition of good faith doctrine is due to the intention and request of the parties involved, not negotations in general. this is a contractual obligation which requires both parties to publicly intend to be bound by the promises
+2. damages are only reliance damages. while not negotiating huge contracts, jurors understand good faith contract negotiations and can try the facts adequately.
+3. the existing remedies are not adequate. unjust enrichment more for ideas or services rendered during negotiations not really for goods and land as here. Promissory fraud is for "a promose made without any intention of performing it" which would not cover the instant case where negotiations were intended but then fell apart. Promissory estoppel works and is basically what is under discussion here.
+4. no expectancy charges
+
+***** public policy reasons
+
+      negotiations are complex, take a long time and require the input of many people. "their investmenst in time and money and effort will not be wiped out by the other party's footdragging or change of heart or taking advantage of a vulnerable position created by the negotiation".
+
+***** damages
+
+      reliance is obvious. costly negotiations are relying on the negotiations happening. however, since the outcome is not certain, the terms of the outcome cannot e used for expectancy damages. not talk of restitution damages but negotiations wouldn't seem to have money changing hands outside of the usually returned intial check.
+
+
+**** Holding
+
+     Disagreement with the method the lower court got there but agreeing in effect. Hold it was valid contract. But Copeland disavowed reliance damages and sought only the lost profit that would have come from the completed instrument. Thus he does not have justicable damages so he cannot sustain his claim and summary judgment is appropriate.
+
+**** Main Takeaway
+
+     contract to negotiate an agreement is distinguishable from a so-called "agreemment to agree" and can be formed and breached just like any other contract. However the only remedy for breach are reliance damages.
