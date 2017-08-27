@@ -21,11 +21,14 @@ Sent back as toy gun does not qualify but elements of simple robbery were proven
 sentencing on lesser charge not actually charged "does not constitute interference with the function of trial judge or jury, does ont deprive defendant of his right to have trial judge or jury decide on proof of elements of lesser and included offense, does not subject D to double jeopardy and is not contrary to federal constitutional principle that jury verdict must not stand if, when evidence is viewed in light most favorable to prosecution, rational jury could not have found essential elements of crime beyond reasonable doubt".
 
 "victim's potential reaction to an instrumentality not inherently dangerous can be considered by the jury in determining whether the instrumentality 'in the manner used' is likely to produce great bodily harm and is therefore a 'dangerous weapon'".
+
 ** Reasoning
 
 Looking at reaction of the victim and manner of the assailant, the dangerous situation contemplated by he law was not created. Noting the dramatic differences in sentencing aligning with the legislature's intent, the crime did not arise to the level intended for 'truly dangerous intrumentalities'.
 
 ** Holding
+
+As the elements of the lesser crime were proved and as a matter of law the toy gun could not pass for the "dangerous weapon" component of armed robbery, the court entered a judgment for simple battery. A dissent was provided that, if the court believed that the judgment could not stand, there was no authority in louisiana law to enter judgment for a lesser included crime. The dissent noted that in all of the jurisdictions that do so have been provided with a mechanism to do so.
 
 ** Main Takeaway
 
