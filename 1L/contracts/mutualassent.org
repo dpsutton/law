@@ -292,3 +292,72 @@ distinguish subjective v obective conceptions of assent. but objective approach 
      Pepsi gets summary judgment
 
 **** Main Takeaway
+
+*** empro manufacturing co v ball-co manufacturing
+
+    US Court of Appeals, 7th Circuit 1989
+
+**** Procedural History
+
+***** facts
+
+      Ball-co floated its assets and Empro took interest to purchase the company. They signed a letter of intent to proceed, which contained provisions for Empro to back out. Ball-co started negotiating with someone else leading Empro to file suit in diversity to get a temporary restraining order. District judge read the letter of intent and dismissed under 12(b)(6) for failure to state a claim. The evidence there was that the agreement contained "subject to" twice so that the letter of intent was "subject to" "the execution of a definitive contract" and the letter of intent had no "independent force".
+
+**** Questions Presented
+
+     Does the letter of intent bind the the companies?
+
+**** Rule
+
+     "Contract law gives effects to the parties' wishes, but they must express these openly. Put differeenty, 'intent' in contract law is objective rather than subjective -- a point Interway makes by holding that as a matter of law parties who make their pact 'subject to' a later definitive agreement have manifested an (objective) intent not to be bound...".
+
+**** Reasoning
+
+- the subject to is informative but not dispositive.
+- the text of the letter was "general terms and conditions" indicating that revisions and changes were forthcoming; empro also endeavored to ensure that it could walk away from the deal, lending credence to the fact that the letter created no obligations.
+- but there seemed to be no language making it an option contract which would bind Ball-co and give Empro choice. In agreeing to the letter, Ball-co indicated that "some clarifications are needed" indicating it intended to change the agreement.
+- Illinois law allows companies to proceed in stages to agreement. Making the early stages binding would ruin this practice
+
+**** Holding
+
+Empro may have had the intention to form an offer with this but the intention was obvious to the objective standard. Illinois allows for negotiations leading up to a final agreement.
+
+**** Main Takeaway
+
+*** arnold palmer golf co v guque industries
+
+united states court of appeals, 6th circuit 1976
+
+**** Procedural History
+
+***** facts
+
+arnold palmer company wanted to inhouse its manufacturing, so set out to trade 25% of its stock to a company in exchange for a manufacturing subisidiary. A "Memorandum of Intent" was finalized laying out the general terms and going into quite a bit of detail. It had a section maintaining that lawyers were responsible for forming a contract.
+
+***** lower court
+
+Held that this draft was indeed not a binding contract because it provided evidence of the parties not to be contractually bound. the case was granted summary judgment.
+
+**** Questions Presented
+
+How does a court determine whether the intent was present between two parties to form a contract in a memorandum of intent.
+
+**** Rule
+
+
+
+**** Reasoning
+
+Luckily, the court did not have to. They find that there is a plausible reading both ways. This could be the agreement and intent from both sides with instructions to memorialize it, or this could be a letter stating where they are now and the lawyers must finish it. As such, summary judgment is an inappropriate tool as the settling of this is not a matter of law but a matter of fact.
+
+**** Holding
+
+"Considering this appeal in the light of these authorities, we determine that our proper course is to remand this case to the district court for tiral because we believe that the issue of the parties' intention to be bound is a proper one for resolution by the trier of fact."
+
+**** Main Takeaway
+
+Mutual assent is not necessarily a matter of law. The UCC and restatement necessarily fall back to notions of understanding and generalities.
+
+"a contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract"
+
+"an offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understandin that his assent to that bargin is invited and will conclude it".
