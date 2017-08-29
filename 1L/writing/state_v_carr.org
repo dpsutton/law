@@ -1,0 +1,31 @@
+* Sate v Carr
+
+Supreme Court of Louisiana, 2000
+
+** Procedural History
+
+(interestingly, relied on State v Guidry, which relied on the reasoning in State v williams)
+
+Defendant was charged with OWI for riding a bicycle while intoxicated. Defendant prevailed in a motion to quash relying on a 3rd circuit ruling that bicycles were not "other means of conveyances" for OWI concerns. The state appealed this decision and won and now Carr appeals to the Supreme Court.
+
+Appellate Court found that a bicycle is a "conveyance" and that a different statute criminalized intoxicated bicycling at the time the "other means of conveyances" was introduced. Defendant argues that it is ambiguous and the public lacks adequate notice that it is a criminal offense.
+
+** Questions Presented
+
+Settling a circuit split, does a bicycle fall under the "other means of conveyances" and therefore satisfying the operating element of OWI in Louisiana.
+
+** Rule
+
+when confronted with two plausible readings of a statute, the rule of lenity decides the construction in favor of the defendant.
+
+** Reasoning
+
+they find a subsection 14:98 J to instruct as to 14:98A(1) that has a similar enumeration "motor vehicle, aircraft, watercraft, vessel or other means of motorized conveyances". This informs the court that this enumeration was meant to be motorized. the theory is that this shows the intention not to add a motorized component to J but indicates the true thinking of the enumeration which equally applies to A(1).
+
+Alternatively, viewing the legislative history can satisfy the question. There were two concurrent statutes dealing with OWI: one that applied everywhere and one that applied on state roads. The legislature consolidated criminal codes into the louisana criminal code and the resulting statute subsumed both of these previous statutes. That would seem to include the bicycle. Except the law now not only applied on public roads but everywhere and the comments state that it is "_substantially_ the same as the former statute on intoxicated driving". The previous law covering bicycles was only in force on public roads.
+
+** Holding
+
+"Given that section 14:98 A(1) is subject to two reasonable interpretations, under principles of lenity, we must interpret it in the manner favorable to defendant. Therefore the term "other means of conveyance" as used in (OWI Law) does not include a bicycle".
+
+** Main Takeaway

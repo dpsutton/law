@@ -1,0 +1,31 @@
+* State v Williams
+
+Court of Appeal Third Circuit, Louisiana, 1984
+
+** Procedural History
+
+"Defendant was convicted in Fifteenth Judical District Court, Parish of Acadia of operating vehicle while intoxicated.
+
+*** Facts
+
+Defendant rode a horse on a Louisiana Highway while under the influence of alcoholic beverages. There was a collision with an automobile and the horse was shot and killed (presumably a mercy killing after the fact). Defendant was charged with second offense OWI.
+
+** Questions Presented
+
+Does a horse fall under the "other means of conveyance" to satisfy the operating element of Louisiana's OWI rule.
+
+** Rule
+
+Criminal statutes are subject to strict construction with doubts resolved in the favor of the accused. Prior to this lenity rule, legislative "aim and design" can aid in "determining legislative intent".
+
+"penal laws are strictly construed, and cannot be added to by inference, and not not embrace cases not within their letter, even though within their spirit".
+
+** Reasoning
+
+There is a definition for vehicle that includes ridden animals but the instant criminal statute does not incorporate it nor would it mesh well if it did. Since there is no statutory definition of vehicle, the court must use staturtory construction to end up at a specific definition. When terminating a list with a broad generality, the broad generality is interpreted as constrained categorically to the concepts previously enumerated; in this manner "motor vehicle", "aircraft" and "vessel" constrain "other means of conveyance" to inanimate objects in which "control is dependent on the actions of the driver". Further, the statute is nested under "Driving Offenses", there are LA supreme court decisions holding the pivotal nature of the offense is the motor vehicle.
+
+** Holding
+
+The statue does not extend to cover the riding of a horse while intoxicated. The lower court is reversed.
+
+** Main Takeaway
