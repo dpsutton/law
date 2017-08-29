@@ -11,17 +11,28 @@ August 26  Assignment #1, “It Should be a Law,” is due Saturday, August 26, 
 already on twen
 ** contracts
 *** DONE read restatment of contracts 1 commentary
-*** TODO read chapter on damages
+*** DONE read chapter on damages
 *** DONE restatment provisions on pages 300-302
 *** DONE objective theory of assent 243-256;262-263, skim 265-262
 *** TODO damages computation with formula from hypos
-*** TODO preliminary negotiations: 263-284, 288-295
+*** DONE preliminary negotiations: 263-284, 288-295
 ** torts
-*** TODO [5/5] first five cases
+*** DONE [5/5] first five cases
 **** DONE thorns case (hulle v orynge)
 **** DONE weaver v ward
 **** DONE brown v kendall
 **** DONE cohen v petty
 **** DONE spano v perini corp
-*** TODO [0/1] fire more cases
-**** TODO case 1...
+* Week 2
+** torts
+*** read 5 cases [0/10]
+**** TODO garratt
+**** TODO spivey
+**** TODO ranson
+**** TODO mcquire
+**** TODO talmage
+**** TODO cole
+**** TODO wallace
+**** TODO fisher
+**** TODO i de S et ux.
+**** TODO Western Union
