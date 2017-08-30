@@ -25,13 +25,13 @@ already on twen
 **** DONE spano v perini corp
 * Week 2
 ** torts
-*** read 5 cases [0/10]
-**** TODO garratt
-**** TODO spivey
-**** TODO ranson
-**** TODO mcquire
-**** TODO talmage
-**** TODO cole
+*** read 5 cases [6/10]
+**** DONE garratt
+**** DONE spivey
+**** DONE ranson
+**** DONE mcquire
+**** DONE talmage
+**** DONE cole
 **** TODO wallace
 **** TODO fisher
 **** TODO i de S et ux.
