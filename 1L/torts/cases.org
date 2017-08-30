@@ -150,3 +150,157 @@ The negligence plus standard is not absolute. Absolute liability seems to return
 1. intentional
 2. negligence
 3. strict liability
+
+* Intentional torts
+
+** intent
+
+*** garrat v dailey
+
+**** Procedural History
+Supreme Court of Washington 1955
+
+Ruling in favor of Garrat in past. Focused on lack of intent to cause harm "did not have purpose, intent or design to perform a prank or to effect an assault and battery upon the person of the plaintiff" Garrat appeals
+
+**** Questions Presented
+
+What is intent.
+
+**** Rule
+
+Battery, for these purposes, is the intentional infliction of a harmful bodily contact upon another.
+
+"the act must be done for the purpose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension was substantially certain to be produced"
+
+**** Reasoning
+
+The opinion says that the facts could support the conclusion but that it would be possible to focus more on them to determine the knowledge of the boy. "While a finding that Brian had no such knowledge can be inferred from the findings made, we believe tht before the plaintiff's action i nsuch a case should be dismissed there should be no question but that the trial court had passed upon that issue;"
+
+**** Holding
+
+The knowledge the boy had at the time should be investigated before the complaint is dismissed.
+
+**** Main Takeaway
+
+Intent is a subjective standard relating to the purpose of the actions or the knowledge the person had.
+
+*** spivey v battaglia
+
+**** Procedural History
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+*** ranson v kittner
+
+**** Procedural History
+
+Appellate Court of Illinois, 1889
+
+**** Questions Presented
+
+Is mistake a defense to the mistaken but intentional shooting of a dog while hunting for wolves.
+
+**** Rule
+
+Appellants are clearly liable for the damages caused by their mistake, nowithstanding they were acting in good faith.
+
+**** Reasoning
+
+The law does not require intent to harm but that the act was intentional.
+
+**** Holding
+
+the lower judgment finding liability for the dog was correct.
+
+**** Main Takeaway
+
+Mistake is not a defense to liability. Mistake is not accidental
+
+*** mcguire v almy
+
+**** Procedural History
+
+Supreme Judicial Court of MA, 1937
+
+Can't discern what the lower court held
+
+**** Questions Presented
+
+Can the mentally ill form the intent necessary for intentional torts, here intentional tort of battery.
+
+**** Rule
+
+"in order that an act may be done with the intention of bringing about a harmful or offensive contact ... the act must be done for the pupose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension is substantially certain t obe produced."
+
+**** Reasoning
+
+There have been criticisms of the united states intent based tort system as the rest of the world seems to have settled on a fault based system. The rule is proven, consistent and does comport with our notions of "essential justice" rather than theorems arising from axioms of civil liability.
+
+**** Holding
+
+The insane are not barred categorically from forming intent for intentional torts. "To be liable, must have been capable of tentertaining that same intent and must have entertained it in fact".
+
+**** Main Takeaway
+
+*** talmage v smith
+
+**** Procedural History
+
+Supreme court of michigan, 1894
+
+Lower court issued instructions that stating that if the defendant threw the stick, not intending to hit anyone, there was no recovery; if he threw the stick, intending to hit someone, but it was a reasonable amount of force there is no recovery; if he threw the stick intending to hit someone and the force used was unreasonable, then it did not matter that he struck someone else. Jury found in favor of plaintiff and defendant appeals.
+
+**** Questions Presented
+
+A man threw a stick at one boy who was on the roof of one of his sheds and hit another boy, causing loss of sight in his eye. Is the man liable for intentional battery. For the purposes of the intentional tort of battery, did Smith intend to hit make contact with talmage?
+
+**** Rule
+
+If in the attempt to commit an intentional tort you commit another tort among the historical trespass causes, the intent to commit the one will satisfy the intent to commit the one actually committed.
+
+**** Reasoning
+
+The right of recovery lie in intentional causing of damages
+
+**** Holding
+
+The defendant committed an intentional battery.
+
+**** Main Takeaway
+
+Among the old actions of trespass, "when the defendant intends any one of the five, and accomplishes any one of the five, the doctrin applies and the defendant is liable, even if the plaintiff was not the intended target". Note that the first jury instruction would appear to be assault and would constitute a battery under the theory of transferred intent.
+
+** battery
+
+*** cole v turner
+
+**** Holding
+
+1. That the least touching of another in anger is a battery
+2. If two or more meet in a narrow passage, and without any violence or design of harm, the one touches the other gently it will be on battery.
+3. If any of them use violence against the other, to force his way in a rude inordinate manner, it is a battery; or any struggle about the pasage, to that degree as may do hurt, is a battery.
+
+**** Main Takeaway
+
+It sets the stage for the "busy world" theory to be expounded later. That there are incidental touches in the world does not lie a claim; but that incidental touches can rise to such if struggle or violence arise. But that the meat of the tort lie in anger.
+*** wallace v rosen
+
+**** Procedural History
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
