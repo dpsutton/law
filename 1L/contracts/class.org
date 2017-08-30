@@ -1,0 +1,96 @@
+* Aug 29
+
+** damage interests
+
+1. expectancy
+the benefit of the bargain. what you expected to gain by the promise
+2. reliance
+damages incurred upon reliance of the contract
+3. restitution
+remove the benefit that accrued to the promisor
+
+when reliance are used:
+when expectancy damages are difficult or impossible to quantify
+
+** formula
+
+loss in value + other loss - cost avoided - loss avoided
+
+*** loss in value
+ is the expectation value (the cost of the contract). if some performed, difference between where we're at versus the fulfilment position
+
+*** other loss
+incidentals and consequential
+
+*** costs and loss avoided
+
+** contemporary K law
+
+*** change in K law
+
+classic/formalist -> contemporary/realist
+
+*** classic/formalist
+- focus on coherent and well-defined rules
+judges and scholars believed that law was essentially a science. box that would take info and spit out an answer.
+- formalistic and rigid
+- reflects support of free enterprise, private autonomy, and a laissez-faire system
+
+*** contemporary/realist
+
+move away from strict, rule based. to a consideration of doctrine and policy and process. torts, while policy plays a part, is still very rule based and formal. battery: a few pieces and get the output. but in K we have policies that suggest different rules.
+
+- contractural relationships are just too complex and varied to be decided by some kind of rigid machine
+- had to concern ourselves with the power of the bargaining players; power imbalance, business ethics, employment rights, etc.
+
+what they suggested is that law needs to reflect social policy. the rules need to reflect the policy of the time. rules need to evolve as the society evolves. should be grounded in real applications to economics and the market.
+
+no school swinging back to the original neo-formalist.
+
+** definition
+
+*** contract
+a contract is a promise or a set of promises for the breach of which the law gives a remedy, or th eperformance of which the law in some way recognies as a duty.
+
+the parties must intend to enter into a K relationship and agree to the terms, and the assent must be the kind the law will enforce.
+
+*** promise
+
+a promise is a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made
+
+*** agreement
+
+agreement: manifestation of mutual assent on the part of two or more persons.
+
+bargain: is an agreement to exchange promises or to exchange a promise for a performance or to exchange performances.
+
+bargain may or may not create an obligation; agreement is creating an obligation.
+
+*** manifestation
+
+manifestation of mutual assent to an exchange requires that each party either makes a promise or begin or render a performance
+
+*** conduct as manifestation of assent
+
+manifestation of assent may be made wholly or partly by written or spoken words or by other acts or failure to act.
+
+the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in the conduct and knows or has reason to know that the other party may infer from his conduct that he assents.
+
+** objective
+
+started in the formalist parts. there's no machine that can take into account the closely held secrets of the mind; however we can make simplified objective machines.
+
+- don't want to bind someone who did not agree to be bound
+- but balance that against the expectations of one who reasonably relied on the appearance of assent.
+
+*** who is the reasonable person
+
+between 1910 and 1954. they are male. they are white. they are 50s and above. socioeconomic back ground, they are at least middle class, upper middle class.
+
+can look at probabilities, contracts of a similar circumstances. what do people expect when tey are buying a car? what do people expect when they get in a cab.
+
+*** subjective part
+
+look at the words used. in the context of the entire trasnactions, behavior. in certain circumstances look at custom and usage in the marketplace
+
+objective test suggests a corresponding DUTY TO READ.
