@@ -40,3 +40,7 @@ already on twen
 *** TODO type state v byrd
 ** lawyering
 *** TODO type dui cases
+** contracts
+*** TODO revoking offers 295-299
+*** TODO acceptance 302-309; 323-334
+*** TODO acceptance 335-349; 352-353
