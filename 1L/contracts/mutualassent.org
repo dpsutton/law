@@ -148,7 +148,6 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 2. the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in teh conduct and knows or has reason to know that hte other party may infer from his conduct that he assents.
 3. the conduct of a party may manifest assent even though he does not in fact assent. In such cases a resulting contract may be voidable because of fraud, duress, mistake, or other invalidating cause.
 
-** Preliminary Negotiations
 *** What is an offer
 
     traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
@@ -272,6 +271,7 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 
 **** Main Takeaway
 
+** Preliminary Negotiations
 *** empro manufacturing co v ball-co manufacturing
 
     US Court of Appeals, 7th Circuit 1989
