@@ -373,129 +373,221 @@ It sets the stage for the "busy world" theory to be expounded later. That there 
 *** Rule
     Yes, there can. "And so note that for an assault a man shall recover damages, etc."
 *** Reasoning
-The reasoning is that it comports with our notion of harm. "There is harm done and a trespass for which he shall recover damages since he made an assault upon the woman..."
+    The reasoning is that it comports with our notion of harm. "There is harm done and a trespass for which he shall recover damages since he made an assault upon the woman..."
 *** Holding
     That despite the lack of physical contact or harm, there could still be damages.
 *** Main Takeaway
-Underpinning the historical notion that assault, without harm, can still give rise to damages, further separating assault from the negligence style liabilities. There no harm means no recovery whereas assault without harm can still warrant recovery of damages..
+    Underpinning the historical notion that assault, without harm, can still give rise to damages, further separating assault from the negligence style liabilities. There no harm means no recovery whereas assault without harm can still warrant recovery of damages..
 
 ** Western Union Telegraph Co. v. Hill
-Court of Appeals of Alabama, 1933
+   Court of Appeals of Alabama, 1933
 *** Procedural History
 **** Facts
-Mrs. Hill needed a clock fixed and had to go down to the office of western union where Mr. Sapp was working. He had had a few drinks and offered to fix her clock if she would go behind the counter and let him pet and love her, and then he tried to hug and hold her from behind the counter.
+     Mrs. Hill needed a clock fixed and had to go down to the office of western union where Mr. Sapp was working. He had had a few drinks and offered to fix her clock if she would go behind the counter and let him pet and love her, and then he tried to hug and hold her from behind the counter.
 
-Seemingly in a case deciding if the damages for the assault are attributable to the employer, the question arises of whether there was an assault at all.
+     Seemingly in a case deciding if the damages for the assault are attributable to the employer, the question arises of whether there was an assault at all.
 **** Lower Court ruling
 
-Lower court seemed to have ruled that Mr. Sapp assaulted the woman within the scope of his duties leaving the company on the hook. That is overturned but not what our focus is here.
+     Lower court seemed to have ruled that Mr. Sapp assaulted the woman within the scope of his duties leaving the company on the hook. That is overturned but not what our focus is here.
 
 *** Questions Presented
 
-Can a defendant argue that an assault could not physically have happened as a defense to the assault?
+    Can a defendant argue that an assault could not physically have happened as a defense to the assault?
 
 *** Rule
 
-The judge seems to erroneously think that an assault is an incipient or thwarted battery. "there must be a nintentional, unlawful, offer to touch the person of another in a rude or angry manner under such circumstances as to create in the mind of the party alleging the assault a well-founded fear of an imminent battery coupled with the present ability to effectuate the attempt, if not prevented". Here at issue are the imminent battery and ability to effectuate the attempt elements.
+    The judge seems to erroneously think that an assault is an incipient or thwarted battery. "there must be a nintentional, unlawful, offer to touch the person of another in a rude or angry manner under such circumstances as to create in the mind of the party alleging the assault a well-founded fear of an imminent battery coupled with the present ability to effectuate the attempt, if not prevented". Here at issue are the imminent battery and ability to effectuate the attempt elements.
 
 *** Reasoning
 
-the argument from the defendant is that the counter was of a physical dimension and height to prevent the the ability to effectuate a battery. But with movement the two could have been close enough to have the apprehension of a battery.
+    the argument from the defendant is that the counter was of a physical dimension and height to prevent the the ability to effectuate a battery. But with movement the two could have been close enough to have the apprehension of a battery.
 
 *** Holding
 
-As a matter of law, an assault was not proscribed as a matter of law due to the distance between them. The implications of this distance was a matter fit for a jury to consider however. The jury did just this and the court upholds this aspect but considers that Mr. Sapp committed the assault outside of his employment duties.
+    As a matter of law, an assault was not proscribed as a matter of law due to the distance between them. The implications of this distance was a matter fit for a jury to consider however. The jury did just this and the court upholds this aspect but considers that Mr. Sapp committed the assault outside of his employment duties.
 
 *** Main Takeaway
 
-The fact that perhaps a battery could not have happened does not preclude a finding of assault.
+    The fact that perhaps a battery could not have happened does not preclude a finding of assault.
 
 ** Dickens v Puryear
 
-Supreme Court of North Carolina 1981
+   Supreme Court of North Carolina 1981
 
 *** Procedural History
 
 **** facts
 
-Plaintiff was giving alcohol, drugs to teenage daughter of defendants and having sex with her. Defendants lured Plaintiff into the country and beat him along with four masked men. They debated over two hours whether to kill him or castrate him, ultimately delivering an ultimatum that he must go home and then flee the state otherwise they would kill him. After one year but before three years plaintiff brings the suit. the statute of limitations expires at one year for assault and battery and for three years for intentional infliction of emotional distress.
+     Plaintiff was giving alcohol, drugs to teenage daughter of defendants and having sex with her. Defendants lured Plaintiff into the country and beat him along with four masked men. They debated over two hours whether to kill him or castrate him, ultimately delivering an ultimatum that he must go home and then flee the state otherwise they would kill him. After one year but before three years plaintiff brings the suit. the statute of limitations expires at one year for assault and battery and for three years for intentional infliction of emotional distress.
 
 **** lower court rulings
 
-With the timebar on assault, defendant colors the action under intentional infliction of emotional distress. Debate about whether this is the nature of the crime or a way to get a trial not procedurally barred but in substance about assault. Lower courts agree with defendants that this is assault and battery and the statute of limitations is an affirmative defense, granting summary judgment.
+     With the timebar on assault, defendant colors the action under intentional infliction of emotional distress. Debate about whether this is the nature of the crime or a way to get a trial not procedurally barred but in substance about assault. Lower courts agree with defendants that this is assault and battery and the statute of limitations is an affirmative defense, granting summary judgment.
 *** Questions Presented
 
-Does a threat to kill someone in the future constitute an immediate threat of harmful offensive conduct?
+    Does a threat to kill someone in the future constitute an immediate threat of harmful offensive conduct?
 
 *** Rule
 
-Assault concerns threats of immediate or imminent harmful contact.
+    Assault concerns threats of immediate or imminent harmful contact.
 
 *** Reasoning
 
 *** Holding
 
-The future threats, if actionable, would rightly fall under intentional infliction of emotional distress. The
+    The future threats, if actionable, would rightly fall under intentional infliction of emotional distress. The
 
 *** Main Takeaway
 
-This case seems to be all about IIED. I'm not sure why its in the assault section. There are cool procedural problems in it that seem like they aren't part of Torts 1.
+    This case seems to be all about IIED. I'm not sure why its in the assault section. There are cool procedural problems in it that seem like they aren't part of Torts 1.
 
 * false imprisonment
 
 ** Big town Nursing Home, Inc. v Newman
-court of Civil Appeals of Texas, 1970
+   court of Civil Appeals of Texas, 1970
 *** Procedural History
 **** facts
 
-Plaintiff checked into nursing home at age of 67 by his son. Check in papers state he is free to leave. Goes to call a cab, phone priviliges are revoked. Tries to get out, locked in the insanity wing, repeatedly strapped to chair for periods of time up to 5 hours. Resident doctor was merely a resident whose only patients were nursing home residents; nursing home tried to change payment of social security checks without plaintiff's knowledge. After 51 days manages to escape to Dallas having lost 30 pounds over the overdeal.
+     Plaintiff checked into nursing home at age of 67 by his son. Check in papers state he is free to leave. Goes to call a cab, phone priviliges are revoked. Tries to get out, locked in the insanity wing, repeatedly strapped to chair for periods of time up to 5 hours. Resident doctor was merely a resident whose only patients were nursing home residents; nursing home tried to change payment of social security checks without plaintiff's knowledge. After 51 days manages to escape to Dallas having lost 30 pounds over the overdeal.
 
 **** lower court ruling
-Appeal by defendant Nursing home against the size of the judment in favor of Newman.
+     Appeal by defendant Nursing home against the size of the judment in favor of Newman.
 
 *** Questions Presented
 
-I'm not sure. This looks like an easy prima facie case.
+    I'm not sure. This looks like an easy prima facie case.
 
 *** Rule
 
-False imprisonment is the direct restraint of one person of the physical liberty of another without adequate legal justification.
+    False imprisonment is the direct restraint of one person of the physical liberty of another without adequate legal justification.
 
 *** Reasoning
 
-Issued a remittitur to lower award which plaintiff accepts.
+    Issued a remittitur to lower award which plaintiff accepts.
 
 *** Holding
 
-This was "ample evidence" that the jury was correct in finding false imprisonment.
+    This was "ample evidence" that the jury was correct in finding false imprisonment.
 
 ** Parvi v. City of Kingston
-Court of Appeals of New York, 1977
+   Court of Appeals of New York, 1977
 
 *** Procedural History
 
 **** facts
 
-Plaintiff was with two brothers in an alley in a 'noisy altercation' apparently drinking. Said he did not have a place to go; drove him to an abandoned golf course rather than arrest him. Ambles onto the thruway and struck by a car severely injuring him. Has no recollection
+     Plaintiff was with two brothers in an alley in a 'noisy altercation' apparently drinking. Said he did not have a place to go; drove him to an abandoned golf course rather than arrest him. Ambles onto the thruway and struck by a car severely injuring him. Has no recollection
 
 **** lower court ruling
 
-Trial court dismissed claim, appeal reversed. New york has as its highest court the court of appeals above the supreme court.
+     Trial court dismissed claim, appeal reversed. New york has as its highest court the court of appeals above the supreme court.
 
 *** Questions Presented
 
-Can someone with no recollection of the alleged false imprisonment satisfy the awareness of confinement element of false imprisonment.
+    Can someone with no recollection of the alleged false imprisonment satisfy the awareness of confinement element of false imprisonment.
 
 *** Rule
 
-New York state has ruled that "awareness of confinement" is a necessary element. However, there is a distinction of awareness at the time of confinement and subsequent recollection of the awareness.
+    New York state has ruled that "awareness of confinement" is a necessary element. However, there is a distinction of awareness at the time of confinement and subsequent recollection of the awareness.
 
 *** Reasoning
 
-False imprisonment is an assault on the dignity of the person; as such it requires the diginity contemplate its injury at the time. The plaintiff was drunk at the time and does not remember the occurrences. However, there is testimony supporting the fact that plaintiff was aware of the arrest at the time.
+    False imprisonment is an assault on the dignity of the person; as such it requires the diginity contemplate its injury at the time. The plaintiff was drunk at the time and does not remember the occurrences. However, there is testimony supporting the fact that plaintiff was aware of the arrest at the time. This is best left to a jury to decide.
 
 *** Holding
 
-The lack of recollection does not preclude, as a matter of law, the theory of false imprisonment and it is for a jury to weigh the facts to determine if the claim is met.
+    The lack of recollection does not preclude, as a matter of law, the theory of false imprisonment and it is for a jury to weigh the facts to determine if the claim is met.
+
+** Hardy v Labelle's distributing co.
+
+   Supreme Court of Montana, 1983
+
+*** Procedural History
+
+**** facts
+
+     Hardy was accussed of stealing store merchandise. Under pretense of a tour, she was led into an office and administered a lie detector test with 1 or 2 officers present and the stores loss prevention officer. The encounter lasted from 20-45 minutes with the test confirming her story of not stealing.
+
+**** lower court ruling
+
+     the lower court informed the jury of a false imprisonment instruction and the jury found for the defendant.
+
+*** Questions Presented
+
+    Can a claim of false imprisonment sustain without a threat of force component?
+
+*** Rule
+
+    Two key elements of false imprisonment
+1. restraint of an individual against his will and
+2. the unlawfulness of such restraint
+
+*** Reasoning
+
+    The plaintiff was free to leave at any time with no threat of force. While true, she may have suffered economic damages in the loss of her job, these consequences are not the type contemplated by the element in "force, threat of force, duress, or asserted legal authority". At no point did anyone say that she was unable to leave; she was free to leave at any time. Although she followed under pretense of a tour, she testified that she wuld have attended the meeting to exonerate herself if she had known its true purpose.
+
+*** Holding
+
+    the judgment of the lower court is affirmed.
 
 *** Main Takeaway
+
+    False imprisonment can be defeated by a willing participant. Further, while some coercion can rise to the threat needed for detain an individual, economic reasons do not meet this threshold.
+
+** Enright v. Groves
+   Colorado Court of Appeals, 1977
+
+*** Procedural History
+
+**** facts
+     Officer Groves (D) followed a dog running back to its apparent owners house, intending to cite the owner for failure to keep the dog on a leash. there he encountered a boy who confirmed that the dog was his and that his mother was sitting in her car. He approached the car and asked for Enright's (P) driving license. She stated her name and address but refused multiple times to give license. D offered ultimatum of license or jail to which P responded, "Isn't this ridiculous?"
+
+**** lower court ruling
+     Defendant appealing from judgments against them giving $1500 to Plaintiff for false imprisonment.
+
+*** Questions Presented
+
+    Is a police officer open to claims of false arrest when he arrests someone without probable cause or a warrant?
+
+*** Rule
+
+    "False arrest arises when one is taken into custody by a person who claims but does not have proper legal authority... Conviction of the crime for which one is specifically arrested is a complete defense to a subsequent claim of false arrest."
+
+*** Reasoning
+
+    While temporarly close, the arrest was for a separate alleged violation, failure to produce the drivers license. There are no authorities granting this power when not connected to the operation of an automobile.
+
+*** Holding
+
+    The police officer is open to the claim and the lower finding for the plaintiff stands.
+
+** Whittaker v Sandford
+   Supreme Judicial Court of Maine, 1912
+
+*** Procedural History
+
+**** Facts
+
+     P's husband is a minister in a cult, D is leader of cult in then Palestine. P wants to leave the cult and travel back to America. D offers ride on his yatch and makes promises to skeptical P that he won't try to force her to rejoin the cult. When in harbor at America, D prevents P from leaving for a month
+
+**** Lower Court Ruling
+
+     Found in favor of P and awarded $1000 damages
+
+*** Questions Presented
+
+    Can the physical restraint element of false imprisonment be satisfied when the means of egress are not provided and there is no other method of leaving?
+
+*** Rule
+
+    The restraint must be physical.
+
+*** Reasoning
+
+    Just as a lock in a door would provide a physical barrier to leaving, so does the non-producing of boats to leave the yatch satisfy the physical restraint element of false imprisonment. The boats were under his control and the meaning of the agreement was clear enough that he was to deliver her to shore, not just a harbor.
+
+    the restraint must be physical, in the sense that you are physically prevented from leaving, rather than you are physically held down. A locked door would physically prevent you from leaving a room. The yacth forms the door and the boat to leave for shore forms the key in this instance.
+
+*** Holding
+
+    The jury was correct in finding for P for the claim of false imprisonment.
