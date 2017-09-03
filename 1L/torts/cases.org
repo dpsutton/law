@@ -1,9 +1,9 @@
 * liability upon fault
 
 ** intro
-tort from tortus, twisted, french meaning injury or wrong. is a civil wrong other than a breach of contract. "this area of law imposes duties on persons to act in a manner that will not injure other persons. a person who breaches a tort duty has committed a tort and may be liable to pay damages in a lawsuit brought by a person injured because of that tort."
+   tort from tortus, twisted, french meaning injury or wrong. is a civil wrong other than a breach of contract. "this area of law imposes duties on persons to act in a manner that will not injure other persons. a person who breaches a tort duty has committed a tort and may be liable to pay damages in a lawsuit brought by a person injured because of that tort."
 
-major purposes
+   major purposes
 1. provide a peaceful means for adjusting the rights of parties who might otherwise "take the law into their own hands"
 2. to deter wrongful conduct
 3. to encourage socially responsible behavior
@@ -11,19 +11,19 @@ major purposes
 
 *** notion of tresspass versus case
 
-trespass rooted in criminal law and direct harm. tresspass on the case was a special writ to be applied for on your circumstances; more indirect. the former required no damages as the force and intrusion on the person was enough, accordingly it found no requirement for fault. The latter, being more indirect, required actual damages and attribution or culpability. While tresspass was partly criminal, the case was purely civil to being with; the criminal part of tresspass fell away in the late 1600s. Due to precedence, the actual damages requirement did not fall away with the criminal component but courts were reluctant to extend this standard to the torts descending from tresspass on the case.
+    trespass rooted in criminal law and direct harm. tresspass on the case was a special writ to be applied for on your circumstances; more indirect. the former required no damages as the force and intrusion on the person was enough, accordingly it found no requirement for fault. The latter, being more indirect, required actual damages and attribution or culpability. While tresspass was partly criminal, the case was purely civil to being with; the criminal part of tresspass fell away in the late 1600s. Due to precedence, the actual damages requirement did not fall away with the criminal component but courts were reluctant to extend this standard to the torts descending from tresspass on the case.
 
 ** Anonymous
 
-Kings Bench, 1466
+   Kings Bench, 1466
 
 *** Rule
 
-"if a man does a thing he isbound to do it in such a manner that by his deed no injury or damage is inflected upon others."
+    "if a man does a thing he isbound to do it in such a manner that by his deed no injury or damage is inflected upon others."
 
 *** Reasoning
 
-There seems to be no case and here the judge is acting apparently as counsel in this case. Seems to be a summary of well settled law at the time.
+    There seems to be no case and here the judge is acting apparently as counsel in this case. Seems to be a summary of well settled law at the time.
 
 *** Holding
 
@@ -32,11 +32,11 @@ There seems to be no case and here the judge is acting apparently as counsel in 
 
 ** weaver v ward
 
-King's Bench 1616
+   King's Bench 1616
 
 *** Procedural History
 
-military man against military man, weaver brings suit against ward for trespass of assault and battery. in a training maneuver, gun discharges and wounds the other.
+    military man against military man, weaver brings suit against ward for trespass of assault and battery. in a training maneuver, gun discharges and wounds the other.
 
 *** Questions Presented
 
@@ -44,281 +44,457 @@ military man against military man, weaver brings suit against ward for trespass 
 
 *** Rule
 
-"yet in trespass, which tends only to give damages according to hurt or loss, it is not so; and therefore if a lunatick hurt a man, he shall be answerable in trespass; and therefore no man shall be excused of a tresspass (for this is the nature of an ecuse, and not of a jstification), except it may be judged utterly without his fault."
+    "yet in trespass, which tends only to give damages according to hurt or loss, it is not so; and therefore if a lunatick hurt a man, he shall be answerable in trespass; and therefore no man shall be excused of a tresspass (for this is the nature of an ecuse, and not of a jstification), except it may be judged utterly without his fault."
 
 *** Reasoning
 
-Criminal interaction requires the criminal mind, civil liability requires damages. The court separates things from which you are not liable, a strong standard to reach "as if a man by force take my hand and strike you, or if here the defendant had said, that the plaintiff ran cross his piece when it was discharging" or if the result was "inevitable and that the defendant had committed no negligence to give occasion to the hurt".
+    Criminal interaction requires the criminal mind, civil liability requires damages. The court separates things from which you are not liable, a strong standard to reach "as if a man by force take my hand and strike you, or if here the defendant had said, that the plaintiff ran cross his piece when it was discharging" or if the result was "inevitable and that the defendant had committed no negligence to give occasion to the hurt".
 
 *** Holding
 
-Ward was responsible for damages to Weaver
+    Ward was responsible for damages to Weaver
 
 *** Main Takeaway
 
-The standard for liability is "negligence" and based on damages no criminal mind. however, "this is the earliest known case in which it was clearly recognized that a defendant might not be liable, even in a trespass action, for a purely accidental injury occurring entirely without his fault." maybe damages plus? damages plus tie him to it.
+    The standard for liability is "negligence" and based on damages no criminal mind. however, "this is the earliest known case in which it was clearly recognized that a defendant might not be liable, even in a trespass action, for a purely accidental injury occurring entirely without his fault." maybe damages plus? damages plus tie him to it.
 
 ** brown v kendall
 
-Supreme Judicial Court of Massachusetts, 1850
+   Supreme Judicial Court of Massachusetts, 1850
 
 *** Procedural History
 
-Two dogs fighting. Defendant, Kendall, in trying to separate them, injuries Brown. In original trial jury is given instructions that the standard of care is in how necessary it was to separate the dogs. For instance, if it were "necessary ... then defendant was required to use only ordinary care in doing it; but if it were only a proper and permissible act, defendant was liable unless he exercised extraordinary care; and that the burden of proving the extraordinary care was on the defendant".
+    Two dogs fighting. Defendant, Kendall, in trying to separate them, injuries Brown. In original trial jury is given instructions that the standard of care is in how necessary it was to separate the dogs. For instance, if it were "necessary ... then defendant was required to use only ordinary care in doing it; but if it were only a proper and permissible act, defendant was liable unless he exercised extraordinary care; and that the burden of proving the extraordinary care was on the defendant".
 
-find in favor of plaintiff and defendant appeals.
+    find in favor of plaintiff and defendant appeals.
 
 *** Questions Presented
 
-In an "inadvertant and unintentional [injury]: how far, and under what qualificatoins, the party by whose unconscious act the damage was done is responsible for it".
+    In an "inadvertant and unintentional [injury]: how far, and under what qualificatoins, the party by whose unconscious act the damage was done is responsible for it".
 
-Does tresspass have some component more than just damages?
+    Does tresspass have some component more than just damages?
 
 *** Rule
 
-"that when the proof is all in, and before the jury, from whatever side it comes, and whether directly proved, or inferred from circumstances, it it appears that the defendant was doing a lawful act, and unintentionally hit and hurt the plaintiff, then unless it also appears to the satisfaction of the jury, that the dfendant is chargeable with some fault, negligence, carelessness, or want or prudence, the plaintiff fails to sustain the burden of proof, and is not entitled to recover.
+    "that when the proof is all in, and before the jury, from whatever side it comes, and whether directly proved, or inferred from circumstances, it it appears that the defendant was doing a lawful act, and unintentionally hit and hurt the plaintiff, then unless it also appears to the satisfaction of the jury, that the dfendant is chargeable with some fault, negligence, carelessness, or want or prudence, the plaintiff fails to sustain the burden of proof, and is not entitled to recover.
 
-Overturning "that damage received by a direct act of force from another will be sufficient to maintain an action of trespass, whether the act was lawful or unlawful, and neither wilful, intentional, or careless.
+    Overturning "that damage received by a direct act of force from another will be sufficient to maintain an action of trespass, whether the act was lawful or unlawful, and neither wilful, intentional, or careless.
 
 *** Reasoning
 
-Overturning the notion that in injury lay liability. the courts confused the claim of action with what it required. For instance, tresspass was for direct injury and case for indirect; it eventually became conflated that any direct injury _was_ a tresspass and the other had to be proved. This notion is tossed out on its head for an intent based regime.
+    Overturning the notion that in injury lay liability. the courts confused the claim of action with what it required. For instance, tresspass was for direct injury and case for indirect; it eventually became conflated that any direct injury _was_ a tresspass and the other had to be proved. This notion is tossed out on its head for an intent based regime.
 
-Flatly tossed out liability from acts of "duty" vs those which are merely "proper and lawful". Not intentional and part of a lawful act; if you want to charge undue care then that is your burden.
+    Flatly tossed out liability from acts of "duty" vs those which are merely "proper and lawful". Not intentional and part of a lawful act; if you want to charge undue care then that is your burden.
 
 *** Holding
 
-Sent back for a new trial to reflect the shifting of proving due care on the defendant to proving undue care on the plaintiff.
+    Sent back for a new trial to reflect the shifting of proving due care on the defendant to proving undue care on the plaintiff.
 
 *** Main Takeaway
 
     Intent not fault is the source of liability.
 ** cohen v petty
 
-court of appeals of the district of columbia, 1933
+   court of appeals of the district of columbia, 1933
 
 *** Procedural History
 
-Petty was driving, said he felt sick, fainted and the car ran off the road, permanently injuring plaintiff. Having uncontested testimony that petty said "I feel sick" and then fainted, Trial court directs a verdict, preventing jury consideration.
+    Petty was driving, said he felt sick, fainted and the car ran off the road, permanently injuring plaintiff. Having uncontested testimony that petty said "I feel sick" and then fainted, Trial court directs a verdict, preventing jury consideration.
 
 *** Questions Presented
 
-Can the court find negligence, or even allow for a jury to find negligence, in a man who becomes sick and faints when he had no knowledge of any illness.
+    Can the court find negligence, or even allow for a jury to find negligence, in a man who becomes sick and faints when he had no knowledge of any illness.
 
 *** Rule
 
-no
+    no
 
 *** Reasoning
 
 *** Holding
 
-the lower court was correct in not letting this go to jury
+    the lower court was correct in not letting this go to jury
 
 *** Main Takeaway
 
-Seriousness of injury, etc, are not the source of liability. it is intent or negligence which must be shown by the evidence.
+    Seriousness of injury, etc, are not the source of liability. it is intent or negligence which must be shown by the evidence.
 
 ** spano v perini corp
 
-court of appeals NY 1969
+   court of appeals NY 1969
 
 *** Procedural History
 
-Blasting for constructing a tunnel damages cars in nearby or adjacent garage. Sue for damages, winning for plaintiffs (not sure what spano is as this is a combined case). Judgement reveresed on appeal and that affirmed on another appeal landing finally in this case.
+    Blasting for constructing a tunnel damages cars in nearby or adjacent garage. Sue for damages, winning for plaintiffs (not sure what spano is as this is a combined case). Judgement reveresed on appeal and that affirmed on another appeal landing finally in this case.
 
 *** Questions Presented
 
 *** Rule
 
-Limit to the negligence standard and a glimpse of our ancient tort foundations.
+    Limit to the negligence standard and a glimpse of our ancient tort foundations.
 
 *** Reasoning
 
-Both defendants  allege negligence but neither tries to show in what capacity, relying solely on "absolute liability". its just crazy dangerous. "in such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
+    Both defendants  allege negligence but neither tries to show in what capacity, relying solely on "absolute liability". its just crazy dangerous. "in such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
 
 *** Holding
 
-Return to a lower court to check the evidence to ensure that the damage is in fact cause by the blasting. "the fact that the magazine was liable to such a contingency, which could not be guarded against or averted by the greatest degree of care and vigilance, evinces its dangerous character... In such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
+    Return to a lower court to check the evidence to ensure that the damage is in fact cause by the blasting. "the fact that the magazine was liable to such a contingency, which could not be guarded against or averted by the greatest degree of care and vigilance, evinces its dangerous character... In such a case, the rule which exonerates a party engaged in a lawful business, when free from negligence, has no application".
 
 *** Main Takeaway
 
-The negligence plus standard is not absolute. Absolute liability seems to return back to the ancient roots of torts of sole damage but it makes sense in this case. Categorically has been applied by "[t]he overwhelming majority of American jurisdictoins"
+    The negligence plus standard is not absolute. Absolute liability seems to return back to the ancient roots of torts of sole damage but it makes sense in this case. Categorically has been applied by "[t]he overwhelming majority of American jurisdictoins"
 
-* different types
+* intent
 
-1. intentional
-2. negligence
-3. strict liability
+** garrat v dailey
 
-* Intentional torts
+*** Procedural History
+    Supreme Court of Washington 1955
 
-** intent
+    Ruling in favor of Garrat in past. Focused on lack of intent to cause harm "did not have purpose, intent or design to perform a prank or to effect an assault and battery upon the person of the plaintiff" Garrat appeals
 
-*** garrat v dailey
+*** Questions Presented
 
-**** Procedural History
-Supreme Court of Washington 1955
+    What is intent.
 
-Ruling in favor of Garrat in past. Focused on lack of intent to cause harm "did not have purpose, intent or design to perform a prank or to effect an assault and battery upon the person of the plaintiff" Garrat appeals
+*** Rule
 
-**** Questions Presented
+    Battery, for these purposes, is the intentional infliction of a harmful bodily contact upon another.
 
-What is intent.
+    "the act must be done for the purpose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension was substantially certain to be produced"
 
-**** Rule
+*** Reasoning
 
-Battery, for these purposes, is the intentional infliction of a harmful bodily contact upon another.
+    The opinion says that the facts could support the conclusion but that it would be possible to focus more on them to determine the knowledge of the boy. "While a finding that Brian had no such knowledge can be inferred from the findings made, we believe tht before the plaintiff's action i nsuch a case should be dismissed there should be no question but that the trial court had passed upon that issue;"
 
-"the act must be done for the purpose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension was substantially certain to be produced"
+*** Holding
 
-**** Reasoning
+    The knowledge the boy had at the time should be investigated before the complaint is dismissed.
 
-The opinion says that the facts could support the conclusion but that it would be possible to focus more on them to determine the knowledge of the boy. "While a finding that Brian had no such knowledge can be inferred from the findings made, we believe tht before the plaintiff's action i nsuch a case should be dismissed there should be no question but that the trial court had passed upon that issue;"
+*** Main Takeaway
 
-**** Holding
+    Intent is a subjective standard relating to the purpose of the actions or the knowledge the person had.
 
-The knowledge the boy had at the time should be investigated before the complaint is dismissed.
+** spivey v battaglia
 
-**** Main Takeaway
+*** Procedural History
 
-Intent is a subjective standard relating to the purpose of the actions or the knowledge the person had.
+*** Questions Presented
 
-*** spivey v battaglia
+*** Rule
 
-**** Procedural History
+*** Reasoning
 
-**** Questions Presented
+*** Holding
 
-**** Rule
+*** Main Takeaway
 
-**** Reasoning
+** wagner v state
 
-**** Holding
+*** Procedural History
 
-**** Main Takeaway
+**** facts
 
-*** wagner v state
+     standing in line at kmart, grabbed by insane person in custody of the state.
 
-**** Procedural History
+*** Questions Presented
 
-***** facts
+*** Rule
 
-standing in line at kmart, grabbed by insane person in custody of the state.
+*** Reasoning
 
-**** Questions Presented
+*** Holding
 
-**** Rule
+*** Main Takeaway
 
-**** Reasoning
+** ranson v kittner
 
-**** Holding
+*** Procedural History
 
-**** Main Takeaway
+    Appellate Court of Illinois, 1889
 
-*** ranson v kittner
+*** Questions Presented
 
-**** Procedural History
+    Is mistake a defense to the mistaken but intentional shooting of a dog while hunting for wolves.
 
-Appellate Court of Illinois, 1889
+*** Rule
 
-**** Questions Presented
+    Appellants are clearly liable for the damages caused by their mistake, nowithstanding they were acting in good faith.
 
-Is mistake a defense to the mistaken but intentional shooting of a dog while hunting for wolves.
+*** Reasoning
 
-**** Rule
+    The law does not require intent to harm but that the act was intentional.
 
-Appellants are clearly liable for the damages caused by their mistake, nowithstanding they were acting in good faith.
+*** Holding
 
-**** Reasoning
+    the lower judgment finding liability for the dog was correct.
 
-The law does not require intent to harm but that the act was intentional.
+*** Main Takeaway
 
-**** Holding
+    Mistake is not a defense to liability. Mistake is not accidental
 
-the lower judgment finding liability for the dog was correct.
+** mcguire v almy
 
-**** Main Takeaway
-
-Mistake is not a defense to liability. Mistake is not accidental
-
-*** mcguire v almy
-
-**** Procedural History
+*** Procedural History
 
 Supreme Judicial Court of MA, 1937
 
 Can't discern what the lower court held
 
-**** Questions Presented
+*** Questions Presented
 
 Can the mentally ill form the intent necessary for intentional torts, here intentional tort of battery.
 
-**** Rule
+*** Rule
 
 "in order that an act may be done with the intention of bringing about a harmful or offensive contact ... the act must be done for the pupose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension is substantially certain t obe produced."
 
-**** Reasoning
+*** Reasoning
 
 There have been criticisms of the united states intent based tort system as the rest of the world seems to have settled on a fault based system. The rule is proven, consistent and does comport with our notions of "essential justice" rather than theorems arising from axioms of civil liability.
 
-**** Holding
+*** Holding
 
 The insane are not barred categorically from forming intent for intentional torts. "To be liable, must have been capable of tentertaining that same intent and must have entertained it in fact".
 
-**** Main Takeaway
+*** Main Takeaway
 
-*** talmage v smith
+** talmage v smith
 
-**** Procedural History
+*** Procedural History
 
 Supreme court of michigan, 1894
 
 Lower court issued instructions that stating that if the defendant threw the stick, not intending to hit anyone, there was no recovery; if he threw the stick, intending to hit someone, but it was a reasonable amount of force there is no recovery; if he threw the stick intending to hit someone and the force used was unreasonable, then it did not matter that he struck someone else. Jury found in favor of plaintiff and defendant appeals.
 
-**** Questions Presented
+*** Questions Presented
 
 A man threw a stick at one boy who was on the roof of one of his sheds and hit another boy, causing loss of sight in his eye. Is the man liable for intentional battery. For the purposes of the intentional tort of battery, did Smith intend to hit make contact with talmage?
 
-**** Rule
+*** Rule
 
 If in the attempt to commit an intentional tort you commit another tort among the historical trespass causes, the intent to commit the one will satisfy the intent to commit the one actually committed.
 
-**** Reasoning
+*** Reasoning
 
 The right of recovery lie in intentional causing of damages
 
-**** Holding
+*** Holding
 
 The defendant committed an intentional battery.
 
-**** Main Takeaway
+*** Main Takeaway
 
 Among the old actions of trespass, "when the defendant intends any one of the five, and accomplishes any one of the five, the doctrin applies and the defendant is liable, even if the plaintiff was not the intended target". Note that the first jury instruction would appear to be assault and would constitute a battery under the theory of transferred intent.
 
-** battery
+* battery
 
-*** cole v turner
+** cole v turner
 
-**** Holding
+*** Holding
 
 1. That the least touching of another in anger is a battery
 2. If two or more meet in a narrow passage, and without any violence or design of harm, the one touches the other gently it will be on battery.
 3. If any of them use violence against the other, to force his way in a rude inordinate manner, it is a battery; or any struggle about the pasage, to that degree as may do hurt, is a battery.
 
-**** Main Takeaway
+*** Main Takeaway
 
 It sets the stage for the "busy world" theory to be expounded later. That there are incidental touches in the world does not lie a claim; but that incidental touches can rise to such if struggle or violence arise. But that the meat of the tort lie in anger.
-*** wallace v rosen
+** wallace v rosen
+   Court of Appeals of Indiana, 2002
+*** Procedural History
+**** Facts
 
-**** Procedural History
+     A mother was visiting a school when a fire-drill commenced. A teacher encountered the mother while talking to her daughter on the stairwell. The teacher (Rosen) put her hand on the plaintiff, Wallace, to get her attention and direct her down the stairs. The Plaintiff fell down the stairs and injured herself.
+**** Previous Court Ruling
+     The trial court did not enter a jury instruction for battery which is under review in this case. The jury found in favor of the teacher (Wallace) and the school on negligence count.
 
-**** Questions Presented
+*** Questions Presented
 
-**** Rule
+    Did the Rosen's touching of the Plaintiff satisfy the "rude, insolent, or angry" element of the intentional tort of battery in Indiana.
 
-**** Reasoning
+*** Rule
 
-**** Holding
+    In Indiana, battery requies not only a "knowing or intentional touching" but it must be done in a "rude, insolent, or angry" manner.
 
-**** Main Takeaway
+*** Reasoning
+    The world is crowded and there are inadvertent and harmless contacts. Not every contact that leads to injury necessitates a tort. During the firedrill, Rosen had a duty to her students to keep traffic moving and there was an expectation of incidental contact.
+*** Holding
+    In this humdrum, the touching to get her attention does not rise to finding of "rude, insolent, or angry" and therefore the denying of the jury instructions was proper. The lower court is affirmed.
+
+*** Main Takeaway
+    Intentional contact is not necessarily a battery. In the busy world theory, we are expected to bump and touch each other in minor ways without creating legal liabilities all over the place. "the intent with which tort liability is concerned is not necessarily a hostile intent, or a desire to do any harm. Rather it is an intent to bring about a result which will invade the interests of another in a way that the law forbids".
+
+** Fisher v Carrousel Motor Home
+   Supreme Court of Texas, 1967
+*** Procedural History
+
+**** facts
+     Plaintiff, a mathematician working for NASA, was at a luncheon at a hotel. A staff member approached and ripped his plate from his hand stating that a "Negro could not be served in the club". Plaintiff was never touched.
+
+**** procedural history
+
+     The jury awarded $400 for actual damages and $500 in punitive damages. The trial judge set this aside and ruled for the defendant, upheld on appeal.
+
+*** Questions Presented
+
+    Can there be a battery without a touching of a person?
+
+*** Rule
+
+    The battery is against a person, not their body. "To constitute an assault and battery, it is not necessary to touch the plaintiff's body or even his clothing; knocking or snatching anything from plaintiff's hand or touching anything connected with his person, when done in an offensive manner, is sufficient."
+
+*** Reasoning
+
+    Things that are intimately connected to the person form a part of the person. the example given is if you kicked a cane out of an old man's hands; that surely is a battery. The same holds here.
+
+*** Holding
+
+    The "forceful dispossesion of plaintiff Fisher's plate in an offensive manner was sufficient to constitute a battery". The original judgment of $900 is instated with interest.
+
+*** Main Takeaway
+
+    The tort of battery is to protect the inviolability of the person. Things directly grasped with the hands, clothing, etc, all fall under this presumption of inviolability, the violation of which lies a tort.
+
+* assault
+
+** i de S et Ux v W de S
+   At the assizes, 1348
+*** Procedural History
+
+    A man approached a tavern door and banged on it demanding wine. A woman appeared from a window demanding he stop. The defendant swung a hatched at her but did not hit her.
+
+    Lower court ruled that lack of harm prevented finding of a trespass.
+
+*** Questions Presented
+    In the ancient meaning, can there be a trespass without harm
+*** Rule
+    Yes, there can. "And so note that for an assault a man shall recover damages, etc."
+*** Reasoning
+The reasoning is that it comports with our notion of harm. "There is harm done and a trespass for which he shall recover damages since he made an assault upon the woman..."
+*** Holding
+    That despite the lack of physical contact or harm, there could still be damages.
+*** Main Takeaway
+Underpinning the historical notion that assault, without harm, can still give rise to damages, further separating assault from the negligence style liabilities. There no harm means no recovery whereas assault without harm can still warrant recovery of damages..
+
+** Western Union Telegraph Co. v. Hill
+Court of Appeals of Alabama, 1933
+*** Procedural History
+**** Facts
+Mrs. Hill needed a clock fixed and had to go down to the office of western union where Mr. Sapp was working. He had had a few drinks and offered to fix her clock if she would go behind the counter and let him pet and love her, and then he tried to hug and hold her from behind the counter.
+
+Seemingly in a case deciding if the damages for the assault are attributable to the employer, the question arises of whether there was an assault at all.
+**** Lower Court ruling
+
+Lower court seemed to have ruled that Mr. Sapp assaulted the woman within the scope of his duties leaving the company on the hook. That is overturned but not what our focus is here.
+
+*** Questions Presented
+
+Can a defendant argue that an assault could not physically have happened as a defense to the assault?
+
+*** Rule
+
+The judge seems to erroneously think that an assault is an incipient or thwarted battery. "there must be a nintentional, unlawful, offer to touch the person of another in a rude or angry manner under such circumstances as to create in the mind of the party alleging the assault a well-founded fear of an imminent battery coupled with the present ability to effectuate the attempt, if not prevented". Here at issue are the imminent battery and ability to effectuate the attempt elements.
+
+*** Reasoning
+
+the argument from the defendant is that the counter was of a physical dimension and height to prevent the the ability to effectuate a battery. But with movement the two could have been close enough to have the apprehension of a battery.
+
+*** Holding
+
+As a matter of law, an assault was not proscribed as a matter of law due to the distance between them. The implications of this distance was a matter fit for a jury to consider however. The jury did just this and the court upholds this aspect but considers that Mr. Sapp committed the assault outside of his employment duties.
+
+*** Main Takeaway
+
+The fact that perhaps a battery could not have happened does not preclude a finding of assault.
+
+** Dickens v Puryear
+
+Supreme Court of North Carolina 1981
+
+*** Procedural History
+
+**** facts
+
+Plaintiff was giving alcohol, drugs to teenage daughter of defendants and having sex with her. Defendants lured Plaintiff into the country and beat him along with four masked men. They debated over two hours whether to kill him or castrate him, ultimately delivering an ultimatum that he must go home and then flee the state otherwise they would kill him. After one year but before three years plaintiff brings the suit. the statute of limitations expires at one year for assault and battery and for three years for intentional infliction of emotional distress.
+
+**** lower court rulings
+
+With the timebar on assault, defendant colors the action under intentional infliction of emotional distress. Debate about whether this is the nature of the crime or a way to get a trial not procedurally barred but in substance about assault. Lower courts agree with defendants that this is assault and battery and the statute of limitations is an affirmative defense, granting summary judgment.
+*** Questions Presented
+
+Does a threat to kill someone in the future constitute an immediate threat of harmful offensive conduct?
+
+*** Rule
+
+Assault concerns threats of immediate or imminent harmful contact.
+
+*** Reasoning
+
+*** Holding
+
+The future threats, if actionable, would rightly fall under intentional infliction of emotional distress. The
+
+*** Main Takeaway
+
+This case seems to be all about IIED. I'm not sure why its in the assault section. There are cool procedural problems in it that seem like they aren't part of Torts 1.
+
+* false imprisonment
+
+** Big town Nursing Home, Inc. v Newman
+court of Civil Appeals of Texas, 1970
+*** Procedural History
+**** facts
+
+Plaintiff checked into nursing home at age of 67 by his son. Check in papers state he is free to leave. Goes to call a cab, phone priviliges are revoked. Tries to get out, locked in the insanity wing, repeatedly strapped to chair for periods of time up to 5 hours. Resident doctor was merely a resident whose only patients were nursing home residents; nursing home tried to change payment of social security checks without plaintiff's knowledge. After 51 days manages to escape to Dallas having lost 30 pounds over the overdeal.
+
+**** lower court ruling
+Appeal by defendant Nursing home against the size of the judment in favor of Newman.
+
+*** Questions Presented
+
+I'm not sure. This looks like an easy prima facie case.
+
+*** Rule
+
+False imprisonment is the direct restraint of one person of the physical liberty of another without adequate legal justification.
+
+*** Reasoning
+
+Issued a remittitur to lower award which plaintiff accepts.
+
+*** Holding
+
+This was "ample evidence" that the jury was correct in finding false imprisonment.
+
+** Parvi v. City of Kingston
+Court of Appeals of New York, 1977
+
+*** Procedural History
+
+**** facts
+
+Plaintiff was with two brothers in an alley in a 'noisy altercation' apparently drinking. Said he did not have a place to go; drove him to an abandoned golf course rather than arrest him. Ambles onto the thruway and struck by a car severely injuring him. Has no recollection
+
+**** lower court ruling
+
+Trial court dismissed claim, appeal reversed. New york has as its highest court the court of appeals above the supreme court.
+
+*** Questions Presented
+
+Can someone with no recollection of the alleged false imprisonment satisfy the awareness of confinement element of false imprisonment.
+
+*** Rule
+
+New York state has ruled that "awareness of confinement" is a necessary element. However, there is a distinction of awareness at the time of confinement and subsequent recollection of the awareness.
+
+*** Reasoning
+
+False imprisonment is an assault on the dignity of the person; as such it requires the diginity contemplate its injury at the time. The plaintiff was drunk at the time and does not remember the occurrences. However, there is testimony supporting the fact that plaintiff was aware of the arrest at the time.
+
+*** Holding
+
+The lack of recollection does not preclude, as a matter of law, the theory of false imprisonment and it is for a jury to weigh the facts to determine if the claim is met.
+
+*** Main Takeaway

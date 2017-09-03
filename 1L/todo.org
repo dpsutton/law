@@ -25,22 +25,43 @@ already on twen
 **** DONE spano v perini corp
 * Week 2
 ** torts
-*** read 5 cases [6/10]
+*** read 5 cases [8/8]
 **** DONE garratt
 **** DONE spivey
 **** DONE ranson
 **** DONE mcquire
 **** DONE talmage
 **** DONE cole
-**** TODO wallace
-**** TODO fisher
-**** TODO i de S et ux.
-**** TODO Western Union
+**** DONE wallace
+**** DONE fisher
+*** assault
+**** DONE i de S et ux.
+**** DONE Western Union
+**** DONE Dickens (S)
+*** false imprisonment
+**** DONE Big Town
+**** TODO Parvi
+**** TODO Hardy
+**** TODO Enright
+**** TODO Whittaker
+*** int inf mental distress
+**** TODO State Rubbish Collectors
+**** TODO Slocum
+**** TODO Harris
+**** TODO Taylor
+**** TODO Nickerson (s)
+**** TODO White (s)
 ** writing
-*** TODO type state v byrd
+*** DONE type state v byrd
 ** lawyering
-*** TODO type dui cases
+*** DONE type dui cases
 ** contracts
 *** TODO revoking offers 295-299
 *** TODO acceptance 302-309; 323-334
 *** TODO acceptance 335-349; 352-353
+* Week 3
+** Writing
+*** TODO core pretest https://www.coregrammarforlawyers.com/bookshelf
+** Lawyering
+** Torts
+** Contracts
