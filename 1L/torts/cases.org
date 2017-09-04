@@ -289,6 +289,79 @@ The defendant committed an intentional battery.
 
 Among the old actions of trespass, "when the defendant intends any one of the five, and accomplishes any one of the five, the doctrin applies and the defendant is liable, even if the plaintiff was not the intended target". Note that the first jury instruction would appear to be assault and would constitute a battery under the theory of transferred intent.
 
+** Bazely v Tortorich
+   Supreme Court La 1981
+*** Procedural History
+**** Facts
+     Garbage man suing his employer and 3rd parties for some kind of accident on the job. Alleges that driver _intentionally_ did not blow the horn and that therefore the consequences of the accident that follows are attributable to an intentional tort claim.
+**** Lower Court Ruling
+     Sustained no cause of action against Bazley as it was a negligence claim in a work-related injury and by statute all such claims are exclusively workman's comp claims. The appellate reversed stating that the exclusive remedy applies only to the employer and not 3rd parties.
+*** Questions Presented
+    Can an intentional tort claim lie in voluntary acts with damages?
+*** Rule
+    "The meaning of 'intent' is that the person who acts either (1) consciously desires the physical result of his act, whatever the liklihood of that result happening from his conduct; or (2) knows that that result is substantially certain to follow from his conduct, whatever his desire may be as to that result"
+
+*** Reasoning
+Intent is taken as voluntary rather than an eye towards consequences. Plaintiff tries to establish that any voluntary act at the beginning of a chain of events entitles to intentional tort claims. However, the above rule is the correct rule for intent. It is a desired or substantially certain outcome. Intentionally not blowing the horn does not impute intent to all of the consequences after.
+
+*** Holding
+
+There is no intentional tort claim.
+
+** Caudle v Betts
+
+*** Procedural History
+
+**** facts
+     At a christmas party, hijinks included charging a capacitor and shocking others. the owner of the dealership got in on the joke and shocked Caudle. Got a headache and left the party, passed out frequently in the months ahead, headaches. Eventually has surgery severing occipital nerve leaving a slight numbness on the right side of the head but alleviates the problems. Brings action for battery.
+
+**** lower court
+     Both lower court and appellate court dismiss as the injury was not intentional.
+
+*** Questions Presented
+    Is an injury, completely unforseable, arising from a a joke, compensable under tort law.
+*** Rule
+    Intent does not discriminate on motive; acting in a joking manner, unaware of risk or even in the interests of the person still give rise to intentional torts.
+    "Liability for resulting harm extends, as in most other cases of intentional torts, to consequences which the defendant did not intend, and could not reasonably have forseen"
+
+*** Reasoning
+    When damages arise, it is better for the person intentionally causing them to bear the damages.
+
+*** Holding
+    There was a battery and it attaches Liability to Betts for the damages resulting regardless of forseability.
+
+** Davis v White
+   United States Bankruptcy Court, Eastern District VA
+
+*** Procedural History
+
+**** Facts
+
+     White intended to shoot another, and hit Davis, aiming for the person fleeing on his motorcycle.
+
+**** Procedural history
+
+     Judgment in favor of Davis. Now before a federal bankruptcy judge seeking to discharge the debt.
+
+*** Questions Presented
+
+    Does a battery under the transfer of intent theory satisfy the "willful and malicious" element of 11 USC 523(a)(6): "for willful and malicious injury by the debtor to another entity or to the property of another entity;"
+
+
+*** Rule
+
+    "A debt incurred from an action based upon a willful and malicious injury by the debtor to another person may be nondischargeable in bankruptcy."
+
+*** Reasoning
+
+    The transfer of intent doctrine imputes intent to the actor; "there need be no actual intent to injure the particular person who is injured". The law holds that the act is unlawful and is intentional and so damages are compensable.
+
+*** Holding
+
+    "The evidence here clearly shows that the shooting was a wrongful act intentionally done and that Davis's injuries resulted from that act. White deliberately, intentionally, and maliciously fired the gun and injured Davis and the debt arising from that act is nondischargeable in bankruptcy".
+
+*** Main Takeaway
+
 * battery
 
 ** cole v turner
@@ -357,6 +430,32 @@ It sets the stage for the "busy world" theory to be expounded later. That there 
 *** Main Takeaway
 
     The tort of battery is to protect the inviolability of the person. Things directly grasped with the hands, clothing, etc, all fall under this presumption of inviolability, the violation of which lies a tort.
+
+** Leichtman v WLW Jacor Communications, Inc
+
+   Ohio Court of Appeals, 1994
+
+*** Procedural History
+
+**** facts
+
+     2nd hand smoking advocate goes on radio show, one disk jockey encourages and the other dj blows cigar smoke in
+
+*** Questions Presented
+
+    Can 2nd hand smoke that is, with specific intent, blown into someone's face, give rise to a claim of battery.
+
+*** Rule
+
+    the standard rule for battery
+
+*** Reasoning
+
+    Offensive is met and tobacco smoke has "particulate matter" and is therefore able to, under Ohio law, make contact. With intent, contact, and offense elements met, the elements of battery under Ohio law would be satisfied by the intentional blowing of smoke in someone's face.
+
+*** Holding
+
+    the court overturns lower courts sustained motion for failure to state a claim. Two other rule 12(b)(6) motions are preserved relating to privacy and making a city ordinance actionable by a private party. Notably, the court refuses to consider the question about general intent blowing of smoke and second hand smoke in a room. The case upholds the theory of battery only under specific intent.
 
 * assault
 

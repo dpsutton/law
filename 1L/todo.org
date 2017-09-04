@@ -31,26 +31,24 @@ already on twen
 **** DONE ranson
 **** DONE mcquire
 **** DONE talmage
+**** DONE Bazely (s)
+**** DONE Caudle (s)
+**** DONE Davis (s)
+*** battery
 **** DONE cole
 **** DONE wallace
 **** DONE fisher
+**** DONE Leichtman (s)
 *** assault
 **** DONE i de S et ux.
 **** DONE Western Union
 **** DONE Dickens (S)
 *** false imprisonment
 **** DONE Big Town
-**** TODO Parvi
-**** TODO Hardy
-**** TODO Enright
-**** TODO Whittaker
-*** int inf mental distress
-**** TODO State Rubbish Collectors
-**** TODO Slocum
-**** TODO Harris
-**** TODO Taylor
-**** TODO Nickerson (s)
-**** TODO White (s)
+**** DONE Parvi
+**** DONE Hardy
+**** DONE Enright
+**** DONE Whittaker
 ** writing
 *** DONE type state v byrd
 ** lawyering
@@ -64,4 +62,12 @@ already on twen
 *** TODO core pretest https://www.coregrammarforlawyers.com/bookshelf
 ** Lawyering
 ** Torts
+*** int inf mental distress
+**** TODO State Rubbish Collectors
+**** TODO Slocum
+**** TODO Harris
+**** TODO Taylor
+**** TODO Nickerson (s)
+**** TODO White (s)
+
 ** Contracts
