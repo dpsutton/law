@@ -1,3 +1,4 @@
+#+OPTIONS: toc:2
 * Reaching an Agreement
 
   formation of a contract requires two basic elements
@@ -6,55 +7,55 @@
 
 distinguish subjective v obective conceptions of assent. but objective approach contains a subjective approach as well.
 
-** Objective theory of assent
+* Objective theory of assent
 
-*** naive view
+** naive view
 
-**** meeting of the minds Dickinson v Dodds:
+*** meeting of the minds Dickinson v Dodds:
 
-     "it must, to constitute a contract, appear that the two minds were at one at the same moment of time ..." and that "the existence of the same mind between two parties is essential in point of law to the making of an agreement". often referred to as "meeting of the minds".
+    "it must, to constitute a contract, appear that the two minds were at one at the same moment of time ..." and that "the existence of the same mind between two parties is essential in point of law to the making of an agreement". often referred to as "meeting of the minds".
 
-     thoughts to be aware of: objective theory of assent at contract formation vs contract interpretation
+    thoughts to be aware of: objective theory of assent at contract formation vs contract interpretation
 
-*** Embry v Hargadine, McKittrick Dry Goods Co
+** Embry v Hargadine, McKittrick Dry Goods Co
 
-    St. Louis Court of Appeals, 1907
+   St. Louis Court of Appeals, 1907
 
-**** Procedural History
+*** Procedural History
 
-     Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
+    Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
 
-**** Questions Presented
+*** Questions Presented
 
-***** Facts
+**** Facts
 
-      Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
+     Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
 
-***** jury instruction requested
+**** jury instruction requested
 
-      Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
+     Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
 
-***** jury instruction given
+**** jury instruction given
 
-      if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
+     if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
 
-***** Question
+**** Question
 
-      Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
+     Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
 
-      "whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
+     "whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
 
-**** Rule
+*** Rule
 
-     General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
+    General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
 
-     Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
+    Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
 
-     "The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
+    "The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
 
-**** Reasoning
+*** Reasoning
 
-***** Can it be a contract
+**** Can it be a contract
 
       Taking these exceptions to the "meeting of the minds" rule, its possible that McKittrick may not have intended to employ Embry but it would have been "taken by a reasonable man to be an employment, and Embry so understood it, it consttuted a valid contract of employment for the ensuing year"
 
@@ -62,25 +63,25 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 1. a reasonable person would have understand the (publicly viewable) intention to form a contract
 2. Embry did so understand
 
-***** Was the language of this character
+**** Was the language of this character
 
-      When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
+     When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
 
-**** Holding
+*** Holding
 
-     Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
+    Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
 
-     The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
+    The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
 
-**** Main Takeaway
+*** Main Takeaway
 
-*** Lucy v Zehmer
+** Lucy v Zehmer
 
-    Supreme Court of Appeals of VA 1954
+   Supreme Court of Appeals of VA 1954
 
-**** Procedural History
+*** Procedural History
 
-***** facts
+**** facts
 
       Zehmer wife and husband write contract to Lucys for sale of their farm for 50k. Argue they thought the offer was in jest and had several drinks. Got his wife to sign the document but did not "deliver the memorandum to Lucy, but that Lucy picked it up, read it, put it in his pocket, attempted to offer Zehmer $5 to bind the bargain, which Zehmer refused to accept". At this point, Zehmer realized that Lucy was serious and reassured him he had no intention to sell and thought the matter a joke.
 
@@ -91,94 +92,94 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 - there was alcohol involved
 - there was some joking. Zehmer says about the whole thing, Lucy understood about payment of 50k that night
 
-***** previous ruling
+**** previous ruling
 
-      Held that Lucys had "failed to establish their right to specific performance" and dismissed the bill.
+     Held that Lucys had "failed to establish their right to specific performance" and dismissed the bill.
 
-***** contract?
+**** contract?
 
-      My thoughts
+     My thoughts
 
-      The is an equitable solution which doesn't mean that the contract wasn't formed. Perhaps the court thought that there were other remedies available?
+     The is an equitable solution which doesn't mean that the contract wasn't formed. Perhaps the court thought that there were other remedies available?
 
-**** Questions Presented
+*** Questions Presented
 
-     Does Zehmer's contention that he never intended a real contract negate the whole thing?
+    Does Zehmer's contention that he never intended a real contract negate the whole thing?
 
-**** Rule
+*** Rule
 
-     "we must look to the outward expression of a person as manifesting his intention rather than to his secreat and unexpressed intention"
+    "we must look to the outward expression of a person as manifesting his intention rather than to his secreat and unexpressed intention"
 
-**** Reasoning
+*** Reasoning
 
-***** drunk?
+**** drunk?
 
-      He drove home that night and testified that he was not too drunk to execute a binding agreement.
+     He drove home that night and testified that he was not too drunk to execute a binding agreement.
 
-***** not earnest?
+**** not earnest?
 
-      Did not let the Lucys in on the joke until after they had done title research and were prepared to execute the contract. "Had argued about it, discusssed its terms, as Zehmer admitted, for a long time. Lucy testified that if there was any jesting it was about paying 50k that night. the contract and evidence show that he was not expected to pay the money that night. ... In any event there had been what appeared to be a good faith offer and good faither acceptance, followed by the execution and apparent delivery of a written contract" ... "Not until then, even under the defendant's evidence, was anythign said or done to indicate that the matter was a joke." He wishpered to his wife that it was a joke specifically so that the Lucys would not be able to hear it.
+     Did not let the Lucys in on the joke until after they had done title research and were prepared to execute the contract. "Had argued about it, discusssed its terms, as Zehmer admitted, for a long time. Lucy testified that if there was any jesting it was about paying 50k that night. the contract and evidence show that he was not expected to pay the money that night. ... In any event there had been what appeared to be a good faith offer and good faither acceptance, followed by the execution and apparent delivery of a written contract" ... "Not until then, even under the defendant's evidence, was anythign said or done to indicate that the matter was a joke." He wishpered to his wife that it was a joke specifically so that the Lucys would not be able to hear it.
 
-***** mental assent
+**** mental assent
 
-      "if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
+     "if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
 
-      "So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
+     "So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
 
-**** Holding
+*** Holding
 
-     "Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
+    "Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
 
-     Reversed and remanded for entry of t
+    Reversed and remanded for entry of t
 
-**** Main Takeaway
+*** Main Takeaway
 
-***  (Restatement of Contracts)
+** (Restatement of Contracts)
 
-**** Requirement of a bargain
-     formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
+*** Requirement of a bargain
+    formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
 
-**** Manifestation of mutual assent
+*** Manifestation of mutual assent
 
-     manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
+    manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
 
-**** conduct as manifestation of assent
+*** conduct as manifestation of assent
 
 1. the manifestation of assent may be made wholly or partly by written or spoken words or by other acts or by failure to act
 2. the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in teh conduct and knows or has reason to know that hte other party may infer from his conduct that he assents.
 3. the conduct of a party may manifest assent even though he does not in fact assent. In such cases a resulting contract may be voidable because of fraud, duress, mistake, or other invalidating cause.
 
-*** What is an offer
+** What is an offer
 
-    traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
+   traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
 
-    offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
+   offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
 
-    in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
+   in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
 
-*** Nebraska seed co v harsh
+** Nebraska seed co v harsh
 
-    Supreme Court of Nebraska, 1915
+   Supreme Court of Nebraska, 1915
 
-**** Procedural History
+*** Procedural History
 
-***** facts
+**** facts
 
-      Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
+     Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
 
-***** previous court ruling
+**** previous court ruling
 
-      "trial to a jury, verdict and judgment for plaintiff, defendant appeals"
+     "trial to a jury, verdict and judgment for plaintiff, defendant appeals"
 
-**** Questions Presented
+*** Questions Presented
 
-     Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
+    Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
 
-**** Rule
+*** Rule
 
-     A request for bids does not constitute an offer
+    A request for bids does not constitute an offer
 
-**** Reasoning
+*** Reasoning
 
 - no explicit use of "I offer to you" but general language as in an advertisement "addressed generally to those engaged in teh seed business, and is not an offer by which he may be bound, if accepted, by any or all of the persons addresse". 'invitations to trade ... such inquiries may lead to bargains, but do not make them'
 - did not fix time of delivery, "and this seems to have been regarded as one of the essentials by plaintiff"
@@ -188,88 +189,88 @@ distinguish subjective v obective conceptions of assent. but objective approach 
   - seems like the strongest argument
   - Quoted from MA Supreme Court: "Care should always be taken not to construe as an agreement letters which the parties intended only as a preleminary negotiation".
 
-**** Holding
+*** Holding
 
-     "In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
+    "In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
 
-**** Main Takeaway
+*** Main Takeaway
 
-*** lefkowitz v great minneapolis surplus store, include
+** lefkowitz v great minneapolis surplus store, include
 
-    SC Minnesota 1957
+   SC Minnesota 1957
 
-**** Procedural History
+*** Procedural History
+
+*** facts
+
+    Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
+
+*** previous court ruling
+
+    "Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
+
+    previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
+
+*** Questions Presented
+
+    "We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
+
+*** Rule
+
+    "The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
+
+    "when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
+
+*** Reasoning
+
+**** Was it an offer
+
+     "The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
+
+**** Can it be modified (house rules)
+
+     "advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
+
+*** Holding
+
+    The lower court was correct
+
+*** Main Takeaway
+
+** Leonard v Pepsico
+
+   US District Court, Southern district o new york 1999
+
+*** Procedural History
 
 **** facts
 
-     Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
+     Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
 
-**** previous court ruling
+*** Questions Presented
 
-     "Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
+    Whether the offer was serious
 
-     previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
+*** Rule
 
-**** Questions Presented
+    "the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
 
-     "We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
+    "a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
 
-**** Rule
+*** Reasoning
 
-     "The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
+**** for the rule
+     the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
 
-     "when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
+**** application of the rule
 
-**** Reasoning
+     "Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
 
-***** Was it an offer
+*** Holding
 
-      "The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
+    Pepsi gets summary judgment
 
-***** Can it be modified (house rules)
-
-      "advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
-
-**** Holding
-
-     The lower court was correct
-
-**** Main Takeaway
-
-*** Leonard v Pepsico
-
-    US District Court, Southern district o new york 1999
-
-**** Procedural History
-
-***** facts
-
-      Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
-
-**** Questions Presented
-
-     Whether the offer was serious
-
-**** Rule
-
-     "the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
-
-     "a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
-
-**** Reasoning
-
-***** for the rule
-      the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
-
-***** application of the rule
-
-      "Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
-
-**** Holding
-
-     Pepsi gets summary judgment
-
-**** Main Takeaway
+*** Main Takeaway
 
 ** Preliminary Negotiations
 *** empro manufacturing co v ball-co manufacturing
@@ -399,3 +400,37 @@ Empro may have had the intention to form an offer with this but the intention wa
 **** Main Takeaway
 
      contract to negotiate an agreement is distinguishable from a so-called "agreemment to agree" and can be formed and breached just like any other contract. However the only remedy for breach are reliance damages.
+
+* Revoking Offers
+  p 295-299
+
+** Dickinson v. Dodds
+
+   In the court of Appeal, 1876
+
+*** Procedural History
+
+**** Facts
+     Defendant Dodds give letter of offer to sell property with two days to accept in the post script. Plaintiff Dickinson agrees to accept on the first day but does not notify D believing he has right of refusal until the next day. He learns the land has been sold and sends a notice of acceptance to the man's house and takes efforts to meet him first thing in the morning. He attempts to give him a letter of acceptance before the deadline the next morning and is told that it is too late. He sues for specific performance.
+
+**** Lower Court holding
+     Finds there is no grounds to say it is not a contract. The unilateral contract may be concluded by acceptance of the offer and may only be retracted "by the one of th eparties in the meantime, but, in order to be withdrawn from , information of that fact must be conveyed to the mind of the person who is to be affected by it." The fact that the revocation of the offer had not been transmitted by D to P meant that the written acceptance formed a contract binding both, regardless that the land had been surreptitiously sold in the meantime.
+
+*** Questions Presented
+    Does knowledge of the sale of a property indicate to a person the retraction of an offer?
+
+*** Rule
+
+    Promises made without consideration create no legal obligation. Contracts must have a "meeting of the minds" whereby both parties agree, at the same time, to be bound.
+
+*** Reasoning
+
+    The promise to hold the offer until a certain date was asserted without consideration from the other side so it has no legal obligation. The idea that retraction must be made official and delivered to the P is without basis. A contract requires a meeting of the minds, so to speak, with an offer continuing in time. It was clear the P knew that the offer had been rescinded in fact so there could be no real offer and thus no meeting of the minds to engage in the sale. "the plaintf knew that Dodds was no longer minded to sell the property to him as plainly and clearly as if Dodds had told him...". The plaintiff knew that the D had changed his mind and was seeking to bind him against a withdrawn offer. It is impossible to say that there was ever "one mind" between the two in the contract.
+
+*** Holding
+
+    There was no meeting of the minds, thus no contract, and therefore no specific performance.
+
+*** Main Takeaway
+
+    Knowedge that the offer is rescinded prevents the meeting of the minds.

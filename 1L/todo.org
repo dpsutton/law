@@ -53,10 +53,6 @@ already on twen
 *** DONE type state v byrd
 ** lawyering
 *** DONE type dui cases
-** contracts
-*** TODO revoking offers 295-299
-*** TODO acceptance 302-309; 323-334
-*** TODO acceptance 335-349; 352-353
 * Week 3
 ** Writing
 *** TODO core pretest https://www.coregrammarforlawyers.com/bookshelf
@@ -69,5 +65,7 @@ already on twen
 **** TODO Taylor
 **** TODO Nickerson (s)
 **** TODO White (s)
-
 ** Contracts
+*** DONE revoking offers 295-299
+*** TODO acceptance 302-309; 323-334
+*** TODO acceptance 335-349; 352-353
