@@ -434,3 +434,199 @@ Empro may have had the intention to form an offer with this but the intention wa
 *** Main Takeaway
 
     Knowedge that the offer is rescinded prevents the meeting of the minds.
+
+* Acceptance
+  p 302-309, 323-349
+
+  What is an acceptance? An offer can be revoked until accepted, what is an acceptance?
+
+** The mirror image rule
+   Used to determine if there is a contract at all in the absence of partial performance.
+
+   What happens when the acceptance accepts terms different from the offer? one prong is whether there has been any partial performance. without performance, it is easier to contest the existence of mutual assent to contract in finding the acceptance is a counter-offer, in essence, rejecting the original offer. the aim is to ensure that the same thing is offered and accepted.
+
+*** Supreme Court of Minnesota in Langellier v. Shaefer 1887
+    "departure from terms invalidates the offer, unless the same is agreed to by the party who made it. Where the negotiations are by letters, they will constitute no agreement unless the answer to the offer is a simple accceptance, without the introduction of any new term."
+
+    Muddy waters after some partial performance. It is clear that the parties intended to contract, the ambiguity is to which terms are they bound? In this case, the mirror image rule is abandoned.
+
+** Ardente v. Horan
+   Supreme Court of Rhode Island, 1976
+*** Procedural History
+**** facts
+     Plaintiff made a bid of 250k to D. D agree, have documents drawn up. P send signed documents, $20k check and request to confirm if certain furnishing are included. D refuse to continue the purchase agreement. P sue for specific performance.
+**** lower court
+     Summary judgment for D. Theory is that the check and documents were not an acceptance but a rejection and a counter offer which D were free to not accept.
+
+*** Questions Presented
+    Can an offer be accepted when proposing to include other items in the sale?
+
+*** Rule
+    Sorta. If the acceptance is clearly independent of the condition the offer is accepted and understood tht other points can be modified. But the same standard of the public actions of the player are in effect. An acceptance of an offer must be "definite and unequivocal. 'An offeror is entitled to know in clear terms whether the offeree accepts his proposal'."
+
+*** Reasoning
+
+If we are going to obligate people and give them recourse to courts, it must be clear that they are obligated and on what terms they have promised. Had the P only sent the paperwork and check there would be no question; however they also included the letter. As these form the only interaction the D have to judge acceptance, the judgment of a reasonable man will examine only these documents. The language used in the letter was not consistent wth "an absolute acceptance accompanied by a request for a gratuitous benefit". The letter asks for confirmation that the items listed are part of the instant transaction and therefore constitute a negotiation of the primary contract rather than a collateral addition to the main transaction. This removes the certainty and places it in a conditional acceptance which the D are free to reject.
+
+*** Holding
+
+Jugdment of the lower court is affirmed in that no contract was formed due to non-acceptance by the D's of the conditional offer of the P.
+
+** White v Corlies & Tifft
+   Court of Appeals of New York (final court in NY)1871
+*** Procedural History
+**** facts
+     A carpenter and merchant negotiate for refurnishing a suite of offices. There is a round of negotiations signed of
+
+**** lower court
+     a contract was formed and held for white in his action for breach.
+
+*** Questions Presented
+    Does starting performance of a contract serve as a manifestatoin of mutual assent?
+
+*** Rule
+
+    Acceptance does not require that the offering party have knowledge, but that you have sent into motion events that will be unequivocal demonstration of the mutual assent.
+
+*** Reasoning
+
+    White here purchased stock and began working right away but never responded to the letter. While in his mind his actions were clear acceptance of the job, from outside it appeared that he bought some wood and started working it, tasks and materials that resemble his work for any job in general. Absence the manifestation of mutual assent
+
+*** Holding
+    The holding was reversed and a new trial ordered.
+
+*** Main Takeaway
+    It is not that the knowledge must meet the other party but that events have begun that will demonstrate unequivocably the acceptance.
+** Petterson v Pattberg
+
+   Court of Appeals of New York 1928
+
+*** Procedural History
+
+**** facts
+
+     A house has a mortgage on it, owed to Pattberg, the D. He gives Petterson (P) the option of making one more scheduled payment and then paying in full. P makes the scheduled payment and then appears the following month to satisfy the deal in a timely manner. D mentions he cannot accept the money as he has sold the mortgage.
+
+**** lower court
+
+     P brings an action for damages in the amount of $780, the discounted amount for payment in full of the mortgage.
+
+*** Questions Presented
+
+    Was the offer rescinded or was a valid contract breached.
+
+*** Rule
+
+**** Opinion
+
+     "It is elementary that any offer to enter into a unilateral contract may be withdrawn before the act requested to be done has been performed".
+
+**** Dissent
+
+     "if the condition precedent has not been performed, it is because the defendant made performance impossible by refusing th eaccept payment, when the plaintiff came with an offer of immediate performance.
+
+*** Reasoning
+
+**** Ruling of the court
+
+     In this situation, there was no obligation created until the predicate performance was accomplished-- the payment of the debt in full. In light of this, there was only an offer on the table, one necessarily free to withdraw. The court notes that it gets a little strange since until the money is accepted the offer can be withdrawn, but analogize it to someone verbally rescinding an offer before the oferree can mouth the words I accept. As there was a rescinded offer, there cannot be a contract and so there is no issue before the court. In dicta, the author of the opinion takes it further, stating that even if there were tender of the amount before withdrawal, the person would voluntarily have to accept the payment and so would still have a moment of last refusal.
+
+**** Dissent
+     There was a simple exchange of promises: pay in full on this date, get a discount. the person shows up to satisfy the condition and then is prevented from doing satisfying the bargin by the person he contracted with to that persons benefit. There is then analysis of what exact act was requested. The gist is that in to pay someone requires their assent; thus if one promises to discount a mortgage if you pay them in full, this case allows them to reject the assent to the payment and then with a clear conscience find you have not satisfied your side of the bargain and decline the conditional offer of the discount.
+
+     "If the defendant intended to induce payment by the plaintiff and yet reserve the right t orefuse payment when offered he should have used a phrase better calculated to express his meaning that the words: 'I agree to accept'. A promise to accept payment, by its very terms, must necessarily become binding, if at all, not later than when a present offer to pay is made".
+
+*** Holding
+
+    The lower courts are reversed and the P was never entitled to damages.
+
+*** Main Takeaway
+
+    Unilateral conditional contracts may be withdrawn up until the point that the conditional clause is satisfied. Strangely, even if the condition's satisfaction requires your assent.
+
+** hobbs v massasoit whip co
+
+   Supreme Judicial Court of MA, 1893
+
+*** Procedural History
+
+**** facts
+     a man sent eelskins to a trading company four or five times, they were accepted and paid for. He sent eelskins the last time, never heard a word and the company considered them not accepted.
+
+**** lower court ruling
+     Judgment in favor of Hobbs
+
+*** Questions Presented
+
+    Can there be acceptance of a contract with complete silence
+
+*** Rule
+
+    Conduct which gives the appearance of acceptance or assent is considered as such in the eyes of the law.
+
+*** Reasoning
+
+    While true that a stranger cannot mail items and impose a duty on another, this is a far cry from that. There was a standing order for eel skins of a certain quality, which these were. There were previous transactions in good faith. Even if there was no implied acceptance upon receipt of the skins, there was still a duty to act in some way. the silence and not returning of the skins is a way that one could interpret acceptance.
+
+*** Holding
+
+Hobbs was correct and the lower court is sustained.
+** register.com inc v verio, inc
+
+   Us court of appeals, 2nd circuit 2004
+
+*** Procedural History
+
+**** facts
+     Register.com is registered with ICANN to issue domain names. Its terms require it to provide whois data along with a disclaimer that the data is not to be used for email marketing. Verio scrapes this for email marketing and direct mail and phone marketing. Verio stops the email usage but points out that technically Register is in violation of its ICANN agreement.
+
+**** previous court
+
+     Defendant Verio appeals from preliminary injunction for Plaintiff.
+
+*** Questions Presented
+
+    Can a oferree deny knowledge of conditions when they arrive with the benefit and can an oferree decline the conditions but still accept the benefits.
+
+*** Rule
+
+    No and no.
+
+*** Reasoning
+
+    While perhaps the first whois query was undertaken without knowning the conditions which attached, subsequent queries were done with this knowledge. Further, the company testified that they were aware. Perhaps this could fly on intermittent or the intial queries but repeated queries throughout the day must be taken to be done with knowledge of the terms. As to the second question, you cannot claim the benefits and disparage the conditions they come under. The defendant was free to not use or free to use and abide but it chose neither. 'silence and inaction operate as an acceptance ... [w]here an offeree takes the benefit of offered services with reasonable opportunity to reject them and reason to konw that they were offered with the expectation of compensation'
+
+*** Holding
+
+    The injunction is correct and may stand
+
+*** dissent
+
+    Just because they knew the terms doesn't mean they assent to them. Vario knows the data is free and public and that ICANN does not put the direct marking and phone call restrictions on the data so they could reasonably reject these terms. Also, Register has no ownership interest in the data; as the terms come with the data and after the database has already been accessed, the user is free to reject the terms and use the data as they see fit.
+** Nguyen v barnes and noble
+   9th circuit 2014
+*** Procedural History
+
+**** facts
+     Nguyen attempted to purchase a tablet but stock ran out and he was unable to receive one. sues BN and they remove to Fed court where they argue that controversy is bound by website terms to arbitration under FAA. Website terms are available under terms of use link of every page. He never clicked on terms stating "by visiting any area ... a user is deemed to have accepted the terms of use".
+
+**** previous court ruling
+     "B&N did not provide reasonable notice of its terms of use and that nguyen therefore did not unambiguously mainfest assent to the arbitration provision contained therein."
+
+     Just a note, state law dictates whether a contract was formed, and then federal law would dictate whether arbitration is required.
+
+*** Questions Presented
+    Can the court infer silent acceptance of the terms of the website.
+    "does a website that makes its terms of use available via a conspicuous hyperlink on every page of the website but otherwise provides no notice to users nor prompts them to take any affirmative action to demonstrate assent, even close proximity of the hyperlink to relevan tbuttons user must click on--without--more give rise to constructive notice?" modified to question form. this is presented in the negative in the original.
+
+*** Rule
+    In general they can if there is reason to believe that the user is aware of the terms.
+
+*** Reasoning
+    Although the internet has changed things, it has not changed the bedrock of contract law, mutual assent. In this case, there is no evidence that the user ever had knowledge of the agreement. "The validity of the browsewrap agreement turns on whether the website puts a reasonably prudent user on inquiry notice of the terms of the contract". B&N put the link next to other functional links that a user would have to use but no case law supports the theory that proximity would put a reasonable prudent user in knowledge of the terms. While there is an unpublished opinion holding that a link to the terms in conspicuous dress can help a user, that case had an enumerated step in the checkout process to review the terms and conditions, a fact distinguishing the instant case.
+
+*** Holding
+
+    With no controlling case law, the court is reluctant to extend the notice element of browsewrap terms notices in creating knowledge in a user. as such, the use of a site does not constitute mutual assent to the terms provided by the site.
+
+*** Main Takeaway
