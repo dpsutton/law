@@ -145,10 +145,10 @@ in most instances looking for offers addressed to some kind of identifieable gro
 
 ** prelim negotiations
 
-vast majority are non-binding. records the desire to work together and creates no obligation on either party.
+   vast majority are non-binding. records the desire to work together and creates no obligation on either party.
 
-another type:
-binding as to the ultimate objection
+   another type:
+   binding as to the ultimate objection
 - preliminary in form, but it is clear that the parties intent to be bound to their ultimate objective
 - final agreement a formality
 - must reflect agreement on all material terms
@@ -159,3 +159,128 @@ binding as to negotiations in good faith
 - commits the parties to continue to negotiation in good faith
 - can be express or implied
 - must be cleraly the intent of both parties
+
+* sep 5
+
+  in lefkowitz case, what kind of damages would you ask for?
+
+  K: a K is a promies or a set of promises for the breach of which the law givesa remedy, or the performacne of which the law gives
+
+** mutual assent
+1. offer and acceptance
+2. judged objectively
+
+gonna look at language and the words used
+
+** types of K
+
+*** bilateral
+
+    concern the mode of acceptance. in a bilateral, the acceptance on both sides is a promise. promise to pay x amount of money if you promise to pay x amount of money
+
+*** unilateral
+
+    when the offeror indicates that the only way the offeror will accept accceptance is through whatever is required of the other party. acceptance in a unilateral is full performance. so if you offer your house but only if they bring 100k tomorrow. ball is totally in their court. full performance by the offeree. different situation when its partial or started performance only.
+
+*** option
+
+    gives a timeframe but there is a separate consideration. leave an offer open but it creates no obligation. it is just an offer. unless we've created an option contract. in order to create the option contract there has to be additional consideration outside of the consideration for the promise itself. separate consideration to create the requirement. Lose power to revoke as the offeror
+
+** mutual assent
+
+   objective standard, words behavior
+
+** advertisements
+
+   open to the world, not specific
+
+   also doesn't include the promisory language, just an invitation to go to the store and make an offer to buy.
+
+   an advertisement will be an offer if the terms are specific, if we can clearly identity who has the right to accept and the promissory language
+
+   the first come first serve is what made the ad different than other ads that are open to the public. 3 potential acceptors in that case (only 3 coats)
+
+** prelim negotiations
+
+   a manifestation of willingness to enter into a bargain is not an offer if the person to whom it is addressed knows or hsa reason to know that the person making it does not intend to conclude a bargain until he has made a further manifestation of assent.
+
+   looking for language to demonstrate that parties have gone past negotiation to where party is making an offer and a party is making an acceptance.
+
+1. identifiable terms
+2. some type of promissory language
+3. other types of outward manifestations, (PR release, etc)
+
+*** empro
+
+    created all sorts of outs for itself in the process. even if there was an offer (debatable) can't see a way that there was acceptance. sent back a letter saying we have more things to discuss.
+
+*** arnold
+
+    on one side, there's a letter saying we have an agreement ahead of it. on the other side we have press release, specific details down to office locations, financial stuff,
+
+    a contract of this size and magnitude. is there expectatoin that everything will be written? what are the essential terms? factory, stock, management.
+
+*** copeland
+
+    agreement to agree is not enforceable: cant force someone into a contract, no guarantee of a final product.
+
+**** good faith in negotiations versus in contract
+
+     good behavior in negotiations
+
+** wrap up
+
+*** summary of contract parts
+
+1. communication
+2. offer must indicate a desire to into a K, which means terms must be included
+
+terms and promissory language
+
+3. must be directed at some person or group of persons
+
+identifiable oferee
+4. offer must invite acceptance
+
+
+5. offer must provide a reasonable understanding that acceptance will create a K
+
+we need to know who gets to accept. we know from fur case that we dont have to know the specific person i nthe world who gets to accept, it was the first person in the star who said i want the coat. an identifiable offeree.
+
+*** random bits
+
+    the offeror is the master of the offer. up to them to include these terms and add what they want.
+
+*** considerations
+
+1. most important::: the words of the potential offer,
+   1. terms: comprehensive and specific
+   2. words of promise of K
+2. relationship between the parties
+   1. strangers versus long time commerce
+3. behavior of the party
+   1. joking, issue of mutual assent
+4. common practices and trade usage
+   1. practices within a particular area. courts will look at practices of sales of grain to determine if there is a contract
+5. anything else that is relevant
+
+is there a K in the first place.
+was there offer, was there acceptance, was there mutual assent.
+
+when we are looking at enforcement, we don't get some of these anylonger, we are stuck inside the contract.
+
+** revoking an offer
+
+*** dodds and dickinson
+
+    no consideration for the promise to keep it open so therefore the offeror has every right to revoke the offer up until the time of acceptance.
+
+    by allowing the offeror to revoke an offer at any time before acceptance we try to put the parties on the same level. the oferree can walk away at any time. the only time we will enforce one of these is if its a promise bound by consideration.
+
+    in order for dodds to win this case, he had to revoke the offer before dickinson accepted. if there was an offer out there and the offeree accepts, we immediately have a contract. dodds never revoked in person, the trip at night and the morning never had an official revocation. no direct revocation. was there an indirect revocation. did dodds take action such that he knew the offer was invalid.
+
+    court does a subjective analysis, the "one mind" so to speak. however, this case would still survive the objective analysis. Because Dickinson had knowledge that the property had sold and no reasonable person would have thought the offer had no been revoked.
+
+*** when can you revoke?
+
+    at any time before it is accepted. exceptions: options K (time is left open and have separate consideration to leave the time open) or firm offers, something to do with merchants.

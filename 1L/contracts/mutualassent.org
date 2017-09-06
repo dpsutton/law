@@ -303,7 +303,7 @@ distinguish subjective v obective conceptions of assent. but objective approach 
 Empro may have had the intention to form an offer with this but the intention was obvious to the objective standard. Illinois allows for negotiations leading up to a final agreement.
 
 **** Main Takeaway
-
+     if there is no clear acceptance it can't even be close
 *** arnold palmer golf co v guque industries
 
     united states court of appeals, 6th circuit 1976
@@ -317,6 +317,8 @@ Empro may have had the intention to form an offer with this but the intention wa
 ***** lower court
 
       Held that this draft was indeed not a binding contract because it provided evidence of the parties not to be contractually bound. the case was granted summary judgment.
+
+      came to the court on a fact issue. (summary judgment) a question of fact.
 
 **** Questions Presented
 
@@ -411,12 +413,15 @@ Empro may have had the intention to form an offer with this but the intention wa
 *** Procedural History
 
 **** Facts
+
      Defendant Dodds give letter of offer to sell property with two days to accept in the post script. Plaintiff Dickinson agrees to accept on the first day but does not notify D believing he has right of refusal until the next day. He learns the land has been sold and sends a notice of acceptance to the man's house and takes efforts to meet him first thing in the morning. He attempts to give him a letter of acceptance before the deadline the next morning and is told that it is too late. He sues for specific performance.
 
 **** Lower Court holding
+
      Finds there is no grounds to say it is not a contract. The unilateral contract may be concluded by acceptance of the offer and may only be retracted "by the one of th eparties in the meantime, but, in order to be withdrawn from , information of that fact must be conveyed to the mind of the person who is to be affected by it." The fact that the revocation of the offer had not been transmitted by D to P meant that the written acceptance formed a contract binding both, regardless that the land had been surreptitiously sold in the meantime.
 
 *** Questions Presented
+
     Does knowledge of the sale of a property indicate to a person the retraction of an offer?
 
 *** Rule
