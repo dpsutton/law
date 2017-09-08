@@ -556,9 +556,11 @@ Jugdment of the lower court is affirmed in that no contract was formed due to no
 *** Procedural History
 
 **** facts
+
      a man sent eelskins to a trading company four or five times, they were accepted and paid for. He sent eelskins the last time, never heard a word and the company considered them not accepted.
 
 **** lower court ruling
+
      Judgment in favor of Hobbs
 
 *** Questions Presented
@@ -575,7 +577,8 @@ Jugdment of the lower court is affirmed in that no contract was formed due to no
 
 *** Holding
 
-Hobbs was correct and the lower court is sustained.
+    Hobbs was correct and the lower court is sustained.
+
 ** register.com inc v verio, inc
 
    Us court of appeals, 2nd circuit 2004

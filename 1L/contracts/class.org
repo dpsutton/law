@@ -284,3 +284,157 @@ when we are looking at enforcement, we don't get some of these anylonger, we are
 *** when can you revoke?
 
     at any time before it is accepted. exceptions: options K (time is left open and have separate consideration to leave the time open) or firm offers, something to do with merchants.
+* sep 7
+
+** review offer
+   manifestatoin of willingness to enter bargain so made
+
+   to have
+1. communication
+2. offer has to indicate the desire to enter the contract (intent...)
+3. directed at some person or group of persons
+4. offer must invite acceptance
+5. must give the reasonable understanding that acceptance will complete the contract
+
+
+considerations: the words of the contract
+
+offeror can revoke the offer before it is accepted. is the master of hte contract. an offer is revoked if a reasonable time has passed without acceptance.
+
+an effective revoca
+- communication, direct or indirect
+- effective receipt
+- words or actions inconsistent with the continued intent to enter a K
+
+exceptions:
+- option K
+- firm offers
+
+in these, power to revoke is limited or non-existent.
+
+*** hypo:
+1. is there a valid offer? if so, what is that offer?
+
+   1. communication, phone calls, written letter
+
+   2. has to indicate the desire to enter the contract: "offering to sell"
+
+   3. directed: to the niece
+
+   4. invite acceptance: reaching out for agreement
+
+   5. acceptance will complete:
+
+2. acceptance?
+
+   1. assent to the specific terms of the offer: no counter arguing, accepted the terms as is
+
+3. mutual assent?
+
+   1. objectively agreeing to enter the K.
+
+became valid the moment the landlord approved the lease.
+
+
+** acceptance
+
+   offeree has ability to accept, reject, or counteroffer
+
+*** ways to terminate (R 36)
+
+- rejection of the offer by offeree
+- counter offer
+- lapse
+- revocation by offeror
+- death or incapacity of offeror or offeree
+- non-occurrence of any conditions accepted under the terms of the offer
+
+*** is
+
+- offeree's manifestation of assent to the offer
+- brings K into existence (assuming ther
+- definite and unequivocal
+- volitional act
+- objective analysis (judge acceptance by a reasonable person standard)
+
+*** hypo
+
+    valid revocation since he communicated directly and made it known he had no desire to enter into a contract.
+
+*** mirror image rule
+
+    at the stage of promise to promise. we dont' get the mirror muddy, so to speak. the parties accept the terms of which the offer was made.
+
+*** ardente v horan
+
+    defendants say send us bids. why not an offer: lacks specific audience, no clear intent to enter into a contract, not clear that acceptance would bind the bid offerors, terms are not clearly identified.
+
+    the the plaintiff makes a bid, is that a K? Court treats it as if its not. because we would have had a K immediately. Bid does not identify when, and some other essential terms. The purchase agreement that D send back to P is the essential offer. So D makes the offer.
+
+    Given that the purchase agreement is an offer, it is on the P to accept. But he attaches a letter with what the court calls additional requirements. by asking to "confirm" part of the trasnaction so the court treats as a counter offer which the D can then reject.
+
+    Court notes that there can be counter arguments but they cannot be essential to the main deal but separately negotiated. Court suggests that if different language had been used in this letter it could be have been treated as a separate negotiation.
+
+**** restatement 61
+
+     an acceptance which requests a change or addition to the terms of the offer is not thereby invalidated unless the acceptance is made to depend on an assent to the changed or added terms.
+
+*** mailbox rule
+
+    2nd rule related to acceptance. acceptance is effective upon dispatch. the moment it is put in the mailbox as long as it has proper postage and right address. exception, option K where acceptance not effective until receipt.
+
+    the offeror has every opportunity to change this rule and is subject to it unless he makes other terms. For Option K it is upon receipt because the offeror is not free to rescind his offer anyways because of the consideration given.
+
+*** means of acceptance
+
+    offer may invite or require acceptance in a certain master. offeror is the master of the offer. if offeror wants written documentation, whatever, it is the offerors bargain.
+
+    if no means of accetpance is specified, it will be based on reasonableness and relationship between the parties.
+
+    for bilateral K: acceptance usually by promise
+    for unilateral K: acceptance by performance
+
+**** acceptance by performance (R 54)
+
+     If the offer invites acceptance by performance, the offeree does ont need to ontify the offeror of the acceptance
+
+     BUT, if the offeree knows the offeror has _no adequate means_ of leaning of the performance/acceptance with reasonable promptness and certainty, the offeror's contractual duty is discharged unless
+
+- offeree exercised resaonable diligence to notify
+- offeror learned of the performance
+
+*** white v corlies & tifft
+
+    Breach of K action. "Upon an agreement to finish the fitting up of offices in two weeks from date, you can begin at once." So what makes him think performance was expected? "begin at once". seemed to have reached an agreement, asked for assent, signed and returned it. So from P point of view we can begin at once. P buys lumber and begins working.
+
+    why did the court say . court said even if performance was acceptable, the D didn't perform the _contract_ necessarily. Does this contract invite acceptance by performance? It says "upon agreement". This case has stood the test of time for the proposition that "unless performance is invited, starting performance at any level is not going to necessarily create a K". If performance is invited, then even partial performance is going to bind the parties.
+
+*** petterson v pattberg
+
+    clearly invites acceptance by performance. the fact that the brief case hadn't changed hands precluded it. you see someone walking up and you can revoke it at any time. the court suggests that when the performance is gonna be  part of the bargain, there is a corresponding duty on the offeror to accept the performance (this is in the dissent).
+
+*** hypo
+
+    while waiting in line to open an account with a bank. if you wait for over 5 minutes in line they give you $5 and the offer can be withdrawn at any time. manager takes down the poster right before you hit the time limit.
+
+**** creation of an option K
+
+1. consideration for the promise not to revoke for a sepcified time
+2. part performance or tender
+   1. offer does not invite prmoissory acceptance
+   2. offer invites acceptance by performance
+   3. option K created when the offeree egins the invited performance or tenders a beginning of it.
+
+when there's partial performance we get an option contract
+
+*** hobbs
+
+series of transactions, done in a particular way. sent skins, received payments. sent skins in, heard nothing and then several months. silence looks a lot like assent.
+
+**** acceptance by silence
+
+acceptance by silence is limited:
+- when offeree takes the benefit of offered services with reasonable opportunity to reject them & knows compensation is expected
+- offeror gave offeree reason to understand that seent may be manifested by silence or inaction
+
+** electronic
