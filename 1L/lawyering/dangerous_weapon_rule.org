@@ -1,0 +1,97 @@
+#+OPTIONS: toc:1
+#+BEGIN_COMMENT
+
+Read the edited statute below. Reread State v. Byrd and State v. Lewis. Read State v. Calvin and State v. Johnson. Assume that you are reading for your criminal law class when you are learning about dangerous weapons.
+
+Based only on the statute and the four cases below, synthesize the rule, or rules, for "used in a manner likely or calculated to cause death or great bodily harm."
+
+Before you complete the synthesis, brief Calvin and Johnson.
+
+#+END_COMMENT
+
+* COMMENT Scenarios
+
+** Nature of the instrument
+
+   The legislature created a regime affording a much harsher punishment when a robbery is committed with a 'dangerous weapon'.
+
+   dangerous weapon has a common connotation that is tied to the instrument itself. things like guns, swords, . we might think that it is difficult to get a dangerous weapon, or perhaps a marker of one would be the apprehension
+
+   plastic bag?
+
+   An instrument such as a gun seems to align with both our common understanding of a dangerous weapon and with the legislature's definition of a "dangerous weapon". When courts hold more common instruments that deviate from the colloquial usage of dangerous weapon as "dangerous weapons" under LSA-R.S. 14:2(3) defendants appeal
+
+   court must consider "victim's potential reaction to an instrumentality not inherently dangerous" gives rise to a standard that instruments "inherently dangerous" are categorically "dangerous weapons". This "inherently dangerous" partition aligns with the colloquial usage of the term.
+
+   The court looks to other criteria in considering whether something not "inherently dangerous" is a "dangerous weapon". However, it is not clear that these considerations are unique to instruments not "inherently dangerous". It remains undiscussed in the included cases whether an "inherently dangerous" instrument can be "used in a manner _not_ likely or calculated to cause death or great bodily harm".
+
+   can someone have a gun or an axe without using it in such a manner? While perhaps hard to conjure a fact pattern, the cases provided do not preclude such a possibility as they
+
+   is the standard wholely determined by the manner used or do "inherently dangerous" instruments satisfy the definition "'Dangerous weapon' includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm." In /Byrd/, the court notes that
+
+   #+BEGIN_QUOTE
+
+   While the defendant admitted he intended to rob the restaurant, he asserted he used the toy pistol so as not to hurt anyone. He did not threaten to harm, nor did he even refer to the toy pistol as a weapon. The victim testified that defendant did not point the toy pistol at him. Indeed, the victim's subjective reaction indicates he did not perceive any likelihood of great bodily harm.
+
+   #+END_QUOTE
+
+   While this analysis repeatedly refers to the instrument as a /toy gun/, there is nothing in /Byrd/ indicating that the defendant knew it was a toy gun.
+
+   This is wrong. the rule looks to the likelihood of great bodily harm. The presence of a working firearm in a robbery /necessarily/ creates the likelihood of great bodily harm or death. Imagine a situation where the robber conceals his weapon, never brandishing, never even making the presence known. While the robber might object to characterizing his actions as with a dangerous weapon, it remains the case that the weapon was available to him and he presumably would have used it. Thus the likelihood of great bodily harm remains high.
+
+** Nature of the scene
+
+   When the inherent nature of the instrument is not dangerous we turn to the situation to see if the other parties involved would be likely to suffer great bodily harm or death.
+
+   The law does not limit itself to death or great bodily harm that might result to the victim of the robbery but to persons present in the situation. The law contemplates the risks likely to the victim, the robber, and third parties present at the scene. It further covers the risks of harm and death through other threat vectors, including attempts of rescue and self-help. In this way, a toy gun can satisfy the "dangerous weapon" element of armed robbery when the likelihood of great bodily harm is to the robber him or herself.
+
+   In evaluating the "likelihood" factor of the harm, the court looks to the nature of the scene, looking for a "charged atmosphere". Where the likelihood of death or serious bodily harm is not met solely on the inherent dangerous of the weapon, the scene created by the manner it is can provide the likelihood element. In the "charged atmosphere" the court looks for, self-help and rescue are invited and are likely to lead to death or serious bodily harm.
+
+   The BB gun and toy gun cases give contours to this reasoning. The toy gun case describes a circumstance lacking this "charged atmosphere" whereas the BB guns clearly create this perilous scenario. In /Byrd/, the gun was never aimed at the victim, it was never referred to as a weapon, and the employee felt bold enough to actually swipe back the chicken of the attempted robber. Contrast that to /Lewis/ where people were cowering in fear on the floor, the guns were brandished and pointed at victims. The actions are different and the reactions of those held at gunpoint reflect the atmosphere they found themselves in. The court holds that the reactions of the victims are not the sole determining factor for the finding of a "charged atmosphere".
+
+   In /Johnson/, the facts are not clear of what the clerks reaction was. The case recounts that Johnson, the defendant, stabbed Barrios, the clerk, in the hand as Barrios was placing the tendered money in the register. The clerk "jumped back and took the pen out of his hand". At this point, the pen is out of the control of Johnson.
+
+   The pen has stabbed somone reulting in the "charged atmosphere" whereby great bodily harm or death is likely to occur, either to the victim or the defendant. It does not matter that the defendant has lost possession of the pen at this time. The same as if an armed robber were to shoot his gun and then have it dislodged from his grip; the chance of self-help may seem /more/ apparent now rather than before, counter-intuitively leading to a situation even more likely to produce great bodily harm. Alternatively, after the pen is used to stabbing, there is actual harm, turning the likelihood of great bodily harm into a certainty.
+
+
+** Actual harm results
+
+** as a bludgeon
+
+   The court leaves an interpretation of this rule that is very optimistic. In /Levi/, a case involving an inoperable but real gun, the court notes that even if the victims were to have the knowledge that the gun were inoperable, there is still the likelihood of its wielding as a bludgeon. The /Calvin/ court held that even fists could rise to this standard of "likelihood of death or great bodily harm". There the woman's convicted of battery with a dangerous weapon was overturned, not on the likelihood element of a dangerous weapon but on the lack of a discrete instrument.
+
+* Rule Synthesis for "dangerous weapon"
+
+  The court has been asked to refine the statutory definition of a "dangerous weapon" found in LSA-R.S. 14:2(3) on several occasions. The court, through these trials and appeals, has held some instruments as "dangerous weapons" that at first appear as mundane objects: items such as ink pens, BB guns, and non-functioning guns. This apparent need for clarification has arisen from the disparity of the colloquial usage of the term and the definitnion promulgated in the reviesd statutes. That language of LSA-R.S. 14:2(3) states that,  "[d]angerous weapon" includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm. In the application of this definition, the court looks to two factors: 1) the "inherent danger" of the instrument itself 2) whether the manner used leads to a "highly charged" atmosphere which has a "likelihood for death or great bodily injury" or 3) that the instrument was used to cause "death or great bodily injury". The court finds the "likelihood of death or serious bodily harm" to be met in either of these cases.
+
+* Inherent Danger
+
+  The inherent danger analysis is the easier and more uncontroversial as it closely aligns with the colloquial usage of the phrase 'dangerous weapon'. In the /Byrd/ opinion, the court notes that they must embark on the alternative analysis to the 'inherent danger' standard since the toy gun was not "inherently dangerous". None of the opinions considered have had to refine this branch of the definition under study as it seems inconceivable for a defendant to challenge that his chainsaw or loaded gun did not carry with it the "likelihood of death or serious bodily harm" as this would be largely be the language with which one reasonably describes 'inherent danger'. The /Lewis/ court cites a previous ruling in /State v. Woods/ clarifying that, "[i]t is clear that a loaded gun, pointed at a robbery victim, carries the inherent threat that death or great bodily harm is likely to result."
+
+  This affirmative statement, however, also introduces some nuance to this branch of the "dangerous weapons" definition. Had the words not included "pointed at a robbery victim", the inherent danger of the loaded gun would be clear. But the analysis is not clear whether it is the "manner used", ie, the gun was pointed at the victim, or that there was a loaded gun in general. Had the defendant had the gun tucked into his or her waistband would we have to descend further into the manner used and the second branch of the 'dangerous weapon' definition to determine if the loaded gun was so qualified? If so, there is but a single test to satisfy the definition in 14:2(3), that of the "highly charged" atmosphere. But the wording of the /Byrd/ decision makes this far-fetched. In this holding, the analysis descends into the actions of Mr. Byrd to demonstrate that the instrument was never used in a threatening manner, but the opinion is quite liberal in its use of the phrase "toy gun". Paramount is the idea that the investigation of the manner used relies on the unique nature of this particular instrument rather than any instrument that could potentially fall under the 'dangerous weapon' standard. In the /Lewis/ opionion, the court notes that they had already settled the issue in /State v. Jeselink/ noting that a jury could "consider ... the character of a weapon". Further, they go on, confirming this analysis in that "[t]he term 'dangerous weapon' is not limited to those instrumentalities which are inherenly dangerous, but includes any instrumentality 'which in the manner used, is calculated or likely to produce death or great bodily harm.'" Thus the court states that further analysis is needed in the case where the weapon is not 'inherenly dangerous'; the former case has a presumption of satisfying the definition.
+
+  This analysis is not trivial or superfluous, nor is it obvious. Without this holding from the court, the language classifying 'dangerous weapons' could conceivably not cover what normal usage of the phrase intends. The "manner used" requirement would otherwise allow for a person to argue that a gun in their waistband during an armed robbery was not, under Louisiana law, a dangerous weapon. For instance, without this exception, the chain of reasoning applying to the toy gun in /Byrd/ could apply to a loaded firearm. Consider the following analysis from /Byrd/ finding a lack of a "highly charged" atmosphere : "[h]e did not threaten to harm ... did not point the toy pistol at [the fast food worker]." If this analysis was not predicated on a /toy/ gun, a person robbing a store with a loaded firearm would have a legal argument to distinguish armed robbery from simple robbery while armed, an absurd, albeit consistent, result.
+
+* Highly Charged Atmosphere
+
+  If not an 'inherently dangerous' instrument, the law still provides a higher penalty for the wielding of an object as a weapon. This analysis is much more difficult and fact dependent, necessarily, as "the manner used" is what can elevate a simple ink pen from the quotodien to the menacing. The element the court looks to to determine if "the manner used" is "likel[y] to produce death or great bodily harm" is the "highly charged" atmosphere of the situation in general. This is a clever turn the saves the court from having to adjudicate the lethality a matrix of lethality of every day objects to identifying the common results of weaponized usage. The court thus looks if the situation as a whole is one with a high likelihood of death or great bodily harm.
+
+  Notably, while contemplating the risk of death or great bodily harm, the language of the statute does not specify who must bear this risk to satisfy this language of a 'dangerous weapon'. The "charged atmosphere" test rests upon this theory of harm: that the manner an instrument is used can create a highly charged atmosphere where there is risk of harm not only to the victim through a useage of the instrument itself, but that the situation, with the tensions and stresses which can arise from the manner in which an instrument is used, invite self-help and rescues, exposing the victim, perpetrator, and third-parties to a likelihood of death or great bodily injury.
+
+  The situation does not /require/ anyone to attempt the actions upon which the risk is predicated. The likelihood of death or great bodily harm is met when the situation is conducive to the risk, not that actual steps of self-help, rescue, or even any actual harm resulted. Harking back to /State v. Johnson/, (20 So.2d 741: a different Johnson than below, this Johnson was cited in /Lewis/)the trial court noted that "the complainants, in order to repel their assailant, would have been justified if they had either inflicted great bodily harm upon him or slain him, because it was reasonable for them to believe that their lives were placed in danger by the conduct of the defendant." The defendant, in creating the "highly charged" environment, opens up the /likelihood/ for death or great bodily harm, and this standard is the one applied, and notably, can have his charge elevated by the "liklihood of death or great bodily harm" directed at himself.
+
+  The BB gun (/Lewis/) and toy gun (/Byrd/) cases give contours to what these environments look like. The toy gun case describes a circumstance lacking this "charged atmosphere" whereas the BB guns clearly create this perilous scenario. In /Byrd/, the toy gun was never aimed at the victim, it was never referred to as a weapon, and the employee felt bold enough to actually swipe back the chicken of the attempted robber. Contrast that to /Lewis/ where people were cowering in fear on the floor, the guns were brandished and pointed at victims. The actions are different and the reactions of those held at gunpoint reflect the atmosphere they found themselves in. The court holds that the reactions of the victims are not the sole determining factor for the finding of a "charged atmosphere" but that they can be a useful tool in determining the atmosphere of the scene.
+
+  The court also provides some guidance for what kind of instruments can fall into the category and what type of harm is covered by the statutory language. In /Levi/, a case using a non-functioning gun to commit a robbery, the court rejected an argument that the gun could not cause injury even if intended. After going through the "highly charged" atmosphere analysis, the court noted that above and beyond the actions of the victims to escape their situation, the gun could still be wielded as a bludgeon. This gives insight into how "weapony" instrumentalities can or cannot be: almost any object can serve as a bludgeon.
+
+* Causing Death or Great Bodily Injury
+
+  The standard for 'dangerous weapon' can be met by a third branch of the definition whereby the defendant /causes/ death or great bodily injury. This branch is extremely close to the second branch measuring the "highly charged" atmosphere but is distinct. While the threshold of "likelihood" of these dangers is certainly met by the realization of said dangers, the analysis does not need to investigate the atmosphere at all. The damages are wholly sufficient to meet the definition. However, the cases where such risks are realized is instructive to the level of damages that the court is estimating the likelihood of in the second branch. The /Calvin/ and /Johnson/ cases are illustrative of both this standard and the standard contemplated by "/great/ bodily harm".
+
+  In /Calvin/, a woman attacked a man and was brought up on battery charges. The trial judge issued instructions to the jury that, based on recent Supreme Court of Louisiana rulings, because a person's bare fist could be "classed and used as a dangerous weapon, [] a person's teeth could be classed as a dangerous weapon". The jury convicted Ms. Calvin of aggravated battery which was overturned on errors patent. The appellate court objected to this suggestion and reversed the trial court. While noting that there was no such case law, the court quarrelled with the finding as a matter of law. Not ruling on whether the harm sustained by the victim in this case arose to "great bodily harm", they did note that this standard was attainable by fists. The patent error in this instance is that the fists and teeth would fail the inanimate instrument requirement of a dangerous weapon.
+
+  The /Johnson/ opinion puts an even finer touch on the standard arising to "great bodily harm". There, a clerk was stabbed in the hand, about a quarter of an inch deep, with an ink pen. In challenging whether the ink pen could classify as a 'dangerous weapon', the court took absolutely no regard the circumstances of the robbery or looked for the "highly charged" atmosphere. It was simply enough that the defendant "stabbed the victim in the hand with the pen in order to facilitate the robbery." The court notes that the pen was "stuck about a quarter of an inch into his hand" and finds that the stabbing met the requirement of "us[age] ... calculated or likely to produce great bodily harm." In determining what is meant by "/great/ bodily harm", we have a quarter inch stab wound on the extremety of the body. The court seems to have a low threshold for injury requiring the meeting of "great bodily harm."
+
+* Conclusion
+
+  The statutory language of LSA-R.S. 14:2(3) has been interpreted by the courts to to punish more severely situations in which an instrument is used resulting in the "likelihood of death or great bodily harm". The analysis turns not on the type of weapon used, necessarily, but on the elevated risks visited upon the victims, third parties, and even the perpetrator him or herself. The language and interpretation are optimistic in the sense that basically any object used that can create these elevated risks is captured by the statute, finding ink pens and BB guns to warrant fifteen years in prison. The analysis can succeed on the inherent dangerous of the object, on the elevated risks attendant to the "highly charged" atmosphere, or in the realization of those risks in actual harm or death.

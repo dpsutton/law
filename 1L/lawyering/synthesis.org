@@ -1,0 +1,132 @@
+#+OPTIONS: toc:1
+* State v Byrd
+
+** Procedural History
+
+*** Facts
+
+    Defendant Byrd ordered a single piece of chicken from the side window of a restaurant, and in lieu of paying the 57 cents, held up toy pistol and demanded the till money. The defendant was told there was no money and set to leave with his chicken except that the employee grabbed his food and shut the window. Two policemen, not alerted by the employee but who happened to see from across the street approached the defendant, searched him and found the toy pistol.
+
+** Questions Presented
+
+   Can a toy pistol satisfy the "dangerous weapon" element of Louisiana Revised Statute 14:2(3), and thereby qualify as a "dangerous weapon" under LSA-R.S. 14:64 defining armed robbery?
+
+** Rule
+
+   A dangerous weapon "includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm."
+
+** Reasoning
+
+   Their is no reasonable basis on these facts to conclude that the toy pistol was ued in a manner likely to produce bodily harm. Citing _State v. Levi_, the court notes that the instrumentality itself can be likely to cause 'great bodily harm' but also that the reaction of those accosted is contemplated by the statute. _Levi_ held that a man brandishing a non-functional--albeit real--gun had nonetheless commited an armed robbery. In the "highly charged" atmosphere, the victims "would have been justified if they had inflicted great bodily harm ... or slain him". The holding relied on an atmosphere cultivating violence to either party which the court notes was completely lacking here.
+
+** Holding
+
+   While a toy gun _may_ rise to the standard set out in LSA-R.S. 14:2(3), in this instance it did not.
+
+** Main Takeaway
+
+   A dangerous weapon is both dangerous in its own right and also dangerous for the atmosphere justifying bodily harm by actions of the victims. This enhancement over simple robbery is reflected in the much stiffer penalties reflected in the Revised Statues. However, both the atmosphere contemplated by the legislature and the instrument itself failed this standard.
+
+* State v. Lewis
+
+  Court of Appeal of Louisiana, Second Circuit 2005
+
+** Procedural History
+
+*** Facts
+
+    Defendant robbed a bank with a BB gun. Her actions included brandishing the weapon, pointing the weapon at patrons of the bank, and standing on the counter with the weapon pointed at the teller while she was on the phone with her husband while shouting obscenities at her.
+
+*** Procedural History
+
+    The defendant was found guilty of three charges of armed robbery and appeals on sufficiency of the evidence as to the dangerous weapon component, that the sentences were  unconstitutionally excessive, and that the sentences were vindictive.
+
+** Questions Presented
+
+   Was the BB gun brandished by the defendant a "dangerous weapon" as contemptlated by LSA-R.S. 14:2(3)?
+
+** Rule
+
+   A dangerous weapon "includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm."
+
+** Reasoning
+
+   An instrument can be used in a manner to create a "charged environment" whereby the "danger created invites rescue and self-help". These circumstances make it likely to produce "death or great bodily harm", meeting the standard set forth.
+
+   The court notes it has previously held that a BB gun or a pellet gun are inherently dangerous weapons "carr[ying] the inherent threat that death or great bodily harm is likely to result". Beyond this, they note that the defendant charged a bank during business hours, screaming, shouting profanities, and waving their gun. All of these created the requisite "highly charged" atmosphere which invites bystander and victim action. The defendant even concedes that the BB guns "appeared to be real and functioning firearms". Following Louisiana precedent, the court found no reason that the evidence did not support the jury's finding that the BB gun was a "dangerous weapon" under Louisiana law.
+
+** Holding
+
+   The creation of a "charged atmosphere" was found by a jury and was supported by the facts of the case. The brandishing of the guns and yelling created the "charged atmosphere" that is likely to produce bodily harm and, in due course, the defendants were found guilty.
+
+** Main Takeaway
+
+   Although not considered a dangerous weapon in common speach, a BB gun can rise to the statutory standard under the "manner used". Here the defendants brandished the gun, screamed at patrons and pointed the gun in peoples faces. Their actions led to the charged atmosphere that can elevate mundate instruments into dangerous weapons under Louisiana law.
+
+* State v. Calvin
+
+  Supreme Court of Louisiana, Dec 10, 1945
+
+** Procedural History
+
+*** Facts
+
+    The defendant apparently battered someone by "unlawfully hit[ting] and bit[ing]".
+
+*** Procedural History
+
+    Defendant was convicted of assault with a "dangerous weapon". Because of some procedural difficulties preventing a her full appeal, the court can only consider errors patent.
+
+** Questions Presented
+
+   Can the bare hands or teeth of the defendant be considered "dangerous weapons" under LSA-R.S. 14:2(3)?
+
+** Rule
+
+   "Dangerous weapon” includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm.
+
+** Reasoning
+
+   Contrary to the previous cases, this finding does not hinge on the liklihood of death or bodily harm element but on the intrumentatity element. The court finds that the rule requires the use of some "inanimate instrumentality"; a person's teeth and fists--while perhaps dangerous, and even able to "produce death or great bodily harm" by some persons--necessarilly fails this required element.
+
+** Holding
+
+   The court had already ordered a new trial on procedural grounds quite fatal to the prosecution. It went out of its way to further rule that the jury instruction holding that a person's bare fists or teeth could satisfy the definition for a "dangerous weapon" under Louisiana law was erroneous.
+
+** Main Takeaway
+
+   There are two elements of a "dangerous weapon" in Lousiana, and failing either necessarilly precludes a finding of a "dangerous weapon". The fact that the court ruled in this instance after already finding errors patent suggests that it wanted to correct this mistaken interpretation of Louisiana law for the defendant's retrial.
+
+* State v. Johnson
+
+  Court of Appeal of Louisiana, First Circuit 1992
+
+** Procedural History
+
+*** Facts
+
+    Defendant went to a convenience store late at night. The defendant stabbed the cashier in the hand during a transaction, demanding money and shouting that he would kill the clerk if he did not step back.
+
+*** Lower Court ruling
+
+    Defendant was found guilty of armed robbery. Appeals on 11 counts of error but abandons 4.
+
+** Questions Presented
+
+   Can an ink pen satisfy the requirements to be considered a "dangerous weapon"?
+
+** Rule
+
+   "Dangerous weapon” includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm.
+
+** Reasoning
+
+   In reaching a threshold of "calculated or likely to produce death or great bodily harm", both the manner an instrument is used and its inherent threatening qualities may be considered. While a gun by its very nature is likely to produce death or great bodily harm, other more mundane instruments can also rise to this threshold. The defendant stabbed the clerk in the hand in order to perpetrate the robbery. Thus the pen was calculated to produce great bodily harm in the commission of a robbery. Thus the jury's finding was sufficiently borne by the evidence.
+
+** Holding
+
+   The court held that the ink pen satisfied the statutory language for the classification of a "dangerous weapon" under Louisiana law as demonstrated by the evidence at court. The jury was not incorrect in their finding of guilt to the charge of armed robbery. The issues raised by the defendant were all defeated. However, the court did find a minor error in sentencing in that the defendant was not credited with time served prior to the execution of his sentence, and sent back instructions for the district court to amend their order accordingly
+
+** Main Takeaway
+
+   Even common place instruments, for instance a pen like here, can rise to the standard of a "dangerous weapon". Here not in the "charged atmosphere" where great bodily harm is likely but in stabbing someone and directly causing the bodily harm. The court does not mention whether it considers a quarter inch into someone's hand to be "_great_ bodily harm" as distinguished from "_mere_ bodily harm" however.

@@ -1,0 +1,17 @@
+* case synthesis
+
+** elements
+
+1. operation
+2. of a motor vehicle.... othe rmeans of conveyance
+3. BAC > 0.08%
+
+start each hypo with "Rubble did/did not violate La R.S. 14:98 because ...
+
+on operation: operation has been met becaues Rubble was in control of the skateboard.
+
+conveyance: other means of conveyance has not been met because an "other means" must be inanimate, controlled by the operator, and motorized; although the skateboard is inanimate and and completely controlled under Rubble's control, it is not motorized.
+
+bac: The blood alcohol content Rubble's BAC was 0.09%.
+
+Rubble cannot be successfully prosecuted for violation of LA RS.1498 because although he fulfilled the elements of operation and BAC threshold elements, a skateboard does not constitute an "other means of conveyance".
