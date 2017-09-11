@@ -374,14 +374,23 @@ There is no intentional tort claim.
 
 *** Main Takeaway
 
-It sets the stage for the "busy world" theory to be expounded later. That there are incidental touches in the world does not lie a claim; but that incidental touches can rise to such if struggle or violence arise. But that the meat of the tort lie in anger.
+    It sets the stage for the "busy world" theory to be expounded later. That there are incidental touches in the world does not lie a claim; but that incidental touches can rise to such if struggle or violence arise. But that the meat of the tort lie in anger.
+
+*** class
+
+    showing the transition of battery through the ages.
 ** wallace v rosen
+
    Court of Appeals of Indiana, 2002
+
 *** Procedural History
+
 **** Facts
 
      A mother was visiting a school when a fire-drill commenced. A teacher encountered the mother while talking to her daughter on the stairwell. The teacher (Rosen) put her hand on the plaintiff, Wallace, to get her attention and direct her down the stairs. The Plaintiff fell down the stairs and injured herself.
+
 **** Previous Court Ruling
+
      The trial court did not enter a jury instruction for battery which is under review in this case. The jury found in favor of the teacher (Wallace) and the school on negligence count.
 
 *** Questions Presented
@@ -460,7 +469,9 @@ It sets the stage for the "busy world" theory to be expounded later. That there 
 * assault
 
 ** i de S et Ux v W de S
+
    At the assizes, 1348
+
 *** Procedural History
 
     A man approached a tavern door and banged on it demanding wine. A woman appeared from a window demanding he stop. The defendant swung a hatched at her but did not hit her.
@@ -468,23 +479,37 @@ It sets the stage for the "busy world" theory to be expounded later. That there 
     Lower court ruled that lack of harm prevented finding of a trespass.
 
 *** Questions Presented
+
     In the ancient meaning, can there be a trespass without harm
+
 *** Rule
+
     Yes, there can. "And so note that for an assault a man shall recover damages, etc."
+
 *** Reasoning
+
     The reasoning is that it comports with our notion of harm. "There is harm done and a trespass for which he shall recover damages since he made an assault upon the woman..."
+
 *** Holding
+
     That despite the lack of physical contact or harm, there could still be damages.
+
 *** Main Takeaway
+
     Underpinning the historical notion that assault, without harm, can still give rise to damages, further separating assault from the negligence style liabilities. There no harm means no recovery whereas assault without harm can still warrant recovery of damages..
 
 ** Western Union Telegraph Co. v. Hill
+
    Court of Appeals of Alabama, 1933
+
 *** Procedural History
+
 **** Facts
+
      Mrs. Hill needed a clock fixed and had to go down to the office of western union where Mr. Sapp was working. He had had a few drinks and offered to fix her clock if she would go behind the counter and let him pet and love her, and then he tried to hug and hold her from behind the counter.
 
      Seemingly in a case deciding if the damages for the assault are attributable to the employer, the question arises of whether there was an assault at all.
+
 **** Lower Court ruling
 
      Lower court seemed to have ruled that Mr. Sapp assaulted the woman within the scope of his duties leaving the company on the hook. That is overturned but not what our focus is here.
