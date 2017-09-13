@@ -438,3 +438,150 @@ acceptance by silence is limited:
 - offeror gave offeree reason to understand that seent may be manifested by silence or inaction
 
 ** electronic
+
+* sep 12
+
+** review of mutual assent
+
+considerations for mutual assent. objective analysis, just a little bit of subjective tinge
+
+offer
+- communication
+- substance
+  - intent/promise language, essential terms, invite acceptance
+- directed at an identifieable perso nor group
+
+acceptance
+- communication
+- manifestation of assent
+- definite & unequivocal
+rejcetion
+counter offer
+
+** hypos
+
+lost your dog and post the following around the neighborhood: Lost Dog $100 cash reward
+
+ignoring any issues of consideration, is this a valid offer?
+
+*** COMMENT remember for offer
+1. communication
+2. offer has to indicate the desire to enter the contract (intent...)
+3. directed at some person or group of persons
+4. offer must invite acceptance
+5. must give the reasonable understanding that acceptance will complete the contract
+
+*** hypo 1 (original)
+
+is it an offer? It is a communication, is a desire to to enter a contract, directed at the neighborhood, invites acceptance, gives reasonable understanding that acceptance will complete the contract.
+
+would a reasonable person understand this? what condition of the dog, for information about the dog.
+
+relating to who its offered to (specific audience): while it looks broad, the offer can only extend to the person who has the dog.
+
+*** good samiritan finds it w/o knowledge of the poster
+
+no contract. lack of a
+
+*** hypos 3
+
+you realize a close friend is going through a hard time, and you say, "I will lend you $500 if you promise to pay it back plus 5 percent interest
+
+your friend thanks you and says "that's great, but can we make it Nov 2 so my paycheck
+
+
+rule about communication. if no rule on how to accept. if the offer does not specify how to do acceptance rule is: "reasonable means of acceptance"
+
+without knowing original offeror,
+
+*** hypo 4
+
+1. if you're doing an analysis, communication, terms, audience, you will miss money.
+2. essential terms
+3. promisorry language as opposed to solicitation for ofers, what language invites acceptance
+
+its an effective K. I give you baseball collection, you give me $10,000, dictates type of acceptance required, and the time.
+
+bilateral K. even though requested acceptance through performance. the performance requested doesn't have anything to do with the terms of the contract. nothing at all to do with the transaction.
+
+is the tattoo the only way you can accept my offer?
+
+have not limited acceptance to the cubs tattoo on the forehead, can still accept the K without the tattoo. "acceptance will be manifest" look for limiting acceptance.
+
+
+*** hypo 5
+
+alex send becky a letter
+
+both parties send a letter to the offer offering identical terms for sale of property. but we have two offers so no possibility of acceptance
+
+*** hypo 6
+
+sell car for 1200. "I accept and want you to put new tires on it"
+
+do we have acceptance or counteroffer?
+
+think its acceptance and new bargin. in previous case, it was worded as "confirm", no conditional language here.
+
+** creation of an option K
+
+two ways to create
+*** to pay consideration to keep the contract open
+
+if we enter into a contract, give money to keep the offer open for the week, offer is required to held open
+
+*** part performance or tender
+
+partial payment WHEN the acceptance method is performance.
+
+** electronic contracts
+
+*** terms
+
+**** box-top terms
+
+     terms that you find when you went into the store and there were terms on the box product. courts likely to enforce because party had notice of the box-top terms because its on the outside of the box and you would have had the opportunity to read through those terms before you purchased or used when you got home
+
+**** shrinkwrap terms
+
+     inside the packaging so courts are less likely to apply those terms unless they are the types of terms a reaonable person would expect in those types of things. buyer doesn't have the opportunity to read through before purchasing.
+
+**** brosewrap terms
+
+     somewhere on the website and you have to browse to find them. perhaps at bottom or a link to terms and conditions.
+
+**** clickwrap terms
+
+     the "i accept", affirmative step. require user to do some physical manifestation by clicking and in the course of using the site.
+
+*** considerations for electronic K
+
+    courts will weigh these in each case, no one is particularly dispositive
+
+**** conspicuousness
+
+     location, color, size, hidden, prominent
+
+**** notice
+
+     while some overlap, explicit step, buying something do you see it as part of checkout
+
+**** reasonable expectations
+
+     what do we expect to find in these boilerplate provisions. arbitration agreements (these are found by courts to be reasonable), choice of law,
+
+** register.com v verio
+
+   verio argues that they never agreed to the terms. court says that while that argument works on the first query, after the first one they had knowledge of the conditions of the deal and they continued to take the fruits of the deal.
+
+   uses an analogy to a farm stand and takes an apple, see a sign saying pay for the apple as you are leaving. no notice for the requirement to pay for the apple until after the transaction.
+
+   going back to the fur coat case, was turned away on the coat. there there were different ads and house rules each time whereas here we have the same offer and same conditions each time
+
+** nguyen v barnes and noble
+
+   do we know that terms are at the bottom of th epage these days?
+
+   an issue with acceptance.
+
+   in 2017, knowing what we know,
