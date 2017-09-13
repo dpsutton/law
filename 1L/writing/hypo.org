@@ -15,3 +15,14 @@ conveyance: other means of conveyance has not been met because an "other means" 
 bac: The blood alcohol content Rubble's BAC was 0.09%.
 
 Rubble cannot be successfully prosecuted for violation of LA RS.1498 because although he fulfilled the elements of operation and BAC threshold elements, a skateboard does not constitute an "other means of conveyance".
+
+** notes
+
+1. paragraph form
+2. answer call of question -> yes/no, chase, did / dit not violate la r.s. 14:98
+3. give rule 14:98
+4. address each element of 14:98
+   1. chase was in operation because ...
+   2. chase bac exceeded the legal limit because ...
+   3. the method of travel employed by chase is/is not an "other means of conveyance" because according to /Williams/ and /Carr/, an "other means" is ... and Chase's method is/is not ...
+   4. so, since all of the elements have (not) been met, Chase can(not) be convicted of violation of 14:98
