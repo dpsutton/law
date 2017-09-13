@@ -1,6 +1,6 @@
 * Week 1
 ** Legal Writing
-*** DONE Wedsnesday
+*** DONE Wednesday
 - chapters 1 & 2
 - print syllabus
 *** DONE Saturday
