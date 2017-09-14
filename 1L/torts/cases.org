@@ -715,3 +715,209 @@ There is no intentional tort claim.
 *** Holding
 
     The jury was correct in finding for P for the claim of false imprisonment.
+
+* Intention Infliction of Emotional Distress
+
+** State Rubbish Collectors Ass'n v Siliznoff
+
+*** Procedural History
+
+**** Facts
+
+     A man collected the garbage from a restaurant. The local garbage collectors association brought him to a meeting and told him that he had intruded on another's turf. He was told that if he did not sign papers to promise to pay the person who normally collected that garbage otherwise his truck would be burned or worse. He, after two hours, agreed to sign the paper. Following the meeting, the defendant was unable to work and became ill and vomited for several days. He did not pay the man and the garbage collectors bring suit for breach of contract.
+
+     Plaintiffs allege that all of their threats were to take place in the future so they gave no claim to assault.
+
+**** lower court
+
+     Jury veridict for Defendant Siliznoff 1250 general and 4000 punitive which the association appeals.
+
+*** Questions Presented
+
+    Does a cause of action lie when, "in the absence of any privilege, intentionally subject another to the mental suffering incident to serious threats to his physical well-being, whether or not the threats are made under such circumstnces as to constitute a technical assault"?
+
+*** Rule
+
+    "One who, without a privlege to do so, intentionally causes severe emotional distress to another is liable (a) for such emotional distress, and (b) for bodily harm resulting from it."
+
+*** Reasoning
+
+    When assaulted, you can have damages without injury. Same for battery, there can be damages for resulting psychological results. But why do these benefits accrue when the infliction is incidental rather than incidental? The court points to the restatement and shifting sentiment and affirms the lower judgment.
+
+*** Holding
+
+    The lower court is affirmed.
+
+*** Main Takeaway
+
+    The court will recognize the damages in intentional infliction of emotional distress.
+
+** slocum v food fair stores of florida
+
+   florida supreme court 1958
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff was in store, the defendant. sought damages for emotional distress or mental suffering, and a resulting heart attack and aggravataing pre-existing heart condition. Attributed to insulting behavior of employee of store while customer. Inquired of price, was dismissive and told "you stink to me". Alternatively, asserts that language used malicious or grossly reckess manner, "or with intent to inflict great mental and emotional disturbance".
+
+**** lower court
+
+     dismissed on "failure to state a cause of action", plaintiff appeals
+
+*** Questions Presented
+
+    Can deliberate rude speech give claim for IIED?
+
+    What is the line between "emotional distress" and "severe emotional distress"?
+
+*** Rule
+
+    "conduct exceeding all bounds which could be tolerated by society, of a nature especially calculated to cause mental damage of a very serious kind"
+
+    Standard is objective rather than subjective.
+
+*** Reasoning
+
+    "there is no inclination to include all instances of mere vulgarities, obviously intended as meaningless abusive expressions". Common carriers, hotels, etc have a special duty against offense but that theory should not extend to here, the general commerce.
+
+*** Holding
+
+    The lower court is affirmed
+
+*** Main Takeaway
+
+    That offensive words are not enough to sustain a claim of IIED
+
+** harris v jones
+
+   court of appeals of maryland, 1977
+
+*** Procedural History
+
+**** facts
+
+     GM, and one of its supervisors, Jones, made fun of a speech impediment of Harris. Allegation of "maliciously and cruelly ridiculed" him, "causing tremendous nervousness, increased the physical defect itself and further injuring the mental attitude fostered by the P toward his problem and otherwise intentionally inflicting emotional distress". Evidence that over 5 month period, 30 interactions verbally and physically mimicked stuttering disability. Asked for a transfer to anothre dept but was refused and chastised for repeatedly seeking assistance of employee grivance officer. Ongoing regular care of physician who notes a decline and prescribes pills to help.
+
+**** lower court
+
+     jury awards 3500 and 15000 punitive against both Jones and GM.
+
+*** Questions Presented
+
+    What is the boundary between severe and mere emotional distress. The court is deciding prong 4 of the tests below.
+
+*** Rule
+
+    outrageous conduct causing severe emotion distress (restatement 46)...
+
+    four elements must be present
+1. conduct must be intentional or reckless
+2. the conduct must be extreme and outrageous
+3. there must be a causal connectoin between the wrongful conduct and the emotional distress
+4. the emotional distress must be severe
+
+*** Reasoning
+
+    The court held the first two as met and decided they did not have to decide the third as the fourth was lacking. They noted that many wrongs in his life predated the incidents. And the evidence was not legally sufficient to warrant the appellation severe. His nervous condition may have een exacerbated, they were not caused. No evidence was introduced to show his impediment worsened.
+
+*** Holding
+
+    The actions were terrible but the results did not arise to the severity required for the actionable tort. Previous courts may have looked at 4 for damage magnitude but this element is required for a finding in the first case.
+
+*** Main Takeaway
+
+    The resulting emotional distress must be demonstratively severe. Preexisting conditions can give rise to such claims but there must be evidence of worsening in addition to the terrible behavior.
+
+** taylor v vallelunga
+
+   district court of appeal of california, 1959
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+     The plaintiff sued for battery. his daughter sued for IIED. Defendants object to the IIED for daughter and sustained, giving ten days for action to be amended. She failed to do so and the claim was dismissed. This is an appeal of that dismissal.
+
+*** Questions Presented
+
+    Can the witnessing of the beating of ones parent be the intentional infliction of emotional distress
+
+*** Rule
+
+    Its an intentional tort so there must be intent
+
+*** Reasoning
+
+    While this claim could be valid, there must be knowledge. Since they did not know that she was present, the beating could not have been done to intentional inflict emotional distress nor could they have known with substantial certainty that emotional distress would be produced by their actions.
+
+*** Holding
+
+    The lower court is affirmed as the intent element is lacking
+
+*** Main Takeaway
+
+** nickerson v hodges
+
+   supreme court of louisiana, 1920
+
+*** Procedural History
+
+**** facts
+
+     Plaintiffs were told of a buried treasure by a fortune teller. Defendants filled up a chest with dirt and rocks as a practical joke. The plaintiffs had been searching for months and boarding the fortune teller. The note included in the chest said not to open the inner portion for three days but to tell the heirs. It was intended to be found on april fools but was not discovered until april 14. It was brought to the bank who inspected it. Upon the big reveal three days later, one of the women noticed it had been tampered with and yelled about robbery. One of the plaintiffs flew into a rage. Someone had been gainfully employed but had abandoned it in search of the treasure. Someone had been in an insane asylum previously.
+
+**** lower court
+
+     Verdict in favor of defendants, now before the court on appeal.
+
+*** Questions Presented
+
+    Can the actions of the practical joke arise to some type of IIED
+
+*** Rule
+
+    intentional infliction
+
+*** Reasoning
+
+    Had the woman been alive, they would have awarded substantial damages. the reveal was quite embarrassing, there was quite a bit of reliance on it. During the reveal they were very agitated and there was violence. The woman died swearing she had been robbed.
+
+*** Holding
+
+    As they were unable to award the woman substantial judgments, judgment entered for plaintiff's heirs, now plaintiffs in place, for $500
+
+** White v Monstanto Company and Gary McDermott
+
+   supreme court of louisiana, 1991
+
+*** Procedural History
+
+**** facts
+
+     Plaintiffs were waiting for safety material to handle hazardous chemicals at work. While waiting, they were expected to busy themselves. They cleaned and did random work but sat down eventually. Their boss, a long standing employee, berrated and hurled profanities at them for about a minute, and then plaintiff left the area. she went to mcdermott's office, complaining of pounding in her head and difficulty breathing, he suggested a doctor. P spent two days in the coronary care unit and another day in a regular room. Heart attack was ruled out and diagnosis was acute anxiety reaction, a panic attack. released after three days and with medication. returned to work within a week, was paid regular pay while off from work and her medical bills. Continued working there and transferred to mcdermott's department at her own request.
+
+**** lower court
+
+     judgment in favor of white, Ds appeal. Court of appeals affirms the $60,000 damages to employee
+
+*** Questions Presented
+
+    Can a one minute outburst of profanity satisfy extreme and outrageous conduct elemtent for the intentional tort of infliction of emotional distress.
+
+*** Rule
+
+    one who by extreme and outrageous conduct intentionally causes severe emotional distress to another is subject to liability for such emotional distress, and if bodily harm to the other results from it, for such bodily harm.
+
+    conduct that meets this threshold may be otherwise priviledged under the circumstances. "liability does not attach where teh actor has done no more than to insist upon his legal rights in a permissible way, even though he is aware that such insistence is certain to cause emotional stress." This countenances disciplinary action, where stress is expected perhaps, and is not actionable without a pattern of "deliberate, repeated harassment over a period of time".
+
+*** Reasoning
+
+    "The outburst must be so outrageous and extreme in degree to go beyond all possible bounds of decency, and to be regarded as atrocious and utterly intolerable in a civilized community." The one minute tirade does not rise to this standard. While using vile language, the outburst did not go "beyond all possible bounds of decency". the defendant knew she was religious, and had an intention to cause some distress as they were employees sitting on the job. "but there is no indication that his spontaneous, brief, intemperate outburst was intended to cause emotional distress of a severe nature".
+
+*** Holding
+
+    reversed as not meeting the extreme or outrageous behavior and lacking in intent not otherwise protected in a disciplinary section.

@@ -69,3 +69,11 @@ already on twen
 *** DONE revoking offers 295-299
 *** DONE acceptance 302-309; 323-334
 *** TODO acceptance 335-349; 352-353
+* Week 4
+** TODO torts [6/6]
+*** DONE state rubbish
+*** DONE slocum
+*** DONE harris
+*** DONE taylor
+*** DONE nickerson
+*** DONE white
