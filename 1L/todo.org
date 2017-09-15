@@ -77,3 +77,10 @@ already on twen
 *** DONE taylor
 *** DONE nickerson
 *** DONE white
+** contracts [0/6]
+*** TODO filling in the gaps384-398
+*** TODO form ks 408-419
+*** TODO start battle of forms 419-436
+*** TODO finish battle of forms 419-436
+*** TODO late terms 436 - 449
+*** TODO start parol evidence 451 - 468

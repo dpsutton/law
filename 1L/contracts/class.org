@@ -585,3 +585,235 @@ partial payment WHEN the acceptance method is performance.
    an issue with acceptance.
 
    in 2017, knowing what we know,
+
+* sep 14
+
+** terms in a K
+
+*** proimisorry terms
+
+    the essential terms of the K. what did they promise to form the K
+
+*** conditions
+
+    a condition is a term i na K whose outcome is not clearly determined at the time of contract. condition to the contract, but if this condition does not happen then neither one on the hook for the K. we think of something that the parties have no control over and have no control over.
+
+*** promissory conditions
+
+    very little time, more complicated. conditions for which one of the parties may hav esome promissory control over. often times when buying real estate or car there's a financing requirement. so part is promising to get the right type of financing. you don't know for sure if that's something you can do.
+
+*** other terms
+
+** electronic contract considerations
+
+*** conspicuousness
+
+    bolded, packaging, where is it
+
+*** notice
+
+    popup, actual step
+
+*** reasonable expectatoins
+
+    things we would expect from any software.
+
+*** knowledge
+
+    the court wsa really concerned with whether the parties knew the terms. so its really how the first three create the fourth.
+
+** contracting by automation
+
+- buyer uses an automated system to place orders
+- seller uses an automated system to take orders
+- mutual assent?
+
+court is considering automated systems.
+
+how do we establish mutual assent when we have no parties directly involved with the transaction
+
+*** arguments that there can be no mutual assent
+
+- cant be meeting of the minds since there are no minds.
+
+*** that there can be mutual assent
+
+- courts have said they won't judge mutual assent at the time of contracting but the human decisions when setup to do the K'ing. the key is they have to match.
+
+* Interpretation
+
+** Preliminary matters
+
+*** interpretation v construction
+
+    differences. interprtatoin: inferring meanings from facts. when interpreting, looking at what the parties, said, did, interaction, assess credibility, who do we believe more. its a faction analysis. in construction, we are inferring meaning as a matter of law. when looking at construction its one of those situations where its clear that one of the parties intended to contract but they left something out that neither party thought about and so now we have to use rules of construction to fill in the missing terms that they would have otherwise agreed to.
+
+*** distinction
+
+    distinction between this. and appellate has different standards between the two. appellate courts can review questions of law using an abuse of review standard and in many cases can review /de novo/. So there is a better liklihood of an appellate court changing questions of law rather than questions of fact. appellate courts have a much harder time changing facts. they acknowledge they didn't see or hear the witnesses, cold record, don't even get necessarilly as much evidence. trust the fact finder.
+
+**** questions of law
+
+     not gonna be based on a fact pattern. how a particular rule functions. outside of K, questions related to the constitutionality of a statute.
+
+**** questoins of fact
+
+     a question of fact is was this an offer. does this thing fit the elements required for an offer
+
+*** interpretation
+
+1. start with the words use
+2. look to the normal and accepted meaning of those terms
+3. context in which the words were used - K as a whole
+4. negotation discussion & conduct
+5. course of performance - actions after K formed
+6. course of dealing - conduct in previous dealings
+7. customs and usage
+
+*** ambiguous vs vague terms
+
+    ambiguous: more than one reasonable meaning. if terms are ambiguous and they can't agree, court will toss out the K. Vagueness is different
+
+    vague: the breadth of a term.
+
+    "objective approach with a significant subjective twist".
+
+**** difference
+
+     ambiguous, looking at a term that could have 2 or more meanings. a vague term could cover a big range.
+
+*** latent v patent ambiguity
+
+    latent: does not readliy appear in the communication
+
+    patent: is apparent in the communication
+
+*** consideratoins for ambiguous K
+
+**** no party aware of the ambiguity
+
+generally no K
+
+unless both parties intended the same meaning
+
+**** both parties were aware of the ambiguity but didn't talk about it
+
+find no K
+
+it doesn't make sense to grant one parties meaning over the other parties.
+
+**** only one party aware of the ambiguity
+
+generally K enforced based on the non-aware party's terms
+
+** raffles v wichelhaus
+
+"mutual mistake"
+
+contract for the sale of cotton to arrive on "Peerless" from bombar.
+
+lower court says you got your cotton on a boat from bombay. pay up. appellate court says there was no "meeting of the mind" because they never agreed on which boat. There is a much more subjective standard. court decides that this fails at formation. from a reasonable point of view, was there mutual assent? from an objective point of view it seems like there was mutual assent.
+
+** oswald v allen
+
+"mutual mistake"
+
+dfeendant has two coin collections. one called swiss collection, one rare collection, but has swiss coins in both. plaintiff looks at the swiss coin collection and is shown a safety deposit box. looks at the swiss coins in the rarity collection as well. enter into an agreement. wsa gonna sell the swiss coin collection for $50k but P thought he was buying all of the swiss coins across both collections but D thought she was only selling the swiss collection and keeping the rare collection in total
+
+court decides that there was no K and upholds the lower court ruling. same ruling as in previous case, there was no meeting of the minds, etc.
+
+what are the promissory terms of this K? money for coins. unlike in previous K, concerned about promissory term, an essential term in this K whereas we were looking at a smaller term in the original K. we get to the same result in both, but is that right?
+
+*** ambiguous
+
+when ambiguous we are looking to see what the parties knew. if both parties are in the dark, NO K.
+
+what about if in the dealings, there was correctoin of ambiguous terms. "the courts gonna find a K but on whose terms?. Gonna find under allen (the old lady). during correction, its clear to both sides the other side wants the other. they are aware of the ambiguity and both choose the opposite sides and therefore no K"
+
+** restatements 200 & 20245
+
+*** goal
+
+ascertaining the meaning of the promise or agreement
+
+what did the parties K to?
+
+*** restatement 201 different meanings
+
+have the praties attached differemtn meanings?
+
+if no, then the shared meaning is applied.
+
+if yes, did 1 part know or have reason to know that th eother party attached a different meaning while the other party did not?
+
+if yes the meaning attached by the "other party"
+if no then probably no K.
+
+** Weinberg v. Edelstein
+
+"vague terms"  what is a dress
+
+P's lease from 1949 provided they could sell dresses coats and suits. landlords promised ont to permit other tennants to sell ladies dresses coats and suits.
+
+D's lease took over someone in 1950
+
+sold hosiery, gloves, lingerie, bras... and they knew of the restrictive covenant in P's ease.
+
+problem comes about when D sells skirts and tops that could be worn together but didn't have to be. the restrictive covennt are legal part of an agreement where use of land or whatever you're using is restricted in some way.
+
+procedurally P sues for injunction against D. this is the merits part after an injunction. so we take our time. what did these parties understand what a dress was. both definitions fit the. so next look at industry definitions. lots of manufacturing in US and could look at unions and looked at dictionary, looked at recent style trends. and the style was changing while the K was made and they had the chance to update the language but they did not.
+
+holding that the D was not selling dress. D could not compel the customer to buy both. injunction was denied, can't advertise as pairs, can't sell as pairs, can't price as pairs.
+
+how does the court make that determination. when does it stop? how does it try to resolve this. will look beyond the K to find the meaning thats most reasonable. "I don't want to do damage. gonna attempt to interpret it in a way that is consistent with our tools and does the most justice for both parties"
+
+** frigaliment importing
+
+"chicken case"
+
+P: chicken  = young chicken, broiling and frying
+D: chicken = more inclusive, includes older stewing chicken
+
+
+court steps
+
+1. dictionary def: both sides supported
+2. usda regulations : supported both sides
+3. terms of the K was a whole.
+   1. supported the seller.
+   2. price of a larger bird was lower than smaller bird suggesting lower quality and K would include another price
+4. context of the dealing: did not clearly support either party
+5. course of performance :
+   1. did not clearly support either party
+   2. no common intention (although acknowledging that the buyer protested for the first shipment, but accepted that and continued accepting further shipments without complaint)
+
+now can't decide, and follows lower court. buyer had the burden, buyer failed to meet that burden
+
+takeaway. courts are going to again, don't have to have a clear answer. gonna look totality of the circumstances. it the court could have found a dictionary definition the court may have stopped there.
+
+** ucc article 2: sale of goods
+
+sale: passing of _title_ from the seller to the buyer for a price
+goods: movable things, including manufactured goods, livestock, and growing crops
+
+NOT limited to merchants, but there are special rules when the transaction involves a merchant
+
+applies to the sale of goods. in order to have the sale of goods you have to have a passing of a title form one to another. every time you go to a store you get a title transfer. every time you sell a textbook UCC applies.
+
+* readings
+
+tuesday
+
+** filling in the gaps384-398
+
+** form ks 408-419
+
+** start battle of forms 419-436
+
+thursday
+
+** finish battle of forms 419-436
+
+** late terms 436 - 449
+
+** start parol evidence 451 - 468
