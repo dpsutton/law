@@ -1,0 +1,255 @@
+#+OPTIONS: toc:2
+* COMMENT readings
+  Tuesday: finish up this week's readings -- pages 335-349, 352-353;
+  Start in interpretation -- pages 359-361; 370-384 (skim pages 361-370)
+
+  If we get through all of that on Tuesday, Thursday's readings will be:
+  Filling in the Gaps -- pages 384-398 [skim 398-407]
+  Form Ks -- pages 408-417
+
+* chapter 5 discerning the agreement
+
+  Once it is concluded that there has been mutual assent to a contract, there remains the task of ascertaining the terms that will bind the parties
+
+1. interpreting the meaning of the words
+2. gap-filling when a situatoin arises that is not explicitly handled by the terms of the parties' agreement.
+3. identifying which term is adopted by the parties when, though it is clear the parties intended to enter into contractual relations, the terms of the offer differ from the terms of the acceptance.
+
+
+* interpreting the meaning of the terms
+
+  language deficienies:
+
+1. ambiguous, terms that have more than one meaning
+2. vagueness, when the question is whether the term was meant to apply beyond its clear core meaning
+
+
+courts have developed an objective theory with a subjective twist.
+
+** ambiguous terms
+
+*** COMMENT purpose
+
+consider the problem of "misunderstanding" which can occur when words have more than one meaning and a question arises to which, if any, was the meaning agreed to by both parties.
+
+bear in mind, is it objective or subjective?
+
+*** raffles v wichelhaus
+
+court of exchequer, 1864
+
+**** Procedural History
+
+***** facts
+
+      Defendant purchases cotton from Plaintiff to ship from India on a ship named Peerless. A ship arrives which sailed in October with no cotton. A ship arrives which sailed in December with Cotton, but Defendant refuses to purchase. Sue for breach of contract.
+
+***** lower court
+
+      The lower court ruled in favor of the Plaintiffs holding essentially that the shipping date was not specified and /whihc/ peerless by which it arrived was not an essential term of the K.
+
+**** Questions Presented
+
+     Was there a K formed when the buyers meant one ship Peerless but the sellers meant another?
+
+**** Rule
+
+     There must be consensus on the meanings of the terms in a K. Here there was evidence introduced that the parties did not and thus not K.
+
+**** Reasoning
+
+     Since the term was ambiguous and the parties had differing meanings attached to the term, there was never a K in the first place and thus the Defendants must prevail.
+
+**** Holding
+
+     Overruling the lower court, this court ruled that there was no K formed. However, there have been several criticisms. The court never took an objective standard but a subjective one. Was there a reason that the Defendant knew of another Peerless such that he would have an expectation to /which/ ship he was obligated?
+
+**** Main Takeaway
+
+     What is an objective standard for judging interpretation? And how much subjectivity should come in? Here was there an objective reason for a misundertanding? would an average cotton merchant know about the two peerless ships? Was the ship a material term or an incidental one? Is it important that the parties were allowed evidence to show they disagreed? Is it enough on the face of the K that they did not disagree?
+
+
+*** oswald v allen
+
+**** Procedural History
+
+***** facts
+
+      Oswald, Plantiff, offered to purchase the swiss coins from Defendant. The woman had offered her swiss collection for sale, but this did not include swiss coins in her rare coins collection. The plantiff did not speak good english and went through his brother. A deal was struck but later Allen wanted to back out after her children expressed sentimental interest.
+
+***** lower court
+
+      The lower court ruled that a K did not exist thus ruling for the defendant.
+
+**** Questions Presented
+
+     Does a contract exist when the two parties materially differ about term(s) of the K
+
+**** Rule
+
+     when any of the terms used to express an agreement is ambivalent, and the parties understand it in different ways, there cannot be a contract unless one of them should have been aware of the other's understanding.
+
+**** Reasoning
+
+     there is no sensible way of choosing which terms to legally enforce so the agreement is a nullity
+
+**** Holding
+
+     there was no contract as the parties never had the "one mind" that was required.
+
+**** Main Takeaway
+
+     the contract was ambiguous, not vague, and neither was aware of the overloaded term on the other's view. in this case the K is voided. However, had one of the arties known of the confusion on the other side the result could be different.
+
+
+** vauge terms
+*** weinberg v edelstein
+
+    supreme court, new york county 1952
+
+**** Procedural History
+
+***** facts
+
+      The Plaintiff brings suit for violation of a restrictive covenant on his lease. The plaintiff's lease prevents the selling of dresses by other lease holders. The defendant recently moved in and sell swomen's clothes, including two piece outfits of blouses and skirts. The question before the court is are these ensembles dresses or can they be?
+
+***** lower court
+
+      I think this is actually the trial court in this instance. the supreme court of NY is not the final court which goes by the name court of appeals.
+
+**** Questions Presented
+
+     When a term is vague, how does the court resolve the term toa specific meaning for enforcement.
+
+**** Rule
+
+     the judge consults the dictionary, industry terms, industry norms like manufacturing unions, and finally consults trends in the industry. once at some point with a plan, he interprets the terms in the covenant so as to protect both parties.
+
+**** Reasoning
+
+     the court recognized both the power of the covenant as well as the right of the defendant to merchant items outside of that covenant. finding no solution in the dictionary, trade unions, he turns to customs. the important part is that "dress" is in the process of becoming even more vague and it was on the plaintiff to express the restrictions more clearly on the defendant. absent this he gets a conservative defintion of dress for the purposes of his covenant.
+
+**** Holding
+
+     The trend has been for two pieces to be worn as dresses and not. Seeing as the contract for the defendants was just recently written, the plaintiff had the opportunity to clarify dress or introduce restrictions on the D to reflect the evolving play between dress versus blouse and skirt combo. Barring this, the court is reluctant to impose restrictions on defendant not in a strict construction. The defendant must not sell the two pieces as a single unit and cannot compel the purchase of one side with the other. But otherwise dress is read to be the single piece.
+
+**** Main Takeaway
+
+
+
+*** frigaliment importing co v bns international sales
+
+    US District Court, Southern District of NY, 1960
+
+**** Procedural History
+
+***** facts
+
+      Defendant entered an agreement to provide chicken to Plaintiff. Specifying USDA grade A chicken, specified weights. The industry on the retail side uses chicken to indicate broilers and fryers and reseves the term fowl for the older chickens more suitale for stewing. The defendant was a newcomer to the industry and not aware of this customary usage in the industry. However, NY law requires a showing that this use is "so long continuance, so well established, so notorious, so universal and so reasonable in itself, as that the presumption is violent that the parties contracted with reference to it, and made it a part of their agreement". This show failed as while understood on the consumption of bird side, the processing side had no use of this grading and did not rely on it.
+
+      Defendant provided older chickens to satisfy the heaving category of birds in the contract. Plaintiff protested but accepted the first shipment. Further they greenlit the second shipment of birds without clarifying. Plaintiff brings this action for breach.
+
+***** lower court
+
+      this is the trial court
+
+**** Questions Presented
+
+     Is a stewing chicken a chicken as used in the contract between the parties?
+
+     How does one resolve a vague term in a contract?
+
+**** Rule
+
+     The answer to the latter question informs how to answer the former. The court probes the industry to find out what is meant by chicken. They find there are two permeating definitions and the indsutry recognizes it can be kinda overloaded and seeks to minimize which concept is used. Recognizing that a contract is the the agreement of "two sets of external signs", a subjective standard can come in when a defendant uses one of the recognized meanings. It is on the plaintiff to demonstrate that different meaning was meant in the contract, a barrier they failed to overcome.
+
+**** Reasoning
+
+     Industry practices differ. The cost of the birds was priced below the going rate for younger birds. the defendant was a newcomer to the industry and usage of "chicken" as the broilers is not so pervasive as to attach meaning.
+
+**** Holding
+
+     The plaintiffs have failed ot persuade the court that their interpretation of chicken is controlling. The defendant believed they could satisfy the contract under their notion of chicken and its not clear why this was not controlling.
+
+**** Main Takeaway
+
+     When the terms are vague, follow several steps to resolve. dictionary, common usage, terms of the contract itself, context of the dealings, and then finally burden of proof
+
+** filling in the gaps
+
+   interpreting terms that are present and supplying terms when contracts are silent on a particular issue. when filling gaps, difference between implied-in-fact and implied-in-law.
+
+*** intro
+
+**** implied-in-fact
+
+     "those that the parties actually, albeit implicitly, have agreed to
+
+**** implied-in-law
+
+     thought to be imposed on parties without their consent. default rules and immunitable rules. default rules refer to those legal rules that the parties can avoid or vary by means of an express clause that differs from the term a court will otherwise supply by default. immutable rules, by contrast, may not be varied by consent and will override any express clause to the contrary.
+
+**** further considerations
+
+1) need to decide if there is sufficient manifestation of assent to conclude that a legally enforceable contract exists
+2) how to interpret the assent that has been manifeted.
+
+**** illusory promises
+
+"is a promise "illusory" because it leaves complete discretion to perform or not in the hands of the purported promisor. i neach of these cases, the court fills this gapin the manifetation of assent by supply an obligation to exercise this discretion in "good faith". here we are concerned only with how and why the court fills the gap, in constrast with sun printing, where it refused to do so" p. 392
+
+*** Sun Printing & Publishing Ass'n v. Remington Paper
+
+    court of appeals of new york 1923
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff agreed to buy and defendant to sell 1,000 ton of paper per month. The price and duration would be negotiated on an ongoing basis to be capped by the price charged by the Canadian Export Paper Compnay to large customers. The contract failed to anticipate what happens when no agreement is made (invoking the capped price) and then the rate the Canadian Export Paper Company fluctuates during this time. Must the agreement be restarted or the Plaintiff's price fluctuate accordingly? And this is when there were no agreed upon terms.
+
+***** lower court
+
+      Super hard to follow: Action by Sun Printing & Publishing Association against the Remington Paper & Power Company, Inc. From an order of the Appellate Division . . . which reversed an order of the Special Term denying plaintiff’s motion for judgment on the pleadings, and granted said motion, defendant, by permission, appeals.
+
+      Defendant Remington is appealing a motion for judgment on the pleadings on the following certified question, "does the complaint state facts sufficient to constitute a cause of action?" Defendants are questioning the underlying contract at all rather than even an argument about its interpretation.
+
+**** Questions Presented
+
+     When a K is missing terms, how do we determine whether to abandon the K or conjure terms?
+
+**** Rule
+
+     The contract lacked key operative terms and the court should not read them in.
+
+**** Reasoning
+
+     The K required price and duration of that price to be negotiated. When the defendants stated their intention not to negotiate, this necessarilly left the durations unspecified. This causes problems as how long does the capped price last? Does the Plaintiff get to continue at the maximum price until he feels like changing when a new maximum price is in his favor? Were it 12 option contracts, the purchaser would have a one way ratchet to continue under the current option and only exercising the option when it was in his favor. There was an agreement to agree on the term, something from which the defendant can walk away from.
+
+     As to whether it is on the court to repair the K into a state to keep it functional:
+     "there is need, it is true, of no high degree of ingenuity to show how the parties, with little change of language, coudl have framed a form of contract to which obligation would attach. the difficulty is that they framed another. we are not at liberty to revise while professing to construe".
+
+**** Holding
+
+     The K contained agreements to agree to terms after the first few months. This provides the ability for D to walk away, which it did.
+
+**** Main Takeaway
+
+     It is not for the courts to repair but to construe. Cardozo sets a high bar for what the court can impose into a contract. "no high degree of ingenuity" was required in this case but they refrained.
+***
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
