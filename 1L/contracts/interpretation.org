@@ -196,7 +196,7 @@ court of exchequer, 1864
 
 **** illusory promises
 
-"is a promise "illusory" because it leaves complete discretion to perform or not in the hands of the purported promisor. i neach of these cases, the court fills this gapin the manifetation of assent by supply an obligation to exercise this discretion in "good faith". here we are concerned only with how and why the court fills the gap, in constrast with sun printing, where it refused to do so" p. 392
+     "is a promise "illusory" because it leaves complete discretion to perform or not in the hands of the purported promisor. i neach of these cases, the court fills this gapin the manifetation of assent by supply an obligation to exercise this discretion in "good faith". here we are concerned only with how and why the court fills the gap, in constrast with sun printing, where it refused to do so" p. 392
 
 *** Sun Printing & Publishing Ass'n v. Remington Paper
 
@@ -236,7 +236,156 @@ court of exchequer, 1864
 **** Main Takeaway
 
      It is not for the courts to repair but to construe. Cardozo sets a high bar for what the court can impose into a contract. "no high degree of ingenuity" was required in this case but they refrained.
-***
+*** New york central iron works co v united states radioator co
+
+    court of appeals of new york 1903
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff secured a contract from Defendant for radiators for "their entire radiator needs for the year 1899". After the K formation, iron prices rose but the K price remained the same. Plaintiffs were able to undercut the market and their order volume went up quite a bit. Defendant claims that there was a mutual mistake in framing the K, since the intention was to limit the quantity of goods to be delivered to an amount such as had been called for in previous years of similar dealings between the parties.
+
+***** lower court
+
+      lower court ruled for plaintiffs, rejecting the argument limiting the contract to the volume of goods sold in previous years.
+
+**** Questions Presented
+
+     Can a contract have terms introduced by a court to limit exposure when a commodity underlying has increased in value?
+
+**** Rule
+
+     Actors in a K have a responsibility to act responsibly and reasonably towards each other.
+
+**** Reasoning
+
+     The contract is open to good faith ordering. The K may be used for purposes contemplated by it, but not more. speculation was not within the purposes of the agreement, and had the defendants offered evidence of it, they could have prevailed.
+
+**** Holding
+
+     There was no evidence that the Plaintiffs had acted unreasonably or irresponsibly. As such, the lower court ruling in favor of plaintiffs was upheld.
+
+**** Main Takeaway
+
+     Actors in a K have a duty to behave reasonably and responsibly towards each other. this is not to say that benefits can be reaped, but the pursuit of these unforseen benefits much stay within the bounds of the original K. The court is willing to read a limit onto the commodity amount, but not to the degree requested--the same as previous years before the price spike--but a reasonable amount tied to the plaintiff's reasonable needs. It was difficult to separate increase in business due to price hike versus speculation in the iron market.
+
+*** Eastern Air Line, Inc, v. Gulf Oil corp
+
+    US District Court, Souther District of Florida, 1975
+
+**** Procedural History
+
+***** facts
+
+      Gulf tried to back out of its contract to supply jet fuel to Eastern airline. Presumably this arises during the oil embargo when gas prices have risen steeply. Gulf argues that this is not a binding requirements contract, was void for want of mutuality, and was "commercially impracticable".
+
+***** lower court
+
+      this is the court of first instance
+
+**** Questions Presented
+
+     Does a requirements contract contain enough certainty to be considered a legally enforceable contract?
+
+**** Rule
+
+     Requirements contracts are specifically recognized
+
+**** Reasoning
+
+     Requirements contracts were found invalid previously but the UCC had recently been adopted and provided for them. They required an operating business which provided an expectation of quantity, rounding out the lacking concrete terms previously missing. There was mutuality and definiteness bound by the estimated amount of commerce.
+
+**** Holding
+
+     The requirements contract is legally enforceable.
+
+**** Main Takeaway
+
+     I'm not too sure. It seems striaghtforward out of the UCC. this isn't even an evolving standard of common law like IIED or the like, its statutory language. The opinion never touches on the commercial impracticable complaint so presumably that would be the main takeaway? I'm sorry the iranians ruined the oil market but you have 6 more years on your contract? But this should play a larger part in the opinion if so.
+
+*** wood v lucy, lady duff-gordon
+
+    court of appeals of NY, 1917
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was a socialite with an un-monetized fashion influence. She contracted with Defendant to monetize this influence and share half of the profits. Some way through, Defendant endorsed fabrics without the knowledge of the Defendant, who was promised exclusive use of her influence. Plaintiff sued for breach and Defendant argues no K as there is no duty imposed on Plaintiff.
+
+***** lower court
+
+      A lower court denied a motion by defendant for judgment in her favor which was reversed by the appelate court. This is an opinion about that judgment for the defendant in the final court of NY.
+
+**** Questions Presented
+
+     Under an exclusive licensing agreement, is there an implied duty on the license executor?
+
+**** Rule
+
+     When promises are otherwise useless, an obligation to pursue them can is implied in the contract. But these promises that would otherwise be useless have value in "enforc[ing] the conclusion that the plaintiff /had/ some duties".
+
+**** Reasoning
+
+     The Plaintiff had two promises that were utterly worthless without action on his part: giving half of the profits and a monthly accounting of the money. Without an implied duty on his half these would mean nothing.
+
+**** Holding
+
+     The promises to share the profits and monthly accounting was an implicit promise to undertake actions to generate these revenues. There was binding promise on the side of the Plaintiff and therefore there was no missing element from K formation.
+
+**** Main Takeaway
+
+* identifying the terms of the agreement
+
+** form contracts or "contracts of adhesion"
+
+*** intro
+
+    challenge our notion of assent: written by one of the parties and generally unread by the other. "when the form ued by one party conflicts with the form used by the other, we are faced with the problem of identifying which terms govern"
+
+*** carnival cruise lines v shute
+
+    supreme court 1991, Justice Blackmun
+
+**** Procedural History
+
+***** facts
+
+      The plaintiffs booked passage on a cruise ship leaving LA and traveling to mexico from the state of Washington. While in international waters, the plaintiff slipped and injured herself on a guided tour of the kitchen. She brought suit in federal district court in Washington, contrary to a forum selection clause stipulating all litigation must occur in Florida. This action is whether the forum selection clause is enforceable, and the suit therefore moot.
+
+***** lower court
+
+      The district court dismissed for lack of jurisdiction since the ties to the state of washingotn were insubstantial. the 9th circuit refused to enforce the forum selection clause and carnival cruise lines appeals.
+
+**** Questions Presented
+
+     Are non-negotiated forum-selection clauses legally enforceable when the plaintiff has had notice?
+
+**** Rule
+
+     The non-negotiated aspect is immaterial if the terms are reasonable and are subject to fundamental fairness scrutiny.
+
+**** Reasoning
+
+     The forum selection clause is valid. Just because it is non-negotiated does not invalidate it. There are good reasons for it and the customer benefits from reduced fares for its good reasons. The selection does not violate a fundamental fairness; the cruise operates frequently and is based in florida. further, respondents note they were on notice of the clause.
+
+**** Holding
+
+     the forum selection clause was reasonable and therefore valid. It was reasonable for several reasons, including benefits accruing to the plaintiffs.
+
+**** dissent from stevens
+
+     notes that the terms are tiny, in response to the court's highlighting of the operative clause. the terms come /after/ purchase and receipt of the ticket. the ticket also includes a limiting refund clause, and thus the average consumer would risk having to sue in Florida rather than lose the value of their ticket without a refund. This choice does not render the forum choice as reasonable.
+
+     this and similar mechanisms all allow for slight tipping of the scales of justice, which can cumulatively add up. there are two strands of traditional contract reasoning that both argue against the result of the court. traditionally, hightened scrutiny is placed on form contracts with no negotiation with a large discrepancy of bargaining power. further, some question if there can be a contract at all as there is no "manifesting knowledge and voluntary consent". The second strand of traditional contract theory objects to the forum selection as against public policy. forum selection can be invalidated if not bargained for, creates additional expense for one party, or denies one party a remedy.
+
+**** Main Takeaway
+
+
+*** caspi v microsoft network
+
+superior court of NJ, appellate division, 1999
 
 **** Procedural History
 
@@ -244,12 +393,22 @@ court of exchequer, 1864
 
 ***** lower court
 
+      Ruled in favor of microsoft that its forum selection clause stipulating washington courts is valid
+
 **** Questions Presented
+
+     Are non-negotiated forum-selection clauses legally enforceable when the plaintiff has not necessarily notice?
 
 **** Rule
 
+     The clause is binding.
+
 **** Reasoning
 
+     Shute is nearly dispositive except that the plaintiff's did not stipulate to have read the terms. However, the plaintiff's had ample notice and time to read. the terms were not hidden, followed the standard format and were reasonable.
+
 **** Holding
+
+     The contract is binding and the NJ court lacks jurisdiction.
 
 **** Main Takeaway
