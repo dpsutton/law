@@ -1,0 +1,49 @@
+* COMMENT hypo
+  In the meantime, the friends started to line up for the race.  Chase powered up his hover board and placed it at the starting line.  Skye, who chose to compete in rollerblades, strapped them on and approached the line.  Last was Marshall, who fancied himself as fast as Usain Bolt, and decided to race on foot.  Each of the participants had a blood alcohol concentration of 0.09%.
+  Once everyone lined up, Rocky gave the signal to start, and the race began. About halfway through the race, the police showed up in regard to the call from the neighbor.  All of the participants finished the race, but unfortunately, the cops were waiting for them at the finish line when they did.  Officers Goodway and Humdinger ultimately apprehended Chase, Skye, and Marshall for operating a vehicle while intoxicated under La. R.S. 14:98.
+
+  Using only the cases State v. Williams, 449 So. 2d 744 (La. 1984), and State v. Carr, 99-2209, (La. 5/26/00), 761 So. 2d 1271, as well as the excerpt below regarding La. R.S. 14:98, determine whether Chase, Skye, and Marshall violated the aforementioned statute.  In order to do so, using Williams and Carr, you must come up with a rule regarding “other means of conveyance.” Be sure to clearly and succinctly give the rule that you synthesize from the aforementioned cases.
+
+
+  La. R.S. 14:98. Operating a vehicle while intoxicated
+  A. (1) The crime of operating a vehicle while intoxicated is the operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance when any of the following conditions exist:
+  (a) The operator's blood alcohol concentration is 0.08 percent or more by weight based on grams of alcohol per one hundred cubic centimeters of blood.
+  Additionally, you can use the following link to view a short video which shows what a hover-board looks like in motion.
+
+* Facts
+
+  The three defendants, Chase, Skye, and Marshall, were all arrested during a race in a public street. Each defendant was charged under La. R.S. 14:98 Operating a Vehicle While Intoxicated. During the race, each defendant utilized a different mode of transportation: Chase on a hoverboard, Skye on rollerblades, and Marshall on foot.
+
+* Rule
+
+  The law they are charged with has three elements for our purposes, 1) "operating", 2) "of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance", 3) a "blood alcohol concentration [] 0.08 percent or more by weight".
+
+  As none of the methods of transportation the race participants used are explicitly mentioned in the enumeration of La. R.S. 14:98, the meaning of "other means of conveyance" must be determined. Turning to /State v. Williams/, we use that court's statutory construction that for a method of conveyance to fall under the "other means of conveyance" clause, that conveyance must be inanimate, motorized, and "control must be dependent on actions of the driver."
+
+* Marshall
+
+  Marshall did not violate La R.S. 14:98 when he participated in the race on foot. This statute criminalizes the "operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance" when a person's blood alcohol concentraction (BAC) is greater than 0.08. Marshall cannot be found guilty of violating 14:98 because his actions fail to meet the "operating" element of the statute and the "other means of conveyance" elements of 14:98.
+
+  Marshall participated in the race on foot without the aid of any other means of transportation. For the purposes of the statute, "operating" requires some object as described by the list immediately following. Further, as noted by the /Marshall/ and /Carr/ courts, 14:98(a) is not restricted to public roads but applies generally. This fact was used to cast doubt on whether a bicycle would classify under the "other means of conveyance" element, as it would criminilize the riding of a bicycle under the influence of alcohol in a neighbors backyard. Were feet to satisfy the operating element for purposes of 14:98, the same criticism would apply, except that this application of the law would require no instrument beyond the incriminating alcohol to satisfy a successful conviction.
+
+  Regardless of the missing "operating" element, running cannot satisfy the "other means of conveyance" element. Feet are not inanimate, being a part of one's body. There are no motors, as traditionally understood, involved in the workings of ones foot. While the foot is undoubtedly under one's own control, this element is in conjunction with the other two elements that are not met. Running by itself cannot satisfy the "other means of conveyance" element of 14:98.
+
+  The final element of the statute is a threshold BAC of 0.08. This requirement is met as Marshall had a BAC of 0.09.
+
+  Marshall cannot be found guilty of Operating a Vehicle While Intoxicated La. R.S. 14:98 as only one of the required elements was met.
+
+* Skye
+
+  Skye did not violate La. R.S. 14:98 Operating a Vehicle While Intoxicated when she participated in the race on rollerblades. This statute criminalizes the "operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance" when a person's blood alcohol concentraction (BAC) is greater than 0.08. Skye cannot be found guilty of violating 14:98 because rollerblades are not an "other means of conveyance" as contemplated by the the statute.
+
+  Whereas Marshall was not operating anything, Skye clearly was operating something. The rollerblades are distinct from her person and therefore there is meaningful operation under 14:98. The rollerblades cannot, however, be found to be an "other means of conveyance". The requirements are that the object be inanimate, motorized, and under the control of the operator. While the rollerblades are certainly inanimate and under her control, they lack a motor, and therefore fail to satisfy this element of the statute. Skye's BAC was sufficient, at 0.09, to meet the threshold BAC requirement of 0.08.
+
+  Because Skye's actions in the race did not satisfying all three elements of the statute, she cannot be found guilty of Operating a Vehicle While Intoxicated as defined in La. R.S. 14:98.
+
+* Chase
+
+  Chase will be convicted of Operating a Vehicle While Intoxicated as set forth in La. R.S. 14:98. He use of a hoverboard and BAC will satisfy all three elements of the statute.
+
+  Chase was in operation of a hoverboard, an object distinct from his person. A hoverboard is dependent upon batteries for operation. When charged, the hoverboard allows the operator to move about as he or she pleases, allowing such fine control to even allow for "dancing". However, when the batteries are exhausted, operation cannot continue and the operator is at peril of falling of. This means of conveyance satisfies all three requirements to be an "other means of conveyance" as put forth in La. R.S. 14:98: it is inanimate, motorized, and under the control of the operator. Finally, Chase's BAC was 0.09 meeting the threshold BAC standard laid out in the statute.
+
+  Chase has met all three required elements of La. R.S. 14:98 and therefore will be successfully prosecuted for Operating a Vehicle While Intoxicated.
