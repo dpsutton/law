@@ -640,27 +640,27 @@ how do we establish mutual assent when we have no parties directly involved with
 
 - courts have said they won't judge mutual assent at the time of contracting but the human decisions when setup to do the K'ing. the key is they have to match.
 
-* Interpretation
+** Interpretation
 
-** Preliminary matters
+*** Preliminary matters
 
-*** interpretation v construction
+**** interpretation v construction
 
-    differences. interprtatoin: inferring meanings from facts. when interpreting, looking at what the parties, said, did, interaction, assess credibility, who do we believe more. its a faction analysis. in construction, we are inferring meaning as a matter of law. when looking at construction its one of those situations where its clear that one of the parties intended to contract but they left something out that neither party thought about and so now we have to use rules of construction to fill in the missing terms that they would have otherwise agreed to.
+     differences. interprtatoin: inferring meanings from facts. when interpreting, looking at what the parties, said, did, interaction, assess credibility, who do we believe more. its a faction analysis. in construction, we are inferring meaning as a matter of law. when looking at construction its one of those situations where its clear that one of the parties intended to contract but they left something out that neither party thought about and so now we have to use rules of construction to fill in the missing terms that they would have otherwise agreed to.
 
-*** distinction
+**** distinction
 
-    distinction between this. and appellate has different standards between the two. appellate courts can review questions of law using an abuse of review standard and in many cases can review /de novo/. So there is a better liklihood of an appellate court changing questions of law rather than questions of fact. appellate courts have a much harder time changing facts. they acknowledge they didn't see or hear the witnesses, cold record, don't even get necessarilly as much evidence. trust the fact finder.
+     distinction between this. and appellate has different standards between the two. appellate courts can review questions of law using an abuse of review standard and in many cases can review /de novo/. So there is a better liklihood of an appellate court changing questions of law rather than questions of fact. appellate courts have a much harder time changing facts. they acknowledge they didn't see or hear the witnesses, cold record, don't even get necessarilly as much evidence. trust the fact finder.
 
-**** questions of law
+***** questions of law
 
-     not gonna be based on a fact pattern. how a particular rule functions. outside of K, questions related to the constitutionality of a statute.
+      not gonna be based on a fact pattern. how a particular rule functions. outside of K, questions related to the constitutionality of a statute.
 
-**** questoins of fact
+***** questoins of fact
 
-     a question of fact is was this an offer. does this thing fit the elements required for an offer
+      a question of fact is was this an offer. does this thing fit the elements required for an offer
 
-*** interpretation
+**** interpretation
 
 1. start with the words use
 2. look to the normal and accepted meaning of those terms
@@ -670,43 +670,43 @@ how do we establish mutual assent when we have no parties directly involved with
 6. course of dealing - conduct in previous dealings
 7. customs and usage
 
-*** ambiguous vs vague terms
+**** ambiguous vs vague terms
 
-    ambiguous: more than one reasonable meaning. if terms are ambiguous and they can't agree, court will toss out the K. Vagueness is different
+     ambiguous: more than one reasonable meaning. if terms are ambiguous and they can't agree, court will toss out the K. Vagueness is different
 
-    vague: the breadth of a term.
+     vague: the breadth of a term.
 
-    "objective approach with a significant subjective twist".
+     "objective approach with a significant subjective twist".
 
-**** difference
+***** difference
 
-     ambiguous, looking at a term that could have 2 or more meanings. a vague term could cover a big range.
+      ambiguous, looking at a term that could have 2 or more meanings. a vague term could cover a big range.
 
-*** latent v patent ambiguity
+**** latent v patent ambiguity
 
-    latent: does not readliy appear in the communication
+     latent: does not readliy appear in the communication
 
-    patent: is apparent in the communication
+     patent: is apparent in the communication
 
-*** consideratoins for ambiguous K
+**** consideratoins for ambiguous K
 
-**** no party aware of the ambiguity
+***** no party aware of the ambiguity
 
 generally no K
 
 unless both parties intended the same meaning
 
-**** both parties were aware of the ambiguity but didn't talk about it
+***** both parties were aware of the ambiguity but didn't talk about it
 
 find no K
 
 it doesn't make sense to grant one parties meaning over the other parties.
 
-**** only one party aware of the ambiguity
+***** only one party aware of the ambiguity
 
 generally K enforced based on the non-aware party's terms
 
-** raffles v wichelhaus
+*** raffles v wichelhaus
 
 "mutual mistake"
 
@@ -714,7 +714,7 @@ contract for the sale of cotton to arrive on "Peerless" from bombar.
 
 lower court says you got your cotton on a boat from bombay. pay up. appellate court says there was no "meeting of the mind" because they never agreed on which boat. There is a much more subjective standard. court decides that this fails at formation. from a reasonable point of view, was there mutual assent? from an objective point of view it seems like there was mutual assent.
 
-** oswald v allen
+*** oswald v allen
 
 "mutual mistake"
 
@@ -724,21 +724,21 @@ court decides that there was no K and upholds the lower court ruling. same rulin
 
 what are the promissory terms of this K? money for coins. unlike in previous K, concerned about promissory term, an essential term in this K whereas we were looking at a smaller term in the original K. we get to the same result in both, but is that right?
 
-*** ambiguous
+**** ambiguous
 
 when ambiguous we are looking to see what the parties knew. if both parties are in the dark, NO K.
 
 what about if in the dealings, there was correctoin of ambiguous terms. "the courts gonna find a K but on whose terms?. Gonna find under allen (the old lady). during correction, its clear to both sides the other side wants the other. they are aware of the ambiguity and both choose the opposite sides and therefore no K"
 
-** restatements 200 & 20245
+*** restatements 200 & 20245
 
-*** goal
+**** goal
 
 ascertaining the meaning of the promise or agreement
 
 what did the parties K to?
 
-*** restatement 201 different meanings
+**** restatement 201 different meanings
 
 have the praties attached differemtn meanings?
 
@@ -749,7 +749,7 @@ if yes, did 1 part know or have reason to know that th eother party attached a d
 if yes the meaning attached by the "other party"
 if no then probably no K.
 
-** Weinberg v. Edelstein
+*** Weinberg v. Edelstein
 
 "vague terms"  what is a dress
 
@@ -767,7 +767,7 @@ holding that the D was not selling dress. D could not compel the customer to buy
 
 how does the court make that determination. when does it stop? how does it try to resolve this. will look beyond the K to find the meaning thats most reasonable. "I don't want to do damage. gonna attempt to interpret it in a way that is consistent with our tools and does the most justice for both parties"
 
-** frigaliment importing
+*** frigaliment importing
 
 "chicken case"
 
@@ -791,7 +791,7 @@ now can't decide, and follows lower court. buyer had the burden, buyer failed to
 
 takeaway. courts are going to again, don't have to have a clear answer. gonna look totality of the circumstances. it the court could have found a dictionary definition the court may have stopped there.
 
-** ucc article 2: sale of goods
+*** ucc article 2: sale of goods
 
 sale: passing of _title_ from the seller to the buyer for a price
 goods: movable things, including manufactured goods, livestock, and growing crops
@@ -800,20 +800,123 @@ NOT limited to merchants, but there are special rules when the transaction invol
 
 applies to the sale of goods. in order to have the sale of goods you have to have a passing of a title form one to another. every time you go to a store you get a title transfer. every time you sell a textbook UCC applies.
 
-* readings
+** readings
 
 tuesday
 
-** filling in the gaps384-398
+*** filling in the gaps384-398
 
-** form ks 408-419
+*** form ks 408-419
 
-** start battle of forms 419-436
+*** start battle of forms 419-436
 
 thursday
 
-** finish battle of forms 419-436
+*** finish battle of forms 419-436
 
-** late terms 436 - 449
+*** late terms 436 - 449
 
-** start parol evidence 451 - 468
+*** start parol evidence 451 - 468
+* sep 19
+
+** considerations for ambiguous K
+
+*** no party aware of the ambiguity
+
+    generally no K unless both parties intended the same meaning
+
+*** both parties aware of the ambiguity
+
+    generall no K unless both parties intended the same meaning
+
+*** only one party aware
+
+    generally K enforced based on the non-aware party's terms
+
+    might be questions of bad faith, if party was aware and did not do anything, look at the non-aware party as the more innocent and interpret it from their point of view.
+
+    all has to be reasonable.
+
+** vague
+
+*** can be cured
+
+    one way to cure is partial performance.
+
+*** if no cure
+
+**** start with parties meanings
+
+     was there a subjective understanding:
+
+1. start with words of the K
+2. course of negotations
+3. course of performance
+4. course of dealing
+
+**** if no subjective agreement, there is a misunderstanding
+
+1. does one party know or have reason to know the other party attached a different meaning>
+   1. if so, assent & meaning of ignorant party
+2. objective meaning
+   1. plain and ordinary
+   2. course of performance
+   3. course of delaing
+   4. usage of trade
+3. if no objective meaning, the term is objectively vauge (chicken case?)
+
+**** general rules of construction
+
+- K construed as a whole
+- ordinary meaning -- unless clearly shown to mean technical
+- inconsistent provisions -- negotiated over standard
+- preference to construe K as valid and enforceable
+- ambiguity against party preparing K
+
+K law comes from courts of equity rather than courts of law. always trying to get to fairness rather than super tight rules of construction. related to equity and fairness.
+
+** filling in the gaps
+
+*** background
+
+   all manifestations of assent are inevitably incomplete
+
+   how do we justify gap-filling? parties intended to K /and/ there is a reasonably certain basis for giving a remedy.
+
+   CL will never fill in price for real estate whereas UCC can.
+
+   UCC (majority): courts can supply reasonable terms for those missing: /ONLY/ when they are consistent with intent as otherwise expressed.
+
+   courts don't want to add terms unless it looks like they meant to and the K fails if they don't.
+
+*** sun printing
+
+    open issues: price to pay and length of time that price governs
+
+    if price only, we could rectify. but the problem was the K left out time as well. an option K would be enforced against D, but P would not be similarly bound. Plaintiff could choose to purchase that month, but then the next month the defendant could abstain.
+
+    arguably the P is trying to do is saying by accepting the Canadian standard they are trying to cure by concession. takes the best price for the defendant. but court doesn't accept because the best price for defendant always depends upon the length of time. the plaintiff would be able to choose. but D's money is in the length of time. they speculate on the price and lock it in. this removes the speculative power of the D and vests it solely in the P.
+
+    problem is that Plaintiff did not concede enough to win. P can walk away when the price rises but gets the benefit when the price decreases.
+
+** illusory promises
+
+*** requirements and output K
+
+    buy agrees to buy everything that the seller produces. requirements seller responds to the buyer requests. eastern airlines and the radiator cases. don't identify a specific quantity. quantity can't be unreasonably disproportionate. took a really long time for courts to enforce these. what are the obligations. no evidence of mutual assent when there's no range of what they are obligated to.
+
+*** iron case
+
+    you're free to K, and you made a bad K. but it was reasonable. obligation of good faith and fair performance. if the other party was speculating, then we might find a breach.
+
+*** gas case
+
+*** lucy lady
+
+** form K
+
+*** carnival
+
+    look at this K under the lens of fundamental fairness. don't care that they can't afford to go to florida. no evidence of bad faith. no fraud, no overreaching, D's had notice and had option to reject K if they didn't like the terms.
+
+*** caspi v microsoft
