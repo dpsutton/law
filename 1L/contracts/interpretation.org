@@ -414,3 +414,93 @@ superior court of NJ, appellate division, 1999
      The contract is binding and the NJ court lacks jurisdiction.
 
 **** Main Takeaway
+
+* which terms were agreed to?
+
+** intro
+
+   when terms of acceptance are different from the offer, what is binding? we know the parties intended to contract, we are faced with figuring out which terms to which they agreed when "their manifestations of assent conflict". "battle of the forms" as it often arises as a result of conflicting writings
+
+** step-saver data systems, inc, v wyse technology
+
+us court of appeals 3rd circuit 1991
+
+*** Procedural History
+
+**** facts
+
+     step saver builds computers and installs software. one suite performed poorly leaving returned computers and lawsuits. step-saver sues vendors for breach of warranty and lack of merchantability of software. the box top contained a clause stipulating by opening the software you agreed that there was no implied merchantability and that those terms were final and included all relevant terms.
+
+**** lower court
+
+     reverse lower court which held that
+
+*** Questions Presented
+
+    Do "box top" terms govern an agreement to purchase software following a phone call stipulating items and purchase price or do they constitute a counter offer after the intial contract?
+
+*** Rule
+
+*** Reasoning
+
+    The box-top attached substantially different terms after a contract had been made. as such, under ucc, doesn't hold weight. wasn't indefinite, as UCC allows for some play.
+
+**** indefinite
+
+     debate about sale of software versus sale of license. court argues that rights are largely the same, can figure out later. but court notes the following were discussed and agreed to 1) specific goods 2) quanitty 3) price. argue that warranty discussion was not involved but ucc grants warranty unless specifically declaimed, and therefore we have software with a warranty. so it is definite enough without box top
+
+**** counter offer
+
+     argues a conditional counter offer, which step-saver accepts by opening and not returning the software. court is not sure that conditional acceptance applies when a contract has partial performance (implying that partial performance under the original terms doesn't allow for the retraction or perhaps that the original terms are binding as they were).
+
+     analyze a few tests, and then settle on a test for what is a conditional acceptance: "requires the offeree to demonstrate an unwillingness to proceed with the transaction unless the additional or different terms are included in teh contract". you have to die on this hill or else it just goes in the battle of the forms.
+
+     says the language on the box top isn't forceful enough. "consent by opening" ... "provides no real indication that the party is willing to forego the transaction if the additional language is not included in the contract". note that there was an offer to get a refund but not enough in this case as not clear that tsl was willing to forego the sale if not accepted.
+
+     wow, testimony from head of step saver that tsl told him that the box top didn't apply to him since he was not an end user but middle man. step saver was asked to sign documents formalizing the box top agreement, refused to do so, but trade still continued. also, box top prevents transfer of license, but both parties agree this term isn't binding on them. willing to proceed with violation of one term, and why is one non-negotiable but the other isn't?
+
+*** Holding
+
+    rejects lower court dismissing of claims against tsl and remands for consideration.
+
+*** Main Takeaway
+
+    Big difference between CL and UCC: last shot rule. send an offer, change one of the terms, send it back, considered a counter offer. if someone proceeds with contract despite different terms of a "supposed acceptance", 'he woudl, by his performance, constructively accept the terms of the 'counteroffer'', and be bound by its terms'. last-shot rule. UCC in 2-207 rejects this. remove the power of the last shot rule from the seller. hold only the terms that both parties have agreed to.
+
+** union carbide corp v oscar mayer foods corp
+
+   7th circuit court of appeals Posner
+
+*** Procedural History
+
+**** facts
+
+     Union carbide sold sausage casings from chicago subject to a 2% sales tax. it noticed a competitor sending from outside the city and eliding the taxes, so it had oscar mayer address invoices to an office outside of chicago and stopped sending the tax on the invoices. 8 years later gets popped for 150k in back taxes and penalties, and points to tax indemnification language on the back of invoices
+
+**** lower court
+
+     summary judgment for oscar mayer
+
+*** Questions Presented
+
+    Does the tax indemnification language put the tax burden on oscar mayer?
+
+    Was there material breach for not paying the taxes?
+
+*** Rule
+
+    The tax indemnification is against assessed taxes, not an open ended liability. In the alternative, the inclusion on the back of the invoice would be a material change no assented to by Oscar Mayer.
+
+    posner then goes into detail about how to determine if this new clause is to be read into the contract:
+
+    #+BEGIN_QUOTE
+
+    To summarize, a term inserted by the offeree is ineffectual (1) if the offer expressly limits acceptance to the terms of the offer, or (2) if the new term (a) makes a material alteration, in the sense that consent to it cannot be presumed, and (b) there is no showing that the offeror in fact consented to the alteration—whether (i) expressly, or (ii) by silence against the background of a course of dealings.
+
+    #+END_QUOTE
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
