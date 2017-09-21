@@ -921,3 +921,111 @@ There is no intentional tort claim.
 *** Holding
 
     reversed as not meeting the extreme or outrageous behavior and lacking in intent not otherwise protected in a disciplinary section.
+
+* Tresspass to land
+
+** dougherty v stepp
+
+   Supreme court of NC 1835
+
+*** Procedural History
+
+**** facts
+
+     neighbor surveys unenclosed land with survey chains, accoutrements and claims land as his own, no marking of trees or cutting bushes. P brings trespass claim
+
+**** lower court
+
+     lower court jury finding of not tresspass
+
+*** Questions Presented
+
+    If a person goes onto unenclosed property for the purposes of surveying, does a trespass to land claim lie?
+
+*** Rule
+
+    every unauthorized, and therefore unlawful entry, into the close of another, is a trespass.
+
+*** Reasoning
+
+    The surveying is mitigation of damages, not a defense of the tort.
+
+*** Holding
+
+    The lower court was incorrect in its jury instructions that surveying was a defense to trespass.
+
+*** Main Takeaway
+
+** Herrin v Sutherland
+
+   Supreme Court Montana 1925
+
+*** Procedural History
+
+**** facts
+
+     Defendant was hunting ducks, standing in land of another, shooting at birds over P's land. P brings action for $10.
+
+**** lower court
+
+     D demurs, overruled, and then never states a defense. P asks for, and receives $1, to which D appeals.
+
+*** Questions Presented
+
+    Does small firearm projectiles constitute a trespass to land.
+
+*** Rule
+
+    The air is almost as inviolable as the land itself.
+
+*** Reasoning
+
+    Historically, land included the infinite space above. The court notes that this will changed as Harvard Law Review was noting that perhaps airplanes might be big in the coming industry. The court notes that a farmer may not have a strong claim against modern artillery thousands of feet above the land, but small arms fire is low, dangerous, and introdues on the "quiet undisturbed, peaceful enjoyment of the plaintiff".
+
+*** Holding
+
+    The lower judgment was correct and the damages upheld.
+
+*** Main Takeaway
+
+    The court never relied on bullets /touching/ Plaintiff's land. It was invading his airspace and causing danger to his enjoyment of the land.
+
+** Rogers v oard of Road Com'rs for Kent County
+
+   supreme court michigan, 1947
+
+*** Procedural History
+
+**** facts
+
+     Local government installed a snow fence along property during winter months, P argues with understanding of removal after snow goes away. A steel anchor post remained, hidden in the grass. P mowed grass, hit metal rod and was tossed from lawn mower leading to his death. Brings action for trespass.
+
+**** lower court
+
+     Lower court dismissed for defendant on governmental immunity. P appeals. Lower court held action based on negligence and no basis for trespass.
+
+*** Questions Presented
+
+    Was the failure to remove the anchor rod after the permission for it to remain a trespass, a tortious and proximate cause of P's death.
+
+*** Rule
+
+    #+BEGIN_QUOTE
+
+    "A tresspass, actionable under the rule stated in 158, may be committed by the continued preseence on the land of a structure, chattel, or other thing which the actor or his predecessor in legal interest therein has placed thereon
+
+    a. with the consent of the person then in possession of the land, if the actor fails to remove it after the consent has been effectively terminated, or
+
+    b. pursuant to a privilege conferred on the actor irrespective of the possessor's consent, if the actor fails to remove it after the privilege has been terminated, by the accomplishment of its purpose or otherwise. [restatement of torts]
+
+    #+END_QUOTE
+
+
+*** Reasoning
+
+
+*** Holding
+
+    The court reads straight out of the restatement and finds a trespass. reverses lower cort and also concludes that sovereign immunity does not apply.
+
+*** Main Takeaway
