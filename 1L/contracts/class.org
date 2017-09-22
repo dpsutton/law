@@ -920,3 +920,163 @@ K law comes from courts of equity rather than courts of law. always trying to ge
     look at this K under the lens of fundamental fairness. don't care that they can't afford to go to florida. no evidence of bad faith. no fraud, no overreaching, D's had notice and had option to reject K if they didn't like the terms.
 
 *** caspi v microsoft
+* sep 21
+
+** analysis in general
+
+*** inductive reasoning.
+
+    look at the specific to generate a general rule
+
+*** rule based reasoning
+
+    vast majority of final exams. apply rules to facts and show the reader how you get your outcome.
+
+*** analogical
+
+    compare facts in your fact pattern to precedent case to predict what outcome should be.
+
+*** deductive
+
+    basis is the syllogism. major premise, minor premise, conclusion.
+
+    major premise: rule
+    minor premise are our facts
+
+*** issues in analysis
+
+    1. a given is clearly met in the fact pattern. if say "parties enter into contract", don't walk through formation, it is stipulated. "the facts say the parties enter into a K".
+    2. gimmes. only one way to do the analysis. the facts speak to only one analysis. going to only lead to one conclusion.
+    3. fighting issues. where the points are. have to analyze the arguments on one side and analyze arguments on the other side and then tell which one is the better argument.
+
+*** sketching
+
+    tchart and continuum
+
+    if questions about an offer put all facts on one side of the tchart. put all of the no facts on the other side of the. just put facts, no inferences or legal arguments. can start to see what you need to do in the analysis. facts on both sides then no a given or gimme. have to do arguments on both sides. but don't go by quantity. must weigh after writing them out.
+
+    on continuum, plot facts on a single axis with yes and no on the extremes.
+
+    spend 25-30% on prewriting. lay it out and then its mechanical.
+
+    if a question about an offer, you have to hit all 5 things. need to use all the terms identified in the rule and then match them up.
+
+    don't require any particular format on exam answers. however, it has to make sense. so no mess of things. need to write more based on question asked than any standardized format.
+
+    rules need to come before analysis. can possibly put rules right at the beginning of the exam.
+
+** battle of the forms
+
+
+*** mirror image rule
+
+    provides that acceptance has to mirror offer. it was before any performance happened previously. in that instance, if acceptance not unequivocal, not contract. sale of the house when the furniture and tapestry came up. no mutual assent.
+
+    now look at when the terms do not match up but at least one of the parties has partially performed. courts are going to find a K since the past performance shows the parties intended to K, but which terms apply.
+
+**** traditional CL view last shot rule
+
+     Last show rule. under this rule, the last terms sent to the party that performed will be the terms enforced. acceptance through performance on a counter offer. last communication sent to the party that performed
+
+**** ucc does away with this
+
+     2-207 does away with this rule.
+
+*** stepsave versus wyse
+
+    step saver got sued by a bunch of products sold by wyse.
+
+    theory of breach and intentional misrepresentation.
+
+**** facts
+
+
+***** how they contracted
+
+      - P would call D and place and order
+      - D would accept and promise to ship promptly
+      - P would send a purchase order, items, prices shipping and payment terms
+      - D would ship and send an invoice. invoice has same terms as purchase order and no reference yet to any disclaimer of warranty
+      - printed on the package: box-top license
+
+      battle of the forms: invoice and box top.
+
+***** box top license
+
+      - customer purchased license, not the software
+      - disclaims all express and implied waranties except the disks were free from defects
+      - sole remedy -- return of defective disk for replacement: no liability for damages
+      - integration clause. integrates all of the previous terms are brought into this K and these are the final terms.
+      - opening = acceptance
+
+***** three choices
+
+      "integrated writing": a writing that is intended to be a final expression of their agreement may not be contradicted by evidence of any prior agreement.
+
+      court says no, this isn't an integrated agreement.
+
+      agreement can be modified without any additional consideration. tsl allowed for actions outside of those terms.
+
+      written confirmation 2-207. A writing will be a final expression of, or a binding modification to, an earlier agreement only if the parties so intend.
+
+***** why reject one shot rule
+
+      - D never mentioned the box-top license during negotiations and did not seek assent
+      - D simply attached significantly differeent
+
+***** conditional acceptance?
+
+      - offeree demonstrates an unwillingness to prceed without modified terms. this is lacking in this case
+
+***** ruling
+
+      - integration clause & consent by opening not enough tto make the D's acceptance conditional
+      - language provides no basis that D was willing to forego K
+      - refund provision: stronger indication D would forgo K if the terms were not accepted
+      - BUT undisputed evidence that D would go through with it regardless.
+
+***** what things are acceptable
+
+      - shipping details
+      - payment details
+
+*** oscar mayer
+
+    P buys
+
+** late terms
+
+*** procd v zeinberg
+
+    - injunction
+    - breach of K by violating terms of shrinkwrap agreement
+    - P put a telephone directory together
+    - each box included restrictions: use limited to non-commercial purposes
+    - D bought a package and resold the info
+
+**** result
+
+     - notice outside, terms inside, right to return
+     - not uncommon to learn of terms after purchase
+       - can you imagine packaging with all of the terms on the outside of a box? not practical
+     - looked at 2-204. any manner sufficient to show agreement
+     - had opportunity to not use software but he did
+     - right to return is important
+
+*** hill v gateway 2000
+
+**** how does the court frame this legal issue?
+
+     term free contract or no K.
+
+**** terms
+
+     arbitration clause. courts like to enforce when people can find them. had 30 days to read through information and decide if they liked it and agreed to terms. if not, can return computer, get money back and no K. did not attempt to return computer.
+
+**** K
+
+     since the people had times to accept or reject, did nothing, we have a K. court says K not complete at moment of delivery. lifetime assistance, open-ended 30 days time to reject. K not complete at that point. gateway had not completed its performance. terms were reasonable, party had time to reject in reasonable time, and those were the terms the court was going to enforce.
+
+*** klocek v gateway
+
+    rejects that 2-207 applies only to concflicting forms.

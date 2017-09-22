@@ -467,6 +467,8 @@ us court of appeals 3rd circuit 1991
 
     Big difference between CL and UCC: last shot rule. send an offer, change one of the terms, send it back, considered a counter offer. if someone proceeds with contract despite different terms of a "supposed acceptance", 'he woudl, by his performance, constructively accept the terms of the 'counteroffer'', and be bound by its terms'. last-shot rule. UCC in 2-207 rejects this. remove the power of the last shot rule from the seller. hold only the terms that both parties have agreed to.
 
+    material alteration. when are these acceptable and under what conditions?
+
 ** union carbide corp v oscar mayer foods corp
 
    7th circuit court of appeals Posner
@@ -498,6 +500,24 @@ us court of appeals 3rd circuit 1991
     To summarize, a term inserted by the offeree is ineffectual (1) if the offer expressly limits acceptance to the terms of the offer, or (2) if the new term (a) makes a material alteration, in the sense that consent to it cannot be presumed, and (b) there is no showing that the offeror in fact consented to the alteration—whether (i) expressly, or (ii) by silence against the background of a course of dealings.
 
     #+END_QUOTE
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** ProCd v Zeinberg
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
 
 *** Reasoning
 
