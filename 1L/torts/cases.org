@@ -2,6 +2,7 @@
 * liability upon fault
 
 ** intro
+
    tort from tortus, twisted, french meaning injury or wrong. is a civil wrong other than a breach of contract. "this area of law imposes duties on persons to act in a manner that will not injure other persons. a person who breaches a tort duty has committed a tort and may be liable to pay damages in a lawsuit brought by a person injured because of that tort."
 
    major purposes
@@ -239,25 +240,25 @@
 
 *** Procedural History
 
-Supreme Judicial Court of MA, 1937
+    Supreme Judicial Court of MA, 1937
 
-Can't discern what the lower court held
+    Can't discern what the lower court held
 
 *** Questions Presented
 
-Can the mentally ill form the intent necessary for intentional torts, here intentional tort of battery.
+    Can the mentally ill form the intent necessary for intentional torts, here intentional tort of battery.
 
 *** Rule
 
-"in order that an act may be done with the intention of bringing about a harmful or offensive contact ... the act must be done for the pupose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension is substantially certain t obe produced."
+    "in order that an act may be done with the intention of bringing about a harmful or offensive contact ... the act must be done for the pupose of causing the contact or apprehension or with knowledge on the part of the actor that such contact or apprehension is substantially certain t obe produced."
 
 *** Reasoning
 
-There have been criticisms of the united states intent based tort system as the rest of the world seems to have settled on a fault based system. The rule is proven, consistent and does comport with our notions of "essential justice" rather than theorems arising from axioms of civil liability.
+    There have been criticisms of the united states intent based tort system as the rest of the world seems to have settled on a fault based system. The rule is proven, consistent and does comport with our notions of "essential justice" rather than theorems arising from axioms of civil liability.
 
 *** Holding
 
-The insane are not barred categorically from forming intent for intentional torts. "To be liable, must have been capable of tentertaining that same intent and must have entertained it in fact".
+    The insane are not barred categorically from forming intent for intentional torts. "To be liable, must have been capable of tentertaining that same intent and must have entertained it in fact".
 
 *** Main Takeaway
 
@@ -265,72 +266,90 @@ The insane are not barred categorically from forming intent for intentional tort
 
 *** Procedural History
 
-Supreme court of michigan, 1894
+    Supreme court of michigan, 1894
 
-Lower court issued instructions that stating that if the defendant threw the stick, not intending to hit anyone, there was no recovery; if he threw the stick, intending to hit someone, but it was a reasonable amount of force there is no recovery; if he threw the stick intending to hit someone and the force used was unreasonable, then it did not matter that he struck someone else. Jury found in favor of plaintiff and defendant appeals.
+    Lower court issued instructions that stating that if the defendant threw the stick, not intending to hit anyone, there was no recovery; if he threw the stick, intending to hit someone, but it was a reasonable amount of force there is no recovery; if he threw the stick intending to hit someone and the force used was unreasonable, then it did not matter that he struck someone else. Jury found in favor of plaintiff and defendant appeals.
 
 *** Questions Presented
 
-A man threw a stick at one boy who was on the roof of one of his sheds and hit another boy, causing loss of sight in his eye. Is the man liable for intentional battery. For the purposes of the intentional tort of battery, did Smith intend to hit make contact with talmage?
+    A man threw a stick at one boy who was on the roof of one of his sheds and hit another boy, causing loss of sight in his eye. Is the man liable for intentional battery. For the purposes of the intentional tort of battery, did Smith intend to hit make contact with talmage?
 
 *** Rule
 
-If in the attempt to commit an intentional tort you commit another tort among the historical trespass causes, the intent to commit the one will satisfy the intent to commit the one actually committed.
+    If in the attempt to commit an intentional tort you commit another tort among the historical trespass causes, the intent to commit the one will satisfy the intent to commit the one actually committed.
 
 *** Reasoning
 
-The right of recovery lie in intentional causing of damages
+    The right of recovery lie in intentional causing of damages
 
 *** Holding
 
-The defendant committed an intentional battery.
+    The defendant committed an intentional battery.
 
 *** Main Takeaway
 
-Among the old actions of trespass, "when the defendant intends any one of the five, and accomplishes any one of the five, the doctrin applies and the defendant is liable, even if the plaintiff was not the intended target". Note that the first jury instruction would appear to be assault and would constitute a battery under the theory of transferred intent.
+    Among the old actions of trespass, "when the defendant intends any one of the five, and accomplishes any one of the five, the doctrin applies and the defendant is liable, even if the plaintiff was not the intended target". Note that the first jury instruction would appear to be assault and would constitute a battery under the theory of transferred intent.
 
 ** Bazely v Tortorich
+
    Supreme Court La 1981
+
 *** Procedural History
+
 **** Facts
+
      Garbage man suing his employer and 3rd parties for some kind of accident on the job. Alleges that driver _intentionally_ did not blow the horn and that therefore the consequences of the accident that follows are attributable to an intentional tort claim.
+
 **** Lower Court Ruling
+
      Sustained no cause of action against Bazley as it was a negligence claim in a work-related injury and by statute all such claims are exclusively workman's comp claims. The appellate reversed stating that the exclusive remedy applies only to the employer and not 3rd parties.
+
 *** Questions Presented
+
     Can an intentional tort claim lie in voluntary acts with damages?
+
 *** Rule
+
     "The meaning of 'intent' is that the person who acts either (1) consciously desires the physical result of his act, whatever the liklihood of that result happening from his conduct; or (2) knows that that result is substantially certain to follow from his conduct, whatever his desire may be as to that result"
 
 *** Reasoning
-Intent is taken as voluntary rather than an eye towards consequences. Plaintiff tries to establish that any voluntary act at the beginning of a chain of events entitles to intentional tort claims. However, the above rule is the correct rule for intent. It is a desired or substantially certain outcome. Intentionally not blowing the horn does not impute intent to all of the consequences after.
+
+    Intent is taken as voluntary rather than an eye towards consequences. Plaintiff tries to establish that any voluntary act at the beginning of a chain of events entitles to intentional tort claims. However, the above rule is the correct rule for intent. It is a desired or substantially certain outcome. Intentionally not blowing the horn does not impute intent to all of the consequences after.
 
 *** Holding
 
-There is no intentional tort claim.
+    There is no intentional tort claim.
 
 ** Caudle v Betts
 
 *** Procedural History
 
 **** facts
+
      At a christmas party, hijinks included charging a capacitor and shocking others. the owner of the dealership got in on the joke and shocked Caudle. Got a headache and left the party, passed out frequently in the months ahead, headaches. Eventually has surgery severing occipital nerve leaving a slight numbness on the right side of the head but alleviates the problems. Brings action for battery.
 
 **** lower court
+
      Both lower court and appellate court dismiss as the injury was not intentional.
 
 *** Questions Presented
+
     Is an injury, completely unforseable, arising from a a joke, compensable under tort law.
+
 *** Rule
+
     Intent does not discriminate on motive; acting in a joking manner, unaware of risk or even in the interests of the person still give rise to intentional torts.
     "Liability for resulting harm extends, as in most other cases of intentional torts, to consequences which the defendant did not intend, and could not reasonably have forseen"
 
 *** Reasoning
+
     When damages arise, it is better for the person intentionally causing them to bear the damages.
 
 *** Holding
     There was a battery and it attaches Liability to Betts for the damages resulting regardless of forseability.
 
 ** Davis v White
+
    United States Bankruptcy Court, Eastern District VA
 
 *** Procedural History
@@ -402,18 +421,25 @@ There is no intentional tort claim.
     In Indiana, battery requies not only a "knowing or intentional touching" but it must be done in a "rude, insolent, or angry" manner.
 
 *** Reasoning
+
     The world is crowded and there are inadvertent and harmless contacts. Not every contact that leads to injury necessitates a tort. During the firedrill, Rosen had a duty to her students to keep traffic moving and there was an expectation of incidental contact.
+
 *** Holding
+
     In this humdrum, the touching to get her attention does not rise to finding of "rude, insolent, or angry" and therefore the denying of the jury instructions was proper. The lower court is affirmed.
 
 *** Main Takeaway
+
     Intentional contact is not necessarily a battery. In the busy world theory, we are expected to bump and touch each other in minor ways without creating legal liabilities all over the place. "the intent with which tort liability is concerned is not necessarily a hostile intent, or a desire to do any harm. Rather it is an intent to bring about a result which will invade the interests of another in a way that the law forbids".
 
 ** Fisher v Carrousel Motor Home
+
    Supreme Court of Texas, 1967
+
 *** Procedural History
 
 **** facts
+
      Plaintiff, a mathematician working for NASA, was at a luncheon at a hotel. A staff member approached and ripped his plate from his hand stating that a "Negro could not be served in the club". Plaintiff was never touched.
 
 **** procedural history
@@ -520,7 +546,7 @@ There is no intentional tort claim.
 
 *** Rule
 
-    The judge seems to erroneously think that an assault is an incipient or thwarted battery. "there must be a nintentional, unlawful, offer to touch the person of another in a rude or angry manner under such circumstances as to create in the mind of the party alleging the assault a well-founded fear of an imminent battery coupled with the present ability to effectuate the attempt, if not prevented". Here at issue are the imminent battery and ability to effectuate the attempt elements.
+    The judge seems to erroneously think that an assault is an incipient or thwarted battery. "there must be an intentional, unlawful, offer to touch the person of another in a rude or angry manner under such circumstances as to create in the mind of the party alleging the assault a well-founded fear of an imminent battery coupled with the present ability to effectuate the attempt, if not prevented". Here at issue are the imminent battery and ability to effectuate the attempt elements.
 
 *** Reasoning
 
@@ -568,13 +594,17 @@ There is no intentional tort claim.
 * false imprisonment
 
 ** Big town Nursing Home, Inc. v Newman
+
    court of Civil Appeals of Texas, 1970
+
 *** Procedural History
+
 **** facts
 
      Plaintiff checked into nursing home at age of 67 by his son. Check in papers state he is free to leave. Goes to call a cab, phone priviliges are revoked. Tries to get out, locked in the insanity wing, repeatedly strapped to chair for periods of time up to 5 hours. Resident doctor was merely a resident whose only patients were nursing home residents; nursing home tried to change payment of social security checks without plaintiff's knowledge. After 51 days manages to escape to Dallas having lost 30 pounds over the overdeal.
 
 **** lower court ruling
+
      Appeal by defendant Nursing home against the size of the judment in favor of Newman.
 
 *** Questions Presented
@@ -594,6 +624,7 @@ There is no intentional tort claim.
     This was "ample evidence" that the jury was correct in finding false imprisonment.
 
 ** Parvi v. City of Kingston
+
    Court of Appeals of New York, 1977
 
 *** Procedural History
@@ -686,6 +717,7 @@ There is no intentional tort claim.
     The police officer is open to the claim and the lower finding for the plaintiff stands.
 
 ** Whittaker v Sandford
+
    Supreme Judicial Court of Maine, 1912
 
 *** Procedural History
@@ -1027,5 +1059,62 @@ There is no intentional tort claim.
 *** Holding
 
     The court reads straight out of the restatement and finds a trespass. reverses lower cort and also concludes that sovereign immunity does not apply.
+
+*** Main Takeaway
+
+* trespass to chattels
+** glidden v szybiak
+
+   supreme court of new hampshire 1949
+
+*** Procedural History
+
+**** facts
+
+     a young girl, aged 4, plays with a dog, pulls its ears. The dog bites her and she requires surgery. P's sue for damages and defendant responds that she was committing intentional tort of trespass to chattels and therefore is barred from recovery.
+
+**** lower court
+
+     Did not dismiss after evidence according to D's wishes. Rule in favor of P
+
+*** Questions Presented
+
+    Can a dog attack liability be waived by Plaintiff playing with the dog beforehand by a theory of trespass to chattels when the dog is not injured
+
+*** Rule
+
+    Some interest of the owner's must be damaged.
+
+*** Reasoning
+
+    #+BEGIN_QUOTE
+
+    One who without consensual or other privilege to do so, uses or otherwise intentionally intermeddles with a chattel which is in the possession of another is liable for a trespass to such person if, (a) the chattel is impaired as to its condition, quality or value, or (b) the possessor is deprived of the use of the chattel for a substantial time, or (c) bodily harm is thereby caused to the possessor or harm is caused to some person or thing in which the possessor has a legally protected interest.
+
+    #+END_QUOTE
+
+*** Holding
+
+    lower court affirmed
+
+*** Main Takeaway
+
+** compuserve inc v cyber promotions inc
+
+   district court in ohio, 1997
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
 
 *** Main Takeaway
