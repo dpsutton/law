@@ -1,0 +1,241 @@
+* Interpreting a writing -- the parol evidence rule
+** Thompson v libbey
+
+   Supreme court of minnesota, 1885
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff sold logs to Defendant. At payment time, defendant argues about quality of logs. At suit for breach by plaintiff/seller, defendant introduces evidence outside of a written contract that there was a warranty as to quality of timber.
+
+**** lower court
+
+     Presumably ruled in favor of defendant, plaintiff appealing the introduction of oral evidence of a warranty.
+
+*** Questions Presented
+
+    Can oral evidence be introduced introducing a part of the contract alleged to be involved in an oral K but not mentioned in the written K?
+
+*** Rule
+
+    parol contemporaneous evidence is inadmissible to contradict or vary the terms of a valid written instrument.
+
+*** Reasoning
+
+    There is no allegation of fraud here, so there is only need to determine the agreement. The rule itself seeks to prevent faulty memory injecting terms into a K where time and deliberation were taken to "embody the entire agreement of the parties". The parties have written down their agreement in no uncertain terms, "as to the object or extent of such engagement... and the manner of their undertaking". The rule does not prevent parol evidence in all contracts; like much of K law, it is that the written instrument purports to be "complete expressoin of the whole agreement". Thus the rule reflects that the parties have entered all of their obligations and will not allow oral testimony to add new agreements after the fact.
+
+*** Holding
+
+    That the parol evidence was enterred without justification. A new trial is ordered for the lower court.
+
+*** Main Takeaway
+
+    If a written instrument appears to be a full listing of the agreement, the court is hesitant to allow evidence of further obligations outside of the contract. The K is where you right down everything, and if it appears complete, the court will not listen to other evidence.
+
+** masterson v sine
+
+   Supreme court of california, 1968
+
+*** Procedural History
+
+**** facts
+
+     There was an option to purchase a ranch made to someone's sister. The executor of their estate in bankruptcy wished to pursue this option. Defendant's objected claiming that the option was extended to keep the ranch in the family and wished to introduce evidence of such a stipulation. The lower court prevented introduction of this extrinsic evidence.
+
+**** lower court
+
+     Prevented evidence of the extrinsic evidence that the option was created to keep the property in the family and was not assignable to the executor of the estate in bankruptcy.
+
+*** Questions Presented
+
+    Can evidence be presented
+
+*** Rule
+
+    Evidence can be admitted if it will not confuse or mislead the finder of fact. When parties agree that a K is an "integration", parol evidence cannot be entered to add or vary its terms. If only part of the agreement is integrated, the same applies to this part but does not preclude parol evidence entered to prove elements of the agreement not reduced to writing.
+
+*** Reasoning
+
+    So part issue is determining when there has been an integration. Obviously the instrument itself may make this point certain. However, collateral agreements need to be examined to see if they fall within this integration or without. Previous california rule provided that figuring out if there was an integration allowed for inspection of the instrument only, the question for the court simply being whether it "appears to be a complete agreement". Problems arise because parol evidence must be introduced to "prove the existence of a separate oral agreement as to any matter on which the document is silent and which is not inconsistent with its terms", even though the agreement appears to contain a complete obligation set.
+
+    Parol evidence must balance several factors. Writing is considered more accurate than oral testimony, so parol evidence directly contradicting the writing can be excluded. Also, either fraud or false memories must be kept from the find of facts. Often, someone disadvantaged by the text of the K might talk about a negotiated step as binding because of the economic outcome. A finder of fact might be sympathetic to this cause without any legal basis. This fear must be balanced against others, as giving it complete weight would prevent parol evidence too often.
+
+    Evidence of oral collateral agreements should be excluded only when the fact finder is likely to be misled. The common law has a /naturally/ standard: "is such an agreement as might naturally be made as a separate agreement by parties situated as were the parties to the written contract". The UCC precludes even less: "if the additional terms are such that, if agreed upon, they would /certainly/ have been included in the document in the view of the court, then evidence of their alleged making must be kept from the trier of fact".
+
+    The court finds that the difficulty of the instrument in a family transaction could lead to it not being integrated fully. It is difficult to add more provisions and it may have been done to prevent sale in the future by the establishment of the option. There is no reason to know that the family members knew there was danger in not putting the whole agreement in writing. The court finds there is an argument that this detail "might naturally be made as a separate agreement", and therefore it cannot be said that it "certainly" would have been placed in the original writing.
+
+    Option Ks are presumed by the law to be transferable, but there is no reason to prevent evidence rebutting an assumption of law. This is not to say that a statute could not say such a thing, but that currently, one does not.
+
+*** Holding
+
+    The lower judgment is reversed as the court erroneously prevented evidence showing that the option was not transferable.
+
+*** Main Takeaway
+
+    Like everything in contracts, the court seeks to enforce what the parties agreed to. It will prevent evidence seeking to contradict what is said in writing that purports to summarize the entire agreement. However, it notes the difficultly of figuring out what an entire agreement can be. So if something is a collateral agreement outside of a particular agreement, it can be talked about. further, information can be introduced if it would naturally have been part of a collateral agreement under common law or only prevented if it would "certainly" have been included in the written agreement.
+
+** pacific gas and electric co v g.w. thomas drayage & rigging co
+
+   supreme court of california, 1968
+
+*** Procedural History
+
+**** facts
+
+     contract for labor with indemnification clause. the writing seems close to the standard 3rd party liability although a clear reading reveals liability for all damages. A turbine is damages with a resulting $25,000 bill and plaintiffs sue for damages.
+
+**** lower court
+
+     Rules that the agreement is clear that it is not limited to 3rd party damages and finds in favor of plaintiff. In doing so, denied parol evidence about what the terms in the agreement meant, arguing that they were clear.
+
+*** Questions Presented
+
+    Can a court exclude parol evidence because the court iself finds the terms clear and unambiguous?
+
+*** Rule
+
+*** Reasoning
+
+    The judge uses his extrinsic language skills to determine the meaning to him or herself. But K do not seek to enforce imperfect words but what the parties intended. Extrinsic evidence cannot be entered to add to, detract from, or vary the terms of a written contract, but these terms must be sufficiently decided before it can be known whether evidence is introduced for a prohibited purpose. This has been allowed when a term has acquired a specific meaning in industry, but what precludes the evidence to understand the term as the parties used it. The court has a duty to hear evidence of the proceeding and context, and from that decide if there could be more than one understanding.
+
+*** Holding
+
+    the lower court is reversed. the indemnity clause could reasonably be read either way, but defendants offered evidence showing that its reading was correct, contrary to the trial courts judgment that the language was plain and unambiguous.
+
+*** Main Takeaway
+
+    evidence can be supplied to understand how the parties used terms. this does not allow them to add, remove or modfy the terms agreed to but simply to explain the mutual assent of the parties and what they thought they assented to.
+
+** trident center v connecticut general life insurance co.
+
+   united states court of appeals, 9th circuit 1988
+
+*** Procedural History
+
+**** facts
+
+     Two prestigious law firms and an insurance company take a loan out to build an office building. The contract prevents loan repayment before 12 years in very explicit terms. these firms want to repay the money back early and sue to do so, even though the terms are incredibly straightforward.
+
+**** lower court
+
+     ruled against plaintiffs and /sua sponte/ ordered sanctions.
+
+*** Questions Presented
+
+    Can parties enter parol evidence of ambiguity in an otherwise clear contract?
+
+*** Rule
+
+    Unfortunately yes they can. The California Supreme court rewrote the traditional rule that "extrinsic evidence is inadmissible to interpret, vary or add to the terms of an unambiguous integrated written instrument". It held that before you can claim that the terms are unambiguous, you must listen to parol evidence about what the sides meant when they wrote the written instrument.
+
+*** Reasoning
+
+    The court sighs quite heavily when making this rule.
+
+#+BEGIN_QUOTE
+
+Under Pacific Gas, it matters not how clearly a contract is written, nor how completely it is integrated, nor how carefully it is negotiated, nor how squarely it addresses the issue before the court: the contract cannot be rendered impervious to attack by parol evidence. If one side is willing to claim that the parties intended one thing but the agreement provides for another, the court must consider extrinsic evidence of possible ambiguity. If that evidence raises the specter of ambiguity where there was none before, the contract language is displaced and the intention of the parties must be divined from self-serving testimony offered by partisan witnesses whose recollection is hazy from passage of time and colored by their conflicting interests. . . . We question whether this approach is more likely to divulge the original intention of the parties than reliance on the seemingly clear words they agreed upon at the time. . . . 
+
+#+END_QUOTE
+
+    despite the lawyers, clarity of language, negotiated with aid of counsel, "even if it results in contract language that is devoid of ambiguity, costly and protracted litigatoin cannot be avoided if one party has a stron genough motive for challenging the contract".
+
+    also chips away at the legal system in general. How do we lock criminals up if the words are devoid of "abolute and constant referents"? there's a spectacular dig that somehow the 9th circuit was able to understand the ruling without extrinsic sources. "If we are unwilling to say that parties, dealing face to face, can come up with language that binds them, how can we send anyone to jail for violating statutes consisting of mere words". "How can courts ever enforce decrees, not written in language understandable to all, but encoded in a dialect reflecting, only the "linguistic background of the judge"?
+
+*** Holding
+
+    Despite this quite hostile recounting of /Pacific Gas/, the court is bound under the Erie doctrine to enforce CA law, which it reluctantly does. It reverses to get parol evidence, and notes that it cannot maintain the sanctions.
+
+*** Main Takeaway
+
+    that pursuant to /Pacific Gas/, california cannot make a contract immune from attack of parol evidence. it notes the terrible consequences of it, and even goes as far as to recommend the instant case as a reason to overturn the decision.
+
+* reforming a writing--mistakes in integration
+** the travelers insurance co v bailey
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+* requiring a writing--statute of frauds
+** Boone v coe
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+** riley v bapital airlines, inc
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+** schwedes v romain
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+** cloud corp v hasbro, inc
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
