@@ -91,4 +91,15 @@ already on twen
 **** TODO statutes off frauds
 * Week
 ** lawyering
-*** TODO dangerous weapon analysis
+*** DONE dangerous weapon analysis
+** torts [0/10]
+*** TODO pearson
+*** TODO obrien
+*** TODO hackbart
+*** TODO mohr
+*** TODO de may
+*** TODO fricke
+*** TODO cole
+*** TODO slayton
+*** TODO hattori
+*** TODO patterson
