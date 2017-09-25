@@ -1,0 +1,155 @@
+* State v Rutan
+
+court of appeals, third circuit
+
+** Procedural History
+
+*** facts
+
+    defendant was found intoxicated in his car after a call from a business owner that there had been a wreck in the parking lot. there was no damage to the car, the car was off, and defendant's arms were not near the controls. His motion to aquit on the resulting owi charge was denied, which he appeals.
+
+*** lower court
+
+    found guilty of owi using circumstantial evidence to infer that he drove intoxicated.
+
+** Questions Presented
+
+   Can a person be found to have operated a vehicle when none of the officers witnessed the operation, the car is off, the defendant's hands were not near the controls and he was asleep.
+
+** Rule
+
+   A defendant must be operating a vehicle to satisfy the owi statute.
+
+   circumstantial evidence must exclude every reasonably hyothesis of innocence in order in order to convict.
+
+** Reasoning
+
+   The record is void of any evidence that the defendant was operating his vehicle. The officers did not demonstrate "(a) how long Rutan had been in the parking lot before the deputies arrived; (b) if Rutan had driven the automobile on the highway to the lounge; or (c) if he had driven the car to the lounge, that he was intoxicated when he drove from the highway to the parking lot".
+
+** Holding
+
+   reversed and remanded
+
+** Main Takeaway
+* State v Phillips
+
+  supreme court of louisiana, 1980
+
+** Procedural History
+
+*** facts
+
+    defendant's truck parked at a parish road intersection in the middle of the afternoon, the front wheels on the shoulder and the rear wheels in the road.
+
+*** lower court
+
+    denied motion for acquittal following circumstantial evidence
+
+** Questions Presented
+
+   Is the evidence supplied sufficient for the dismissal of all reasonable hypotheses of innocence.
+
+** Rule
+
+** Reasoning
+
+   defendant was inside the truck at the wheel, lights on depite being mid-afternoon, and half on the shoulder. the evidence excluded all reasonable hypotheses of innocence that someone else had driven the truck there and abandoned to the defendant or that defendant drove there sober, parked in that manner, and then got drunk.
+
+** Holding
+
+   affirms the lower court
+
+** Main Takeaway
+* state v johnson
+
+  court of appeals, 3rd circuit, 1991
+
+** Procedural History
+
+*** facts
+
+    defendant was found at the scene of an accident. when the officer approached, defendant drove a short ways away, but was stopped again. he got out of the car with bloodshot eyes and unsteady balance. Officer arrested for owi.
+
+*** lower court
+
+    jury trial results in guilty verdict.
+
+** Questions Presented
+
+   The state never refuted defendant's claim that he was asleep in the back of the car, and switched seats with the driver only after the officer approached.
+
+** Rule
+
+   the trier of fact is responsible for weighing conflicting testimonies
+
+** Reasoning
+
+   bedrock fair trial. the testimonies of the two witnesses was actually given to the jury and differed substantially in how the occupants switched seats. the jury chose to believe the officers testimony over the two conflicting accounts.
+
+** Holding
+
+   conviction affirmed.
+
+** Main Takeaway
+* city of bastrop v paxton
+
+second circuit court of appeals la, 1984
+
+** Procedural History
+
+*** facts
+
+    paxton and his girlfriend are leaving a bar, when paxton's mother is thrown out of the bar. darla, the girlfriend, was driving the car away with the two of them but stopped and pulled across the street to collect his mother. paxton claims to have sat in the drivers seat during this but that he was not driving. officers testified that the car was parked, the brake lights flashed for a second and that the vehicle was not moving. Mr. Paxton made protestations that he was not driving at the scene to two officers.
+
+*** lower court
+
+    lower court finds sufficient that he operated vehicle, reversed
+
+** Questions Presented
+
+   is the evidence sufficient enough to infer that paxton was driving
+
+** Rule
+
+   the circumstantial evidence must exclude all reasonable hypotheses of innocence to convict of guilt.
+
+** Reasoning
+
+   the term operating is broader than driving. finding paxton behind thw heel and the brakes flashing would ordinarily be enough to agree with the lower court. however, the testimony of how he ended up in the seat is uncontradicted and was given at the time of arrest and in court. The officers have not shown that Paxton started the car, and haven't shown that Paxton's foot caused the brake flash rather than darla as she scooted over. both are reasonable deductions and neither is excluded, so the circumstantial evidence cannot be weighed against guilt. The placement of the car is indicative of haste, not necessarily intoxicated operation. the evidence does not exclude hyotheses of innocence and thus cannot carry the guilty verdict.
+
+** Holding
+
+   reverses the lower court's finding of operation.
+
+** Main Takeaway
+* state v brister
+
+3rd circuit court of appeals of la, 1987
+
+** Procedural History
+
+*** facts
+
+defendant was found asleep in the middle of the road in his car with the engine off, bottle of whiskey, and his arm hanging out the window. officer got on his PA 7 times before defendant stirred. defendant turned to see who was behind him, and his car rolled down a slight incline 10 to 15 feet. the defendant cursed, made a motion with one hand and began reaching between the seats. the officer maced him fearing a weapon. officer pulled defendant out of the car but defendant resisted. finally, the officer secured the man and placed him under arrest.
+
+*** lower court
+
+    convicted of driving while intoxicated, resisting an officer, simple obstruction of a highway, and driving with an expired inspection.
+
+** Questions Presented
+
+   Did the defendant operate the vehicle as required under 14:98?
+
+** Rule
+
+   Operation is broader than driving, looking to use of the controls of the vehicle. It often involves circumstantial evidence, a standard which requires excluding reasonable hypotheses of innocence to apply to guilt.
+
+** Reasoning
+
+   The mere presence of the person in the vehicle does not make him an operator. There must be some interaction with the controls. "No evidence was introduced that defendant released the brake causing the car to roll forward or that he was steering the car". officer's own theory was that the movement caused the motion of the car, a reasonable hyothesis of innocence: the car moved independently of the control of the occupant. thus there could be no finding of operation, and a necessary element of 14:98 was not met.
+
+** Holding
+
+   reversed on all counts except for the charge the defendant dropped his appeal on: blocking a lane of traffic.
+
+** Main Takeaway
