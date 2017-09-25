@@ -1,0 +1,102 @@
+* COMMENT assignment
+
+** text
+
+   D was desperate for money. She had lost her job, and she knew that she was going to have to decide between rent and groceries if she did not get money fast. D decided to rob a convenience store on the other side of town. D was afraid, but she was also desperate.
+
+   D decided to rob the store in the early morning hours, when there would be few customers. She also decided to wrap her hand up, while holding a ball point pen, in a towel to make it look like she was carrying a gun.
+
+   D entered the store at 4 a.m. No one was in the store except the two clerks. One clerk was sleeping in the back of the store. D had on a hat and dark sunglasses. She was otherwise dressed in black.
+
+   She raised her wrapped hand and told the clerk to give her $100. When the clerk did not immediately respond, she yelled, “Give me the money, now!”  The clerk was startled. D again yelled. “If you don’t give me the money, we will all be sorry.”
+
+   The clerk started to open register, but he stopped and asked D, “Are you sure you really want to do this?” D answered, “I have no choice.” D then pointed her wrapped hand at the clerk. The clerk took the money from the register and gave it to D.
+
+   D was arrested shortly after the robbery. The clerk in the back of the store saw the robbery on the security cameras and called the police.  Police recovered the money, the pen, and the towel. D was charged with armed robbery. The State argued that the pen was a dangerous weapon.
+
+   The clerk testified that he did not believe that D had a gun, but he thought she had something other than her hand wrapped in the towel. He testified that he did not think D would actually rob the store until she yelled at the end of the altercation.
+
+   Did D use the pen in a manner likely or calculated to cause death or great bodily harm?
+
+** facts
+
+- D decided to rob the store in the early morning hours, when there would be few customers.
+- wrapped her hand up, while holding a ball point pen, to make it look like she was carrying a gun
+- raised hand
+- told clerk (not shout) "give me the money now!"
+- yelled "if you don't give me the money, we will all be sorry"
+- "are you sure you really want to do this" asks the clerk
+- "I have no choice"
+- pointed wrapped hand at the clerk
+- clerk took the money from register
+- testified that he did not believe that D had a gun, but he thought he thought she had something other than her hand wrapped in the towel.
+
+** thoughts
+
+*** which standard
+
+not inherently dangerous and no actual damages so must be on "highly charged atmosphere"
+
+*** highly charged atmosphere
+
+quoting /state v lewis/ which quotes /state v woods/
+
+"the liklihood of this serioius harm can come from the threat perceived by victims and bystanders.
+
+such a threat may exist even though th eugn is not directly pointed at the victim (/state v gould/)
+
+however, the supreme court has been careful to point out that the subjective reaction of the victim is ont the sole determinative factor in evaluating whether an instrumentality has been used as a dangerous weapon."
+
+#+BEGIN_QUOTE
+
+may find that there was an actual likely danger of serious bodily harm to anyone prsent in the /highly charged atmosphere/ of the scene of a robbery, taking into consideration the great possibility of violence in the interaction between the offender and the victim thereby put in fear for his life.
+
+#+END_QUOTE
+
+lewis quoting /state v jeselink/ which itself quotes /state v mcclure/: (just quote it directly)
+
+"considering not only the character of the weapon, but by whome, upon hwom, and in what manner it was used."
+
+*** factors for highly charged
+
+**** state v lewis
+
+- armed robbery, is, by its very nature, "highly charged". this is circular. armed robbery in this case can only come about if the "highly charged" atmosphere elevates the bb guns to dangerous weapons. thus armed robbery cannot set the stage for the elevation, the finding of highly charged atmosphere is what promotes the crime from simple robbery to armed robbery.
+- screaming, threatening, cursing, and waving their guns.
+- normal business hours when bystanders might come to the aid of the victims
+
+*** factors against
+
+**** state v lewis
+
+- likelihood of this seroius harm /can/ come from the threat perceived by victims. quoting /state v woods/.
+
+**** state v byrd
+
+- no "highly charged atmosphere". this does not follow from robbery attempts per se.
+- intended to use the toy pistol so as not to harm
+- did not refer to toy pistol as a weapon
+- did not point the toy pistol at him
+- subjective reactoin indicates he did not perceive any likelihood of great bodily harm
+
+* Conclusion
+
+  Defendant will most likely not be found guilty of armed robbery as the "dangerous weapon" element promoting the lesser included charge of simple robbery is not met. In the absence of actual harm or an inherently dangerous weapon, the court looks for a "highly charged atmosphere". This risky atmosphere was lacking in the instant case and so the required element of use of a "dangerous weaon" will not be met.
+
+* Rule
+
+  Statutory language from LSA-R.S. 14:2(3): "Dangerous weapon" includes any gas, liquid or other substance or instrumentality, which, in the manner used, is calculated or likely to produce death or great bodily harm."
+
+* Explanation
+
+  The rule can be analyzed under three cases: 1) the "inherent danger" of the instrument itself 2) whether the manner used leads to a "highly charged" atmosphere which has a "likelihood for death or great bodily injury", or 3) that the instrument was used to cause "death or great bodily injury". Any of these alone is sufficient to meet the requirements under 14:2(3) to find a dangerous weapon.
+
+* Application
+
+  In /State v. Johnson/, the court ruled that an ink pen was a "dangerous weapon" for purposes of armed robbery. This ruling is not controlling for two reasons: the court did not rule that the ink pen was inherently dangerous and there was actual harm committed with the ink pen. Were the ink pen ruled inherently dangerous, the analysis would stop there. But the court found that there was actual great bodily harm done, which certainly satisfied the "likelihood of great bodily harm" requirement of 14:2(3). The court did not examine the "highly charged atmosphere" at all. As such, the decision actually bears little to no weight at all on the instant case as the ink pen is not categorically an inherently dangerous weapon and there is not actual great bodily harm.
+
+  The only remaining test of the ink pen in the towel around the defendant's hand would be if the defendant created a "highly charged atmosphere" in the manner the instrumentality is used. For this the court has sketched the contours of what the court considers sufficiently "highly charged" in /State v. Byrd/ and /State v. Lewis/. In /State v. Lewis/, the defendant used a bb-gun to rob a bank. The defendant burst into the bank screaming and waving the gun. She stood on the desk and pointed the gun directly at the tellers head and called the weapon a gun. Workers were cowering in fear. The robbery wsa during normal business hours when customers were likely to be prsent. Contrast this with the scene in /State v. Byrd/. There a man approached a drive through window of a restaurant, asked for a piece of chicken, displayed his weapon (a toy gun) but did not otherwise threaten or point the weapon at the restaurant employee. The defendant used a toy gun so as not to hurt anyone. The scene was the antithesis of the one described previously, as the employee felt bold enough to swipe the chicken back from the robber after a failed attempt at the money. There are some elements that do reflect the situation in the former case. The defendant pointed the wrapped hand after yelling at the clerk at the end of the interaction. The clerk testified that while he didn't believe the defendant had a gun, he thought she had something other than her hand wrapped in the towel. However, this case is more like the latter case than the former "highly charged atmosphere". In this case, the defendant went in the early hours so as to preclude customers being exposed to risk. Until the end, the volume of the voice was below a shout. The clerk felt at ease enough to ask "are you sure you really want to do this?" The clerk testified that he did not believe that the defendant had a gun. The ink pen and towel were not used in a manner calculated or likely to produce death or great bodily harm.
+
+* Conclusion
+
+  The defendant will most likely not be found guilty of armed robbery. The scene at the robbery was, while not tranquil, not amounting to the "highly charged atmosphere" that allows an otherwise mundane object to satisfy the "dangerous element" requirement for armed robbery.
