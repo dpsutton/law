@@ -507,20 +507,130 @@ us court of appeals 3rd circuit 1991
 
 *** Main Takeaway
 
+
+* terms that follow later
+** intro
+
+   these cases do not concern conflicting forms, so one issue is whether or not 2-207 governs. But a more fundamental question is whether a party can be said to have assented to terms that he or she could not examine until sometime after a purchase was made. can you manifest consent to be bound by terms to which you only later gain access? in this regard, these cases address a problem raised by the facts of carnival cruise but avoided by the supreme court: the terms of the agreement were on the back of the ticket that was delivered to the passengers after they paid for their tickets. in what sense did or could the purchasers conset to terms they had yet to see at the time of the sale?
+
 ** ProCd v Zeinberg
+
+   United States Court of Appeals, 7th circuit
 
 *** Procedural History
 
 **** facts
 
+     ProCD makes a database with information about people, phone numbers, etc. It markets this to consumers at one price point and to corporations at another, under the theory that personal lookup is valued less than company lookup for sales leads. It prevents arbitrage with a license agreement, both shrinkwrap and visible each time the user uses the product. Zeinberg purchased the software as a consumer and then formed a company reselling the information, undercutting ProCD.
+
 **** lower court
+
+     The lower court held the licenses ineffectual because their terms do not appear o nthe outside of the packages. Defendant bought three packages and presumably knew what the license would have been on those. The district court ruled that because they could have been different, they failed to control for the same reason as the first license. Their terms were unknown until after purchae.
+
+     Zeinberg argued, and the court accepted, that the software on the shelf was an offer, and purchase was the acceptance. This K could not include terms secret at the time, including only the terms that were agreed to at the time.
 
 *** Questions Presented
 
+    Do the terms of the software, only visible after purchase and unwrapping, bind the K the parties have entered.
+
 *** Rule
+
+    UCC 2-204 "A contract of goods may be made in any manner suffient to show agreement". The software included additional terms that defendant was free to accept or reject by his conduct.
 
 *** Reasoning
 
+    The software could have the entire license on the outside, but this would preclude necessary information, like what the software does. Rather, the box mentions that there are other terms inside and expressly includes a refund clause. Further, there are many transactions which have an exchange of money before the full terms are known: insurance, tickets, concerts. All of these things would be burdensome to have a full K up front and predicate usage on acceptance. These arguments hold, the court holds, for consumer goods as well. Warranty information for consumer goods is always inside the box, read at leisure by the consumer later. Drug information--extremely vital information like drug interactions--come inside of the package, visible only after purchase.
+
+    For software specifically, the court notes that purchases are increasingly done over the internet, purchased box unseen. Defendant's argument would mean that these purchases are bound by standard UCC terms with standard warranties (almost always disclaimed in software), increasing costs or increasing returns, or forcing software back into a physical store. The lower court said wording needed to change in UCC 2-203 but the court notes they just need certainty added to it. the handwringing is academic, not practical, noting the myriad law review articles and relative paucity of actual cases on the issues.
+
+    Court boils it down to standard specified acceptance. "A vendor, as master of the offer, may invite acceptance by conduct, and may propose limitations on the kind of conduct that constitutes acceptance. A buyer may accept by performing the acts the vendor proposes to treat as acceptance. And that is what happened. ProCD proposed a  K that a buyer would accept by /using/ the software after having an opportunity to read the license at leisure." The license popped up and required indication of acceptance to use. The disagreement with the lower court is that although /some/ contracts are made by purchase and take product, the UCC allows for other formations. Here Plaintiff proposed a different method and "without protest, Zeidenberg agreed".
+
+    Acceptance of goods argument. Plaintiffs extend a chance to inspect and make a rejection of the license. Defendant did so and did not object: "acceptance of an offer differs from acceptance of goods after delivery". Opportunity to return goods is important.
+
 *** Holding
 
+    The terms of the software were binding.
+
 *** Main Takeaway
+
+    The terms form part of the original contract, not requesting an addition. It is important that the user has a chance to read and then take action at this point to accept or reject. The notice on the shrinkwrap mentioned that there were terms included inside which was helpful for browsing, not required, but sreved to strengthen the case of notice.
+
+** hill v gateway
+
+united states of appeals, 7th circuit
+
+1997, same judge as ProCD v Zeinberg, 1 year later
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff orders computer over phone, computer arrives. has terms unless customer returns within 30 days. After more than 30 days customer complains and argues the included arbitratoin clause is not binding. In particular, the arbitration clause is singled out.
+
+**** lower court
+
+     Lower court held the terms are not effective yielding an effective term-free K. Gateway appeals.
+
+*** Questions Presented
+
+    Do terms of purchase of a computer that arrive with the computer, never referenced before, form part of the original contract or are they terms added after the fact?
+
+    Are these terms binding?
+
+*** Rule
+
+    The merchant may choose some conduct as the mode of acceptance.
+
+*** Reasoning
+
+    the plaintiffs concede that they noticed the statement of terms but that the arbitration clause did not stand out. The fact that the arbitration clause did not stand out is not legally relevant. The court notes that all of the terms apply or none of them, depending upon if they are part of the original K or are offers after the fact.
+
+    ProCD holds that terms inside of a software box are binding after affording the user an opportunity to read the terms and reject the product. The court again notes the many ways contracts can be formed and that the offeror is the master of the deal. Plaintiffs ask to carve a distinction from software and computer, leaving roCD not controlling, but with no persuasive argument to do so. ProCD rested on the law of contract formation, not of software. Notes several places where terms must be left for later than the intial transaction of money for goods (cashier in grocery store, , insurance). Had direct sales people read the whole terms over the phone, it would have infuriated customers and not left them principally better off: we write things down for a reason. Ask to hold the ProCD result to executory K's and does not apply here since all perormance is complete.
+
+    At oral arguments, oral that ProCD box had a notice that additional terms were inside whereas here the box is a shipping box with no notice. Court points out the difference in utility and design: the former designed to attract customers, the latter is a mere shipping carton. Gateway has ads mentioning limited warranties, putting customer on notice that terms are included and have avenues to obtain them. By law, vendors must provide terms upon requrest, customers can find public postings of the terms, and third, can inspect documents upon delivery. By holding the computer longer than 30 days, the Hills accepted Gateway's offer.
+
+*** Holding
+
+    Overturns the lower court, rules was a K with the terms inside the box and therefore the hills have no recourse in court but in arbitration.
+
+*** Main Takeaway
+
+    that  agood, even when shipped with no mention of terms, can arrive with additional terms inside. this does rely on some manner of the consumer to decide on these terms, having a way to accept or reject, and some notice that there are additional terms involved. In ProCD this was satisfied by the notice on the packaging, in the instant case, by ads on television. There are many avenues to get the terms before purchase and a way to reject them after purchasing of goods but before accepting the K.
+
+** Klocek v Gateway
+
+   united states district court, district of kansas, 2000
+
+3 years and different circuit from above
+
+*** Procedural History
+
+**** facts
+
+     Plaintiffs purchased a scanner from gateway which included terms that 5 days of not returning constitute acceptance, and that al disputes would go through federal arbitration. plaintiff claims breach of contract, warranty, false promises. Pursues remedy in court but must decide if arbitration clause prevents court remedy.
+
+**** lower court
+
+     this is the trial court
+
+*** Questions Presented
+
+    Same as above. Were the terms inside of the electronics box terms additional to a formed contract or part of the conduct by which a person accepted the offer from gateway.
+
+*** Rule
+
+    UCC 2-207 rules the day here.
+
+*** Reasoning
+
+    the court argues that 2-207 settles most "battle of the forms' claims, but is not statutorally limited to them. As such, the 7th Circuit's dismissal of this provision was unfounded. holds that the terms are /additional/ terms that the plaintiff's are free to consider and weigh, but are not bound until acceptance.
+
+    there are no indications that gateway is willing to forego the commerce unless its later terms are accepted. as such they are not melded into the contract and are no binding. no argument that plaintiffs entertained the additional terms or expressly accepted them, defeating gateway's argument that plaintiff's kept the scanner for longer than 5 days and therefore accepted them.
+
+*** Holding
+
+    The binding arbitration clause came after a formed K and is a a new offer for consideration without acceptnace on behalf of the plaintiffs.
+
+*** Main Takeaway
+
+    Two competing notions. One that the K had terms additional to the simple money for goods but provided for 30 days of evaluation and a way to reject; the other that the original purchase provided no knowledge of future terms and was a contract upon itself with the ordinary UCC mechanism of altering the K later.

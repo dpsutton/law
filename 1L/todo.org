@@ -85,7 +85,10 @@ already on twen
 *** TODO late terms 436 - 449
 *** TODO start parol evidence 451 - 468
 ** week
-*** contracts [0/3]
-**** TODO parol evidence
+*** contracts [1/3]
+**** DONE parol evidence
 **** TODO mistake in integration
 **** TODO statutes off frauds
+* Week
+** lawyering
+*** TODO dangerous weapon analysis
