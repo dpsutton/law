@@ -92,11 +92,11 @@ already on twen
 * Week
 ** lawyering
 *** DONE dangerous weapon analysis
-** torts [0/10]
-*** TODO pearson
-*** TODO obrien
-*** TODO hackbart
-*** TODO mohr
+** torts [4/10]
+*** DONE pearson
+*** DONE obrien
+*** DONE hackbart
+*** DONE mohr
 *** TODO de may
 *** TODO fricke
 *** TODO cole

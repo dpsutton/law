@@ -1121,38 +1121,77 @@
 * conversion
 ** Pearson v Dodd
 
+   united states court of appeals, dic circuit, 1969
+
 *** Procedural History
 
 **** facts
 
+     In the summer of 1965, two former employees of the plaintiff, Drew Pearson (newspaper columnist), entered the office of te senator and copied files and then published articles containing information from these files.
+
 **** lower court
+
+     partial summary judgment in favor of dodd for conversion of his stolen documents.
 
 *** Questions Presented
 
+    Was the copying of the files a conversion?
+
 *** Rule
+
+    An intentional exercise of dominion or control over a chattel which so seriously interferes with the right of another that the actor may justly be required to pay the full value of the chattel". A judgment for conversion can be obtained with only nominal damages, whereas liability for trespass to chattels exists only on a showing of actual damage to the property interferred with.
 
 *** Reasoning
 
+    The files were not damaged and as such, as records of the offfice's business transactions there are no damages. "it has long been recognized that documents often have value above and beyond that springing from their physical possession. ... The question then arises whether th einformation taken by means of copying appellee's office files is of the type which the law of conversion protects".
+
+    Areas the law protects:
+- information gathered and arranged at some cost and sold as a commodity on the market
+- ideas are formulated with labor and inventive genius, as in the case of literary works or scientific researches
+- constitute instruments of fair and effective commercial competition
+
+  the taken files related to none of these categories. they were letters from "supplicants" (note, not constituents, not sure if that matters), and office letters. There was no literary or scientific value, the documents were not for sale, they were simply documents.
+
 *** Holding
 
+    the lower courts holding of conversion is overturned.
+
 *** Main Takeaway
+
+    when it comes to information, the law has carved out some categorically protected spots, but that in general, "ideas or information are not subject to legal protection".
 
 * consent
 ** O'Brien v. Cunard S.S. Co
 
+   supreme court of MA, 1891
+
 *** Procedural History
 
 **** facts
 
+     In immigrating to boston, passengers must stay in quarantine for smallpox. Passengers may defeat this requirement by showing a vaccination paper or scar. The ship carrying them would offer the vaccination as a service. There were signs all over the ship in many languages and a long line of 200 women discussing what was happening. The defendant held up her arm after making a protestation that despite her lack of scar she had been previously vaccinated. the doctor suggested another vaccination, she held up her arm on her own accord to be vaccinated. she took the ticket provided after the vaccination and showed it at port to escape the quarantine. She had a reaction later and brings this action under a theory of battery.
+
 **** lower court
+
+     ruled in favor of defendant that there was no assault.
 
 *** Questions Presented
 
+    Was the vaccination a battery or was there consent to the touching.
+
 *** Rule
+
+    Consent to an action negates the liability under an intentional tort, as the act was justified.
 
 *** Reasoning
 
+    "in determining whether the act was lawful or unlawful, the surgeon's conduct must be considered in connection with the surrounding circumstances. If the plaintiff's behavior was such as to indicate consent on her part, he was justified in his act, whatever her unexpressed feelings may have been." in determining this consent or lack thereof, the court will only turn to the overt acts and the manifestations of her feelings, much like contract law.
+
+    The woman had ample knowledge of the vaccinations and an incentive to receive one. The women in line were discussing it and there were signs in many languages around the boat. She presented her arm to be vaccinated on her own accord, which he proceeded to do.
+
 *** Holding
+
+    The surgeon had plaintiff's consent for the vaccination and there was therefore no battery, consequently no liability.
 
 *** Main Takeaway
 
@@ -1162,19 +1201,35 @@
 
 **** facts
 
+     After an interception, one of the bengals players intentionally hit hackbart in the back of the head. both players got up without complaint and carried on in the game. hackbart was moved to special teams in the weeks following before being releaed due to his injry. he brings this action in response.
+
 **** lower court
+
+     Lower court ruled in favor of defendants, denying liability for the frustrated, intentional hitting which led to injury.
 
 *** Questions Presented
 
+    Whether in a regular season professional football game an injury which is inflicted by one professional football player on an opposing player can give rise to liability in tort where the injury was inflicted by the intentional striking of a blow during the game.
+
+    Does the violent nature of professional football prevent a person recovering under tort liability for battery?
+
 *** Rule
+
+    If general customs allow for the conduct, there will be no remedy in law. Outside of this, there is no reason to preclude remedy in the law.
 
 *** Reasoning
 
+    The court notes that football is a violent sport with penalties for infractions. However, the defendant acknowledged intentionally hitting the person in a fit of frustration and anger. The intentional striking of another player is probhibited and not approved of in the game or the culture of the game. The game has rules to prevent serious injury to the players and not all reason has been abandoned. "Therefore notion is not correct that all reason has been abandoned, whereby the only possible remedy for the person who has been the victim of an unlawful blow is retaliation".
+
 *** Holding
+
+    The lower court improperly turned to the social policy of the game rather than judging the case on the legal rights of the plaintiff. The lower court held that a strong line between offensive play and illegal conduct could not be drawn considering the nature of the game. The appellate court sent the case back for the trial court to consider the plaintiff's rights and whether they were violated.
 
 *** Main Takeaway
 
 ** Mohn v Williams
+
+   Supreme court of minnesota, 1905
 
 *** Procedural History
 
@@ -1182,13 +1237,25 @@
 
 **** lower court
 
+     rule in favor of plaintiff for battery with damages at 14k. Trial judge denies defendant's motion for judgment notwithstanding the verdict but does grant a new trial on size of damages. both parties appeal.
+
 *** Questions Presented
 
 *** Rule
 
+    Patient's give implied consent only when under an emergency which threatens life or limb, or if in the course of the operation, uncovers "conditions not anticipated before the operation was commenced, and which, if not removed, would endanger the life or helath of the patient, he would, though no express consent was obttained or given, be justified in extending the operation".
+
 *** Reasoning
 
+    The surgery at hand failed these tests for implied consent. The disease of the left ear was found not during inspection of the right ear but after deciding the right ear was not requiring surgery to fix. The disease of the right ear, further, did not rise to the standard required for implied consent, as it was not life threatening nor an emergency.
+
+    The plaintiff brought her family physician along to comfort her. Her was in the operation but not participating and had no authorization to grant consent. The physician seems to have assented in some way to the surgery on the left ear, or perhaps didn't object. the writing is poor. the question of this consent and the necessity of the operation of the left ear are best left to the jury.
+
+    Plaintiff's argument that he had no bad intent and actually healed the woman has some merit but does not speak to the law. Assault and battery speak to the inviolability of the person and are defeated by consent, not by good intentions. the goodness of the doctor's actions can be considered in damages but not in legal liability.
+
 *** Holding
+
+    The order for a new trial is confirmed.
 
 *** Main Takeaway
 
