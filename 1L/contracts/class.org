@@ -1080,3 +1080,156 @@ K law comes from courts of equity rather than courts of law. always trying to ge
 *** klocek v gateway
 
     rejects that 2-207 applies only to concflicting forms.
+* sep 26
+** different analysis
+*** principle
+
+give meaning to the *manifested* intent of the parties
+
+objective with a significant subjective twist: did the parties intend the same thing to begin with
+** ambiguous or vague terms
+
+determine if there is a formation or interpretation issue
+
+for our purposes:
+- if no party has performed, start with the formation analysis (ambiguity)
+- if only one party has performed, start with the formation analysis
+- if both parties have at least partially performed, start with the interpretation analysis (vagueness)
+
+*** ambiguity
+
+do the parties agree as to the meaning of the rterm? if yes: K & term has that shared meaning
+
+if the parties do not agree as to the meaning, was either party aware of the ambiguity. if not, then K fails because of lack of mutual assent. If both parties are aware of the ambiguity and didn't do anything, lack of K becaues no mutual assent
+
+if both parties were not aware but one was, the K will have the meaning of the non-aware party's meaning.
+
+*** vagueness
+
+do the parties agree as to the meaning of the term? if yes, has that meaning
+
+has the question been cured either because (a) offeree was given a choice of alternative performances and he chose or (b)
+
+**** else:
+
+start with parties meanings. was there a subjective meaning.
+- words of K
+- course of negotiations
+- course of performance
+- course of dealing
+
+if no subjective agreement, there is a misunderstanding
+
+does one party know or have reason to know that the other party attached a different meaning and what it is? if so, that's the meaning (the non-aware party's meaning)
+
+objective meaning:
+- plain and ordinary
+
+if no objective meaning, the terms is objectively ambiguous: NO K
+
+** rules of construction
+
+*** K construed as a whole
+
+*** interpret to avoid conflicts
+
+*** inconsistent provisions: negotiated over standard
+
+*** preference to construe K as valid and enforceable
+
+*** ambiguity against party preparing K
+
+** missing terms, gap fillers, & illusory promises
+
+- is the K for the sale of goods?
+- if no, does it reasonable appear that the parties intended to make a K?
+  - if no, no K
+- is there a reasonably certain asis for filling in the term?
+  - if no, does this make the possibility of a K too uncertain?
+    - if yes, no K
+    - if no, enforce K with/o the gap
+
+** gap fillers for sale of goods
+
+- courts can suppply reasonable terms for those missing:
+  - *ONLY* when they are consistent with intent as otherwise expressed
+- is there a writing a does the conduct of the parties recognize the existence of a K?
+
+** quantity missing
+
+- is the K a requirements or outputs K?
+- K valid but quantity cannot be unreasonably disproportionate
+- may not be enforced if promisor did not have an established business (needed for estimates or baselines)
+
+** form Ks
+
+- did the party have notice of the terms before the K?
+  - if ye, the terms are part of the K
+- did the party get notice of the terms after the K?
+  - if no, those terms are not part of the K
+- if yes, did the party have the opportunity to reject?
+  - generally, the terms will be part of the K.
+
+** conflicting writings (battle of the forms)
+
+- is the K for sale of goods
+- if no, has there been performance by either party?
+  - if no, formation question and go back to mirror image rule: does acceptance mirror offer? we look at it as a counter offer
+- if there was some performance, presume a K. but the queston is which terms apply and we go back to all the pieces earlier.
+- last shot rule: last form before the party begins partial performance. courts tend not to use anymore and look to interpretation
+- ucc lacks: ucc 2-207
+
+** ucc 2-207
+
+- no mirror image rule: definiate and seasonable expression of acceptance or a written confirmation sent within a reasonabl etime operates as a n  acceptance even if it includes additional or different terms
+- merchants: becomes part of the K
+  - unless offer limits acceptance to the terms of the offer
+  - unless material alteration
+  - terms have already been objected to or are objected to in a reasonable time after notice
+
+** posner's rule:
+
+** parol evidence rule
+
+- a consideration whenever a party wants to introduce extrinsic evidence to contradict or vary the terms of a *written* K
+
+** hypos
+
+*** 1
+
+- inkeeper, who had no previous experience in the motel or commercial laundry business,
+- bougt motel and signed agreement with a laundry company.
+- "daily service at $500 a week"
+- laundry company knew inkeeper expected services 7 days a week
+- company refuses on two successive Sundays and indicated it wouldn't do so
+- inkeeper cancelled the agreement
+- landry company sued the innkeeper for breach
+- clear evidence introduced to show in commercial laundry business "daily service" did not include service on Sundays
+
+**** thoughts
+
+we have an ambiguous term where one party knows of two meanings and another knows of only one. The party that knows of two terms is an industry professional and the one without knowledge that an ambiguity exists is a new-comer.
+
+this is an issue related to interpretation of ambiguous or vague terms. We have partial performance so this is not a formation issue but an interpretation analysis. One party thought it meant 7 days, one party thinks 6 days. Does one party know or have reason to know the other party the other party attached a different meaning while the other party does not? The commercial laundry company knew and therefore the K will be interpreted for 7 days or else damages
+
+*** 2
+
+- seller and buyer dealt with each other in hundreds of separate grain contracts
+- previously, seller delivered grain to buyer and upon delivery, buyer signed an invoice that showed an agreed upon price for that delivery
+- each invoice was silent i nregard to any discount from the price for prompt payment.
+- custom of grain trade is 2% discount for payment ithin 10 days delivery
+- all past transactions, buyer took 15 days to pay and deducted 5% from invoice price
+- same system used in instant transaction
+- on third day after delivery, buyer received following: "payment in full in accordance with signed invoice is due immediately. no discounts permited"
+
+is buyer entitled to take a 5% discount if he pays within 15 days?
+
+**** thoughts
+
+missing term: K doesn't say anything about a discount. So can this term be added to this otherwise written K.
+
+Gapfiller Question 1: is for sale of goods? Yes. so UCC applies. Courts can supply reasonable terms for those missing: only when consistent with the intent.
+
+gonna look at course of dealing. between these two entities: suggests as to intent that there is agreement on 5% on 15. also know the trade usage 2% on 10 days, but course of dealings weighs more heavily. material alteration, so the court rejects this term. so the buyer is entitled to take a 5% discount.
+
+*** 3
