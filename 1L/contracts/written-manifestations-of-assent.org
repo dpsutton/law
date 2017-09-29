@@ -133,11 +133,11 @@
 
     The court sighs quite heavily when making this rule.
 
-#+BEGIN_QUOTE
+    #+BEGIN_QUOTE
 
-Under Pacific Gas, it matters not how clearly a contract is written, nor how completely it is integrated, nor how carefully it is negotiated, nor how squarely it addresses the issue before the court: the contract cannot be rendered impervious to attack by parol evidence. If one side is willing to claim that the parties intended one thing but the agreement provides for another, the court must consider extrinsic evidence of possible ambiguity. If that evidence raises the specter of ambiguity where there was none before, the contract language is displaced and the intention of the parties must be divined from self-serving testimony offered by partisan witnesses whose recollection is hazy from passage of time and colored by their conflicting interests. . . . We question whether this approach is more likely to divulge the original intention of the parties than reliance on the seemingly clear words they agreed upon at the time. . . . 
+    Under Pacific Gas, it matters not how clearly a contract is written, nor how completely it is integrated, nor how carefully it is negotiated, nor how squarely it addresses the issue before the court: the contract cannot be rendered impervious to attack by parol evidence. If one side is willing to claim that the parties intended one thing but the agreement provides for another, the court must consider extrinsic evidence of possible ambiguity. If that evidence raises the specter of ambiguity where there was none before, the contract language is displaced and the intention of the parties must be divined from self-serving testimony offered by partisan witnesses whose recollection is hazy from passage of time and colored by their conflicting interests. . . . We question whether this approach is more likely to divulge the original intention of the parties than reliance on the seemingly clear words they agreed upon at the time. . . . 
 
-#+END_QUOTE
+    #+END_QUOTE
 
     despite the lawyers, clarity of language, negotiated with aid of counsel, "even if it results in contract language that is devoid of ambiguity, costly and protracted litigatoin cannot be avoided if one party has a stron genough motive for challenging the contract".
 
@@ -154,36 +154,72 @@ Under Pacific Gas, it matters not how clearly a contract is written, nor how com
 * reforming a writing--mistakes in integration
 ** the travelers insurance co v bailey
 
+   supreme court of vermont, 1964
+
 *** Procedural History
 
 **** facts
 
+     Defendant sought to get a life insurance policy which would pay $500 per year ten years guaranteed for $5000 in 1931. The forms filled out stipulated $500 per month 100 months guaranteed. Defendant learned of this difference 30 years later. Plaintiffs were surprised as they offered no policy like the one mentioned. The policy was not in the hands of defendant until 1961. The premiums paid were clearly for and applicable only to the policy as talked about, not the non-existant one on paper. Defendant did not know that the original policy provided for an annuity larger than he was entitled.
+
 **** lower court
+
+     rules that the amended policy presented to the defendant was the true agreement from the beginning. defendant appeals
 
 *** Questions Presented
 
+    Can a contract be amended unilaterally after 30 years of faithful performance when the signed agreement does not reflect the terms agreed to?
+
 *** Rule
+
+    Requires a specific contractual agreement (proved beyond a reasonable doubt), and "a subsequent erroneous rendition of the terms of the agreement in a material particular, the party penalized by the error is entitled to reformation if there has been no prejudicial change of position by the other party while ignorant of the mistake"
 
 *** Reasoning
 
+    A party may reform a contract when it establishes the true meaning of the agreement beyond a reasonable doubt. The moving party established that beyond a reasonable doubt, "The only agreement that the plaintiff and defendant made was for $5000 insurance with annuity of $500 per year at attained age 65, ten years certain".
+
+    In this case, defendant does not question these findings, but holds that because of negligence solely on the plaintiff's side, the K should not be reformed. However, when finding beyond a reasonable doubt the true agreement, "equity will act to bring the erroneous writing into conformity with the true agreement".
+
+    Requires a specific contractual agreement (proved beyond a reasonable doubt), and "a subsequent erroneous rendition of the terms of the agreement in a material particular, the party penalized by the error is entitled to reformation if there has been no prejudicial change of position by the other party while ignorant of the mistake".
+
+    There was no reliance on the terms by the defendant as he did not learn about the terms for 30 years.
+
 *** Holding
 
+    Affirms the lower court.
+
 *** Main Takeaway
+
+    The court again wants to bind the parties to their agreement. If the parties wrote down the agreement wrong, and there was no reliance on the erroneous writing, the party can reform the K after showing beyond a reasonable doubt the true agreeement.
 
 * requiring a writing--statute of frauds
 ** Boone v coe
 
+   court of appeals KY 1913
+
 *** Procedural History
 
 **** facts
 
+     A family makes a contract with a farm owner to move to Texas and work on his farm. In exchange, the owner will provide accomodations, material for a barn, and help these people live their lives. They travel 55 days to Texas and find none of this. In December, the owner kicks them out and they must move back to KY. They sue for breach, calculating time, materials and hardship to $1300.
+
 **** lower court
+
+     Plaintiffs appeal from a dismissal (? demurrer)
 
 *** Questions Presented
 
 *** Rule
 
 *** Reasoning
+
+    Ky law governs as the K was formed in KY despite the land being in TX. The statute of frauds disallows unwritten K's for sale of real estate or lease for longer than 1 year. further, it requires contracts in the future (in statute says more than 1 year in the future, not sure we have that condition in this case) to be written. Statute of frauds, on these two provisions, prevents recovery as it holds the contract unenforceable.
+
+    The statute of frauds prevents recovery but court notes the many exceptions to the SOF (statute of frauds). Services rendered during the life of one for benefits conferred after death, while covered under SOF, are allowed reasonable compensation. also, "vendee of land" can recover purchase money and entitled compensation for improvements.
+
+    Had the plaintiff gained some benefit, there would be remedy. However, here, the movement in position on the plaintiff is a loss but defendant had no gain. Had there been some, the law would "imply an obligation to pay". Without this benefit, there is no obligation. This is outside of contract it seems. The SOF holds squarely that the K is unenforceable and defendant had the right to refuse perfomance. "To require him to pay plaintifs for losses and expenses incurred on the faith of the K without any benfit accruing to him would, in effect, uphold a K upon which the statute expressly declares no action shall be brought."
+
+    Court notes a ruling in the opposite manner and holds that it should no longer govern.
 
 *** Holding
 

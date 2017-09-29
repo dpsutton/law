@@ -1233,3 +1233,55 @@ Gapfiller Question 1: is for sale of goods? Yes. so UCC applies. Courts can supp
 gonna look at course of dealing. between these two entities: suggests as to intent that there is agreement on 5% on 15. also know the trade usage 2% on 10 days, but course of dealings weighs more heavily. material alteration, so the court rejects this term. so the buyer is entitled to take a 5% discount.
 
 *** 3
+* sep 26 night class
+
+** hypo 1
+
+*** facts
+
+- standard contract with spots for filling in: type, quantity, price, delivery date
+- stipulates to use usps for delivering
+- company receives
+- fills in blanks on their own form
+- differs in carrier
+- sends back
+- company checks filled in quantities and files away
+- delivery date comes, no delibery
+- no communication between company and day care other than the above
+
+**** thoughts
+
+     dealing with sale of goods, so we have UCC. the UCC wants to find contracts and isn't super worried about the mirror image rule in forms going back and forth. there's no partial performance (is there?). this is a formation question.
+
+**** answer
+
+     no question about offer. ucc 2-207 is looking for a "definite and seasonable acceptance". we have definite, and seasonable. does the change of terms defeat acceptance. under common law, this lack of mirror image would defeat K. But here was are UCC. - can include additional terms, with two exceptions: 1) conditional acceptance and 2) material terms. There was no indication that they would walk away from the K without the addition. This was not a material alteration of the agreement, so the only question remaining is what are the terms of the K.
+
+     To decide this, we have to know if Doggy Day Care is a merchant. With two merchants, the last term in wins, barring objection. If doggy day care is not a merchant, they would not be bound by the term.
+
+** hypo 2
+
+*** facts
+
+- landlor leased commercial space to Tenant
+- ten years and option to purchase clause, allowing to purchae at end of lease
+- tenant had to give notice of intention to exercise option six months before lease ended
+- no language about purchae price or language indicating parties agreed to agree on the price later
+- gave timely notice of intention to exercise option
+- landlord efused to sell, arguing no enforceable agreement as to the sale of building
+
+"was there a K for the option"?
+
+**** answer
+
+issues in formation: was the K definite enough?
+
+common law: to determine if definite enough:
+- appears parties intended to K.
+
+gap filling question under restatement, not UCC.
+
+rule under CL for gap filling: reasonable if simple
+
+gap: price.
+there is a reasonable basis for which the court can determine the value of this property. Restatement 204: "bargain suffiecient to be K, a term which is reasonable under the circumstances, is supplied by the court".

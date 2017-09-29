@@ -1261,37 +1261,65 @@
 
 ** De May v Roberts
 
+   Supreme court of Michigan, 1881
+
 *** Procedural History
 
 **** facts
 
+     A woman was in pain from childbirth. Her doctor made a housecall to visit her. Due to overwork and terrible weather, he enlisted a person to help him carry things. The stranger was warmly greeted along with defendant, admitted to the room with the woman. He held her hand during an attack of pain. Both men acted in this capacity professionally and with utmost care. The woman later found out that the other man was not a doctor and brings this suit.
+
 **** lower court
+
+     Ruled in favor of the plaintiff against teh doctors.
 
 *** Questions Presented
 
+    Can consent be waived if given under deceit
+
 *** Rule
+
+    Unless invited or because of some real and pressing necessity which it is not pretended existed in this case, the law provides a remedy.
 
 *** Reasoning
 
+    that the deception waived her consent. the opinion really just goes on about the the injustice of it without developing a cogent theory of revoked consent, if it never existed in the first place. it's dense writing and just assumes the worst.
+
 *** Holding
+
+    the lower court was proper in finding tort liability
 
 *** Main Takeaway
 
-** fricke
+    that consent predicated on deception will not survive.
+
+** fricke v owens-corning fiberglass corp
 
 *** Procedural History
 
 **** facts
 
+     a man was observed laying in a tank. The shift manager started to go down but another coworker insisted on going down himself. The manager went to get help and returned to two bodies in the bottom of the tank. The first man died and the second suffered severe brain damage. His family brings suit under intentional tort of battery for the manager subjecting him with purpose or with substantial certainty to the battery of the vapors below.
+
 **** lower court
+
+     Trial court granted summary judgment for defendants but higher court reversed.
 
 *** Questions Presented
 
+    Did plaintiff consent to the battery when he entered the tank?
+
 *** Rule
+
+    Consent to a battery waives liability. Consent will not be effective when based on a falsehood or misrepresentation.
 
 *** Reasoning
 
+    Neither Fricke nor Baumer knew that the vapors were present or harmfl. Baumer did not know of the vapors or the danger. Had there been a misrepresentation, the consent would have been waived. Both Fricke and Baumer reacted as normal people.
+
 *** Holding
+
+    The trial court's dismissal was correct.
 
 *** Main Takeaway
 
@@ -1302,6 +1330,8 @@
 **** facts
 
 **** lower court
+
+     Lower court held that plaintiff was subject to an intentional tort.
 
 *** Questions Presented
 
