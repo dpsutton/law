@@ -1335,16 +1335,73 @@
 
 *** Questions Presented
 
+    Did officer cole consent to the strikes received in the training scenario, when seemingly all reason had been abandoned?
+
 *** Rule
+
+    Consent may be expressed or implied; if implied, it must be determined on the bases of reasonable appearances.
 
 *** Reasoning
 
+    Although it is conceivable that he consented to the unpadded baton strikes, there is no reason to think he consented to the sheer brutality that resulted. The exercise was supposed to be "low key and half speed". Even if he had consented, that consent would be considered revoked. "The use of unnecessary and unanticipated force vitiates consent."
+
 *** Holding
+
+    Cole did not consent to the battery.
 
 *** Main Takeaway
 
+    That even if you conent, you consent to an anticipated circumstance. unnecessary and unanticipated levels of force can vitiate this consent.
+
 * self-defense
-** Slayton Landry
+** Slayton v McDonald
+
+*** Procedural History
+
+**** facts
+
+     Bully enters house of Defendant after words at school. 911 tapes confirm a long altercation where he can be heard taunting the defendant, defendant warning that he would shoot. several times is warned to get back. Defendant shoots in the knee, and undisputed never aims gun at chest or head. Defendant knows there is squirrel shot in shotgun.
+
+**** lower court
+
+     rejects plaintiff's claim for personal injuries from shooting. Action was shooting victim (father) suing shooter (father) for lost wages and medical bills. court dismissed action as acted reasonably, "using only that force necessary to prevent a forcible offense against his person".
+
+*** Questions Presented
+
+*** Rule
+
+    "Even when another party is the initial aggressor, the victim may use only so much force as is reasonably necessary to repel the attack and if the victim goes beyond that point, he is liable for damages".
+
+
+
+*** Reasoning
+
+    Generally not justified in using a dangerous weapon in self-defense if the attacking party is not armed but only commits battery with his fists or in some manner not inherently dangerous to life. However, resort to dangerous weapons may be justifiable when the fear of danger of the person attacked is genuine and founded on facts likely to produce similar emotions in reasonable men, and the person so actually believes. All facts and circumstances must be taken into account, "but detached reflections or a pause for consideration cannot be demanded".
+
+**** factors for consideration:
+
+- character and reputation of the attacker
+- belligerence of the attacker
+- large difference in size and strength
+- overt act by the attacker
+- threats of serious bodily harm
+- impossibility of a peaceful retreat
+
+*** reasoning continued
+
+    Mcdonald (defendant) testified plaintiff had beaten people up larger than himself, was capable of beating Mcdonald. Slayton showed belligerence by refusing to leave the home, even while presented with a gun and defendant was on the phone with law enforcement authorities. plaintiff is larger than defendant who shot him, and plaintiff is on phone call saying he would beat him if he shot him.
+
+    there is conflicting evidence but the trial court sorted this on strength of credibility. defendant was not able to retreat from the encounter as it was in his own home.
+
+*** Holding
+
+    affirms the lower court in that defendant acted in self defense, reacting to a reasonable threat and did not use unreasonable force.
+
+*** Main Takeaway
+
+** landry v bellanger
+
+   2003
 
 *** Procedural History
 
@@ -1354,7 +1411,11 @@
 
 *** Questions Presented
 
+    Can a defendant claim self-defense when he asked the plaintiff to step outside?
+
 *** Rule
+
+    Words alone cannot justify self-defense.
 
 *** Reasoning
 
@@ -1364,19 +1425,31 @@
 
 ** hattori
 
+   1995
+
 *** Procedural History
 
 **** facts
 
 **** lower court
 
+     in favor of plaintiff to which homeowner (defendant) appeals.
+
 *** Questions Presented
 
 *** Rule
 
+    Resort to the use of a dangerous weapon to repel an attack is not justified except in exceptional cases where the actor's fear of danger is not only genuine but is founded upon facts that would likely produce similar emotions in men of reasonable prudence.
+
 *** Reasoning
 
+    The man made no attempt to close the door. He cannot explain why he was scared. His wife told him to get the gun and he did not take the reasonable step of asking why. he got the gun and shot the child without trying to go back into his house.
+
+    While the court accepts that the fear was genuine, they cannot accept that it was reaonable. The boys announced their presence on the property by ringing the doorbell. While testifying that he believed they were armed, he never saw a gun, a knife, stick, or any bludgeon.
+
 *** Holding
+
+    the killing was not justified.
 
 *** Main Takeaway
 
@@ -1396,5 +1469,174 @@
 *** Reasoning
 
 *** Holding
+
+*** Main Takeaway
+* defense and recovery of property
+** katko v. briney
+
+   supreme court iowa, 1971
+
+*** Procedural History
+
+**** facts
+
+     A man set a spring loaded shotgun in an unused house miles from his property, posted no-tresspsasing signs. it was pointed at the area legs would be so as not to injure too greatly. Plaintiff, the tresspassing burglar brings this action originally.
+
+**** lower court
+
+     trial court rules in favor of plaintiff with damages. D appeals
+
+*** Questions Presented
+
+    May an owner protect unoccupied property against trespassers and thieves by a spring gun capable of inflicting death or serious injury
+
+*** Rule
+
+    An owner of premises is prohibited from willfully or intentionally injuring a trespasser by means of force that either takes life or inflicts great bodily injury
+
+*** Reasoning
+
+    All case law and authorities prevent this. From restatment: "the value of human life and limb, not only to the individula concerened but also to society, so outweighst the interest of a possessor of land in excluding from it those whom he is not willing to admit thereto that a possessor of land has, as is stated in 79, no privilege to use force intended or likely to cause death or serious harm against another whom the possessor sees about to enter his premises or meddle with his chattel, unless the intrusion threatens death or serious boidly harm to the occupiers or users of the premises."
+
+    in addition to civil liability, criminal penalties can apply for serious injuries or homicide caused by set devices like spring guns.
+
+*** Holding
+
+    no error in trial court, affirmed.
+
+*** Main Takeaway
+*  recovery of property
+** hodgeden
+
+   supreme court of vermont, 1846
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff presents false credit to get stove. On way home, defendants overtake to take back stove. Plaintiff pulls knife to defend property, defendants hold him down, take knife and stove.
+
+**** lower court
+
+     nominal damages to plaintiff for $1.00 believing defendants were not pursuing legal channels to take back stove and had no right to use force gaainst him.
+
+*** Questions Presented
+
+    Were the defendant's privileged to take back the property fraudulently obtained?
+
+*** Rule
+
+    A person may take back what is his
+
+*** Reasoning
+
+    the plaintiff never held a legal right in the stove, and the defendants were justified in taking back the stove. further, plaintiff pulled a knife on legal actions and thus was the agressor
+
+*** Holding
+
+    reversal of lower court
+
+*** Main Takeaway
+
+    although this case isn't a great example, force can be used when the other person has so recently taken property that it is not considered taking other person's property but maintaining own interest in it. further extended to when fraud or force is the means by which it is taken and the pursuit is still "fresh".
+
+** bonkowski v arlan's department store
+
+   court of appeals michigan, 1968
+
+*** Procedural History
+
+**** facts
+
+     woman left department store, off-duty cop employed by store asked her to stop and show her the contents of her bag. she did so, showed receipts and was on her way. brings action for false imprisonment and slander.
+
+**** lower court
+
+     rules in favor of plaintiff with damages to 43,750 for the false arrest.
+
+*** Questions Presented
+
+    Can a security guard detain a customer after they have left the store to determine if they have shoplifted
+
+*** Rule
+
+    The store may detain a person for a reasonable time if they have a reasonable suspicion that they person has shoplifted. This jurisdiction extends this privilege to the parking lot and adjacent areas.
+
+*** Reasoning
+
+    shop keepers have a dilemma of allowing merchandise to walk out the door ro face liability risks for false imprisonment. the restatement recognizes this privilege but leaves the question about the adjacent property open to jurisdiction. This court promulgates its rule including the adjacent areas and remands for consideration in light of this new rule.
+
+*** Holding
+
+    remand for new trial
+
+*** Main Takeaway
+
+    a merchant may detain a patron for a reasonable amount of time when there is a reasonable suspicion that they have shop lifted.
+
+* necessity
+
+** surroco
+
+   supreme court of california, 1853
+
+*** Procedural History
+
+**** facts
+
+     During a fire in the town, plaintiff's house was destroyed to prevent the spreading of the fire. plaintiff's bring action for the value of goods they were prevented from rescuing
+
+**** lower court
+
+     grant in favor of plaintiffs
+
+*** Questions Presented
+
+    may property be destroyed, intentional torts (trespass) be committed when public necessity requires it?
+
+*** Rule
+
+    there are necessities required that transcend even societies and governments.
+
+*** Reasoning
+
+    examples include enforcing exclusive access to a plank in case of shipwreck, and destroying homes to prevent fires from spreading, the instant case, throwing goods overboard in a storm, trespassing on the land of another when escaping an enemy. there is no right to the house, and none extends to the goods inside. to do so would slow down the efforts that seek to stop such terrible events, defeating the point of it in the first place.
+
+    the legislature may set rules for remedying damages after the fact, but in the absence, they apply the common law which precludes liablity.
+
+*** Holding
+
+    the lower court was incorrect and the judgment for plaintiff's is reversed.
+
+*** Main Takeaway
+** vincent v lake erie transp co
+
+   supreme court of minnesota, 1910
+
+*** Procedural History
+
+**** facts
+
+     a ship was docked when a storm set in. the storm grew terrible preventing navigation. the shipowners repeatedly threw more ropes out to keep them against the dock, preserving their ship but causing damages to the dock. Dock owners bring this action.
+
+**** lower court
+
+     finds in favor of plaintff for damages due to the dock
+
+*** Questions Presented
+
+    was the damage the result of the storm and thus the shipowners are not liable?
+
+*** Rule
+
+    if without the direct intervention of some act by the one sought to be held liable, the property of another was injured, such injury must be attributed to the act of God, and not to the wrongful actof the person sought to be charged.
+
+*** Reasoning
+
+    Those in charge of the boat here repeatedly held the ship to the dock to save their possession, and in the course of this, caused damages. it seems reasonable that they should bear the burden of this choice. the court recognizes that the ordinary rules of property were suspended. but the crew took direct actions. this didn't happen out of negligence but through their efforts to save their boat, they caused damage to another.
+
+*** Holding
+
+    lower court was correct
 
 *** Main Takeaway
