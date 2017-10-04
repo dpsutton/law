@@ -1471,6 +1471,7 @@
 *** Holding
 
 *** Main Takeaway
+#+OPTIONS: toc:2
 * defense and recovery of property
 ** katko v. briney
 
@@ -1505,6 +1506,9 @@
     no error in trial court, affirmed.
 
 *** Main Takeaway
+
+    The law does not allow for serious injury or death in protecting property without a threat to life. The use of force was disproportionate to the threat. Further, criminal liabilites can arise.
+
 *  recovery of property
 ** hodgeden
 
@@ -1609,6 +1613,9 @@
     the lower court was incorrect and the judgment for plaintiff's is reversed.
 
 *** Main Takeaway
+
+    There are certain situations where exigencies outweigh standard property rights. The case of the fire was certainly one of these. To debate and withdraw more property from the burning house would put the entire town at risk. Without some legislative action dictating how to reimburse, common law provides no remedy for this and no liability lies.
+
 ** vincent v lake erie transp co
 
    supreme court of minnesota, 1910
@@ -1640,3 +1647,5 @@
     lower court was correct
 
 *** Main Takeaway
+
+    Extreme circumstances prevent the normal rules of liability and property. Had no action been taken, the damage from the boat to the dock would have been credited to an act of god with each liable to their own needs. The ship's crew kept securing the boat to the dock in an effort to save their ship, causing the damage to the dock. the court rules they hedged their bet that the damage to the dock was cheaper than a lost ship in the storm. Accordingly, they are responsible for the damages and should be happy.
