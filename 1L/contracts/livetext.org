@@ -1,0 +1,45 @@
+* COMMENT thoughts
+
+** offer
+*** promisory language
+
+    met.
+
+*** details
+
+    not sure. it is not clear if the brevity in the details are substantive or narrative.
+
+*** audience
+
+    directed directly to painter Joe
+
+*** suggesting acceptance will conclude
+
+
+*** communication
+
+    calls
+
+** acceptance
+
+   is not provided until a week after performance. the riskiest use of a K. objective mutual asssent was not provided
+
+** an offer for what type of contract
+
+   standard promise for a promise K, not a sitution of acceptance by performance.
+
+* Analysis
+
+  This situation provides an interesting case study into the interplay of time and space in contract formation. The facts of our scenario are as follows. Drew owns a vacation house in a different city and calls a painter in that city to paint his house. The painter obliges the next day. The next week, the painter sends a letter stating he has completed the painting and wants payment. Drew refuses believing that there was no contract. Drew issued a valid offer and the painter--eventually-- demonstrated acceptance before any revocation of the offer. Ultimately there was a contract and Drew will have to pay, although the painter did not avail himself fully of the protections that contracting provides.
+
+** Offer
+
+   The analysis begins at the offer and concludes that there was an offer to the painter. There are five qualities of a legal offer: 1) communication, 2) to a targeted audience, 3) providing sufficient details, 4) using promisory language and 5) giving the other justification in believing that the communication invites acceptance to finalize the agreement. The phone call from Drew to the painter satisfies all elements, with some qualification. The phone call to the painter was clearly a communication to a targeted audience. The call used promissory language to the effect that "he will pay him $2000". It suggests acceptance will conclude the deal as on its face it is an exchange of money for services: paint my house in exchange for money. This satisfies four of the five requirements. The remaining, did the communication provide enough details is subject to some qualification. As presented in the record, there are almost no details given. However, this appears to be more of a narrative deficiency than a substantive one, but this is not certain. If indeed the scenario reflects the substantive omission of any details and Drew only mentions the bargain of money "if he paints his house", this offer certainly lacks enough details to be an offer inviting acceptance to conclude. However, it is more likely that this is merely eliding details for the brevity of the narrative. Most people would not undertake to paint a house without knowing which rooms and what color to paint them. If the painter has done so, he or she has certainly acted without an offer to contract. However, it is more likely that these details were provided to the painter but not the reader. Assuming this to be the case, the phone call satisfies all required elements to be a valid legal offer.
+
+** Acceptance
+
+   An offer to contract has its obvious dual, the acceptance, which here proves the more interesting case. The offer predicates payment upon painting, but this does not make the contract of a type where acceptance is by performance. This is a standard promise for a promise type of contract. A contract is formed when mutual assent is apparent between the contracting parties. When the painter paints the house the next day, it is clear that that party assents to the agreement as they are already performing their side of the agreement. However, mutual assent requires more from the party. A person would not know, nor did Drew in his hometown know, that the terms had been agreed to. Although the intentions of the painter are easily discerned from his or her actions, they are not objectively known by the other party. The court is even willing to bend a courtesy to the offeree to grant them the protections of contract law if they post their acceptance in some manner. The painter does not avail themselves of this protection, however, and thus paint the apartment without the benefit of contract, and thus an unenforceable contract, at this point.
+
+   The analysis does not end here in this exposed position, however. While the painter has not manifested his or her acceptance, Drew, the offeror, has also not revoked the offer. Before, during, or after this work, Drew could have sent a revocation of the offer. Had he done so, the painter would have no recourse in law for the promised but not-agreed-to money, despite the time and labor expended. The first time that the painter makes a clear acceptance of the terms is the letter the painter sends a week after performance. This letter demonstrated to any objective person that the deal was agreeable and agreed to. Assuming the details were provided in the original phone call, there was a mirror agreement to the terms as well. Drew alleges no deficit in the work or other unsatisfactory condition, solely the lack of a an agreement between the two parties for the work. The offer insisted on no time for acceptance so a reasonable time is imputed, which the one week duration here does not violate. The minute this letter was postmarked, there was objective and demonstrated mutual assent according to the Post Box rule.
+
+   An interesting proposition is whether the courts would abandon the agreement because the work was performed outside of the contract. The court is loathe to scupper agreements between two willing parties, and here would be unlikely to do so. Two parties provided satisfactory communication of offer, and--eventually--satisfactory acceptance of the offer. Beyond any legal argument, the intent of these parties was a painted house and the attendant fee. The extent of the inverted order of events was solely to expose the painter to a valid revocation of the offer even after the performance up to the moment the letter was postmarked. Thus the painter did not avail him or herself of the full panoply of protections contracting has to offer, but still is entitled to payment from Drew.
