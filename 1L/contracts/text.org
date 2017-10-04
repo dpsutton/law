@@ -1,0 +1,2191 @@
+* Introduction to Contract Law
+
+organized zround the cause of action for breach of contract
+** three dimensions of law
+
+
+*** doctrine
+what the public general thinks of as the law, and what we may expect to learn before law schoool
+*** facts
+actual application of doctine by courts and its efects on contracting parties and the public at large
+*** theory
+rationales or reasons for legal doctrine
+sources:
+most popular: common sense, history economics, philosophy. why we have chosen a particular rule if no rule, what should it be
+** restatement and the uniform commercial code
+
+*** Restatement
+Americna Law Institute private nonprofit select gruop of practicing lawyers judges and professors. principal projects is restatements of the law. although supposedly a summary, invariably reshapre the law beeing summarized. first published in 1932. second commenced in 1962 and completed 1979.
+
+*** UCC
+purpose to harmonize and make uniform the laws of the 50 staes.
+
+Uniform Comercial Code is a statute adopted by the legislatures of 49 states and is binding on courts; supersedes any common law rules that are inconsistent with its provisions. by contrast, Restatement is good "authority" widely accepted but not binding.
+
+** how to brief cases for this class
+
+way to start
+
+- identify parties
+- procedural facts
+- historical facts
+- what form of relief is being sought
+- identify arguments
+- outcom eof the case
+- reasoning of the court
+  - what reasons did the court offer for granting or denying relief Did it summarize these reasonas as a basic principle or holding?
+- your analysis
+  - do you agree with the outcome of the case? How would you have decided the case
+  - do you agree with teh reasoning of the court? can you give any other rationales for the outcome
+  - how does this case relate to other cases and materials you have read
+  - before and udringhte lawsuit, whyhave the parties behaved in the ways that they have?
+
+** nature and history of contract
+
+*** background of contracts
+
+common law or civil actions were very very rigid. then there were
+
+- common law writ system
+
+subject to the wager of laws. if you could get 11 individuals that you were telling the truth then you would win. these people didn't have to know anything about the instant
+
+- debt
+- detinue
+- covenant
+
+from these others, develop assumpsit, originating on tresspass on the case.
+
+initially, it was any promise that could be enforced, proved unworkable. the statute of frauds came about, required writing for particular types of contracts. has changed very very little. also requires consideration. a promise will only be enforced by law if there is consideration on both sides.
+
+** law v equity
+
+too many cases did not fit the writ system
+
+high ranking officer appointed to provide equitable reflief in chancery courts.
+
+division of equitable vs legal damages.
+- equitable damages: specific performance
+- legal: money damages for breach
+
+but cannot get equitable
+
+*** shaheen v knight
+
+**** discussion
+
+why not tort? no negligence?
+
+PA, 1957
+
+**** parties
+Shaheen suing physician Knight because of operation he claims
+
+**** procedural
+plaintiff in his compliant does not allege any negligence by D suit is based on contract.
+**** historical
+operatoin in 1954, wife has fifth child as a reult of sex after operation.
+**** arguments
+***** Defendant
+1. contract to sterilize man is void against public policy and public morals
+2. no implied warranty of cure  by physician
+3. charges no lack of skill, malpractice or negligence but seeks to recover upon the ground that the operation did not achieve the purpose sought and the results _allegedly_ promised.
+4. that while the complaint is said to be i nassumpsit, it appears to be grounded on deceit, that is that the defendant made a statement, misrepresenting material facts, known to be false or made in ognorance or reckless disregard of its truth, with an intent to induce the plaintiff to act in reliance thereon, and the plaintiff, believing it to be true, did act thereon to his damage. If this be true the plaintiff has made no allegation of fraudulent intent on defendant's part, or any of the elements of deceit.
+5. healing is not a contract, in essenece. "The duty of a physician or surgeon to bring skill and care to the amelioration of the condition of his patient does not arise from contract but has its foundation in public considerations which are insepearable from the nature and exercise of his calling; it is predicated by the law on the relation which exists between physician and patient, which is the result of a consensual transactoin.
+6. no damage, you got a baby
+**** relief
+
+**** outcome
+no damages
+
+**** reasoning
+1. not void due to public policy or public morals. by precedent
+2. D _made_ a guarantee. people are free to contract.
+3. failure to produce is separate from malpractice grounded in negligence
+4. not grounded on deceit
+5. disagree, free to contract
+6. agree with you, no damages. "We are of the opinion that to allow damages for the normal birth of a normal child is foreign to the universal public sentiment of the people"
+**** analysis
+*** restatement of torts
+**** contract
+a contract is a promise or a set of promises for the breach of which the law gives a remedy, or the performacne of which the law in some way recognizes as a duty.
+**** promise: promisor promisee beneficiary
+- a promise is a manifestation of intention to act or refrain from acting in a specified wya, so made as to justify a promisee in understanding that a commitment has been made.
+**** agreement defined; bargain
+an agreement is a manifestation of mutual assent on the part of two or more persons. A bargain is an agreetoment to exchange promises or to exchange a promise for a performance or to exchange performances.
+**** how promise may be made
+may be stated in words either oral or written, or may be inferred wholly or partly from conduct.
+*** sir henry main, ancient law 163-165, 1864
+gradual dissolution of familiy dependency and the growth of individual obligation in its place
+
+why is this here? Gradual transition from Status to Contract. no idea
+*** rise of assumpsit
+not all promises enforceable. freedom to change one's mind rquired for the real world.
+
+two approaches
+1. promiess are generally enforceable with exceptions
+2. generally unenforceable and then create exceptions for pommises thought desirable to enforce
+
+common law is the second approach, same as roman law. promise does not give rise to an action.. no recovery unless fittted withon one of the established forms of action. middle ages did not touch contracts, not enforced by the court of the king. merchant courts allow commerce actions., ecclesiastical censures.
+
+court politics expanded use of the promise. "succeeded less on the intrinsic merits than as an incident of the victories of those courts in their struggles to expand their own jurisdiction at the expense of their rivals". common law stole from commercial courts "as to stifle the law merchant's practice of enforcing promises made by merchants in ocmmerce". common law had a chancellor who would intervene so they reacted to keep him out, enforcing claims.
+
+thus basif for enforcing promises within the framework of the forms of action. (parenthetical, "the forms of action we have uried, but they still rule us from their graves".) focus exceptoins into rules, general basis for enforcing promises, "including purely executory exchanges of promises" (? eh?)
+
+basis:
+- coventant. formal acknowledgment of liability, similar to roman stipulation. came to rely on the wax seal, but then on the physical wax seal so became tied to a physical thing rather than that being evidence of.
+- debt concept f loan. recover a sum of money, not seen as based on a mere promise, in depended instead on the debtor's recept f what the debtor had asked for -- called a quid pro quo-- in the form of the loan. it was therefore thought to be unjust to allow the debotor to retain it without paying for it. (is it based on the thing owned by the creditor or the thing owed by the debtor). finally broadened to services. but still tied to quid pro quo, benefit must happen to have liability. not just the promise to do so.
+
+**** answer:
+law of torts. liability in tort which allowed for person to perform a duty and then the performance could cause harm, leading to liability.
+"tresspass on the case" : assumpsit (meaning the defendant undertook). based more on restitution more than reliance. but clear right to recover.
+
+initially, no recover when just failure to produce. growing inclination among common law judges, "conscious of rival jurisdictions" to enforce promises even with just nonfeasance. but which promises?
+
+economic cost to reliance on promises serves as recovery. but slowly extending to purely promise when no work or anything was done
+
+originally exclusive to debt, if debt available, asssumpsit not.
+
+** freedom contract and public poliyc
+
+*** baby "m"
+
+**** participants
+
+**** procedural
+
+**** historical
+
+**** arguments
+
+**** relief
+given specific performance.
+**** reasoning
+* class
+** common law
+
+contracts are a common law basis. law developed from the particular facts of a given situation, based on the customs and mores of a circumstace. then if similar circumstances would come up would base it on.
+*** civilian jurisdiction
+we have civilian jursidction. made a determination that the law would be decided and written down by a body of experts. case law is secondary to the rule of law in the code.
+
+jump ahead to now, almost every comon law jurisdiction has codified every possible rule that it ca ncodify.
+**** reasons to dump stare decisis
+
+1. morals have changed
+2. don't like previous decision
+3. policy changes
+
+** contract development through time
+contract law developed slowly and incrementally.
+
+for a long time courts did not feel that they had a way to enforce contracts.
+
+detremental reliance. relied on to her detriment and therefore suffered injury. an incremental step towards promises being upholdable. in these cases courts treated as a tort; damages based not on the promise but the damages; tort
+
+decide some promises need to be enforced: written and have to be sealed. very formal promises. discrepacy between rich and poor in contracts, poor can't get access to seals, paper, etc.
+
+merchants
+
+promise is super duper important in commerce. need to start enforcing some promises. from the merchant class. key to promises and contract law:
+
+consideration
+
+In order for a promise to be binding, I have to be giving something in exchange for something. Its what makes contracts enforceable. Otherwise unenforcable promise or a gift. Consideration that makes it enforceable.
+
+** contract basics
+
+*** mutual assent
+
+**** source of law
+
+common law concept
+
+1. jurisprudence
+2. restatement of contracts
+
+probably the most influential, persuasive, legal source there is out there. persuasive not mandatory.
+
+3. uniform commercial code
+
+deals mostly with the sale of goods. sale of gum. gonna look here if in a contract for goods. otherwise look to the restatement.
+
+**** two pieces
+
+1. offer
+oral, written, etc. can be inferred
+
+difference between a solication for offer vs offer.
+
+2. acceptance
+capacity, knowledge, state of mind,
+
+*** enforceability
+
+1. consideration
+2. object theory of assent/intent
+3. prpomissory estoppel
+
+*** breach
+
+1. performance
+2. condition
+3. breach
+
+*** remedies
+
+- damages
+  - expectation
+  - reliance
+  - restitution
+- specific performance
+- injunctions
+
+** contract
+
+a contract is a promise or a set of promises for the brach of which the law gives a remedy or the performance of which the law in some way recognizes a duty.
+
+go to westlaw, restatement second of 1st article.
+
+** how to proceed
+
+1. did we have an offer
+2. do we have acceptance
+3. was there consideration
+4.
+* three damage interests
+Lon L. Fller & William R. Perdue, Jr. The Reliance Interest in Contract Damages, Yale Law review 52 1936
+
+specific relief is compelling someone to perform a promise, pretty rare.
+
+more often a sum of money to compensate
+
+** expectation
+
+"the benefit of the bargain"
+
+? does this assume the promisee has paid his consideration?
+
+"in the position in which the promisee would have been had the promise been performed."
+
+** reliance
+
+- if changed position to its detriment in reliance on the promsie
+- "at attempt to put the promisee back in the position in which the pormisee would have been in had the promsie not been made".
+- does not take account of the promsee's lost profit, normally less generous than recovery measured on expectation
+
+** restitution
+
+deprivation of promisor's unjust gains. an attempt to put back in position had promise not been made.
+
+* hawkins v mcgee
+
+nonsuited - means evidence wasn't put on or they decided they would just stick with the contract. wasn't decided.
+
+** Procedural History
+
+suing doctor for botched hand operation. judgment rendered but is "excessive" and doctor appeals. there appellate court says let's cap it at $500, do you accept? and appeal because no, he doesn't accept
+
+** Questions Presented
+
+how do we measure damages under a contract
+
+** Rule
+
+We do not compensate for what the boy has paid for the surgery, we just award the value that separates present condition from the promised condition.
+
+** Reasoning
+
+He was promised a 100% healthy hand, so he gets the value that separates his messed up hand to a healed hand. He gets no damages for pain and suffering because that's what he agreed to pay in the first place.
+
+Damages are not limited to restoring the hand to the previous condition from its current condition but from its current condition to promised condition.
+
+** Holding
+
+send it back to redo damages, probably larger. don't have to look at the mental reservations of the two contract participants; its immaterial.
+
+* mcgee v us fidelity and guaranty
+
+us first circuit 1931
+
+** Procedural History
+
+suit arising from previous as insurance company intends to not cover damages resulting from trial
+
+** Questions Presented
+
+does the insurance policy for malpractice cover this special contract
+
+** Rule
+
+this doctor's warranty was above and beyond and not covered under the malpractice clauses
+
+** Reasoning
+
+** Holding
+
+** Main Takeaway
+
+* sullivan v oconnor
+
+1973 suprepe judicial court MA
+
+** Procedural History
+
+
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+** Holding
+
+pain and suffering has to be over and above the expectations.
+
+** Main Takeaway
+
+* j. o. hooker & sons v. roberts cabinet
+
+on advice of counsel, voided the contract.
+
+
+storage
+administrative costs
+lost profit
+
+facts:
+roberts is subcontractor, hooker is contractor. in course of contract, roberts asks for more money, had underestimated. hooker paid. they fought about who would dispose of the old cabinets, bad attorney and breach of contract.
+
+settled under common law rather than ucc. it was on the service of cabinets and sale of goods. the focus of whether restatements apply or UCC apply is what part of contract is at issue with breach.
+
+** Procedural History
+
+roberts awarded damages for storage, administrative costs, lost profit.
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+not entitled for storage costs as he was going to pay them anyways. no additional expenses therefore hooker not liable. key to that was that they didn't have to lease more stuff, outcome would have been different if they had to lease additional stuff, no incidental costs. money related to storage couldn't be recovered
+
+roberts is gonna pay for a general manager either way. but when he was working on the contract with hooker he was taken away from work on other contracts.
+
+lost profit: second part of really bad lawyering. evidence put before court suggesting profit margin was high: did not contest the claim of 26% profit margin.
+
+** Holding
+
+** Main Takeaway
+
+* kmg harvesting co v fresh network
+
+** Procedural History
+
+** Questions Presented
+
+** Rule
+
+** Reasoning
+
+** Holding
+
+** Main Takeaway
+
+* notes
+
+** assumpsit
+
+"he undertook"
+
+- implied or express promise, not under eal, but which one person undertakes to do som eact or pay for something
+
+common law action for breach
+
+* class notes
+
+** damages
+
+always ask what kind of damages did they ask for and what kind of damages did they receive
+
+*** hypos
+
+give $10 and copy of notes
+****
+resale is 15
+value of notes is 1
+photocopy is 3
+
+expectation:
+expected $15 value for $10, so net is $5
+reliance, was $3
+restitution: $10, $1
+
+**** now only notes
+restitutition $1
+reliance: $3 for photocopy
+expectation: $5 since your current position ($10) is only 5 from
+
+**** having given nothing
+no restutituion
+no reliance
+expectation $2. would have spent 10 + 3 leaving 2 from the expected
+
+**** paid and notes, but market value is 9 not 15
+
+general measure of damages
+expectation damages + other loss - coss avoided - loss avoided
+#+OPTIONS: toc:2
+* Reaching an Agreement
+
+  formation of a contract requires two basic elements
+1. the mutual assent of the prties
+2. and some showing that this assent is the _kind_ that the law will enforce.
+
+distinguish subjective v obective conceptions of assent. but objective approach contains a subjective approach as well.
+
+* Objective theory of assent
+
+** naive view
+
+*** meeting of the minds Dickinson v Dodds:
+
+    "it must, to constitute a contract, appear that the two minds were at one at the same moment of time ..." and that "the existence of the same mind between two parties is essential in point of law to the making of an agreement". often referred to as "meeting of the minds".
+
+    thoughts to be aware of: objective theory of assent at contract formation vs contract interpretation
+
+** Embry v Hargadine, McKittrick Dry Goods Co
+
+   St. Louis Court of Appeals, 1907
+
+*** Procedural History
+
+    Lower trial court gave jury instructions requiring intent in contract formation, Plaintiff appeals as this requirement was not required as a matter of law.
+
+*** Questions Presented
+
+**** Facts
+
+     Contract salesman pesters boss for contract renewal 7 days before contract expires at the end of the year or else he will leave immediately. Dispute of whether boss intimated that "go ahead, you're all right" or if it was a dismissive conversation.
+
+**** jury instruction requested
+
+     Apellant requested jury instruction of that his version of the facts constituted a contract between the parties and if found to be true would be entitled to the contracted upon $2000 salary.
+
+**** jury instruction given
+
+     if you (the jury) find both parties thereby _intended_ and did contract with each other for plaintiff's employment for one year from and including December 23, 1903, at a salary of $2000 per annum
+
+**** Question
+
+     Appellant states it was error to require for finding for plaintiff, find not only that the conversation happened in the way alleged but that "both parties intended by such conversation to contract with each other".
+
+     "whether the formation of a contract ... depended on the intention of both Embry and McKittrick. Did what was said constitute a contract of re-employment on the previous terms irrespective of the intention or purpose of McKittrick?"
+
+*** Rule
+
+    General rule is that "to constitute a contract there must be a meeting of the minds of the parties and both must agree to the same thing in the same sense". But there are exceptions. "The inner intentions of parties to a conversatoin subsequently alleged to create a contract, cannot either make a contract of what transpired or prevent one from arising, if the words used were sufficient to constitute a contract."
+
+    Intention matters, but only the intention "words or acts indicate; not one secretly cherished which is inconsistent with those words or acts."
+
+    "The law imputes to a person an intention corresponding to the reasonable meaning of his words and acts. It judges his intention by his outward expressoins and excludes all questions in regard to his unexpressed intention."
+
+*** Reasoning
+
+**** Can it be a contract
+
+      Taking these exceptions to the "meeting of the minds" rule, its possible that McKittrick may not have intended to employ Embry but it would have been "taken by a reasonable man to be an employment, and Embry so understood it, it consttuted a valid contract of employment for the ensuing year"
+
+      so two parts?
+1. a reasonable person would have understand the (publicly viewable) intention to form a contract
+2. Embry did so understand
+
+**** Was the language of this character
+
+     When written, straight question of law and a court may decide or when unambiguous oral words. If disputed the question is for the jury
+
+*** Holding
+
+    Reversed to put forth Embry's jury instruction to the jury. "No reasonable man would construe that answer to Embry's demand that he be employed for another year, otherwise than as an assent to the demand, and that Embry had the right to rely on it a an assent."
+
+    The contract formation does not require the secret intentions but the visible intentions gleaned from words and actions; Embry's version of the facts, if true, would as a matter of law constitute a contract
+
+*** Main Takeaway
+
+** Lucy v Zehmer
+
+   Supreme Court of Appeals of VA 1954
+
+*** Procedural History
+
+**** facts
+
+      Zehmer wife and husband write contract to Lucys for sale of their farm for 50k. Argue they thought the offer was in jest and had several drinks. Got his wife to sign the document but did not "deliver the memorandum to Lucy, but that Lucy picked it up, read it, put it in his pocket, attempted to offer Zehmer $5 to bind the bargain, which Zehmer refused to accept". At this point, Zehmer realized that Lucy was serious and reassured him he had no intention to sell and thought the matter a joke.
+
+      Terribly confusing narratives but seem consistent that
+- something was written stating "I" intend to sell
+- was redrafted to include "We" intend to sell to include the wife
+- included provision that title satisfaction was part of deal
+- there was alcohol involved
+- there was some joking. Zehmer says about the whole thing, Lucy understood about payment of 50k that night
+
+**** previous ruling
+
+     Held that Lucys had "failed to establish their right to specific performance" and dismissed the bill.
+
+**** contract?
+
+     My thoughts
+
+     The is an equitable solution which doesn't mean that the contract wasn't formed. Perhaps the court thought that there were other remedies available?
+
+*** Questions Presented
+
+    Does Zehmer's contention that he never intended a real contract negate the whole thing?
+
+*** Rule
+
+    "we must look to the outward expression of a person as manifesting his intention rather than to his secreat and unexpressed intention"
+
+*** Reasoning
+
+**** drunk?
+
+     He drove home that night and testified that he was not too drunk to execute a binding agreement.
+
+**** not earnest?
+
+     Did not let the Lucys in on the joke until after they had done title research and were prepared to execute the contract. "Had argued about it, discusssed its terms, as Zehmer admitted, for a long time. Lucy testified that if there was any jesting it was about paying 50k that night. the contract and evidence show that he was not expected to pay the money that night. ... In any event there had been what appeared to be a good faith offer and good faither acceptance, followed by the execution and apparent delivery of a written contract" ... "Not until then, even under the defendant's evidence, was anythign said or done to indicate that the matter was a joke." He wishpered to his wife that it was a joke specifically so that the Lucys would not be able to hear it.
+
+**** mental assent
+
+     "if the words or other acts of one of the parties have but one reasonable meaning, his undisclosed intention is immaterial except when an unreasonable meaning which he attaches to his manifestations is known to the other party".  Private intentions aren't relevant unless the other person understands those intentions.
+
+     "So a person cannot set u that he was merely jesting when his conduct and words would warrant a reasonable person i nbelieving that he intended a real agreement".
+
+*** Holding
+
+    "Whether the writing signed by the defendants and now sought to be enforced by the complainants was the result of a serious offer by Lucy and a serious acceptance by the defendants, or was a serious offer by Lucy and an acceptance in secret jest by the defendants, in either event it constituted a binding contract of sale between the parties."
+
+    Reversed and remanded for entry of t
+
+*** Main Takeaway
+
+** (Restatement of Contracts)
+
+*** Requirement of a bargain
+    formation of a contract requires a bargain in which there is manifestation of mutual assent to the exchange and a consideration
+
+*** Manifestation of mutual assent
+
+    manifestation of mutual assent to an exchange requires that each party either make a promise or begin or render a performance.
+
+*** conduct as manifestation of assent
+
+1. the manifestation of assent may be made wholly or partly by written or spoken words or by other acts or by failure to act
+2. the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in teh conduct and knows or has reason to know that hte other party may infer from his conduct that he assents.
+3. the conduct of a party may manifest assent even though he does not in fact assent. In such cases a resulting contract may be voidable because of fraud, duress, mistake, or other invalidating cause.
+
+** What is an offer
+
+   traditional mutual assent manifests in offer and acceptance. However, in complex commercial transactions it can be difficult to separate parties into offeror and offeree. Various doctrines allow interpretation of complex situtation in the traditional guise of offer and acceptances.
+
+   offer defined in restatement as "manifestation of willingness to enter into a bargain, so made as to justify another person in undestanding that his assent to that bargain is invited and will conclude it."
+
+   in following cases, "the allgeded offeror claims that the other party was not justified 'in understanding that his assent to that bargain is invited and will conclude it'".
+
+** Nebraska seed co v harsh
+
+   Supreme Court of Nebraska, 1915
+
+*** Procedural History
+
+**** facts
+
+     Harsh, a farmer, sends letter (telegram?) stating rough quantity and price sought "I want 2.25 per cwt. for this seed". Nebraska seed company immediately telegraphs "accept your offer.... wire how soon can load". Then sends letter confirming and offering shipping instructions. Farmer does not deliver seed.
+
+**** previous court ruling
+
+     "trial to a jury, verdict and judgment for plaintiff, defendant appeals"
+
+*** Questions Presented
+
+    Does the letter from the farmer constitute an offer "so made as to justify another person in understanding that his assent to that bargain is invited and will conclude it"?
+
+*** Rule
+
+    A request for bids does not constitute an offer
+
+*** Reasoning
+
+- no explicit use of "I offer to you" but general language as in an advertisement "addressed generally to those engaged in teh seed business, and is not an offer by which he may be bound, if accepted, by any or all of the persons addresse". 'invitations to trade ... such inquiries may lead to bargains, but do not make them'
+- did not fix time of delivery, "and this seems to have been regarded as one of the essentials by plaintiff"
+  - does this matter? seems like some final technicalities can be worked out after a principal agreement... can you not shake hands on an agreement and then figure out details after binding?
+- "offer" lacked specificity as to the exact amount of grain to be sold. "we may assume that when he wrote the letter he did not contemplate the sale of more seed than he had"
+- practicality concerns: if this was binding and he sent advertisements to multiple seed buyers "would subject him to a suit by each one receiving a letter, or invitatoins to id, even though his supply of seed were exhausted.
+  - seems like the strongest argument
+  - Quoted from MA Supreme Court: "Care should always be taken not to construe as an agreement letters which the parties intended only as a preleminary negotiation".
+
+*** Holding
+
+    "In our opinion, the letter of D cannot be failrly construed into an offer to sell to the plaintiff".
+
+*** Main Takeaway
+
+** lefkowitz v great minneapolis surplus store, include
+
+   SC Minnesota 1957
+
+*** Procedural History
+
+*** facts
+
+    Store puts two advertisements in successive weeks advertising fur coats worth "to 100" for $1, first come first served. the second week "black lapin .. worth 139.50 ... $1" (elipses in the original). Lefkowitz ensured he was the first person in line after the first week and was told it was for women only as "house rules". on the second visit was told he was aware of the house rules.
+
+*** previous court ruling
+
+    "Appeal from an order of the Municipal Court f Minneapolis denying the motion of the D fr amended findings of fact, or, in the alternative, a new trial. the order for judgment awarded the plaintiff the sum of $138.50 as damages for breach of contract"
+
+    previous court gave him value of the black lapin since its value was known and not a general estimate, minus his $1 consideration.
+
+*** Questions Presented
+
+    "We are concerened with whethe the advertisement constituted an offer, and, if so, whether the plaintiff's conduct constituted an acceptance".
+
+*** Rule
+
+    "The test of whether a binding obligatoin may originate in adversitements addresse to the general public is 'whether the facts show that some performance was promised in positive terms in return for something requested' (secondary source)".
+
+    "when the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitues an offer, acceptance of which will complete the contract".
+
+*** Reasoning
+
+**** Was it an offer
+
+     "The facts before us that the offer by the defendant of the sale of the lapin fur was clear, definite, and explicit, and left nothing open for negotiation." P was first in line and brought the amount requested so now he is "entitled to the performance on the part of the D"
+
+**** Can it be modified (house rules)
+
+     "advertisement had no such restriction. the objection may be disposed of brifly by stating that, while an advertiser has the right at any time before acceptance to modify his offer, he does not have the right, after acceptance, to impose new or arbitrary conditions not contained in the published offer"
+
+*** Holding
+
+    The lower court was correct
+
+*** Main Takeaway
+
+** Leonard v Pepsico
+
+   US District Court, Southern district o new york 1999
+
+*** Procedural History
+
+**** facts
+
+     Pepsi ran a contest which included a top prize of a harrier jet. Plaintiff raised money to buy pepsi points and submitted a check along with 15 pepsi points for his harrier jet.
+
+*** Questions Presented
+
+    Whether the offer was serious
+
+*** Rule
+
+    "the court must not consider defendant's subjective intent in making the commercial, or plaintiff's subjective view of what the commercial offered, but what an objective, reasonable person would have understood the commercial to convey"
+
+    "a basic rule of contracts holds that whether an offer hsa been made depends on the objective resaonableness of the allgeded offeree's belief that he advertisement or solicitation was intended as an offer".
+
+*** Reasoning
+
+**** for the rule
+     the reasoning behind the rule is that it must be an expression of will or intention ... it is on this ground that we must exclude invitations to deal or acts of mere preliminary negotiation, and acts evidently done in jest or without intent to create legal relations.
+
+**** application of the rule
+
+     "Plaintiff's insistence that the commercial appears to be a serious offer requires the Court to explain why the commercial is funny. Explaining why a joke is funny is a daunting task; as the essayist E. B. White has remarked, 'Humor can be dissected, as a frog can, but the thing dies in the process...'" "zany humor".
+
+*** Holding
+
+    Pepsi gets summary judgment
+
+*** Main Takeaway
+
+** Preliminary Negotiations
+*** empro manufacturing co v ball-co manufacturing
+
+    US Court of Appeals, 7th Circuit 1989
+
+**** Procedural History
+
+***** facts
+
+      Ball-co floated its assets and Empro took interest to purchase the company. They signed a letter of intent to proceed, which contained provisions for Empro to back out. Ball-co started negotiating with someone else leading Empro to file suit in diversity to get a temporary restraining order. District judge read the letter of intent and dismissed under 12(b)(6) for failure to state a claim. The evidence there was that the agreement contained "subject to" twice so that the letter of intent was "subject to" "the execution of a definitive contract" and the letter of intent had no "independent force".
+
+**** Questions Presented
+
+     Does the letter of intent bind the the companies?
+
+**** Rule
+
+     "Contract law gives effects to the parties' wishes, but they must express these openly. Put differeenty, 'intent' in contract law is objective rather than subjective -- a point Interway makes by holding that as a matter of law parties who make their pact 'subject to' a later definitive agreement have manifested an (objective) intent not to be bound...".
+
+**** Reasoning
+
+- the subject to is informative but not dispositive.
+- the text of the letter was "general terms and conditions" indicating that revisions and changes were forthcoming; empro also endeavored to ensure that it could walk away from the deal, lending credence to the fact that the letter created no obligations.
+- but there seemed to be no language making it an option contract which would bind Ball-co and give Empro choice. In agreeing to the letter, Ball-co indicated that "some clarifications are needed" indicating it intended to change the agreement.
+- Illinois law allows companies to proceed in stages to agreement. Making the early stages binding would ruin this practice
+
+**** Holding
+
+Empro may have had the intention to form an offer with this but the intention was obvious to the objective standard. Illinois allows for negotiations leading up to a final agreement.
+
+**** Main Takeaway
+     if there is no clear acceptance it can't even be close
+*** arnold palmer golf co v guque industries
+
+    united states court of appeals, 6th circuit 1976
+
+**** Procedural History
+
+***** facts
+
+      arnold palmer company wanted to inhouse its manufacturing, so set out to trade 25% of its stock to a company in exchange for a manufacturing subisidiary. A "Memorandum of Intent" was finalized laying out the general terms and going into quite a bit of detail. It had a section maintaining that lawyers were responsible for forming a contract.
+
+***** lower court
+
+      Held that this draft was indeed not a binding contract because it provided evidence of the parties not to be contractually bound. the case was granted summary judgment.
+
+      came to the court on a fact issue. (summary judgment) a question of fact.
+
+**** Questions Presented
+
+     How does a court determine whether the intent was present between two parties to form a contract in a memorandum of intent.
+
+**** Rule
+
+
+
+**** Reasoning
+
+     Luckily, the court did not have to. They find that there is a plausible reading both ways. This could be the agreement and intent from both sides with instructions to memorialize it, or this could be a letter stating where they are now and the lawyers must finish it. As such, summary judgment is an inappropriate tool as the settling of this is not a matter of law but a matter of fact.
+
+**** Holding
+
+     "Considering this appeal in the light of these authorities, we determine that our proper course is to remand this case to the district court for tiral because we believe that the issue of the parties' intention to be bound is a proper one for resolution by the trier of fact."
+
+**** Main Takeaway
+
+     Mutual assent is not necessarily a matter of law. The UCC and restatement necessarily fall back to notions of understanding and generalities.
+
+     "a contract for sale of goods may be made in any manner sufficient to show agreement, including conduct by both parties which recognizes the existence of such a contract"
+
+     "an offer is the manifestation of willingness to enter into a bargain, so made as to justify another person in understandin that his assent to that bargin is invited and will conclude it".
+
+*** Copeland v Baskin Robbins usa
+    Court of Appeal, Second District, Division 7 California 2002
+
+**** Procedural History
+
+***** facts
+
+      Copeland wants to purchase an ice cream plant that Baskin Robbins is shutting down but only on the condition that BR agrees to buy ice cream from him for 3 years. They agree and negotiate and lay out a lot of legwork along with a leeter stating this is their intention but stating there are more details to be worked out. After some time BR decides the ice cream purchasing plan is not in its interests and breaks off negotiations. Copeland sues for breach; lost profits
+
+***** lower court
+
+      Held that although there are many different interpretations of the letter, the important details of the co-packing agreement "were never agreed to and no reasonable basis upon which to determine them." Thus summary judgment for BR to which Copeland appeals.
+
+**** Questions Presented
+
+     may a party sue for breach of a contract to negotiate an agreement or is such a "contract" merely an unenforcable "agreement to agree"
+
+**** Rule
+
+     contract to negotiate an agreement is distinguishable from a so-called "agreemment to agree" and can be formed and breached just like any other contract. However the only remedy for breach are reliance damages.
+
+
+**** Reasoning
+
+- why not? people can enter into agreements and there's nothing illegal, so of course they can contract for negotiations
+- a contract to negotiate terms is not absurd on its face, it just creates obligations to negotiate; note that this does not, however, it does not create an obligation to agree, only negotiate. This is distinguishable from "an agreement to agree" which does not create any obligations. Previous rulings against this have ruled more on the underlying instrument rather than the obligation to negotiate.
+
+***** arguments against
+
+1. would discourage negotiations by imposing a regime of good faith and fair dealings into every negotiation
+2. increase pressure to conclude negotiations for fear they would be held as bad-faith actors
+3. precontractual wrong-doing already have remedies in unjust enrichment, promissory fraud and promissory estoppel.
+   1. Promissory estoppel is a legal principle that a promise is enforceable by law, even if made without formal consideration, when a promisor has made a promise to a promisee who then relies on that promise to his subsequent detriment.
+4. bad faith could cost people millions in expectancy damages when negotiations stall
+
+***** reasons debunking these
+
+1. the contractual imposition of good faith doctrine is due to the intention and request of the parties involved, not negotations in general. this is a contractual obligation which requires both parties to publicly intend to be bound by the promises
+2. damages are only reliance damages. while not negotiating huge contracts, jurors understand good faith contract negotiations and can try the facts adequately.
+3. the existing remedies are not adequate. unjust enrichment more for ideas or services rendered during negotiations not really for goods and land as here. Promissory fraud is for "a promose made without any intention of performing it" which would not cover the instant case where negotiations were intended but then fell apart. Promissory estoppel works and is basically what is under discussion here.
+4. no expectancy charges
+
+***** public policy reasons
+
+      negotiations are complex, take a long time and require the input of many people. "their investmenst in time and money and effort will not be wiped out by the other party's footdragging or change of heart or taking advantage of a vulnerable position created by the negotiation".
+
+***** damages
+
+      reliance is obvious. costly negotiations are relying on the negotiations happening. however, since the outcome is not certain, the terms of the outcome cannot e used for expectancy damages. not talk of restitution damages but negotiations wouldn't seem to have money changing hands outside of the usually returned intial check.
+
+
+**** Holding
+
+     Disagreement with the method the lower court got there but agreeing in effect. Hold it was valid contract. But Copeland disavowed reliance damages and sought only the lost profit that would have come from the completed instrument. Thus he does not have justicable damages so he cannot sustain his claim and summary judgment is appropriate.
+
+**** Main Takeaway
+
+     contract to negotiate an agreement is distinguishable from a so-called "agreemment to agree" and can be formed and breached just like any other contract. However the only remedy for breach are reliance damages.
+
+* Revoking Offers
+  p 295-299
+
+** Dickinson v. Dodds
+
+   In the court of Appeal, 1876
+
+*** Procedural History
+
+**** Facts
+
+     Defendant Dodds give letter of offer to sell property with two days to accept in the post script. Plaintiff Dickinson agrees to accept on the first day but does not notify D believing he has right of refusal until the next day. He learns the land has been sold and sends a notice of acceptance to the man's house and takes efforts to meet him first thing in the morning. He attempts to give him a letter of acceptance before the deadline the next morning and is told that it is too late. He sues for specific performance.
+
+**** Lower Court holding
+
+     Finds there is no grounds to say it is not a contract. The unilateral contract may be concluded by acceptance of the offer and may only be retracted "by the one of th eparties in the meantime, but, in order to be withdrawn from , information of that fact must be conveyed to the mind of the person who is to be affected by it." The fact that the revocation of the offer had not been transmitted by D to P meant that the written acceptance formed a contract binding both, regardless that the land had been surreptitiously sold in the meantime.
+
+*** Questions Presented
+
+    Does knowledge of the sale of a property indicate to a person the retraction of an offer?
+
+*** Rule
+
+    Promises made without consideration create no legal obligation. Contracts must have a "meeting of the minds" whereby both parties agree, at the same time, to be bound.
+
+*** Reasoning
+
+    The promise to hold the offer until a certain date was asserted without consideration from the other side so it has no legal obligation. The idea that retraction must be made official and delivered to the P is without basis. A contract requires a meeting of the minds, so to speak, with an offer continuing in time. It was clear the P knew that the offer had been rescinded in fact so there could be no real offer and thus no meeting of the minds to engage in the sale. "the plaintf knew that Dodds was no longer minded to sell the property to him as plainly and clearly as if Dodds had told him...". The plaintiff knew that the D had changed his mind and was seeking to bind him against a withdrawn offer. It is impossible to say that there was ever "one mind" between the two in the contract.
+
+*** Holding
+
+    There was no meeting of the minds, thus no contract, and therefore no specific performance.
+
+*** Main Takeaway
+
+    Knowedge that the offer is rescinded prevents the meeting of the minds.
+
+* Acceptance
+  p 302-309, 323-349
+
+  What is an acceptance? An offer can be revoked until accepted, what is an acceptance?
+
+** The mirror image rule
+   Used to determine if there is a contract at all in the absence of partial performance.
+
+   What happens when the acceptance accepts terms different from the offer? one prong is whether there has been any partial performance. without performance, it is easier to contest the existence of mutual assent to contract in finding the acceptance is a counter-offer, in essence, rejecting the original offer. the aim is to ensure that the same thing is offered and accepted.
+
+*** Supreme Court of Minnesota in Langellier v. Shaefer 1887
+    "departure from terms invalidates the offer, unless the same is agreed to by the party who made it. Where the negotiations are by letters, they will constitute no agreement unless the answer to the offer is a simple accceptance, without the introduction of any new term."
+
+    Muddy waters after some partial performance. It is clear that the parties intended to contract, the ambiguity is to which terms are they bound? In this case, the mirror image rule is abandoned.
+
+** Ardente v. Horan
+   Supreme Court of Rhode Island, 1976
+*** Procedural History
+**** facts
+     Plaintiff made a bid of 250k to D. D agree, have documents drawn up. P send signed documents, $20k check and request to confirm if certain furnishing are included. D refuse to continue the purchase agreement. P sue for specific performance.
+**** lower court
+     Summary judgment for D. Theory is that the check and documents were not an acceptance but a rejection and a counter offer which D were free to not accept.
+
+*** Questions Presented
+    Can an offer be accepted when proposing to include other items in the sale?
+
+*** Rule
+    Sorta. If the acceptance is clearly independent of the condition the offer is accepted and understood tht other points can be modified. But the same standard of the public actions of the player are in effect. An acceptance of an offer must be "definite and unequivocal. 'An offeror is entitled to know in clear terms whether the offeree accepts his proposal'."
+
+*** Reasoning
+
+If we are going to obligate people and give them recourse to courts, it must be clear that they are obligated and on what terms they have promised. Had the P only sent the paperwork and check there would be no question; however they also included the letter. As these form the only interaction the D have to judge acceptance, the judgment of a reasonable man will examine only these documents. The language used in the letter was not consistent wth "an absolute acceptance accompanied by a request for a gratuitous benefit". The letter asks for confirmation that the items listed are part of the instant transaction and therefore constitute a negotiation of the primary contract rather than a collateral addition to the main transaction. This removes the certainty and places it in a conditional acceptance which the D are free to reject.
+
+*** Holding
+
+Jugdment of the lower court is affirmed in that no contract was formed due to non-acceptance by the D's of the conditional offer of the P.
+
+** White v Corlies & Tifft
+   Court of Appeals of New York (final court in NY)1871
+*** Procedural History
+**** facts
+     A carpenter and merchant negotiate for refurnishing a suite of offices. There is a round of negotiations signed of
+
+**** lower court
+     a contract was formed and held for white in his action for breach.
+
+*** Questions Presented
+    Does starting performance of a contract serve as a manifestatoin of mutual assent?
+
+*** Rule
+
+    Acceptance does not require that the offering party have knowledge, but that you have sent into motion events that will be unequivocal demonstration of the mutual assent.
+
+*** Reasoning
+
+    White here purchased stock and began working right away but never responded to the letter. While in his mind his actions were clear acceptance of the job, from outside it appeared that he bought some wood and started working it, tasks and materials that resemble his work for any job in general. Absence the manifestation of mutual assent
+
+*** Holding
+    The holding was reversed and a new trial ordered.
+
+*** Main Takeaway
+    It is not that the knowledge must meet the other party but that events have begun that will demonstrate unequivocably the acceptance.
+** Petterson v Pattberg
+
+   Court of Appeals of New York 1928
+
+*** Procedural History
+
+**** facts
+
+     A house has a mortgage on it, owed to Pattberg, the D. He gives Petterson (P) the option of making one more scheduled payment and then paying in full. P makes the scheduled payment and then appears the following month to satisfy the deal in a timely manner. D mentions he cannot accept the money as he has sold the mortgage.
+
+**** lower court
+
+     P brings an action for damages in the amount of $780, the discounted amount for payment in full of the mortgage.
+
+*** Questions Presented
+
+    Was the offer rescinded or was a valid contract breached.
+
+*** Rule
+
+**** Opinion
+
+     "It is elementary that any offer to enter into a unilateral contract may be withdrawn before the act requested to be done has been performed".
+
+**** Dissent
+
+     "if the condition precedent has not been performed, it is because the defendant made performance impossible by refusing th eaccept payment, when the plaintiff came with an offer of immediate performance.
+
+*** Reasoning
+
+**** Ruling of the court
+
+     In this situation, there was no obligation created until the predicate performance was accomplished-- the payment of the debt in full. In light of this, there was only an offer on the table, one necessarily free to withdraw. The court notes that it gets a little strange since until the money is accepted the offer can be withdrawn, but analogize it to someone verbally rescinding an offer before the oferree can mouth the words I accept. As there was a rescinded offer, there cannot be a contract and so there is no issue before the court. In dicta, the author of the opinion takes it further, stating that even if there were tender of the amount before withdrawal, the person would voluntarily have to accept the payment and so would still have a moment of last refusal.
+
+**** Dissent
+     There was a simple exchange of promises: pay in full on this date, get a discount. the person shows up to satisfy the condition and then is prevented from doing satisfying the bargin by the person he contracted with to that persons benefit. There is then analysis of what exact act was requested. The gist is that in to pay someone requires their assent; thus if one promises to discount a mortgage if you pay them in full, this case allows them to reject the assent to the payment and then with a clear conscience find you have not satisfied your side of the bargain and decline the conditional offer of the discount.
+
+     "If the defendant intended to induce payment by the plaintiff and yet reserve the right t orefuse payment when offered he should have used a phrase better calculated to express his meaning that the words: 'I agree to accept'. A promise to accept payment, by its very terms, must necessarily become binding, if at all, not later than when a present offer to pay is made".
+
+*** Holding
+
+    The lower courts are reversed and the P was never entitled to damages.
+
+*** Main Takeaway
+
+    Unilateral conditional contracts may be withdrawn up until the point that the conditional clause is satisfied. Strangely, even if the condition's satisfaction requires your assent.
+
+** hobbs v massasoit whip co
+
+   Supreme Judicial Court of MA, 1893
+
+*** Procedural History
+
+**** facts
+
+     a man sent eelskins to a trading company four or five times, they were accepted and paid for. He sent eelskins the last time, never heard a word and the company considered them not accepted.
+
+**** lower court ruling
+
+     Judgment in favor of Hobbs
+
+*** Questions Presented
+
+    Can there be acceptance of a contract with complete silence
+
+*** Rule
+
+    Conduct which gives the appearance of acceptance or assent is considered as such in the eyes of the law.
+
+*** Reasoning
+
+    While true that a stranger cannot mail items and impose a duty on another, this is a far cry from that. There was a standing order for eel skins of a certain quality, which these were. There were previous transactions in good faith. Even if there was no implied acceptance upon receipt of the skins, there was still a duty to act in some way. the silence and not returning of the skins is a way that one could interpret acceptance.
+
+*** Holding
+
+    Hobbs was correct and the lower court is sustained.
+
+** register.com inc v verio, inc
+
+   Us court of appeals, 2nd circuit 2004
+
+*** Procedural History
+
+**** facts
+     Register.com is registered with ICANN to issue domain names. Its terms require it to provide whois data along with a disclaimer that the data is not to be used for email marketing. Verio scrapes this for email marketing and direct mail and phone marketing. Verio stops the email usage but points out that technically Register is in violation of its ICANN agreement.
+
+**** previous court
+
+     Defendant Verio appeals from preliminary injunction for Plaintiff.
+
+*** Questions Presented
+
+    Can a oferree deny knowledge of conditions when they arrive with the benefit and can an oferree decline the conditions but still accept the benefits.
+
+*** Rule
+
+    No and no.
+
+*** Reasoning
+
+    While perhaps the first whois query was undertaken without knowning the conditions which attached, subsequent queries were done with this knowledge. Further, the company testified that they were aware. Perhaps this could fly on intermittent or the intial queries but repeated queries throughout the day must be taken to be done with knowledge of the terms. As to the second question, you cannot claim the benefits and disparage the conditions they come under. The defendant was free to not use or free to use and abide but it chose neither. 'silence and inaction operate as an acceptance ... [w]here an offeree takes the benefit of offered services with reasonable opportunity to reject them and reason to konw that they were offered with the expectation of compensation'
+
+*** Holding
+
+    The injunction is correct and may stand
+
+*** dissent
+
+    Just because they knew the terms doesn't mean they assent to them. Vario knows the data is free and public and that ICANN does not put the direct marking and phone call restrictions on the data so they could reasonably reject these terms. Also, Register has no ownership interest in the data; as the terms come with the data and after the database has already been accessed, the user is free to reject the terms and use the data as they see fit.
+** Nguyen v barnes and noble
+   9th circuit 2014
+*** Procedural History
+
+**** facts
+     Nguyen attempted to purchase a tablet but stock ran out and he was unable to receive one. sues BN and they remove to Fed court where they argue that controversy is bound by website terms to arbitration under FAA. Website terms are available under terms of use link of every page. He never clicked on terms stating "by visiting any area ... a user is deemed to have accepted the terms of use".
+
+**** previous court ruling
+     "B&N did not provide reasonable notice of its terms of use and that nguyen therefore did not unambiguously mainfest assent to the arbitration provision contained therein."
+
+     Just a note, state law dictates whether a contract was formed, and then federal law would dictate whether arbitration is required.
+
+*** Questions Presented
+    Can the court infer silent acceptance of the terms of the website.
+    "does a website that makes its terms of use available via a conspicuous hyperlink on every page of the website but otherwise provides no notice to users nor prompts them to take any affirmative action to demonstrate assent, even close proximity of the hyperlink to relevan tbuttons user must click on--without--more give rise to constructive notice?" modified to question form. this is presented in the negative in the original.
+
+*** Rule
+    In general they can if there is reason to believe that the user is aware of the terms.
+
+*** Reasoning
+    Although the internet has changed things, it has not changed the bedrock of contract law, mutual assent. In this case, there is no evidence that the user ever had knowledge of the agreement. "The validity of the browsewrap agreement turns on whether the website puts a reasonably prudent user on inquiry notice of the terms of the contract". B&N put the link next to other functional links that a user would have to use but no case law supports the theory that proximity would put a reasonable prudent user in knowledge of the terms. While there is an unpublished opinion holding that a link to the terms in conspicuous dress can help a user, that case had an enumerated step in the checkout process to review the terms and conditions, a fact distinguishing the instant case.
+
+*** Holding
+
+    With no controlling case law, the court is reluctant to extend the notice element of browsewrap terms notices in creating knowledge in a user. as such, the use of a site does not constitute mutual assent to the terms provided by the site.
+
+*** Main Takeaway
+#+OPTIONS: toc:2
+* COMMENT readings
+  Tuesday: finish up this week's readings -- pages 335-349, 352-353;
+  Start in interpretation -- pages 359-361; 370-384 (skim pages 361-370)
+
+  If we get through all of that on Tuesday, Thursday's readings will be:
+  Filling in the Gaps -- pages 384-398 [skim 398-407]
+  Form Ks -- pages 408-417
+
+* chapter 5 discerning the agreement
+
+  Once it is concluded that there has been mutual assent to a contract, there remains the task of ascertaining the terms that will bind the parties
+
+1. interpreting the meaning of the words
+2. gap-filling when a situatoin arises that is not explicitly handled by the terms of the parties' agreement.
+3. identifying which term is adopted by the parties when, though it is clear the parties intended to enter into contractual relations, the terms of the offer differ from the terms of the acceptance.
+
+
+* interpreting the meaning of the terms
+
+  language deficienies:
+
+1. ambiguous, terms that have more than one meaning
+2. vagueness, when the question is whether the term was meant to apply beyond its clear core meaning
+
+
+courts have developed an objective theory with a subjective twist.
+
+** ambiguous terms
+
+*** COMMENT purpose
+
+consider the problem of "misunderstanding" which can occur when words have more than one meaning and a question arises to which, if any, was the meaning agreed to by both parties.
+
+bear in mind, is it objective or subjective?
+
+*** raffles v wichelhaus
+
+court of exchequer, 1864
+
+**** Procedural History
+
+***** facts
+
+      Defendant purchases cotton from Plaintiff to ship from India on a ship named Peerless. A ship arrives which sailed in October with no cotton. A ship arrives which sailed in December with Cotton, but Defendant refuses to purchase. Sue for breach of contract.
+
+***** lower court
+
+      The lower court ruled in favor of the Plaintiffs holding essentially that the shipping date was not specified and /whihc/ peerless by which it arrived was not an essential term of the K.
+
+**** Questions Presented
+
+     Was there a K formed when the buyers meant one ship Peerless but the sellers meant another?
+
+**** Rule
+
+     There must be consensus on the meanings of the terms in a K. Here there was evidence introduced that the parties did not and thus not K.
+
+**** Reasoning
+
+     Since the term was ambiguous and the parties had differing meanings attached to the term, there was never a K in the first place and thus the Defendants must prevail.
+
+**** Holding
+
+     Overruling the lower court, this court ruled that there was no K formed. However, there have been several criticisms. The court never took an objective standard but a subjective one. Was there a reason that the Defendant knew of another Peerless such that he would have an expectation to /which/ ship he was obligated?
+
+**** Main Takeaway
+
+     What is an objective standard for judging interpretation? And how much subjectivity should come in? Here was there an objective reason for a misundertanding? would an average cotton merchant know about the two peerless ships? Was the ship a material term or an incidental one? Is it important that the parties were allowed evidence to show they disagreed? Is it enough on the face of the K that they did not disagree?
+
+
+*** oswald v allen
+
+**** Procedural History
+
+***** facts
+
+      Oswald, Plantiff, offered to purchase the swiss coins from Defendant. The woman had offered her swiss collection for sale, but this did not include swiss coins in her rare coins collection. The plantiff did not speak good english and went through his brother. A deal was struck but later Allen wanted to back out after her children expressed sentimental interest.
+
+***** lower court
+
+      The lower court ruled that a K did not exist thus ruling for the defendant.
+
+**** Questions Presented
+
+     Does a contract exist when the two parties materially differ about term(s) of the K
+
+**** Rule
+
+     when any of the terms used to express an agreement is ambivalent, and the parties understand it in different ways, there cannot be a contract unless one of them should have been aware of the other's understanding.
+
+**** Reasoning
+
+     there is no sensible way of choosing which terms to legally enforce so the agreement is a nullity
+
+**** Holding
+
+     there was no contract as the parties never had the "one mind" that was required.
+
+**** Main Takeaway
+
+     the contract was ambiguous, not vague, and neither was aware of the overloaded term on the other's view. in this case the K is voided. However, had one of the arties known of the confusion on the other side the result could be different.
+
+
+** vauge terms
+*** weinberg v edelstein
+
+    supreme court, new york county 1952
+
+**** Procedural History
+
+***** facts
+
+      The Plaintiff brings suit for violation of a restrictive covenant on his lease. The plaintiff's lease prevents the selling of dresses by other lease holders. The defendant recently moved in and sell swomen's clothes, including two piece outfits of blouses and skirts. The question before the court is are these ensembles dresses or can they be?
+
+***** lower court
+
+      I think this is actually the trial court in this instance. the supreme court of NY is not the final court which goes by the name court of appeals.
+
+**** Questions Presented
+
+     When a term is vague, how does the court resolve the term toa specific meaning for enforcement.
+
+**** Rule
+
+     the judge consults the dictionary, industry terms, industry norms like manufacturing unions, and finally consults trends in the industry. once at some point with a plan, he interprets the terms in the covenant so as to protect both parties.
+
+**** Reasoning
+
+     the court recognized both the power of the covenant as well as the right of the defendant to merchant items outside of that covenant. finding no solution in the dictionary, trade unions, he turns to customs. the important part is that "dress" is in the process of becoming even more vague and it was on the plaintiff to express the restrictions more clearly on the defendant. absent this he gets a conservative defintion of dress for the purposes of his covenant.
+
+**** Holding
+
+     The trend has been for two pieces to be worn as dresses and not. Seeing as the contract for the defendants was just recently written, the plaintiff had the opportunity to clarify dress or introduce restrictions on the D to reflect the evolving play between dress versus blouse and skirt combo. Barring this, the court is reluctant to impose restrictions on defendant not in a strict construction. The defendant must not sell the two pieces as a single unit and cannot compel the purchase of one side with the other. But otherwise dress is read to be the single piece.
+
+**** Main Takeaway
+
+
+
+*** frigaliment importing co v bns international sales
+
+    US District Court, Southern District of NY, 1960
+
+**** Procedural History
+
+***** facts
+
+      Defendant entered an agreement to provide chicken to Plaintiff. Specifying USDA grade A chicken, specified weights. The industry on the retail side uses chicken to indicate broilers and fryers and reseves the term fowl for the older chickens more suitale for stewing. The defendant was a newcomer to the industry and not aware of this customary usage in the industry. However, NY law requires a showing that this use is "so long continuance, so well established, so notorious, so universal and so reasonable in itself, as that the presumption is violent that the parties contracted with reference to it, and made it a part of their agreement". This show failed as while understood on the consumption of bird side, the processing side had no use of this grading and did not rely on it.
+
+      Defendant provided older chickens to satisfy the heaving category of birds in the contract. Plaintiff protested but accepted the first shipment. Further they greenlit the second shipment of birds without clarifying. Plaintiff brings this action for breach.
+
+***** lower court
+
+      this is the trial court
+
+**** Questions Presented
+
+     Is a stewing chicken a chicken as used in the contract between the parties?
+
+     How does one resolve a vague term in a contract?
+
+**** Rule
+
+     The answer to the latter question informs how to answer the former. The court probes the industry to find out what is meant by chicken. They find there are two permeating definitions and the indsutry recognizes it can be kinda overloaded and seeks to minimize which concept is used. Recognizing that a contract is the the agreement of "two sets of external signs", a subjective standard can come in when a defendant uses one of the recognized meanings. It is on the plaintiff to demonstrate that different meaning was meant in the contract, a barrier they failed to overcome.
+
+**** Reasoning
+
+     Industry practices differ. The cost of the birds was priced below the going rate for younger birds. the defendant was a newcomer to the industry and usage of "chicken" as the broilers is not so pervasive as to attach meaning.
+
+**** Holding
+
+     The plaintiffs have failed ot persuade the court that their interpretation of chicken is controlling. The defendant believed they could satisfy the contract under their notion of chicken and its not clear why this was not controlling.
+
+**** Main Takeaway
+
+     When the terms are vague, follow several steps to resolve. dictionary, common usage, terms of the contract itself, context of the dealings, and then finally burden of proof
+
+** filling in the gaps
+
+   interpreting terms that are present and supplying terms when contracts are silent on a particular issue. when filling gaps, difference between implied-in-fact and implied-in-law.
+
+*** intro
+
+**** implied-in-fact
+
+     "those that the parties actually, albeit implicitly, have agreed to
+
+**** implied-in-law
+
+     thought to be imposed on parties without their consent. default rules and immunitable rules. default rules refer to those legal rules that the parties can avoid or vary by means of an express clause that differs from the term a court will otherwise supply by default. immutable rules, by contrast, may not be varied by consent and will override any express clause to the contrary.
+
+**** further considerations
+
+1) need to decide if there is sufficient manifestation of assent to conclude that a legally enforceable contract exists
+2) how to interpret the assent that has been manifeted.
+
+**** illusory promises
+
+     "is a promise "illusory" because it leaves complete discretion to perform or not in the hands of the purported promisor. i neach of these cases, the court fills this gapin the manifetation of assent by supply an obligation to exercise this discretion in "good faith". here we are concerned only with how and why the court fills the gap, in constrast with sun printing, where it refused to do so" p. 392
+
+*** Sun Printing & Publishing Ass'n v. Remington Paper
+
+    court of appeals of new york 1923
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff agreed to buy and defendant to sell 1,000 ton of paper per month. The price and duration would be negotiated on an ongoing basis to be capped by the price charged by the Canadian Export Paper Compnay to large customers. The contract failed to anticipate what happens when no agreement is made (invoking the capped price) and then the rate the Canadian Export Paper Company fluctuates during this time. Must the agreement be restarted or the Plaintiff's price fluctuate accordingly? And this is when there were no agreed upon terms.
+
+***** lower court
+
+      Super hard to follow: Action by Sun Printing & Publishing Association against the Remington Paper & Power Company, Inc. From an order of the Appellate Division . . . which reversed an order of the Special Term denying plaintiff’s motion for judgment on the pleadings, and granted said motion, defendant, by permission, appeals.
+
+      Defendant Remington is appealing a motion for judgment on the pleadings on the following certified question, "does the complaint state facts sufficient to constitute a cause of action?" Defendants are questioning the underlying contract at all rather than even an argument about its interpretation.
+
+**** Questions Presented
+
+     When a K is missing terms, how do we determine whether to abandon the K or conjure terms?
+
+**** Rule
+
+     The contract lacked key operative terms and the court should not read them in.
+
+**** Reasoning
+
+     The K required price and duration of that price to be negotiated. When the defendants stated their intention not to negotiate, this necessarilly left the durations unspecified. This causes problems as how long does the capped price last? Does the Plaintiff get to continue at the maximum price until he feels like changing when a new maximum price is in his favor? Were it 12 option contracts, the purchaser would have a one way ratchet to continue under the current option and only exercising the option when it was in his favor. There was an agreement to agree on the term, something from which the defendant can walk away from.
+
+     As to whether it is on the court to repair the K into a state to keep it functional:
+     "there is need, it is true, of no high degree of ingenuity to show how the parties, with little change of language, coudl have framed a form of contract to which obligation would attach. the difficulty is that they framed another. we are not at liberty to revise while professing to construe".
+
+**** Holding
+
+     The K contained agreements to agree to terms after the first few months. This provides the ability for D to walk away, which it did.
+
+**** Main Takeaway
+
+     It is not for the courts to repair but to construe. Cardozo sets a high bar for what the court can impose into a contract. "no high degree of ingenuity" was required in this case but they refrained.
+
+*** New york central iron works co v united states radioator co
+
+    court of appeals of new york 1903
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff secured a contract from Defendant for radiators for "their entire radiator needs for the year 1899". After the K formation, iron prices rose but the K price remained the same. Plaintiffs were able to undercut the market and their order volume went up quite a bit. Defendant claims that there was a mutual mistake in framing the K, since the intention was to limit the quantity of goods to be delivered to an amount such as had been called for in previous years of similar dealings between the parties.
+
+***** lower court
+
+      lower court ruled for plaintiffs, rejecting the argument limiting the contract to the volume of goods sold in previous years.
+
+**** Questions Presented
+
+     Can a contract have terms introduced by a court to limit exposure when a commodity underlying has increased in value?
+
+**** Rule
+
+     Actors in a K have a responsibility to act responsibly and reasonably towards each other.
+
+**** Reasoning
+
+     The contract is open to good faith ordering. The K may be used for purposes contemplated by it, but not more. speculation was not within the purposes of the agreement, and had the defendants offered evidence of it, they could have prevailed.
+
+**** Holding
+
+     There was no evidence that the Plaintiffs had acted unreasonably or irresponsibly. As such, the lower court ruling in favor of plaintiffs was upheld.
+
+**** Main Takeaway
+
+     Actors in a K have a duty to behave reasonably and responsibly towards each other. this is not to say that benefits can be reaped, but the pursuit of these unforseen benefits much stay within the bounds of the original K. The court is willing to read a limit onto the commodity amount, but not to the degree requested--the same as previous years before the price spike--but a reasonable amount tied to the plaintiff's reasonable needs. It was difficult to separate increase in business due to price hike versus speculation in the iron market.
+
+*** Eastern Air Line, Inc, v. Gulf Oil corp
+
+    US District Court, Souther District of Florida, 1975
+
+**** Procedural History
+
+***** facts
+
+      Gulf tried to back out of its contract to supply jet fuel to Eastern airline. Presumably this arises during the oil embargo when gas prices have risen steeply. Gulf argues that this is not a binding requirements contract, was void for want of mutuality, and was "commercially impracticable".
+
+***** lower court
+
+      this is the court of first instance
+
+**** Questions Presented
+
+     Does a requirements contract contain enough certainty to be considered a legally enforceable contract?
+
+**** Rule
+
+     Requirements contracts are specifically recognized
+
+**** Reasoning
+
+     Requirements contracts were found invalid previously but the UCC had recently been adopted and provided for them. They required an operating business which provided an expectation of quantity, rounding out the lacking concrete terms previously missing. There was mutuality and definiteness bound by the estimated amount of commerce.
+
+**** Holding
+
+     The requirements contract is legally enforceable.
+
+**** Main Takeaway
+
+     I'm not too sure. It seems striaghtforward out of the UCC. this isn't even an evolving standard of common law like IIED or the like, its statutory language. The opinion never touches on the commercial impracticable complaint so presumably that would be the main takeaway? I'm sorry the iranians ruined the oil market but you have 6 more years on your contract? But this should play a larger part in the opinion if so.
+
+*** wood v lucy, lady duff-gordon
+
+    court of appeals of NY, 1917
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was a socialite with an un-monetized fashion influence. She contracted with Defendant to monetize this influence and share half of the profits. Some way through, Defendant endorsed fabrics without the knowledge of the Defendant, who was promised exclusive use of her influence. Plaintiff sued for breach and Defendant argues no K as there is no duty imposed on Plaintiff.
+
+***** lower court
+
+      A lower court denied a motion by defendant for judgment in her favor which was reversed by the appelate court. This is an opinion about that judgment for the defendant in the final court of NY.
+
+**** Questions Presented
+
+     Under an exclusive licensing agreement, is there an implied duty on the license executor?
+
+**** Rule
+
+     When promises are otherwise useless, an obligation to pursue them can is implied in the contract. But these promises that would otherwise be useless have value in "enforc[ing] the conclusion that the plaintiff /had/ some duties".
+
+**** Reasoning
+
+     The Plaintiff had two promises that were utterly worthless without action on his part: giving half of the profits and a monthly accounting of the money. Without an implied duty on his half these would mean nothing.
+
+**** Holding
+
+     The promises to share the profits and monthly accounting was an implicit promise to undertake actions to generate these revenues. There was binding promise on the side of the Plaintiff and therefore there was no missing element from K formation.
+
+**** Main Takeaway
+
+
+* identifying the terms of the agreement
+
+** form contracts or "contracts of adhesion"
+
+*** intro
+
+    challenge our notion of assent: written by one of the parties and generally unread by the other. "when the form ued by one party conflicts with the form used by the other, we are faced with the problem of identifying which terms govern"
+
+*** carnival cruise lines v shute
+
+    supreme court 1991, Justice Blackmun
+
+**** Procedural History
+
+***** facts
+
+      The plaintiffs booked passage on a cruise ship leaving LA and traveling to mexico from the state of Washington. While in international waters, the plaintiff slipped and injured herself on a guided tour of the kitchen. She brought suit in federal district court in Washington, contrary to a forum selection clause stipulating all litigation must occur in Florida. This action is whether the forum selection clause is enforceable, and the suit therefore moot.
+
+***** lower court
+
+      The district court dismissed for lack of jurisdiction since the ties to the state of washingotn were insubstantial. the 9th circuit refused to enforce the forum selection clause and carnival cruise lines appeals.
+
+**** Questions Presented
+
+     Are non-negotiated forum-selection clauses legally enforceable when the plaintiff has had notice?
+
+**** Rule
+
+     The non-negotiated aspect is immaterial if the terms are reasonable and are subject to fundamental fairness scrutiny.
+
+**** Reasoning
+
+     The forum selection clause is valid. Just because it is non-negotiated does not invalidate it. There are good reasons for it and the customer benefits from reduced fares for its good reasons. The selection does not violate a fundamental fairness; the cruise operates frequently and is based in florida. further, respondents note they were on notice of the clause.
+
+**** Holding
+
+     the forum selection clause was reasonable and therefore valid. It was reasonable for several reasons, including benefits accruing to the plaintiffs.
+
+**** dissent from stevens
+
+     notes that the terms are tiny, in response to the court's highlighting of the operative clause. the terms come /after/ purchase and receipt of the ticket. the ticket also includes a limiting refund clause, and thus the average consumer would risk having to sue in Florida rather than lose the value of their ticket without a refund. This choice does not render the forum choice as reasonable.
+
+     this and similar mechanisms all allow for slight tipping of the scales of justice, which can cumulatively add up. there are two strands of traditional contract reasoning that both argue against the result of the court. traditionally, hightened scrutiny is placed on form contracts with no negotiation with a large discrepancy of bargaining power. further, some question if there can be a contract at all as there is no "manifesting knowledge and voluntary consent". The second strand of traditional contract theory objects to the forum selection as against public policy. forum selection can be invalidated if not bargained for, creates additional expense for one party, or denies one party a remedy.
+
+**** Main Takeaway
+
+
+*** caspi v microsoft network
+
+superior court of NJ, appellate division, 1999
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+      Ruled in favor of microsoft that its forum selection clause stipulating washington courts is valid
+
+**** Questions Presented
+
+     Are non-negotiated forum-selection clauses legally enforceable when the plaintiff has not necessarily notice?
+
+**** Rule
+
+     The clause is binding.
+
+**** Reasoning
+
+     Shute is nearly dispositive except that the plaintiff's did not stipulate to have read the terms. However, the plaintiff's had ample notice and time to read. the terms were not hidden, followed the standard format and were reasonable.
+
+**** Holding
+
+     The contract is binding and the NJ court lacks jurisdiction.
+
+**** Main Takeaway
+
+* which terms were agreed to?
+
+** intro
+
+   when terms of acceptance are different from the offer, what is binding? we know the parties intended to contract, we are faced with figuring out which terms to which they agreed when "their manifestations of assent conflict". "battle of the forms" as it often arises as a result of conflicting writings
+
+** step-saver data systems, inc, v wyse technology
+
+us court of appeals 3rd circuit 1991
+
+*** Procedural History
+
+**** facts
+
+     step saver builds computers and installs software. one suite performed poorly leaving returned computers and lawsuits. step-saver sues vendors for breach of warranty and lack of merchantability of software. the box top contained a clause stipulating by opening the software you agreed that there was no implied merchantability and that those terms were final and included all relevant terms.
+
+**** lower court
+
+     reverse lower court which held that
+
+*** Questions Presented
+
+    Do "box top" terms govern an agreement to purchase software following a phone call stipulating items and purchase price or do they constitute a counter offer after the intial contract?
+
+*** Rule
+
+*** Reasoning
+
+    The box-top attached substantially different terms after a contract had been made. as such, under ucc, doesn't hold weight. wasn't indefinite, as UCC allows for some play.
+
+**** indefinite
+
+     debate about sale of software versus sale of license. court argues that rights are largely the same, can figure out later. but court notes the following were discussed and agreed to 1) specific goods 2) quanitty 3) price. argue that warranty discussion was not involved but ucc grants warranty unless specifically declaimed, and therefore we have software with a warranty. so it is definite enough without box top
+
+**** counter offer
+
+     argues a conditional counter offer, which step-saver accepts by opening and not returning the software. court is not sure that conditional acceptance applies when a contract has partial performance (implying that partial performance under the original terms doesn't allow for the retraction or perhaps that the original terms are binding as they were).
+
+     analyze a few tests, and then settle on a test for what is a conditional acceptance: "requires the offeree to demonstrate an unwillingness to proceed with the transaction unless the additional or different terms are included in teh contract". you have to die on this hill or else it just goes in the battle of the forms.
+
+     says the language on the box top isn't forceful enough. "consent by opening" ... "provides no real indication that the party is willing to forego the transaction if the additional language is not included in the contract". note that there was an offer to get a refund but not enough in this case as not clear that tsl was willing to forego the sale if not accepted.
+
+     wow, testimony from head of step saver that tsl told him that the box top didn't apply to him since he was not an end user but middle man. step saver was asked to sign documents formalizing the box top agreement, refused to do so, but trade still continued. also, box top prevents transfer of license, but both parties agree this term isn't binding on them. willing to proceed with violation of one term, and why is one non-negotiable but the other isn't?
+
+*** Holding
+
+    rejects lower court dismissing of claims against tsl and remands for consideration.
+
+*** Main Takeaway
+
+    Big difference between CL and UCC: last shot rule. send an offer, change one of the terms, send it back, considered a counter offer. if someone proceeds with contract despite different terms of a "supposed acceptance", 'he woudl, by his performance, constructively accept the terms of the 'counteroffer'', and be bound by its terms'. last-shot rule. UCC in 2-207 rejects this. remove the power of the last shot rule from the seller. hold only the terms that both parties have agreed to.
+
+    material alteration. when are these acceptable and under what conditions?
+
+** union carbide corp v oscar mayer foods corp
+
+   7th circuit court of appeals Posner
+
+*** Procedural History
+
+**** facts
+
+     Union carbide sold sausage casings from chicago subject to a 2% sales tax. it noticed a competitor sending from outside the city and eliding the taxes, so it had oscar mayer address invoices to an office outside of chicago and stopped sending the tax on the invoices. 8 years later gets popped for 150k in back taxes and penalties, and points to tax indemnification language on the back of invoices
+
+**** lower court
+
+     summary judgment for oscar mayer
+
+*** Questions Presented
+
+    Does the tax indemnification language put the tax burden on oscar mayer?
+
+    Was there material breach for not paying the taxes?
+
+*** Rule
+
+    The tax indemnification is against assessed taxes, not an open ended liability. In the alternative, the inclusion on the back of the invoice would be a material change no assented to by Oscar Mayer.
+
+    posner then goes into detail about how to determine if this new clause is to be read into the contract:
+
+    #+BEGIN_QUOTE
+
+    To summarize, a term inserted by the offeree is ineffectual (1) if the offer expressly limits acceptance to the terms of the offer, or (2) if the new term (a) makes a material alteration, in the sense that consent to it cannot be presumed, and (b) there is no showing that the offeror in fact consented to the alteration—whether (i) expressly, or (ii) by silence against the background of a course of dealings.
+
+    #+END_QUOTE
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+
+* terms that follow later
+** intro
+
+   these cases do not concern conflicting forms, so one issue is whether or not 2-207 governs. But a more fundamental question is whether a party can be said to have assented to terms that he or she could not examine until sometime after a purchase was made. can you manifest consent to be bound by terms to which you only later gain access? in this regard, these cases address a problem raised by the facts of carnival cruise but avoided by the supreme court: the terms of the agreement were on the back of the ticket that was delivered to the passengers after they paid for their tickets. in what sense did or could the purchasers conset to terms they had yet to see at the time of the sale?
+
+** ProCd v Zeinberg
+
+   United States Court of Appeals, 7th circuit
+
+*** Procedural History
+
+**** facts
+
+     ProCD makes a database with information about people, phone numbers, etc. It markets this to consumers at one price point and to corporations at another, under the theory that personal lookup is valued less than company lookup for sales leads. It prevents arbitrage with a license agreement, both shrinkwrap and visible each time the user uses the product. Zeinberg purchased the software as a consumer and then formed a company reselling the information, undercutting ProCD.
+
+**** lower court
+
+     The lower court held the licenses ineffectual because their terms do not appear o nthe outside of the packages. Defendant bought three packages and presumably knew what the license would have been on those. The district court ruled that because they could have been different, they failed to control for the same reason as the first license. Their terms were unknown until after purchae.
+
+     Zeinberg argued, and the court accepted, that the software on the shelf was an offer, and purchase was the acceptance. This K could not include terms secret at the time, including only the terms that were agreed to at the time.
+
+*** Questions Presented
+
+    Do the terms of the software, only visible after purchase and unwrapping, bind the K the parties have entered.
+
+*** Rule
+
+    UCC 2-204 "A contract of goods may be made in any manner suffient to show agreement". The software included additional terms that defendant was free to accept or reject by his conduct.
+
+*** Reasoning
+
+    The software could have the entire license on the outside, but this would preclude necessary information, like what the software does. Rather, the box mentions that there are other terms inside and expressly includes a refund clause. Further, there are many transactions which have an exchange of money before the full terms are known: insurance, tickets, concerts. All of these things would be burdensome to have a full K up front and predicate usage on acceptance. These arguments hold, the court holds, for consumer goods as well. Warranty information for consumer goods is always inside the box, read at leisure by the consumer later. Drug information--extremely vital information like drug interactions--come inside of the package, visible only after purchase.
+
+    For software specifically, the court notes that purchases are increasingly done over the internet, purchased box unseen. Defendant's argument would mean that these purchases are bound by standard UCC terms with standard warranties (almost always disclaimed in software), increasing costs or increasing returns, or forcing software back into a physical store. The lower court said wording needed to change in UCC 2-203 but the court notes they just need certainty added to it. the handwringing is academic, not practical, noting the myriad law review articles and relative paucity of actual cases on the issues.
+
+    Court boils it down to standard specified acceptance. "A vendor, as master of the offer, may invite acceptance by conduct, and may propose limitations on the kind of conduct that constitutes acceptance. A buyer may accept by performing the acts the vendor proposes to treat as acceptance. And that is what happened. ProCD proposed a  K that a buyer would accept by /using/ the software after having an opportunity to read the license at leisure." The license popped up and required indication of acceptance to use. The disagreement with the lower court is that although /some/ contracts are made by purchase and take product, the UCC allows for other formations. Here Plaintiff proposed a different method and "without protest, Zeidenberg agreed".
+
+    Acceptance of goods argument. Plaintiffs extend a chance to inspect and make a rejection of the license. Defendant did so and did not object: "acceptance of an offer differs from acceptance of goods after delivery". Opportunity to return goods is important.
+
+*** Holding
+
+    The terms of the software were binding.
+
+*** Main Takeaway
+
+    The terms form part of the original contract, not requesting an addition. It is important that the user has a chance to read and then take action at this point to accept or reject. The notice on the shrinkwrap mentioned that there were terms included inside which was helpful for browsing, not required, but sreved to strengthen the case of notice.
+
+** hill v gateway
+
+united states of appeals, 7th circuit
+
+1997, same judge as ProCD v Zeinberg, 1 year later
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff orders computer over phone, computer arrives. has terms unless customer returns within 30 days. After more than 30 days customer complains and argues the included arbitratoin clause is not binding. In particular, the arbitration clause is singled out.
+
+**** lower court
+
+     Lower court held the terms are not effective yielding an effective term-free K. Gateway appeals.
+
+*** Questions Presented
+
+    Do terms of purchase of a computer that arrive with the computer, never referenced before, form part of the original contract or are they terms added after the fact?
+
+    Are these terms binding?
+
+*** Rule
+
+    The merchant may choose some conduct as the mode of acceptance.
+
+*** Reasoning
+
+    the plaintiffs concede that they noticed the statement of terms but that the arbitration clause did not stand out. The fact that the arbitration clause did not stand out is not legally relevant. The court notes that all of the terms apply or none of them, depending upon if they are part of the original K or are offers after the fact.
+
+    ProCD holds that terms inside of a software box are binding after affording the user an opportunity to read the terms and reject the product. The court again notes the many ways contracts can be formed and that the offeror is the master of the deal. Plaintiffs ask to carve a distinction from software and computer, leaving roCD not controlling, but with no persuasive argument to do so. ProCD rested on the law of contract formation, not of software. Notes several places where terms must be left for later than the intial transaction of money for goods (cashier in grocery store, , insurance). Had direct sales people read the whole terms over the phone, it would have infuriated customers and not left them principally better off: we write things down for a reason. Ask to hold the ProCD result to executory K's and does not apply here since all perormance is complete.
+
+    At oral arguments, oral that ProCD box had a notice that additional terms were inside whereas here the box is a shipping box with no notice. Court points out the difference in utility and design: the former designed to attract customers, the latter is a mere shipping carton. Gateway has ads mentioning limited warranties, putting customer on notice that terms are included and have avenues to obtain them. By law, vendors must provide terms upon requrest, customers can find public postings of the terms, and third, can inspect documents upon delivery. By holding the computer longer than 30 days, the Hills accepted Gateway's offer.
+
+*** Holding
+
+    Overturns the lower court, rules was a K with the terms inside the box and therefore the hills have no recourse in court but in arbitration.
+
+*** Main Takeaway
+
+    that  agood, even when shipped with no mention of terms, can arrive with additional terms inside. this does rely on some manner of the consumer to decide on these terms, having a way to accept or reject, and some notice that there are additional terms involved. In ProCD this was satisfied by the notice on the packaging, in the instant case, by ads on television. There are many avenues to get the terms before purchase and a way to reject them after purchasing of goods but before accepting the K.
+
+** Klocek v Gateway
+
+   united states district court, district of kansas, 2000
+
+3 years and different circuit from above
+
+*** Procedural History
+
+**** facts
+
+     Plaintiffs purchased a scanner from gateway which included terms that 5 days of not returning constitute acceptance, and that al disputes would go through federal arbitration. plaintiff claims breach of contract, warranty, false promises. Pursues remedy in court but must decide if arbitration clause prevents court remedy.
+
+**** lower court
+
+     this is the trial court
+
+*** Questions Presented
+
+    Same as above. Were the terms inside of the electronics box terms additional to a formed contract or part of the conduct by which a person accepted the offer from gateway.
+
+*** Rule
+
+    UCC 2-207 rules the day here.
+
+*** Reasoning
+
+    the court argues that 2-207 settles most "battle of the forms' claims, but is not statutorally limited to them. As such, the 7th Circuit's dismissal of this provision was unfounded. holds that the terms are /additional/ terms that the plaintiff's are free to consider and weigh, but are not bound until acceptance.
+
+    there are no indications that gateway is willing to forego the commerce unless its later terms are accepted. as such they are not melded into the contract and are no binding. no argument that plaintiffs entertained the additional terms or expressly accepted them, defeating gateway's argument that plaintiff's kept the scanner for longer than 5 days and therefore accepted them.
+
+*** Holding
+
+    The binding arbitration clause came after a formed K and is a a new offer for consideration without acceptnace on behalf of the plaintiffs.
+
+*** Main Takeaway
+
+    Two competing notions. One that the K had terms additional to the simple money for goods but provided for 30 days of evaluation and a way to reject; the other that the original purchase provided no knowledge of future terms and was a contract upon itself with the ordinary UCC mechanism of altering the K later.
+* Interpreting a writing -- the parol evidence rule
+** Thompson v libbey
+
+   Supreme court of minnesota, 1885
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff sold logs to Defendant. At payment time, defendant argues about quality of logs. At suit for breach by plaintiff/seller, defendant introduces evidence outside of a written contract that there was a warranty as to quality of timber.
+
+**** lower court
+
+     Presumably ruled in favor of defendant, plaintiff appealing the introduction of oral evidence of a warranty.
+
+*** Questions Presented
+
+    Can oral evidence be introduced introducing a part of the contract alleged to be involved in an oral K but not mentioned in the written K?
+
+*** Rule
+
+    parol contemporaneous evidence is inadmissible to contradict or vary the terms of a valid written instrument.
+
+*** Reasoning
+
+    There is no allegation of fraud here, so there is only need to determine the agreement. The rule itself seeks to prevent faulty memory injecting terms into a K where time and deliberation were taken to "embody the entire agreement of the parties". The parties have written down their agreement in no uncertain terms, "as to the object or extent of such engagement... and the manner of their undertaking". The rule does not prevent parol evidence in all contracts; like much of K law, it is that the written instrument purports to be "complete expressoin of the whole agreement". Thus the rule reflects that the parties have entered all of their obligations and will not allow oral testimony to add new agreements after the fact.
+
+*** Holding
+
+    That the parol evidence was enterred without justification. A new trial is ordered for the lower court.
+
+*** Main Takeaway
+
+    If a written instrument appears to be a full listing of the agreement, the court is hesitant to allow evidence of further obligations outside of the contract. The K is where you right down everything, and if it appears complete, the court will not listen to other evidence.
+
+** masterson v sine
+
+   Supreme court of california, 1968
+
+*** Procedural History
+
+**** facts
+
+     There was an option to purchase a ranch made to someone's sister. The executor of their estate in bankruptcy wished to pursue this option. Defendant's objected claiming that the option was extended to keep the ranch in the family and wished to introduce evidence of such a stipulation. The lower court prevented introduction of this extrinsic evidence.
+
+**** lower court
+
+     Prevented evidence of the extrinsic evidence that the option was created to keep the property in the family and was not assignable to the executor of the estate in bankruptcy.
+
+*** Questions Presented
+
+    Can evidence be presented
+
+*** Rule
+
+    Evidence can be admitted if it will not confuse or mislead the finder of fact. When parties agree that a K is an "integration", parol evidence cannot be entered to add or vary its terms. If only part of the agreement is integrated, the same applies to this part but does not preclude parol evidence entered to prove elements of the agreement not reduced to writing.
+
+*** Reasoning
+
+    So part issue is determining when there has been an integration. Obviously the instrument itself may make this point certain. However, collateral agreements need to be examined to see if they fall within this integration or without. Previous california rule provided that figuring out if there was an integration allowed for inspection of the instrument only, the question for the court simply being whether it "appears to be a complete agreement". Problems arise because parol evidence must be introduced to "prove the existence of a separate oral agreement as to any matter on which the document is silent and which is not inconsistent with its terms", even though the agreement appears to contain a complete obligation set.
+
+    Parol evidence must balance several factors. Writing is considered more accurate than oral testimony, so parol evidence directly contradicting the writing can be excluded. Also, either fraud or false memories must be kept from the find of facts. Often, someone disadvantaged by the text of the K might talk about a negotiated step as binding because of the economic outcome. A finder of fact might be sympathetic to this cause without any legal basis. This fear must be balanced against others, as giving it complete weight would prevent parol evidence too often.
+
+    Evidence of oral collateral agreements should be excluded only when the fact finder is likely to be misled. The common law has a /naturally/ standard: "is such an agreement as might naturally be made as a separate agreement by parties situated as were the parties to the written contract". The UCC precludes even less: "if the additional terms are such that, if agreed upon, they would /certainly/ have been included in the document in the view of the court, then evidence of their alleged making must be kept from the trier of fact".
+
+    The court finds that the difficulty of the instrument in a family transaction could lead to it not being integrated fully. It is difficult to add more provisions and it may have been done to prevent sale in the future by the establishment of the option. There is no reason to know that the family members knew there was danger in not putting the whole agreement in writing. The court finds there is an argument that this detail "might naturally be made as a separate agreement", and therefore it cannot be said that it "certainly" would have been placed in the original writing.
+
+    Option Ks are presumed by the law to be transferable, but there is no reason to prevent evidence rebutting an assumption of law. This is not to say that a statute could not say such a thing, but that currently, one does not.
+
+*** Holding
+
+    The lower judgment is reversed as the court erroneously prevented evidence showing that the option was not transferable.
+
+*** Main Takeaway
+
+    Like everything in contracts, the court seeks to enforce what the parties agreed to. It will prevent evidence seeking to contradict what is said in writing that purports to summarize the entire agreement. However, it notes the difficultly of figuring out what an entire agreement can be. So if something is a collateral agreement outside of a particular agreement, it can be talked about. further, information can be introduced if it would naturally have been part of a collateral agreement under common law or only prevented if it would "certainly" have been included in the written agreement.
+
+** pacific gas and electric co v g.w. thomas drayage & rigging co
+
+   supreme court of california, 1968
+
+*** Procedural History
+
+**** facts
+
+     contract for labor with indemnification clause. the writing seems close to the standard 3rd party liability although a clear reading reveals liability for all damages. A turbine is damages with a resulting $25,000 bill and plaintiffs sue for damages.
+
+**** lower court
+
+     Rules that the agreement is clear that it is not limited to 3rd party damages and finds in favor of plaintiff. In doing so, denied parol evidence about what the terms in the agreement meant, arguing that they were clear.
+
+*** Questions Presented
+
+    Can a court exclude parol evidence because the court iself finds the terms clear and unambiguous?
+
+*** Rule
+
+*** Reasoning
+
+    The judge uses his extrinsic language skills to determine the meaning to him or herself. But K do not seek to enforce imperfect words but what the parties intended. Extrinsic evidence cannot be entered to add to, detract from, or vary the terms of a written contract, but these terms must be sufficiently decided before it can be known whether evidence is introduced for a prohibited purpose. This has been allowed when a term has acquired a specific meaning in industry, but what precludes the evidence to understand the term as the parties used it. The court has a duty to hear evidence of the proceeding and context, and from that decide if there could be more than one understanding.
+
+*** Holding
+
+    the lower court is reversed. the indemnity clause could reasonably be read either way, but defendants offered evidence showing that its reading was correct, contrary to the trial courts judgment that the language was plain and unambiguous.
+
+*** Main Takeaway
+
+    evidence can be supplied to understand how the parties used terms. this does not allow them to add, remove or modfy the terms agreed to but simply to explain the mutual assent of the parties and what they thought they assented to.
+
+** trident center v connecticut general life insurance co.
+
+   united states court of appeals, 9th circuit 1988
+
+*** Procedural History
+
+**** facts
+
+     Two prestigious law firms and an insurance company take a loan out to build an office building. The contract prevents loan repayment before 12 years in very explicit terms. these firms want to repay the money back early and sue to do so, even though the terms are incredibly straightforward.
+
+**** lower court
+
+     ruled against plaintiffs and /sua sponte/ ordered sanctions.
+
+*** Questions Presented
+
+    Can parties enter parol evidence of ambiguity in an otherwise clear contract?
+
+*** Rule
+
+    Unfortunately yes they can. The California Supreme court rewrote the traditional rule that "extrinsic evidence is inadmissible to interpret, vary or add to the terms of an unambiguous integrated written instrument". It held that before you can claim that the terms are unambiguous, you must listen to parol evidence about what the sides meant when they wrote the written instrument.
+
+*** Reasoning
+
+    The court sighs quite heavily when making this rule.
+
+    #+BEGIN_QUOTE
+
+    Under Pacific Gas, it matters not how clearly a contract is written, nor how completely it is integrated, nor how carefully it is negotiated, nor how squarely it addresses the issue before the court: the contract cannot be rendered impervious to attack by parol evidence. If one side is willing to claim that the parties intended one thing but the agreement provides for another, the court must consider extrinsic evidence of possible ambiguity. If that evidence raises the specter of ambiguity where there was none before, the contract language is displaced and the intention of the parties must be divined from self-serving testimony offered by partisan witnesses whose recollection is hazy from passage of time and colored by their conflicting interests. . . . We question whether this approach is more likely to divulge the original intention of the parties than reliance on the seemingly clear words they agreed upon at the time. . . . 
+
+    #+END_QUOTE
+
+    despite the lawyers, clarity of language, negotiated with aid of counsel, "even if it results in contract language that is devoid of ambiguity, costly and protracted litigatoin cannot be avoided if one party has a stron genough motive for challenging the contract".
+
+    also chips away at the legal system in general. How do we lock criminals up if the words are devoid of "abolute and constant referents"? there's a spectacular dig that somehow the 9th circuit was able to understand the ruling without extrinsic sources. "If we are unwilling to say that parties, dealing face to face, can come up with language that binds them, how can we send anyone to jail for violating statutes consisting of mere words". "How can courts ever enforce decrees, not written in language understandable to all, but encoded in a dialect reflecting, only the "linguistic background of the judge"?
+
+*** Holding
+
+    Despite this quite hostile recounting of /Pacific Gas/, the court is bound under the Erie doctrine to enforce CA law, which it reluctantly does. It reverses to get parol evidence, and notes that it cannot maintain the sanctions.
+
+*** Main Takeaway
+
+    that pursuant to /Pacific Gas/, california cannot make a contract immune from attack of parol evidence. it notes the terrible consequences of it, and even goes as far as to recommend the instant case as a reason to overturn the decision.
+
+* reforming a writing--mistakes in integration
+** the travelers insurance co v bailey
+
+   supreme court of vermont, 1964
+
+*** Procedural History
+
+**** facts
+
+     Defendant sought to get a life insurance policy which would pay $500 per year ten years guaranteed for $5000 in 1931. The forms filled out stipulated $500 per month 100 months guaranteed. Defendant learned of this difference 30 years later. Plaintiffs were surprised as they offered no policy like the one mentioned. The policy was not in the hands of defendant until 1961. The premiums paid were clearly for and applicable only to the policy as talked about, not the non-existant one on paper. Defendant did not know that the original policy provided for an annuity larger than he was entitled.
+
+**** lower court
+
+     rules that the amended policy presented to the defendant was the true agreement from the beginning. defendant appeals
+
+*** Questions Presented
+
+    Can a contract be amended unilaterally after 30 years of faithful performance when the signed agreement does not reflect the terms agreed to?
+
+*** Rule
+
+    Requires a specific contractual agreement (proved beyond a reasonable doubt), and "a subsequent erroneous rendition of the terms of the agreement in a material particular, the party penalized by the error is entitled to reformation if there has been no prejudicial change of position by the other party while ignorant of the mistake"
+
+*** Reasoning
+
+    A party may reform a contract when it establishes the true meaning of the agreement beyond a reasonable doubt. The moving party established that beyond a reasonable doubt, "The only agreement that the plaintiff and defendant made was for $5000 insurance with annuity of $500 per year at attained age 65, ten years certain".
+
+    In this case, defendant does not question these findings, but holds that because of negligence solely on the plaintiff's side, the K should not be reformed. However, when finding beyond a reasonable doubt the true agreement, "equity will act to bring the erroneous writing into conformity with the true agreement".
+
+    Requires a specific contractual agreement (proved beyond a reasonable doubt), and "a subsequent erroneous rendition of the terms of the agreement in a material particular, the party penalized by the error is entitled to reformation if there has been no prejudicial change of position by the other party while ignorant of the mistake".
+
+    There was no reliance on the terms by the defendant as he did not learn about the terms for 30 years.
+
+*** Holding
+
+    Affirms the lower court.
+
+*** Main Takeaway
+
+    The court again wants to bind the parties to their agreement. If the parties wrote down the agreement wrong, and there was no reliance on the erroneous writing, the party can reform the K after showing beyond a reasonable doubt the true agreeement.
+
+* requiring a writing--statute of frauds
+** Boone v coe
+
+   court of appeals KY 1913
+
+*** Procedural History
+
+**** facts
+
+     A family makes a contract with a farm owner to move to Texas and work on his farm. In exchange, the owner will provide accomodations, material for a barn, and help these people live their lives. They travel 55 days to Texas and find none of this. In December, the owner kicks them out and they must move back to KY. They sue for breach, calculating time, materials and hardship to $1300.
+
+**** lower court
+
+     Plaintiffs appeal from a dismissal (? demurrer)
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+    Ky law governs as the K was formed in KY despite the land being in TX. The statute of frauds disallows unwritten K's for sale of real estate or lease for longer than 1 year. further, it requires contracts in the future (in statute says more than 1 year in the future, not sure we have that condition in this case) to be written. Statute of frauds, on these two provisions, prevents recovery as it holds the contract unenforceable.
+
+    The statute of frauds prevents recovery but court notes the many exceptions to the SOF (statute of frauds). Services rendered during the life of one for benefits conferred after death, while covered under SOF, are allowed reasonable compensation. also, "vendee of land" can recover purchase money and entitled compensation for improvements.
+
+    Had the plaintiff gained some benefit, there would be remedy. However, here, the movement in position on the plaintiff is a loss but defendant had no gain. Had there been some, the law would "imply an obligation to pay". Without this benefit, there is no obligation. This is outside of contract it seems. The SOF holds squarely that the K is unenforceable and defendant had the right to refuse perfomance. "To require him to pay plaintifs for losses and expenses incurred on the faith of the K without any benfit accruing to him would, in effect, uphold a K upon which the statute expressly declares no action shall be brought."
+
+    Court notes a ruling in the opposite manner and holds that it should no longer govern.
+
+*** Holding
+
+*** Main Takeaway
+** riley v bapital airlines, inc
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+** schwedes v romain
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+** cloud corp v hasbro, inc
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+* chapter 8: principles of enforceability
+** six core principles of enforceability
+*** party based principles
+**** the will principle
+     commitments are enforceable because the promisor has /willed/ or freely chosen to be bound by his commitment.
+
+     "the will is something inherently worthy of respect"
+
+     use of force against a reneging promisor is morally justified because the promisor herself has undertaken the obligation in question
+
+     differs from tort: source of obligation is in law for tort. the source of obligation is the promisor themselves in K
+
+***** limitations
+
+      moral force arises because obligations are freely assumed. thus very subjective, but K is not predicated on the subjective. each action in will based K would require what the intent and state of mind were. where we cannot ascertain we take the objective manifested intentions as its proxy. but under this theory, where the subjective differs from the objective, the will-based requires us to take the privately expressed desires. this would confound those who acted on the public promises made. "conflicts unavoidably with a practical need for a system of rules based to a large extent on objectively manifested states of mind."
+
+**** reliance principle
+
+     contractual enforcement is an effort to protect a promisee's reliance on the promises of others. nicely explains why we hew to the objective test rather than the secret intentions. princple that we ought to be liable in K law for harm caused by our verbal behavior (oral or written) just as someone could hold liable for other acts in tort.
+
+***** limitations
+
+      not all cases of reliance are actionable and there is no cohesive theory, or sometimes even articulated theory, of which cases are and which are not. cases will be littered with "justifiable" or "reasonable" which just passes the buck.
+
+      further, reliance on a promise is dependent on whether the party knows the promise is enforceable, a circular chain of liability. mature players might not rely on promises it knows are not reliable in court, but others might, believing they are legally protected.
+
+**** restitution princple
+
+     prevent the unjust enrichment by people going back on their word. enforcements viewed as forcing people to disgorge the benefits that were obtained from the promisee.
+
+
+***** limitations
+
+      but again, we have problems. not all cases involve enrichment. further, the principle seeks to undo /unjust/ enrichment. therefore it is not enrichment but unjust enrichment, and that standard of injustice is where the contract power really lies.
+
+*** standards based principles
+
+**** efficiency princple
+
+     maximization of social wealth or welfare, relating aggregate benefits of a situation and the aggregate costs of the stuation. legal rules and practices are assessed to see whether they will expand or contract the size of this pie. enforcement of contracts uses scarce resources, this practice is justified on efficiency grounds only if the benefits to be gained from enforcement exceed the costs.
+
+***** limitations
+
+      first judges have to know which K's increase social wealthy and virtue and which do not. tough thing is that economics posits that the only real predictor of these things are markets themselves. after breach, there must be an answer, turning to subjective analyses. here the efficiency school turns more to remedies and defenses rather than enforceability. further, they will never beat the market in recognizing value-enhancing exchanges.
+
+      second, why bother with K at all if the utility can be so well judged. just maximize everything, and then bargaining is an /inefficiency/. further, a judge could grant an efficient theft, where someone takes something and only must supply perfect remedy creating a new equitable situation.
+
+      this school of thought is left to decalre in the abstract good things, highly normative pronouncements rather than have to test itself against individual cases. there are some concerns for what the theory says about autonomy, will, and reliance. further, the market moves through these mistakes to find knowledge and convey otherwise unobtainable information, which would be perfected away in this school of thought.
+
+**** substantive fairness
+
+     very old doctrine, possibly back to aristotle. modern version in the 1800's discussions of adequacy of consideration and recently in unconscionability.
+
+***** limitations
+
+      again, gains its metric from other sources, so its merely a lens on top of another value system. where does fairness come from? it lacks explanative power. two schools of thought: shocks the conscious, where a K must be disturbing to be overturned, thus most are fine. the second is looking for fairness in the process: information assymetry or unequal bargaining power.
+
+*** process principles
+
+**** bargain principle
+
+     before, the existence of a promise was evidence of an underlying obligation existed, not that created one in its own right. ie, owe money, rather than promise one for the other. covenant allowed for sealed promises (the seal creating a type of property). 12 people had to testify on pain of eternal soul, and quickly ecclesiastical courts starting inventing ways to enforce informal promises for breach of faith.
+
+     to enlarge protection of informal promises, writ of assumpsit was commandeered. early actions "were based on the idea that (a) one voluntarily assumed an obligation to perform a certain action; (b) the action was performed improperly (malfeasance); and (c) as a result the obligee was injured. so, for example, if one promsied to build a house, but as a result of having done so improperly, the house collapsed, injuring hte plaintiff, the action would lie in assumpsit."
+
+     but in correcting underenforcement, steer into overenforcement. nicely curbed by the statute of frauds. but no one seriously suggested /every/ promise should be enforced. too many promises made every day, and for evidentiary requirements, could not be sorted through and discerned. consideration devised to parititon those into enforceable agreements and not.
+
+     under this view, it is not important what is bargained for so long as "each party's promise or performance is induced by the other's. it attempts to induce this mutuality of inducement from the motives and acts of both parties to the transaction."
+
+     captures serious promises, captures most of standard commercial commitments. excludes social promises between friends and family not intended to create legal obligations.
+
+***** limitations
+
+      cases where there is no bargained-for consideration but nonetheless parties want to be legally bound. these cases originally were not captured by and not enforced by teh courts. promises to keep an offer open, promiess to release a debt, modify an obligation,
+
+      if too loosely applied, starts capturing social agreements. financial assistance between family members.
+
+** applying the principles of enforceability to a case
+
+*** consent to be legally bound
+
+    should enforce wherere there exists a manifested intention to create a legal relation. distinction between promise and consent: to promise is to commit to do or refrain from doing something; to consent is to commit to being /legally/ responsible for nonperformance of a promise. seeks to weave the concerns listed above into a framework rather than letting the principles be applied willy nilly.
+
+* ch 09 - doctrine of consideration
+
+** historical origins of doctrine of consideration
+
+*** a.w.b. simposon, intro from a history of common law of K
+
+    "extension of promissory liability into areas reviously outside the scope of the common law generated a need for a enw set of boundary markers" consideration "delimits the actionability of informal promises /by reference to the circumstances in which the promise in question is made/."
+
+    "the considerations for a promise meant the factors which the promisor considered when he promised, and which moved or motivated his promising".
+
+*** bargain theory of consideration
+
+    "although could refer to whatever circumstances render a commitment legally binding, in the 20th century it came to be identified with the existence of a bargain".
+
+** distinguishing bargains from gatuitous promises
+
+*** johnson v otterbein university
+
+    supreme court of ohion 1885
+
+**** Procedural History
+
+***** facts
+
+      A man gives a university a promise to pay $100 in three years
+
+***** lower court
+
+      rules against johnson having to pay
+
+**** Questions Presented
+
+     Is a promise to give to a university, without consideration, legally enforceable, with consideration being the promises mutually granted of giving money to the university which in turn, promises to pay its creditors at the same time?
+
+**** Rule
+
+     Consideration requires benefit to the promisee or detriment to the promisor.
+
+**** Reasoning
+
+     the promise contained a provision that the gift would have to be refunded if used for any purpose other than paying down the debt. The university agreed to comply with that condition. However, this conferred no advantage to Johnson or detriment to the university to allow this to serve as consideration. The binding direction, if absent, would be implied anyways as the organization must surely apply it to one of its goals. There being no benefit to Johnson, there was no consideration and no enforceability.
+
+     It sounds like the court would be willing to accept a reliance theory but there are no damages presented for it to do so. The money borrowed on faith of the note was to be borrowed in any case.
+
+**** Holding
+
+     The lower courts are reversed.
+
+     "the creation of a fund with which to pay the previously incurred indebtedness of the institution was not a consideration in law for the promise; and that the acceptance of a writing containing the direction to apply the fund, does not, in a legal sense, give rise to a case of mutual promises."
+
+**** Main Takeaway
+
+     The thing that separates promises from ordinary promises not meant to create legal obligations has been taken to be consideration. This line separates the promise space so that it is clear which promises are seroiusly given and therefore which are taken seriously by the courts.
+
+*** hamer v sidway
+
+    court of appeals of new york 1891
+
+**** Procedural History
+
+***** facts
+
+      An uncle makes a promise to his son that he will pay him $5000 if he abstains from drinking and smoking until he is 21. This is not necessarily put in writing, but the nephew complies and on turning 21, asks for, and receives a letter stating the money is his. His uncle walks uphill in the snow both ways and says its better to leave the money in his hands until the nephew matures, which sounds reasonable to the nephew. The uncle eventually dies with the money still in his possession. The debt has been sold and a person seeks to collect.
+
+***** lower court
+
+      trial court in favor of plaintiff, next court (supreme court in ny) reverses and grants a new trial.
+
+**** Questions Presented
+
+     Was there consideration in the promise to refrain from smoking and drinking for $5000?
+
+**** Rule
+
+     "a valuable consideration in the sense of the law may consist either in some right, interest, profit or benefit accruing to the one party, or some forbearance, detriment, loss or responsibility given, suffered, or undertaken by the other."
+
+**** Reasoning
+
+     No one argues that the uncle gained some benefit from the promise, so the question for satisfaction of consideration is whether the nephew suffered some detriment or loss. Defendants argue that he actually benefited: "that what he did was best for him to do independently of his uncle's promise", and therefore the consideration can only lie in benefit to uncle, which was lacking. The court rejects a formulation of consideration that if the promisee benefits too much from the consideration element it fails. Citing, courts "will not ask whether the thing which forms the consideration does in fact benefit the promise or a third party, or is of any substantial value to anyone. It is enough that something is promised, done, forborne or suffered by the party to whom the promise is made as consideration for the promise made to him". And further, "In general, a waiver of any legal right at the request of another party is a sufficient consideration for a promise". They really smack this down. The "detriment" for consideration on a party arises not out of harm but from abandoning legal course of action. This was certainly satisfied in this case.
+
+     The court notes that the agreement is covered by the statute of frauds as it was not to be performed within a year, and not in writing. However, the letter and other communications have amounted to a waiver of this defense. It is not an agreement forbidden by the SoF, just one hoped to be in writing.
+
+**** Holding
+
+     The original trial court was correct and there was adequate consideration, hence a K.
+
+**** Main Takeaway
+
+     Consideration can be a benefit to the promisor or some "forbearance, detriment, loss or repsonsibility given, suffered, or undertaken by the other". This does not require some harm, and in fact the net effect can be beneficial. The forbearance can arise out of abandoning a legal right to do something. This legal right was abandoned on the strenght of a promise and this satisfies the consideration requirement.
+
+*** kirksey v kirksey
+
+    supreme court of alabama 1845
+
+**** Procedural History
+
+***** facts
+
+      A widow lived in the country on public land, to which she could make a claim. Her brother-in-law invited her to come onto his land to raise her family. She does so, but after two years is kicked off. She abandoned her claim to public land and moved her family in moving. She brings this suit on a promise that she was to live there.
+
+***** lower court
+
+      Finds for plaintiff, the widow, for two hundred dollar.
+
+**** Questions Presented
+
+     Was the moving and upheaval sufficient to qualify as consideration for the K?
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+     The opinion reads like a dissent. It sounds like Ormond thinks that the moving and loss of claim are sufficient to be a consideration, in which there is a K and damages in breach. The others seem to consider that the offer was a gratuity and there is no recourse. The lower court ruled in her favor and that is reversed, so it sounds like they hold this a gratuity without explanation.
