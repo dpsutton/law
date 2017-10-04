@@ -1084,35 +1084,35 @@ K law comes from courts of equity rather than courts of law. always trying to ge
 ** different analysis
 *** principle
 
-give meaning to the *manifested* intent of the parties
+    give meaning to the *manifested* intent of the parties
 
-objective with a significant subjective twist: did the parties intend the same thing to begin with
+    objective with a significant subjective twist: did the parties intend the same thing to begin with
 ** ambiguous or vague terms
 
-determine if there is a formation or interpretation issue
+   determine if there is a formation or interpretation issue
 
-for our purposes:
+   for our purposes:
 - if no party has performed, start with the formation analysis (ambiguity)
 - if only one party has performed, start with the formation analysis
 - if both parties have at least partially performed, start with the interpretation analysis (vagueness)
 
 *** ambiguity
 
-do the parties agree as to the meaning of the rterm? if yes: K & term has that shared meaning
+    do the parties agree as to the meaning of the rterm? if yes: K & term has that shared meaning
 
-if the parties do not agree as to the meaning, was either party aware of the ambiguity. if not, then K fails because of lack of mutual assent. If both parties are aware of the ambiguity and didn't do anything, lack of K becaues no mutual assent
+    if the parties do not agree as to the meaning, was either party aware of the ambiguity. if not, then K fails because of lack of mutual assent. If both parties are aware of the ambiguity and didn't do anything, lack of K becaues no mutual assent
 
-if both parties were not aware but one was, the K will have the meaning of the non-aware party's meaning.
+    if both parties were not aware but one was, the K will have the meaning of the non-aware party's meaning.
 
 *** vagueness
 
-do the parties agree as to the meaning of the term? if yes, has that meaning
+    do the parties agree as to the meaning of the term? if yes, has that meaning
 
-has the question been cured either because (a) offeree was given a choice of alternative performances and he chose or (b)
+    has the question been cured either because (a) offeree was given a choice of alternative performances and he chose or (b)
 
 **** else:
 
-start with parties meanings. was there a subjective meaning.
+     start with parties meanings. was there a subjective meaning.
 - words of K
 - course of negotiations
 - course of performance
@@ -1285,3 +1285,45 @@ rule under CL for gap filling: reasonable if simple
 
 gap: price.
 there is a reasonable basis for which the court can determine the value of this property. Restatement 204: "bargain suffiecient to be K, a term which is reasonable under the circumstances, is supplied by the court".
+* oct 3
+** core principles of enforceability
+
+*** will
+
+    focuses on the subjective intent. and this is not something the courts like.
+
+*** reliance
+
+*** restitution
+
+** case study: fatty arbuckle
+
+   universal pictures started putting morals clauses into K of entertainers.
+
+   "The actor agrees to conduct himself with due regard to public conventions and morals and agrees that he will not do or commit anything tending to degrade him in society or bring him in to public hatred, contempt, scorn or ridicule, or tending to shock, inslult or offend the ocmmunity or outrage public morals or decency, or tending to the prejudice of the Universal Fil Manufacturing.... has the right to cancel and annul this K by giving 5 days notice to the actor."
+
+   babe ruth was first professional athlete to have moral clause.
+
+   mendenhall, pittsburgh steelers. hanesbrand endorsement.
+
+   "If mendenhall becomes involved in any situation or occurences. ... tending to bring into public disrepute, contempt, scandal or riducule, or tending to shock insult or offend the majority of the consuming public or any protected class or group thereof, then ... immediately this Agreement."
+
+   May 2 Osama bin laden is killed by US forces
+
+   mendenhall writes on twitter:
+   "what kind of person celebrates death? It's amaing how people can HATE a man they never ever heard speak. We've only heard one side"
+
+   last tweet of the night:
+   "We'll never know what really happened. I just have a hard time believing a plane could take a skyscraper down demolition style".
+
+   hanesbrand terminates agreement based on breach of morals clause. Mendenhall sued.
+
+*** will- commitments are enforceable because the promisor has willed or freely chosen to be bound by his commitment
+
+    offered, Ked, and then they performed. this is important.
+
+    the clause wasn't sufficiently clear such that we can say he freely chose to be bound to be fired.
+
+    this is a service contract, not a moral question. is this duty freely assumed? he accepted this not because he really agreed with it
+
+*** reliance: people out to be liable for harm caused by their verbal behavior
