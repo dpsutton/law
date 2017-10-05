@@ -1453,25 +1453,45 @@
 
 *** Main Takeaway
 
+
+#+OPTIONS: toc:2
 * defense of 3rd persons
 ** patterson
+
+1946
 
 *** Procedural History
 
 **** facts
 
+     Multiple intrusions were happening at a house, presumably with the intent to watch daughter and wife get undressed. The man over several months installed floodlights and summoned the police multiple times. The visits increased. The man took his maid to new york in order to calm her nerves. The visits continued, his friends, neighbors and even the police advised him to get a gun. He did so and shot an intruder a few days later.
+
 **** lower court
+
+     Ruled that the use of the weapon was reasonable in defense of his family.
 
 *** Questions Presented
 
+    Was the shooting justified when the boy argued he was there inadvertently?
+
 *** Rule
+
+    "where a man reasonably expects an attack form A, and in the exercise of due care mistakes B for A, and strikes B, he is, nevertheless, excused on the ground of self-defense and apparent necessity."
 
 *** Reasoning
 
+    The reason for the person being on the premises is not relevant. The reasonableness of the owner's use of the firearm exists regardless if someone, not the actual prowler, was present.
+
+    The man escalated the response, calling police and installing lights. The intrusions increased to a frequency of every night. He shouted a warning which the intruder ignored. The sum total of the frequency of intrusions met the burden required. Further, the homeowner did not have to wait for the intruder to take some action towards the wife and daughter to justify this. The court finds that the reactions and actions of the homeowner were consistentn with what a reasonable person would have done.
+
 *** Holding
 
+    The lower court was correct in not attributing liability to the homeowner
+
 *** Main Takeaway
-#+OPTIONS: toc:2
+
+    That even under mistaken circumstances self defense can be invoked. Further, ongoing circumstances may be considered by the court, along with the escalating steps tried prior to the use of the deadly weapon.
+
 * defense and recovery of property
 ** katko v. briney
 
@@ -1509,7 +1529,7 @@
 
     The law does not allow for serious injury or death in protecting property without a threat to life. The use of force was disproportionate to the threat. Further, criminal liabilites can arise.
 
-*  recovery of property
+* recovery of property
 ** hodgeden
 
    supreme court of vermont, 1846
