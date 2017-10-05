@@ -1,0 +1,101 @@
+* transferring rights or duties to third parties
+** assignment of contractural rights
+*** Kelly Health Care v. the prudential
+
+    supreme court of vA, 1983
+
+**** Procedural History
+
+***** facts
+
+      Nursing facility trying to recover costs from patient and insurer, prudential. signed agreements with plaintiff
+
+***** lower court
+
+      held that documents signed constituted authorization rather than assignment, dismissing kelly's action against prudential.
+
+**** Questions Presented
+
+     was the document signed a valid assignment of benefits of the insurance policy
+
+**** Rule
+
+     assignments are transfers, but the opposite is not necessarily so. if a transfer is less than absolute it is not an assignment.
+
+**** Reasoning
+
+     to assign "the ogligee must have intended, at the time of the transfer, to disposses himself of an identified interest, or some part thereof, and to vest indefasible title in the transferee." "the assignor must not retain any control over the fund or property assigned, any authority to collect, or any form of revocation". under this, appointment of an agent cannot count as assignment, as revocable. one document granted authority to collect payments from insurnace to patient and the other a power of attorney to make payments.
+
+     alternatively, entitled to recovery under third party beneficiary doctrine. that doctrine is subject to limitation that third party must show that the parties to K clearly and definitely intended it to confer a benefit upon him. this is lacking here. they are just another provider not intended beneficiary of the K.
+
+**** Holding
+
+     lower court was correct in dismissing the suit. it seems their only recourse is against the patient.
+
+**** Main Takeaway
+
+     to assign a legal right is absolute and cannot be rescinded. short of this, it is just a grant of power at your own convenience.
+
+** in re nance
+
+   us court of appeals, first circuit 1977
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+     bankruptcy court rules a debt owed to the bank is non-dischargeable. appeals to circuit court which rules that the assignment of deferred salary to the bank was invalidated by MA "assignment of wages" statute. bank appeals to first circuit.
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** delegation of contractural duties
+
+*** sally beauty co v nexxus products co
+
+    us court appeals 7th circuit 1986
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+      lower court held that the contract was for personal services and therefore not assignable; 7th holds that the contract was not assignable to a subsidiary of a direct competitor under UCC.
+
+**** Questions Presented
+
+     can best delegate performance of the distrubtion of plaintiff's hair products under a "best effort" standard to a subsidiary of a competitor
+
+**** Rule
+
+     in general, obligations are delegable except "where the delegated performance would be unsatisfactory to the obligee: 'a party may perform his duty through a delegate unless otherwise agreed to or unless the other party has a substantial interest in having his original promisor perform or control the acts requried by the contract'. consideration is given to balancing the policies of free alienability of commercial contracts and protecting the obligee from having to accept a bargain he did not contract for.
+
+**** Reasoning
+
+     nexxus contracted with best to distribute its products using its best efforts in exchange for not supplying their competitors (their only consideration). it is this transferability they object to. Notes a similar case dealing with ice cream where the distributor was sold to a competitor. the courts have given outs and continue here.
+
+     best argued that new owners are multi-brand distributors and should allow for a jury to decide. court notes that service contracts are not delegable and the only finding a factfinder makes in those cases is to decide if it is a personal services K. unpersuaded
+
+**** dissent
+
+     posner notes that the decision is not based on law but on what the court thinks makes the most business sense. many companies carry products of competitors. also, if they didn't push the products, they have no monopoly and wouldn't necessarily benefit. if they don't put 3rd party products forth as well as their owners, other brands will leave as well. considerable risk for very little reward. they have no special market placement and the short distribution contract wouldn't allow them to crush a competitor in a short while anyways. nexxus could easily react as it has already found alternate distribution. finally, this isn't a real conflict of interest. but if it were, the remedy is in "insecurity" and entitlement to performance metrics, not abandonment.
+
+**** Holding
+
+     the lower court's holding was correct but on different grounds.
+
+**** Main Takeaway
+
+     the court won't allow delegation contrary to the interests of the original party
+
+* third part beneficiaries of a contract
