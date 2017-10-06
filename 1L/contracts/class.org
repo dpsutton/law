@@ -1327,3 +1327,137 @@ there is a reasonable basis for which the court can determine the value of this 
     this is a service contract, not a moral question. is this duty freely assumed? he accepted this not because he really agreed with it
 
 *** reliance: people out to be liable for harm caused by their verbal behavior
+
+* oct 5
+
+** valid K
+
+   requires
+- mutual assent: offer and acceptance
+- capacity (won't talk about this)
+- legal purpose (we will touch on this throughout the rest of the semester)
+- consideration
+
+nominal consideration: strategy to defeat consideration the court will ignore
+
+** consideration
+
+   last and most important. differentiates legally enforceable from not-enforceable.
+
+1. a k is an enforceable promise
+2. with some exceptions, to be enforceabel a promise muts be supported by consideration
+3. a promise is supported by considration if it is bargained for
+4. a promise is bargained for "if it is sought by the promisee in exchange for his promise and is given by the promise in exchange for that promise"
+
+civilian:
+just cause, serious and deliberate purpose to be just bound.
+
+continuum of true gift to commercial transaction
+
+*** biggest issues
+
+- gifts or conditions of gifts
+- past consideration
+- moral consideration
+- actions not taken in response
+- pre-existing duties
+
+*** restatement 71
+
+- must be bargained for. bargain does not mean parties have to go back and forth. simply means that the parties agree
+- consideration doesn't have to come back to the party contracting
+
+*** when do we find
+
+    some legal detriment to the promisee or a benefit to the promisor
+
+    promisee's detriment was suffered in exchange for the promise. not enough that some detriment, has to be tied to the promise.
+
+*** detriment
+
+    any relinquishment of a legal right. doesn't mean bad, doesn't have to be loss or harm. "any relinquishment of a legal right". it might even benefit the party.
+
+**** couple ways to identify
+
+     performance or act; or through promise
+
+     incurring: immeiate act or forbearance
+     future: promise to perform in the future (abandonment of the legal right not to do it).
+
+**** hypo
+
+     A promises to pay B 1k if B will make an offer to C to sell land for 25K.
+
+     relinquishes legal right to K with anyone over 24 period. and because of that there was sufficient consideration, and A and B have a contract.
+
+*** benefit
+
+    historically talk about benefit to promisor. but benefit doesn't have to be "good". does not require any tangible or economically valuable gain. Did the promisor get what he or she bargained for.
+
+*** value of consideration
+
+    usually does not matter. usually courts won't consider lawsuits about this. equitable consideration is not required. nominal consideration problematic.
+
+*** mixture of gift and bargain
+
+    A offers to buy b's book and pay $10 for it. B agrees even though both parties know that such books regularly sell for $5 and that part of A's motive in making th eoffer of $10 was to make a gift.
+
+    A owns land worth $10K subject to a mortgatge to secure a debt of $5000. A promiess to make a gift of the land to his son B and to pay off the mortgage. A later gives B a deed subject to the mortgage.
+
+    the existence of a detriment by itself is not sufficient to establish consideration. the detriment has to be tied to the bargain.
+
+*** bargained-for v. incidental detriment
+
+    put your hand out and i'll give you $10. Relinquishes legal right to do with hands as please. The price of the promies is not putting the hand out. It's a gift, the cost of the hand is incidental detriment and not detriment to secure the promise.
+
+*** consideration or condition of gift
+
+    plaintiff promises university $100 in three years on condition that payment be used to pay down debt. Defendant did not pay and University seeks to enforce that promise. university argues that there was consideration.
+
+*** king v trustees of boston university
+
+    MLK depostity papers at the BU library, retained ownership. promised gift after his death. his estate sought return of the papers, claiming it was an unenforceable promise. bu benefits. there's a reason they wanted to keep them. they will have to spend money on preserving, indexing, and securing the documents.
+
+*** uncle and wayward nephew
+
+    nephew suffered a detriment. he had every legal right to drink, smoke, blah bllah, and by giving up those things for the period, he suffered a detriment such that he provided consideration for his end of the bargain. "the price of the promisor's bargain". since uncle wanted nephew to give these up, that's what he got.
+
+    does K theory of consideration get this right? is this a case that should be in court?
+
+*** kirksey
+
+* oct 5 night
+
+** hypo
+
+   Buyer submits a Purchase Order for 500 pounds of grapes at a price of $3 per pound. Seller then sends a "confirmation" acknowledging Buyer's order for "500 pounds of bananas" at a price of $18 a pound. No further communication is exchanged between the parties.
+
+   is there a K?
+
+*** answer
+
+    was there a valid offer? communicated, specific party, terms sufficient, in sales K need quantity or reasonable means to determine the quantity, invites acceptance and includes promisorry language. so valid offer.
+
+    do we have valid acceptance? under ucc we don't need a mirror image. acceptance can add new terms under the offer. it cannot materially alter the offer, however. Changing the product and price would both go to the material, indeed the certain terms.
+
+** hypo
+
+   P and S enter into an agreement by which P would build a custom patio coer for S new home. They agreed to price 1200 and design, but they did not agree on a start or completion date, but rather they agreed to figure it out at alater date.
+
+   six months after they made the agreement, P had not started construction on the patio cover and there was no other communication. S has now sued P for breach. Is there a K?
+
+*** answer
+
+    Is there a K? No. gap filler analysis
+
+    didn't agree on start date, decided to figure that time out later. under common law restatement: must be clear that parties intended to K. There has to be a reasonable basis for which the court can fill that gap. No basis to fill in the gap. fail for lack of definiteness.
+
+** hypo
+
+   buer and seller have K for the purchase of Seller's home. agreement reduced to writing which states, among others, that the sale is for "Seller's home located at 100 Maple Drive for the purchase price of 200k".
+
+   after the sale closes, and Buyer moves in, notices above ground hot tub that Seller had put on dissplay for open house not there. Suit claiming that hot tub was supposed to be included with the houes bc seller orally told him eh would throw it in as a part of the deal. nothing in the written agreement
+
+*** answer
+
+    parol evidence question as there is only one form. we have a writing and in common law. make a determination of whether it is integrated, and if so, completely integrated. both parties intend this to be the true encompassing of the agreement. if it was a completely integrated K, this evidence could or could not come in. if completely integrated, no parol. if partially integrated, parol cannot be used to contradict the writing but may be used to add to the non-fully-integrated parts.
