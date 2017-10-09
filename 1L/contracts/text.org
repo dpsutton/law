@@ -2189,3 +2189,215 @@ united states of appeals, 7th circuit
 **** Main Takeaway
 
      The opinion reads like a dissent. It sounds like Ormond thinks that the moving and loss of claim are sufficient to be a consideration, in which there is a K and damages in breach. The others seem to consider that the offer was a gratuity and there is no recourse. The lower court ruled in her favor and that is reversed, so it sounds like they hold this a gratuity without explanation.
+
+** past consideration
+
+*** moore v elmer
+
+    supreme court ma, 1901
+
+**** Procedural History
+
+***** facts
+
+      A man goes to a psychic several times. She predicts that he will die before 1901, and he says that if he does, he will pay off her mortgage. He dies, and there is question of whether the written instrument to this effect is enforceable.
+
+***** lower court
+
+**** Questions Presented
+
+     Can the past psychic readings count as consideration for the promise and render the agreement enforceable?
+
+**** Rule
+
+     Consideration must be the inducement of the promises.
+
+**** Reasoning
+
+     The court noted that the instrument did not refer to the previous readings as if this promise should satisfy the payment of them. There may or may have not been such an agreement and the court must assume that there was not such an understanding due to the lack of evidence. These were executed then and could not support a promise made at a later time. And a mere favor rendered cannot be converted into consideration at a later time.
+
+**** Holding
+
+     the complaint is dismissed and the psychic is owed no money.
+
+**** Main Takeaway
+
+** moral consideration
+
+*** mills v wyman
+
+    supreme judicial court of MA, 1825
+
+**** Procedural History
+
+***** facts
+
+      This was an act of assumpsit brought about to recover compensation for board and services rendered in aid of defendant's son. The son, then aged 25, became ill on a sea voyage and took shelter at plaintiff's house. Defendant wrote a letter, promising to pay for the care of his son's treatment, with no consideration except for the relationship between father and son.
+
+***** lower court
+
+      Ruled that there was no consideration for the defendant (father) to make the promise enforceable.
+
+**** Questions Presented
+
+     Is the moral obligation of a father to his son enough to satisfy consideration for a promise in writing?
+
+**** Rule
+
+**** Reasoning
+
+     Before 21, this moral obligation is enough. The law doesn't recognize this obligation but the promise on top of this is enough to create enforcement. Society does not enforce these moral obligations, leaving them to the /interior/ forum.
+
+     "A deliberate promise, in writing, made freely and without any mistake, one which may lead the party to whom it is made into contracts and expenses, cannot be broken without a violation of moral duty. But if there was nothing paid or promised for it, the law, perhaps wisely, leaves the execution of it to th econscience of him who makes it."
+
+     "legal obligations can come from infant's debt for necessaries, or a father's promise to pay for the support and education of his minor children. but when the child shall have attained to manhood, and shall have become his own agent in the world's business, the debts he incurs, whatever may be their nautre, create no obligation upon the father; and it seems to follow that his promise founded upon such a debt has no legally binding force."
+
+**** Holding
+
+     The lower court was correct to find want of consideration.
+
+**** Main Takeaway
+
+     A moral obligation does not count as consideration for a contract outside of certain restrictions like care of a minor child.
+
+*** booth v fitzpatrick
+
+    supreme court of vermont, 1864
+
+**** Procedural History
+
+***** facts
+
+      Defendant's bull escaped into common land and plaintiff kept him on his land, looking for the owner. Defendant after some time meets and agrees to pay for the bull. But he does not pick up the bull for some time. The disagreement is whether the defendant owes for time before acknowledging the debt. It was undoubtedly on the past consideration but question is whether it was a moral obligation and not enforceable.
+
+***** lower court
+
+**** Questions Presented
+
+     Without an express promise to pay for cost of bull before defendant agreed to pay, was consideratoin merely a moral obligation and therefore unenforceable.
+
+**** Rule
+
+     If the consideration, even without request, moves directly from the plaintiff to the defendant and enures directly to the defendant's benfit, the promise is binding, though made upon a past consideration.
+
+**** Reasoning
+
+     hard to follow, but i think the fact that the benefit flowed directly to defendant, that when he made a promise to continue receiving this benefit it naturally obligated him to pay for the original benefit. he eventually assented to it
+
+**** Holding
+
+     judgment affirmed, the defendant is liable for the costs of keeping the bull from before he promised to pay.
+
+**** Main Takeaway
+
+     from webb v mcgowin:
+
+     "a promise by defendant to pay for the past keeping of a bull which had escaped from defendant's premises and been cared for by plaintiff was valid, although there was no previous request, because the subsequent promise obviated that objection; it being equivalent to a previous request"
+
+*** webb v mcgowin
+
+    court of appeals alabama 1935
+
+**** Procedural History
+
+***** facts
+
+      A man, in the course of his job, was about to injure a person. In taking steps to not injure this person, he was himself maimed for life. Defendant promiesd to pay fifteen dollars a week for life
+
+***** lower court
+
+**** Questions Presented
+
+     Was saving the man sufficient consideration for enforcing the agreement
+
+     Was the consideration solely a moral obligation and not legally sufficient?
+
+**** Rule
+
+     Previous services rendered certainly do count towards consideration with an explicit promise
+
+     a moral obligation is a sufficient consideration to support an executory promise where the promisor has received an actual pecuniary or material benefit for which he subsequently expressly promised to pay.
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+*** brian construction and development co v brighenti
+
+    supreme court of connecticut, 1978
+
+**** Procedural History
+
+***** facts
+
+      building a post office, contract enlists subcontractor for soil and pavement. soil turns out to be way worse than intiial core samples indicated and defendant threatens to not perform work. plaintiff's make additional contract for unanticipated
+
+***** lower court
+
+      Finds for defendant
+
+**** Questions Presented
+
+     Is a contract for for the same services but in light of new inmpediments made without consideration, as the benefit accruing to one part was already owed?
+
+**** Rule
+
+     "an unforseen, burdensome condition was discovered during the performance of the original contract. The promise of additional compensation in return for the promise that the additional work required would be undertaken was held to constitute a separate, valid agreement."
+
+**** Reasoning
+
+     The substantial rubble and debris in the soil changed the amount of work than what wsa originally contemplated. all agreed that the work needed to be done. the cost of removing the rubble was not included in the contract price. the agreement to do this was an additional contract that was enforceable.
+
+**** Holding
+
+     judgment for plaintiffs and hold a new trial for damages
+
+**** Main Takeaway
+
+*** united states v stump home specialties manufacturing
+
+    posner, seventh circuit 1990
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+     consideration serves to to prevent coercive modifications in commercial contracts. but the law does not require that consideration be commensurate, only present. thus it provides no great barrier to coercive modifications and serves only as an impediment to contract modifications. posner suggests to get rid of consideration theory for K modification and rely on defense of duress as recourse against coercion. "All coercive modifications would then be unenforceable, and there would be no need to worry about consideration, an inadequate safeguard against duress ...."
+
+**** Holding
+
+**** Main Takeaway
+
+*** newman and snell's state bank v hunter
+
+    supreme court of michigan, 1928
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+* doctrine of promissory estoppel
+
+p 685-718
