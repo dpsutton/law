@@ -64,11 +64,11 @@ You are interning with the District Attorney's Office, and your supervisor has a
 (54) When asked why she thought her dad asked her to drive, Sara answered, "Because I had been bugging him all week, and he had a bad headache."
 (55) It was also revealed that Larry suffers from debilitating migraines, and he has been advised by his physician not to drive when he has one.
 
-** Brief Summary
+* Brief Summary
 
-   At a family get-together, Larry Smith consumed alcohol. After the fireworks ceased at 11 p.m., the family left. The vehicle was found in a ditch along the roadside with Larry and his two children outside of the vehicle. The family maintains that the daughter, Sara, age 13, was the one driving. According to the recounting of the family, Larry's only involvement with the vehicle's operation was putting the car initially in reverse, and aiding Sara in shifting once from third to fourth gear. Both of these interactions with the controls of the vehicle were from the passenger seat. A breath test administered indicated that Larry's blood alcohol level was 0.09. This case has two avenues for prosecution under LA R.S 14:98 which criminalizes operation of a vehicle while intoxicated: whether the story is a reasonable one or if Larry was the actual driver at the time of the crash, and in the alternative, whether Larry's operation of the vehicle's controls from the passenger seat satisfies the statutory element of operation.
+  At a family get-together, Larry Smith consumed alcohol. After the fireworks ceased at 11 p.m., the family left. The vehicle was found in a ditch along the roadside with Larry and his two children outside of the vehicle. The family maintains that the daughter, Sara, age 13, was the one driving. According to the recounting of the family, Larry's only involvement with the vehicle's operation was putting the car initially in reverse, and aiding Sara in shifting once from third to fourth gear. Both of these interactions with the controls of the vehicle were from the passenger seat. A breath test administered indicated that Larry's blood alcohol level was 0.09. This case has two avenues for prosecution under LA R.S 14:98 which criminalizes operation of a vehicle while intoxicated: whether the story is a reasonable one or if Larry was the actual driver at the time of the crash, and in the alternative, whether Larry's operation of the vehicle's controls from the passenger seat satisfies the statutory element of operation.
 
-** relevant facts
+* relevant facts
 
 On July 4, Larry Smith took his two children Sara, and Ray to a Fourth of July party at his Larry's brother's home. Throuhout the afternoon, Larry had three beers and two shots of tequila. The party ended at 11 p.m. As Larry, Sara, and Ray were about the leave the party, Larry said to Sara, "Do you want to try to drive home? I've got a killer headache, and if you can touch the pedals, you can do it." Sara said yes. Sara got behind the wheel and adjusted the seat. At 11:23 p.m., Louisiana State Trooper Ellen Moss was notified of a single-car accident on Louisiana Highway 811. Paramedics arrived before officer Moss and indicated that when he arrived, all three occupants were outside the car. Larry was trying to comfort both Ray and Sara, who were both crying. When Moss first spoke to Larry, she smelled the slight odor of alcoholic beverages. According to Moss, Larry's speech was deliberate and his eyes were somewhat bloodshot. At the scene, Larry admitted to Moss that he had been drinking. He told her that he had consumed "A few beers and a couple shots of Jose Cuervo" throughout the day. Larry also told Moss that Sara had been driving.
 
@@ -76,26 +76,26 @@ Larry also told Moss that Sara had been driving. Moss interviewed Sara. Sara tol
 
 At the scene, Officer Moss administered a field sobriety test to Larry. Larry passed the test, but agreed to a breath test. The test indicated that Larry's blood alcohol level was 0.09, just over the legal limit. After being taken to the police station, an officer called Sara and Ray's mother to pick them up. When the mother arrived, she told Moss that even though Sara was young, she was a good driver. Sara had driven a number of different vehicles on her grandfather's property throughout her life. When asked why she thought her dad asked her to drive, Sara answered, "Because I had been bugging him all week, and he had a bad headache."
 
-** questions presented
+* questions presented
 
-*** COMMENT template
+** COMMENT template
 
 Under insert applicable law here, did insert issue present here, when…give hypo-specific facts here?
 
-*** Question 1
+** Question 1
 
 Under LA R.S. 14:98, does the circumstantial evidence exclude the reasonable hypothesis that Sara, Larry's daughter, was the driver of the automobile, such that the circumstantial evidence can sustain a conviction of Larry for operation of the vehicle while intoxicated?
 
-*** Question 2
+** Question 2
 
 Under LA R.S. 14:98, does the fact that Larry, from the passenger seat, put the car into reverse intially and that he helped his daughter shift from third to fourth gear qualify as operation of the vehicle?
 
-** Short answer
+* Short answer
 
-*** question 1
+** question 1
 
 The evidence does not exclude the reasonable hypothesis that Sara, Larry's daughter, was driving the vehicle at the time of the crash. The seats were set in a manner consistent with this theory. This recounting of events was given at the time of the accident and the mother, talking to officers at the police station without collaborating with Larry, indicated that Sara had been driving for some time, albeit on private property. The evidence from the scene is consistent with this version of events and thus Larry cannot be assumed to be the driver at the time of the crash.
 
-*** question 2
+** question 2
 
 Larry's operation of the gearshift on at least two occassions will satisfy the operation element for the purposes of LA R.S. 14:98, providing for a successful prosecution under that statute. The courts have looked for operation of vehicle controls to satisfy this element, which is certainly present. This situation differs, certainly, as these other occassions have been in a context where that person was the driver of the vehicle, not the passenger. The statute does not require this, however. It also criminalizes a broader category of conduct than merely driving a vehicle while intoxicated, it criminalizes operating a vehicle while intoxicated.
