@@ -1458,7 +1458,7 @@
 * defense of 3rd persons
 ** patterson
 
-1946
+   1946
 
 *** Procedural History
 
@@ -1501,7 +1501,7 @@
 
 **** facts
 
-     A man set a spring loaded shotgun in an unused house miles from his property, posted no-tresspsasing signs. it was pointed at the area legs would be so as not to injure too greatly. Plaintiff, the tresspassing burglar brings this action originally.
+     A man set a spring loaded shotgun in an unused house miles from his primary home on his property, posted no-tresspsasing signs. it was pointed at the area legs would be so as not to injure too greatly. Plaintiff, the tresspassing burglar brings this action originally.
 
 **** lower court
 
@@ -1563,6 +1563,11 @@
 *** Main Takeaway
 
     although this case isn't a great example, force can be used when the other person has so recently taken property that it is not considered taking other person's property but maintaining own interest in it. further extended to when fraud or force is the means by which it is taken and the pursuit is still "fresh".
+
+    1. fresh pursuit
+    2. demand
+    3. reasonable force
+    4. no privilege unless mistake on their part, not yours.
 
 ** bonkowski v arlan's department store
 
