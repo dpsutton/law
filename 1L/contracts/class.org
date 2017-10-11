@@ -1461,3 +1461,124 @@ continuum of true gift to commercial transaction
 *** answer
 
     parol evidence question as there is only one form. we have a writing and in common law. make a determination of whether it is integrated, and if so, completely integrated. both parties intend this to be the true encompassing of the agreement. if it was a completely integrated K, this evidence could or could not come in. if completely integrated, no parol. if partially integrated, parol cannot be used to contradict the writing but may be used to add to the non-fully-integrated parts.
+
+* oct 10
+
+** plan
+
+*** review consideration
+
+*** review assumsit
+
+*** new issues: consideration
+
+** consideration
+
+   a k is an enforceable promise. supported by consideration if bargained for. bargained for if sought by promisor in exchange for his pormise and is given by the promise in exchange for that promise.
+
+   need a mutuality, and there has to be detriment and benfit. the detriment has to be borne out of the promise. the promise has to induce the detriment and the detriment must induce the promise. relinquish a legal right is the detriment.
+
+   what's a benefit. the price of the promise. when the uncle said i want you to give up these vices.
+
+   its not enough that there's consideration on ly one side.
+
+** mutuality
+
+   a promises to be B's agent. B agrees, but B reserves the right to terminate at any time.
+
+   B has given up nothing. Because he has the right to terminate at any time.
+
+*** bilateral K
+
+    detriment in form of promise
+
+*** unilateral K
+
+    part performance is sufficient consideration to keep the promise open, even though the promisee is not obligated to complete performance.
+
+** returning to kirksey
+
+
+*** bargain v precondition
+
+    looked at detriment incidental to the promise as opposed to detriment that was /bargained/ for. hold out hand for $10 versus street performer hold out hand. the former is incidental, the latter, the price of the promies is making performer break character. in kirksey, we suggested there was a detriment ot sister-in-law in moving. but court didn't really expalin its analysis.
+
+    were the expenses related to moving the bargain or where they a precondition to the promise. just something she had to do. the price of the promise was not the packing and moving, that was just a precondition to the brother in law's promise at that point. similar to holding out the hand for money.
+
+** assumpsit
+
+   development of K laws: only formal written K under seal were enforceable in common law courts. became problematic with so many informal promises. and assumpsit became the key cause of action: tort but based on promise. what was used to enforce these promises.
+
+   but courts had to make a decision of which informal promises it wanted to enforce. this is where consideration came from. would enforce informal promises that were based on consideration.
+
+** past consideration
+
+
+*** general rule:
+
+    no consideration
+
+    no bargained-for exchange. it wasn't bargained for. the current promise was not done in exchange for a detriment or a benefit someone received much earlier.
+
+*** moore v elmer
+
+    he owed nothing to her. no debt owed, this wasn't written on anything. there was no bargain for a promise to pay.
+
+**** restatement from this:
+
+     A promise made in recognition of a benefit previously received by the promisor from the promisee is BINDING to the extent necessary to prevent injutsice.
+
+     A promise is not binding under the above if (a) if the romisee conferred the benefit as a gift or for other reasons the promisor has not been unjustly enriched; or (b) to the extent that its value is disproportionate to the benefit.
+
+     for us to know about preventing injustice, we would need some reliance on this.
+
+** moral consideration
+
+*** general rule
+
+    moral obligation, especially one based on previous acts, is not sufficient consideration.
+
+*** why?
+
+    when based on previous act
+
+    justification for enforcing agreements between private parties. other than sentimental benefit to the parent
+
+*** mills v wyman
+
+    plaintiff wrote to defendant, defendant wrote back for plaintiff to keep caring for son. if son can't pay, dad will cover expenses. in court facts, son dies, and dad doesn't pay.
+
+    the services were not provided at the request of dad.
+
+    court identifies moral obligation where it is enforceable. where there was a past legal obligation (past consideration in previous obligation) and then a legal impediment preventing the obligation. doesn't mean that the debt /shouldn't/ be paid back but the law doesn't require it. and on this moral obligation an enforceable K can be made.
+
+**** material benefit rule
+
+     promise for past performance that provided a material benefit to the promisor wil lbe enforced
+
+*** booth v fitzpatrick
+
+
+*** webb v mcgowin
+
+    subsequent promise to pay is an affirmance or ratification of the services
+
+** preexisting duty rule and K modification
+
+*** general rule:
+
+    promise to perform, or the performance of, an existing legal duty is not consideration.
+
+    if you're already obligated to do something, promising to do that is not consideration. no detriment
+
+*** restatement 73
+
+    performance of  alegal duty owed to ap romisor which is neither doubtful onr the subect of honest dispute is not consideration; but a smililar perfomrance si consideration if /it differs
+
+*** hypo
+
+    mike contracts to build a garage for Richard for $15,000. Mike dicover taht he cannot make a profit at that price and tells richard that he will not build the garage unless Richard promies to pay him $16,000.
+
+    had an obligation to build a garage. promising additional money to do the same job is not consideration.
+
+*** brian construction and development co v brighenti
