@@ -1529,6 +1529,8 @@
 
     The law does not allow for serious injury or death in protecting property without a threat to life. The use of force was disproportionate to the threat. Further, criminal liabilites can arise.
 
+#+OPTIONS: toc:2
+
 * recovery of property
 ** hodgeden
 
@@ -1674,3 +1676,150 @@
 *** Main Takeaway
 
     Extreme circumstances prevent the normal rules of liability and property. Had no action been taken, the damage from the boat to the dock would have been credited to an act of god with each liable to their own needs. The ship's crew kept securing the boat to the dock in an effort to save their ship, causing the damage to the dock. the court rules they hedged their bet that the damage to the dock was cheaper than a lost ship in the storm. Accordingly, they are responsible for the damages and should be happy.
+
+* other privileges
+
+** harrel
+
+   2nd circuit 1986 (events occuring in 1978)
+
+*** Procedural History
+
+**** facts
+
+     Eddie was by even his parents account a misbehaving nine year old fourth grader. After repeatedly physically touching other students in his class, Defendant ordered him out into the hallway, got another teacher as a witness, and paddled Eddie. The child did not complain of pain or seem different for the rest of the day. Later that day, he went to a doctor's appointment and made no complaint of pain. That evening, his parents noticed bruising on his buttocks and kidney area and phoned the police and took him to a hospital. He never returned to the same school again. His parents claim he manifested behavioral problems following the event.
+
+**** lower court
+
+     The parents brought an action for damages resulting from te corporal punishment. They alleged that the bruising on his buttocks and kidney area indicate that the punishment was not administered in accordance with school policy, alleging that the blow above the buttocks was on its face against policy, and the severity of bruising shows that the force was excessive. The lower court listened to expert testimony and found that the school did not violate its policy. Plaintiffs never questioned the need to punish the child nor the propriety of corporal punishment itself.
+
+*** Questions Presented
+
+    Was the punishment administered in accordance with the school's policy or was it excessive and not on the buttocks?
+
+*** Rule
+
+    Any teacher or school principal may use corporal punishment in a reasonable manner against any pupil for good cause in order to maintain discipline and order within the public schools
+
+    The paddle must be one approved by the school and the strikes must be administered to the buttocks.
+
+*** Reasoning
+
+    The finding of the lower court was not unreasonable. This was a factual determination and requires manifest error to be overturned on appeal. The court found no reason to doubt the lower court's finding of facts. Four teachers in total testified about the events, as two other teachers happened to see parts. The court found the expert testimony claiming that the behavioral problems started with the paddling unconvincing in light of the parent's own admittance of preexisting behavioral problems.
+
+    There seemed to be no evidence besides the bruise on the kidney area that there was any contravention of policy. The teachers claim that the boy moved around a bit but was not restrained. The boy argued that the teachers held his feet down. Passing teachers stated they would have noticed this leading the court to favor the teacher's testimony over Eddie's. Eddie had been paddled by the very same teacher among others in the past without incident or comment.
+
+*** Holding
+
+    The lower court "was not clearly wrong in ruling the punishment was not conducted in an unreasonable or excessive manner and the resulting physical inuries and behavioral problems were not caused by the manner in which corporal punishment was administered".
+
+*** Main Takeaway
+
+    In the late 70s, corporal punishment was administered.
+
+** derouen v miller
+
+   3rd circuit 1993
+
+*** Procedural History
+
+**** facts
+
+     Mrs. Derouen was shopping at Winn-Dixie and had a bag of shrimp. An employee of the store thought that she placed the shrimp into her purse and followed her. The employee asked her to accompany him to the back of the store where they waited for the police for 15 minutes. A police officer arrived, arrested her, and eventually her husband bailed her out.
+
+     The local police station printer the arrest record which led to embarrassment and changing in shipping habits. She felt humiliated and embarrssed.
+
+**** lower court
+
+     the lower court found in favor of plaintiff for $10,000, for an illegal detention or false imprisonment. Defendant's appeal arguing the judgment was on a misinterpretation of la c cr. p. article 215 and in the alternative, that the trial court awarded excessive damages to Derouen.
+
+*** Questions Presented
+
+    Does 215(A)(1) allow for questioning /or/ holding for police officers or questioning /and/ holding for police officers after a finding of probable cause.
+
+*** Rule
+
+    #+BEGIN_QUOTE
+
+    A. (1) A peace officer, merchant, or a specifically authorized employee or agent of a merchant, may use reasonable force to detain a person for questioning on the merchant's premises, for a length of time, not to exceed sixty minutes, unless it is reasonable under the circumstances that the person be detained longer, when he has reasonable cause to believe that the person has committed a theft of goods held for sale by the merchant, regardless of the actual value of the goods. The merchant or his employee or agent may also detain such a person for arrest by a peace officer. The detention shall not constitute an arrest.
+
+    #+END_QUOTE
+
+*** Reasoning
+
+    In the second sentence, "such a person" may be detained for arrest by a peace officer. The court holds that this refers to a person held for questioning in the first half of the paragraph. The purpose of this provision is to provide merchants with liability from criminal and civil penalties in protecting their goods from theft. It protects them, in the courts view, in conducting a reasonable post-detention inquiry and subsequent holding for arrest. The liability shield extends even when persons who are subject to inquiry, held for arrest, and then the charges are subsequently dismissed or defendant found not guilty. However, this is all predicated on an inquiry by the merchant.
+
+*** Holding
+
+    The lower court was correct and the damages stand. The merchant was not afforded the liability shield as they did not question the suspect but only detained her.
+
+*** Main Takeaway
+
+    The law requires clumsy interrogation and statements by minimum wage employees when there is a reasonable suspicion of theft of goods from a merchant's store. If they wait for a police officer to take the woman's statement and afford her the chance to talk to a lawyer, the store is on the hook. Further, this lady's damages come not from the false imprisonment but the justified trial in which she was found not guilty. Her arrest record in the daily iberian is the source of her woes, not the illegal detention. Had the clerk noted her license plate, the same scenario would have played out, with an arrest, bail bond, and public shame. Her damages seem entirely divorced from the illegal detention.
+
+** thomas v schwegmann giant supermarket
+
+   4th circuit, 1990
+
+*** Procedural History
+
+**** facts
+
+     Thomas, plaintiff, examined a set of fake nails she claims was already opened. She was observed by security guard who mistakenly believed there was glue as part of the kit. After she was done looking at the nails, the guard inspected the kit and, of course, found no glue. Based on this suspicion, the guard asked Thomas and her two grand children to accompany him to the back room. Here two guards initiated an inquiry, the nature of which differs among the parties. Plaintiff alleges that defendants were rude and combative, searched her person and asked her to open her blouse in search of the glue. She tried to leave, in her version, and the door was yanked closed with the knob in her hand, aggravating a previous injury. The guards maintain that she grew hysterical under questioning and opened her blouse of her own volition and not at their prompt. Thomas alleges the guards tried to get her to sign a confession and finally forced her to pay for the nail kit. The detention lasted 15-20 minutes by all accounts.
+
+**** lower court
+
+     Thomas brought suit for false imprisonment and was awarded $15,000 and $2000 for each of her children. Defendant appeals on four grounds
+
+     1. the detainment was not based on an unreasonable belief and therefore was protected by article 215
+     2. the grandchildren were bystanders and not entitled to any award
+     3. the award of medical expenses was unwarranted as it was a previous injury
+     4. counsel asked leading questions of witnesses in the trial.
+
+*** Questions Presented
+
+    Was the mistaken belief that glue was missing from the nail kit a reasonable suspicion of theft required by LA C Cr P art 215?
+
+    In the alternative, under the theory that Plaintiff destroyed the goods retail value by opening the box, was Defendant justified in detaining Plaintiff for questioning.
+
+*** Rule
+
+    "In order to recover from a merchant for false imprisonment, she must prove that a detention occurred under one or more of the following circumstances: (1) unreasonable force was used, (2) no reasonable cause to believe that that the suspect had committed a theft of goods existed, or (3) the detention lasted more than 60 minutes, unless it was reasonable under the circumstances that the suspect be detained longer."
+
+*** Reasoning
+
+    Defendant is arguing under the 2nd element. the court finds that plaintiff was not in the process of leaving. As such, Defendant had time to investigate the merchandise which clearly stated that there was no glue included and that the nails were applied with tape. Roger was a former police officer and security guard of schwegmann for thirteen years should have investigated before detaining and accusing Plaintiff. His belief was unreasonable and therefore did not merit the protections in article 215.
+
+    Under the destruction of property argument, the court finds no mention about destruction of goods, only theft, as the conditions of article 215. The theft definition provides 5 ways that theft may occur, conspicuously excluding destruction.
+
+    Plaintiff was unquestionably detained. She asked to leave and was not permitted to do so. Schwegmann failed to demonstrate circumstances in which it was provided protection from false imprisonment and Plaintiff demonstrated the required elements of this tort.
+
+    The children are denied damages for false imprisonment being bystanders, and are denied emotional distress damages as the mental anguish was neither serious or reasonable forseable. Their anguish was in the loss of sleep as reported by the father and no more.
+
+    The appellate looks at the range of damages from other false imprisonment cases. Plaintiff visited a doctor for stress but never attributed the stress to the imprisonment. Award is reduced to $5000. On medical expenses, court notes that Plaintiff has lots of preexisting conditions and is in bad health, feels bad and gives $2500 for physical injury along with 1445 for chiropractic treatment. total award $8945.
+
+*** Holding
+
+    Affirms lower court with reduction in damages. The security guards acted unreasonably or should have known it was unreasonable.
+
+*** Main Takeaway
+
+    Interestingly, the court did not look at damages the way the previous case did. There, the court noted that if they reduced damages, it would be only to the maximum allowable if there was an abuse of discretion, and not to compute damages anew.
+
+** duplechin
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
