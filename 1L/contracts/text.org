@@ -2356,6 +2356,26 @@ united states of appeals, 7th circuit
 
 **** Main Takeaway
 
+*** dyer v. national by-products
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+     Defendant had no claim. But he bargained on it in good faith. when we have a party who decides to give up a suit, it's only valid consideration if: claim is valid or claim is not valid and the parties reasonably believed the claim was valid, validity was uncertain or the promisor subjectively believed that it was valid
+
 *** united states v stump home specialties manufacturing
 
     posner, seventh circuit 1990
@@ -2399,5 +2419,3 @@ united states of appeals, 7th circuit
 **** Main Takeaway
 
 * doctrine of promissory estoppel
-
-p 685-718

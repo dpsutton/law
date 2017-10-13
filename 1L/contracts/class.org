@@ -1582,3 +1582,145 @@ continuum of true gift to commercial transaction
     had an obligation to build a garage. promising additional money to do the same job is not consideration.
 
 *** brian construction and development co v brighenti
+
+* oct 12
+
+** gifts
+
+   did promisee suffer a detriment? if no, no consideration. if yes, was the detriment the cost of the rpomise? If yes, consideration (give up vices case) if no, no consideration kirksey
+
+** past consideration
+
+   was the promsie based o npast acts?
+
+** restatement analysis
+
+   is enforcement of the promise based on past consideration necessary to /prevent injustice/?
+
+   if no, no consideration
+   if yes, did the promisee confer the enefit as a gift? if yes, no consideration. if no, promise enforceable.
+
+   or has the promisor been unjustly enriched? if yes, promise enforced, if no, no consideration
+
+** preexisting duty rule & K modification
+
+   general rule: promise to perform or the performance of is not consideration because there is no detriment.
+
+   is the part of the romise based solely on an existing legal duty. if no, does one of the exceptions apply
+
+*** exceptions
+
+**** unforseen circumstances
+
+     unforseen circumstances generally not enough to modify /except/ if performance would be impractical.
+
+     modern view is that  K can be modified without consideration: not within contemplation, fair and equitable,
+
+**** honest dispute as to duty
+
+     compromise by each party is a detriment.
+
+**** new or different consideration is promised
+
+**** sale of goods
+
+     ucc 2-209. an agreement modifying a K within this article needs no consideration to be binding.
+
+**** voidable obligations
+
+     the fact that a K is voidable does not mean that the consideration is bad. voidable at the whim or decision of the party. minors are called infants in K law. if an infant enters into a K to buy a car, that K is voidable from the position of the infant because the infant doesn't have capacity. but that doesn't mean consideration is bad.
+
+**** promises to 3rd parties
+
+     A contracts with B to construct an elevtaor in the building B is erecting for C. B quits the job, but A promises C that he will continue the job if C pays him. The promise is enforcebale even though A already had an obligation.
+
+**** partial payment as satisfaction of a debt
+
+     traditional rule: promise to pay part of an owed debt is not consideratoin for a return promiise by the creditor to relinquish the debt.
+
+*** adequacy of consideration
+
+- if the reuqirement of consideration is met, there is no additional requirement of
+  - a gain, advantae, or benefit
+
+
+exceptions fall into two categories:
+**** token consideratoin
+
+     i promise to do x, y, z for you for $1. court says that even though dollar can be adequate consideration, here it is not. especially if there is evidence that the dollar did not pass hands. when so incredibly low.
+
+**** sham consideration
+
+     consideration does not have to come about. but sham consideration that doesn't come about and the parties knew it wasn't going to come about. i'm gonna sell you my car for $500, put on paper. have no expectation that you will ever pay.
+
+** dyer v. national by-products
+
+   D was injured
+
+** special rules
+
+*** conditional promises
+
+    where condition cannot be met. or where satisfaction is solely in the hands of one of the parties.
+
+** hypos
+
+   landowner and a contractor entered into a written K uner which contractor agreed to build a building and pave an adjacent sidewlak for 200k. later, while ocnstuction proceeding, lndowner and contracter itered into an oral modification under which the contractor was not obligated to pave sidwalk, but still would be entitled to $200k upon completion. landown, after discussions with landscaper, demanded hat the contractor pave the adjacent sidwalk. the contractor refused.
+
+   is there a K?
+
+*** thoughts
+
+    there is not a contract.
+
+    preexisting duty. making modificatoins to already existing duty without adequate consideratoin
+
+** hypos2
+
+   debtor owed a lendor 1500. sol barred recovery on the claim. debtor wrote to lender stating, i promise to pay you 500 if you will exteinguish the debt. the lender agreed.
+
+   is debtor's promise to pay the lender $500 enforceable.
+
+*** thoughts
+
+** hypos3
+
+   in written K, architect draw up plans for and to supervice construction of new hoouse. in return, agree to pay 10K upon completion. after completion, claim erroneously but in good faith that archtect paln defective. client orally offered to pay the architect 7500 in ful lsuttlement of the claim of the fee. archite orally accpted offer despite the fact that the reasonable value was 10k.
+
+   architect
+
+** promissory estoppel
+
+   last ditch effort. courts don't grant reliance based stuff except in really eggregious cases. kept going back to the importance of the bargained-for agreement, and only enforce when it was clear that the other party knew that the party was going to rely on the party, knew that the party relied on the harm, and that reliance was harmful.
+
+   equitable remedy, not based on law.
+
+   used only for unenforceable promimses.
+
+*** 3 elements
+
+**** promise
+
+     a promise not based in consideration. or purports to have consideration, but it illusory, sham, illegal, etc.
+
+**** reasonable rleiance on promise
+
+     if you can prove reasonable and detrimental reliance, you get injsustice.
+
+     the promisee reasonably expected the reliance. the action and forbearance was reasonably induced by the promise.
+
+**** injutsice if no enforcement
+
+*** damages
+
+    vast majority of jurisdictions and restatement limit to reliance damages.
+
+*** rickets
+
+    grandfather expected the reliance on the problem.
+
+*** difference in pormissory and equitable estoppel
+
+main difference. prmoissory lies in K, equitable lies in tort. was in one of the earlier cases where we didn't have K law. promissory estoppel serves as the legal basis
+
+equitable: is a defense that must be raised.
