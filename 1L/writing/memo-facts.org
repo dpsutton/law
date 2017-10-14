@@ -80,22 +80,92 @@ At the scene, Officer Moss administered a field sobriety test to Larry. Larry pa
 
 ** COMMENT template
 
-Under insert applicable law here, did insert issue present here, when…give hypo-specific facts here?
+   Under insert applicable law here, did insert issue present here, when…give hypo-specific facts here?
 
 ** Question 1
 
-Under LA R.S. 14:98, does the circumstantial evidence exclude the reasonable hypothesis that Sara, Larry's daughter, was the driver of the automobile, such that the circumstantial evidence can sustain a conviction of Larry for operation of the vehicle while intoxicated?
+   Under LA R.S. 14:98, does the circumstantial evidence exclude the reasonable hypothesis that Sara, Larry's daughter, was the driver of the automobile, such that the circumstantial evidence can sustain a conviction of Larry for operation of the vehicle while intoxicated?
 
 ** Question 2
 
-Under LA R.S. 14:98, does the fact that Larry, from the passenger seat, put the car into reverse intially and that he helped his daughter shift from third to fourth gear qualify as operation of the vehicle?
+   Under LA R.S. 14:98, does the fact that Larry, from the passenger seat, put the car into reverse intially and that he helped his daughter shift from third to fourth gear qualify as operation of the vehicle?
 
 * Short answer
 
 ** question 1
 
-The evidence does not exclude the reasonable hypothesis that Sara, Larry's daughter, was driving the vehicle at the time of the crash. The seats were set in a manner consistent with this theory. This recounting of events was given at the time of the accident and the mother, talking to officers at the police station without collaborating with Larry, indicated that Sara had been driving for some time, albeit on private property. The evidence from the scene is consistent with this version of events and thus Larry cannot be assumed to be the driver at the time of the crash.
+   The evidence does not exclude the reasonable hypothesis that Sara, Larry's daughter, was driving the vehicle at the time of the crash. The seats were set in a manner consistent with this theory. This recounting of events was given at the time of the accident and the mother, talking to officers at the police station without collaborating with Larry, indicated that Sara had been driving for some time, albeit on private property. The evidence from the scene is consistent with this version of events and thus Larry cannot be assumed to be the driver at the time of the crash.
 
 ** question 2
 
-Larry's operation of the gearshift on at least two occassions will satisfy the operation element for the purposes of LA R.S. 14:98, providing for a successful prosecution under that statute. The courts have looked for operation of vehicle controls to satisfy this element, which is certainly present. This situation differs, certainly, as these other occassions have been in a context where that person was the driver of the vehicle, not the passenger. The statute does not require this, however. It also criminalizes a broader category of conduct than merely driving a vehicle while intoxicated, it criminalizes operating a vehicle while intoxicated.
+   Larry's operation of the gearshift on at least two occassions will satisfy the operation element for the purposes of LA R.S. 14:98, providing for a successful prosecution under that statute. The courts have looked for operation of vehicle controls to satisfy this element, which is certainly present. This situation differs, certainly, as these other occassions have been in a context where that person was the driver of the vehicle, not the passenger. The statute does not require this, however. It also criminalizes a broader category of conduct than merely driving a vehicle while intoxicated, it criminalizes operating a vehicle while intoxicated.
+
+* analysis
+
+** question 1
+
+*** COMMENT from cases
+
+**** phillips
+
+    "the evidence in this case would have justified any rational fact finder in the belief that the state had excluded every reasonable hypothesis of innocence".
+
+    "his lower torso was maybe behind the wheel. the rest of him was slumped over on the seat".
+
+**** johnson
+
+     had testimony offered to show that after the officer pulled over the vehicle, the passengers switched seats. This theory was put to the jury and rejected. The testimony differed between the two witnesses leading the jury to reject this version of the events in favor of Officer Boren.
+
+*** answer
+
+   Often in cases of Operating While Intoxicated, evidence is circumstantial.
+
+** question 2
+
+*** COMMENT from cases
+
+"the operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance".
+
+**** phillips
+
+     "the circumstances warrant finding that he is the individual who drove it there."
+
+**** johnson
+
+     "officer saw defendant behind the steering wheel"
+
+     "in order to operate a motor vehicle, the defendant must have exercised some control or manipulation over the vehicle, such as steering, backing, or any physical handling of hte controls for the purpose of putting the car in motion".
+
+**** bastrop
+
+     court notes that it is /not/ shown that Paxton turned on the ignition or started the car.
+
+     The brake light flashed. The court points out that the evidence does not exclude the possibility that his wife hit the brake pedal as she scooted over rather than Mr. Paxton's foot. The court implies that the hitting of the brake pedal causing the lights to flash would be sufficient to satisfy the operation element of OWI.
+
+**** bristol
+
+     the term "operate" includes merely controlling the vehicle. Doing anything with regard to the mechanism of a motor vehicle, whether it has any effect on the engine or not, is also included in the term "operate". Similarly, it has been held that a person begins to operate the instant he begins to manipulate the machinery of the vehicle for the purpose of putting the car in motion, and that "operates" refers to the actual physical handling of the controls of a vehicle".
+
+     "mere presence of defendant in the car while it was in motion does not make him the operator of the vehicle. The defendant mus have been exercising some control or manipulation over the vehicle,..."
+
+     Here, Defendant was in the car when it rolled down an incline.
+
+**** rutan
+
+     court makes great deal that when officers found defendant in the car with the engine off, his hands were not near the controls of the vehicle.
+
+*** answer
+
+    In operating the gearshift while his daughter drove, Mr. Smith satisfied the operation element of LA R.S. 14:98 despite sitting in the passenger seat. Although the facts are distinguishable from the facts from the controlling cases, their guiding principles make no distinction of where the operator is sitting in the car.
+
+    The guiding cases universally find the defendant in the driver's seat, leading to some uncertainty if the fact that Mr. Smith, riding in the passenger seat, could escape the operating element. In /State v. Phillips/, the trial judged reasoned that "the circumstances warrant finding that he is the invidudual who drove there". In /Johnson/, the trial record notes that "the officer saw defendant behind the steering wheel". The defendant in /State v. Phillips/ was found slumped over while sitting in the drivers seat. All of these cases centered around a defendant in the driver's seat, not the passenger seat. Mr. Smith might present a defense that as the passenger, he was not the operator of the vehicle.
+
+    The argument that a passenger is not the operator of a vehicle would stumble on a linguistic quirk, missing the language of the law. The law does not penalize an operator who is intoxicated but /operation/ by one who is intoxicated. The highlighting of the location of defendants in cars does not intend to meet a required element of the statute but goes towards the burden of excluding reasonable hypotheses of innocence from circumstantial evidence towards a more broad definition of operation of which driving is a sufficient, but not necessary, showing.
+
+    If the required element were driving, the location of the accused inside the car would carry great weight. However, /City of Bastrop v. Paxton/ forecloses this as a defense explicitly: "the term /operating/ is broader than the term /driving/". /Johnson/ states that "in order to operate a motor vehicle, the defendant must have exercised some control or manipulation over the vehicle, such as steering or any physical handling of the controls for the purpose of putting the car in motion". /Bristol/ further explains this theory of what the legislature has proscribed: "Similarly, it has been held that a person begins to operate the instant he begins to manipulate the machinery of the vehicle for the purpose of putting the car in motion, and that 'operates' refers to the actual physical handling of the controls of a vehicle". In /Rhutan/, a case where the court found the evidence of operation lacking, the court emphasized, among other elements, that although passed-out in the driver's seat, defendant's hands were not near the controls of the vehicle. In /Bastrop/, officer's focused on the brake lights of a parked car as sufficient operation; the court was willing to find operation on this measure if the action could be attributed to defendant alone but found that the evidence could only support that he "/may have/ flashed the brake light" (emphasis in the original). The court demonstrates how closely it cleaves to this requirement of operating the controls for LA R.S. 14:98 in /State v. Brister/. Defendant was found unconscious in a car with a half-empty bottle of liquor in a lane of traffic with the engine off. The car rolled down an incline without any intervention of defendant, which the court found insufficient to merit a finding of operation. Defendant was clearly intoxicated in the driver's seat of a moving vehicle but his lack of touching any of the vehicle's controls preventing a legal finding of operation. Thus the separation between operation and not operation is a quite literal standard of touching controls: if the car moves without input there is operation; if the brake pedal is pushed, even when in park, there is operation.
+
+    The defendant's daughter's testimony provides evidence that Mr. Smith operated the vehicle. In talking with the officer at the scene of the accident, "she said [defendant] Larry [Smith], from the passenger seat, initially put the car in reverse while she pressed in the clutch". Further, "she said Larry also helped her shift from third to fourth gear". These interactions with the controls of the vehicle fall under the exact standard set forth in /Bastrop v. Paxton/: "any physical handling of the controls for the purpose of putting the car in motion". The gearshift is certainly a control of the vehicle, and certainly is one necessary for "putting the car in motion".
+
+    No case provides respite from this conclusion. /Brister/ shows how the court will find an absence of operation even in a moving vehicle in the middle of the road with a drunk occupant in the driver's seat when there is no operation of any vehicular control. The /Paxton/ court was posed to find the defendant guilty if they could attribute the brake pedal application to the defendant but found insufficient evidence. The /Rutan/ court was interested in where a man's hands were in a car that was turned off. The courts have applied a standard that any interaction with the vehicle's controls will suffice for the purposes of operation and Defendant Smith has at least two occurrences of interacting with the vehicle's gearshift. While each of these courts considered a defendant in the driver's seat, their analyses of operation hinged on interaction with controls unless they could draw a conclusion that the defendant was driving, in which case interaction with controls was obviously present.
+
+    Moreover, this conclusion is in line with the policy objectives of the legislature. Driving while intoxicated presents an obvious danger which the legislature rightfully seeks to establish law to curb and punish this behavior. However, driving is not the only source of risk to life, health, or property that the legislature considered in enacting this statute. Interacting with the controls of multi-ton vehicles capable of rapid acceleration while intoxicated presents dangers from unintended behavior of the automobile in general. In the instant case, accidental selection of the wrong gear or engaging a gear when the driver is not ready can cause loss of control while parked or while shifting from third to fourth gear. The legislature purposefully used the standard of "operation" and did not tie this to the driver of the vehicle. Mr. Smith has met every required element of LA R.S. 14:98 and can be subject to a successfull prosecution.
