@@ -1823,3 +1823,280 @@
 *** Holding
 
 *** Main Takeaway
+
+* negligence
+** Lubitz
+
+   Superior Court Connecticut, 1955
+
+*** Procedural History
+
+**** facts
+
+     Defendant left a golf club in his yard. Defendant's son, aged 11 years, was playing in the yard with plaintiff, aged nine years. The son picked up the golf club and swung it, striking plaintiff. Father of plaintiff brings action against son and father for negligence. Son for failure to warn playmate of intention to swing club and swinging when he knew she was in danger; father for knowing the golf club was in the backyard, know children would play with it, and knew or should have known that the negligent use of the golf club by children would cause injury.
+
+**** lower court
+
+     Demurrer for failure to state an actionable claim.
+
+*** Questions Presented
+
+    Was leaving a golf club in the yard negligent behavior of the father?
+
+*** Rule
+
+    There is no duty to remove items lacking of "obvious and intrinsic danger" from the premises.
+
+*** Reasoning
+
+    The golf club is not "obviously and intrinsically dangerous" and. The father is not held liable on these allegations. There seems to be no issue surrounding the son.
+
+*** Holding
+
+    The lower court's dismissal was correct.
+
+*** Main Takeaway
+
+    Negligence requires a duty or standard of care. There is no duty to remove items from child's play that are not obviously or intrinsically dangerous. The court does not require a jury finding about standard of care but can find that it would "not be good sense".
+
+** Blyth
+
+   Court of the exchequer, 1856
+
+*** Procedural History
+
+**** facts
+
+     Defendant's installed a water main in the city with outlets for firefighters. For 25 years this worked fine, but a severe frost caused the water to freeze, creating a leak in one of the fireplugs from the expanding water. The leak saturated the soil and leaked into plaintiff's house, causing damaging. Plaintiff brings an action for negligence.
+
+**** lower court
+
+     Finds for plaintiff's on the advanced negligence theory.
+
+*** Questions Presented
+
+    Was the water leaking from the pipes after 25 years of faithful service negligence on behalf of the installers and maintainers of the pipe.
+
+*** Rule
+
+    Negligence is the omission of an action that a reasonable person would do or if they committed an action which a reasonable person would not have done.
+
+*** Reasoning
+
+    The pipes had survived many freezes through 25 years of service. The freeze of 1855 was particularly bad. A reasonable course of action, the court holds, is to plan for the average case. The defendants did so as evidenced by the pipes not leaking for the ordinary years. The failure of the pipes in the extraordinary case did not demonstrate omission of planning that a reasonable person would do.
+
+    The duty is a matter of law, and the breach is a matter of fact as found by a jury. However, the judge in this case finds that no reasonable person would have or could have planned for such an extreme circumstance, and as a matter of law, there can be no liability for breach of an unreasonable standard.
+
+*** Holding
+
+    Reverses and finds for defendants.
+
+*** Main Takeaway
+
+    The court will allow a jury to find a failure againt a reasonable standard, but can step in if the standard is found to be unreasonalbe. Here the extremeities of the freeze presented a circumstance against which no reasonable person would have planned for. As such, no liability can attach.
+
+** Chicago B & Q. R. Co
+
+*** Procedural History
+
+**** facts
+
+     The railroad maintained a railroad turntable. It was separated from walking paths by about 70 feet. The turntable had a bolt which would secure the turnntable from moving with a provided padlock to secure the bolt. Evidence was presented that the padlock was frequently left off of the turntable. The fasteners were loose such that the turntable could be moved in either case. Plaintiff is parent of 4 year old who's foot was severed when playing on the turntable.
+
+**** lower court
+
+     Plaintiff brough action for negligence with jury trial finding for plaintiff.
+
+*** Questions Presented
+
+    Did the railroad have a duty to secure the turntable from children.
+
+*** Rule
+
+    Society must balance the intrusion of safety into machinery balancing productivity and injuries.
+
+*** Reasoning
+
+    The absolute proscription of injuries is neither desired nor possible. Society expects a reasonable balance of the two competing ideas. The costs of further safety concern can outweigh the risk of injury. Society expects the use of the railroad turntable despite its danger. The benefit of the padlock does not run afoul of the the balance and is demanded by the publci good.
+
+    In weighing this, "regard must be had to the character and location of the premisees, the purpose for which they are used, the probability of injury therefrom, the prcautions necessary to prevent such injury, and the relations uch precautions bear to the beneficial use of the premises."
+
+*** Holding
+
+    actually reversed on technical grounds relating to a jury instruction but held in favor of the reasoning on the merits.
+
+*** Main Takeaway
+
+    That there is no absolute duty to prevent injury. The intrusion of safety into the use of dangerous machinery is a balancing act. "The business of life is better carried forward by the use of dangerous machinery; hence the public good demands its use, although occasionally such use results in the loss of life or limb. It does so because the danger is insignificant, when weighed against eh benefits resulting from the use of such machinery and for the same reason demands its its reasonable, most effective, and unrestriced use, up to the point where the benefits resulting form such use no longer outweigh the danger to be anticipated form it. At that point the public good demands restrictions."
+
+** Davidson v. Snohomish County
+
+   Supreme court of washington 1928
+
+*** Procedural History
+
+**** facts
+
+     The county maintains a bridge over some water. One approach to this bridge is elevated and makes a sharp turn. Plaintiffs were driving at a reasonable rate of speed but lost control, striking the guard rail. The car plunged through the guardrail to the ground below, and the plaintiffs suffered severe and painful injuries in addition to the loss of the car.
+
+**** lower court
+
+     Plaintiffs bring an action of negligence in design and upkeep, alleging the barriers were insufficient and the supports were rotted. Defendants argue contributory negligence of the operatoin of the vehicle. Jury finds for plaintiffs and awards 2500.
+
+*** Questions Presented
+
+    Were the guardrails unreasonably insufficient for the protection of motorists on the elevanted onramp to the bridge?
+
+*** Rule
+
+    Reasonable can vary with the times and cannot exceed a practical limit.
+
+*** Reasoning
+
+    In an era of horse drawn buggies, a guard rail might reasonably prevent the carriage from going over the side of the road. The internal combution engine has increased the weight and velocity of the carriages to a point where guard rails cannot reasonably prevent this. To require counties to completely fence in roads of such quality would preclude the building of new roads and burden municipalities in the maintenance of current roads. Further, the elevated onramp prevents a further consideration, lessening the reasonableness of guard rails preventing the car from going over. On firm ground, a barrier can be made of any strength by supports in the earth; when elevated, this bedrock is absent and the engineers are at the mercy of what the elevated road will support.
+
+*** Holding
+
+    That there is no such duty and the lower court is reversed.
+
+*** Main Takeaway
+
+* Standard of Care
+** Vaughn
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Delair
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Trimarco
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Cordas
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Roberts
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Robinson
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+**  Breunig
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+* COMMENT reading
+
+16. Negligence:
+Prosser Cases:  Lubitz, Blyth, Chicago, B & Q.R. Co., Davidson
+
+17. Standard of Care; Reasonable Prudent Person:
+Prosser Cases:  Vaughan, Delair, Trimarco, Cordas, Roberts, Robinson, Breunig
+
+18. The Professional:
+Prosser Cases:  Heath, Hodges, Boyce, Morrison
+19 Rules of Law and Violation of Statute:
+Prosser Cases:  Pokora, Osborne, Stachniewicz, Ney, Martin, Zeni
