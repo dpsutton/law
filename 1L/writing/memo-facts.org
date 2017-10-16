@@ -110,15 +110,35 @@ At the scene, Officer Moss administered a field sobriety test to Larry. Larry pa
 
     "the evidence in this case would have justified any rational fact finder in the belief that the state had excluded every reasonable hypothesis of innocence".
 
-    "his lower torso was maybe behind the wheel. the rest of him was slumped over on the seat".
+    officer found defendant seated at the steering wheel, no other passengers there. trial judge held that there was no other reasonable explanation of how the vehicle got there.
+
+    Defendant argued that /State v. Lindinger/ was controlling. There defendant was resting against a truck 50 to 100 feet from the roadway at the end of skidmarks leaving the road. "Evidence of the defendant's intoxication was overwhelming but the court held that the presence of defendant by the truck was not sufficient to support the inference (beyond reasonable doubt) he had driven it there or, more importantly, that he had done so while intoxicated."
+
+    Defendant was found /inside/ the truck, with lights on half-on and half-off the road.
 
 **** johnson
 
      had testimony offered to show that after the officer pulled over the vehicle, the passengers switched seats. This theory was put to the jury and rejected. The testimony differed between the two witnesses leading the jury to reject this version of the events in favor of Officer Boren.
 
+**** bastrop
+
+     repeatedly said he was not driving.
+
+     "in the absence of other circumstances, this evidence may be legally sufficient to exclude every reasonably hypothesis other than that Paxton had operated the car to achieve the position it was in when the police arrived."
+
+     "... although this is a resonable hypothesis because it is shown that he wsa in a position to do so. It is equally as reasonable, however, to deduce ..."
+
+     "Prosecution simply failed to meet its burden of proving beyond a reasonable doubt and to the exclusion of other reasonable hypotheses ..."
+
 *** answer
 
-   Often in cases of Operating While Intoxicated, evidence is circumstantial.
+   Often in cases of Operating While Intoxicated, evidence is circumstantial. Officers frequently arrive at the scene after operation has ceased, either due to a collision or extreme intoxication. Courts allow so-called circumstantial evidence to weigh towards guilt only in cases where the evidence precludes all reasonably hypotheses of innocence consistent with the circumstantial evidence. In /State v. Phillips/, the court sustained a guilty verdict as "the evidence in this case would have justified any rational fact finder in the belief that the state had excluded every reasonable hypothesis of innocence". The exclusion of reasonable hypotheses of innocence can come down to the jury's weighing of evidence. In /State v. Johnson/, the defendant put forth an alternative version on the evidence which the jury ultimately rejected in favor of the version advanced by the arresting officer. The court can consider In /Bastrop/, a case of successful defense under the alternative hypothesis of innocence, the defendant maintained the ori
+
+   The theory that the man was the driver of the car and he therefore opearted the vehicle is likely to fail. The circumstances certainly could lead one to infer that Mr. Smith was the driver, and thus operated, the car. There was obviously a car collision, and the sole of-age driver, Mr. Smith, had a blood-alchol concentration above the legal limit. As the /Paxton/ court noted, "In the /absence/ of other circumstances, this evidence may be legally sufficient to exclude every reasonably hypothesis other than that [defendant] had operated the car to achieve the position it was in when the police arrived". The evidence here is similar. Police alight upon a car that is either wrecked or parked in a haphazard manner. The police have no observed the ongoing behavior and have no evidence that the defendant was the one who drove the car into the spot it is in. However, this case is distinguishable from /Phillips/ where the evidence was found to exclude every reasonable hypothesis of innocence. Phillips was found intoxicated, in the driver's seat, slumped over into the passenger seat. The court found that no reasonable alternative could explain these facts. The theory that the man drove sober to the location, parked his car haphazardly half-in and half-out of the road and proceeded to get drunk is explicitly rejected by the court.
+
+   In contrast, Mr. Smith puts forth a reasonable alternative of innocence consistent with the facts. Mr Smith, much like the defendant in /Paxton/, immediately claims his innocence. The story is consistent from the very beginning. Further, the story is corroborated by independent accounts from his ex-wife at the station. There she mentions how the thirteen year old daughter has a history of driving on private property, having been taught by her grandfather. This account is provided independently of any collusion with Mr. Smith lending it greater weight. While the choice of a thirteen year old to drive an automobile late at night after a family part is not a wise choice, it is not inherently unreasonable. The theory is reasonable, not in the choice that someone /should/ choose this course of action, but that this course of events /could/--beyond a miniscule chance--have happened. No one saw defendant in the drivers seat nor operating hte controls. The driver and passenger seats were adjusted to the heights of the daughter in the driver's seat and Mr. Smith in the passenger seat. In /Johnson/, an alternative theory was advanced which the jury rejected. There the story wsa actually two different stories, as the corroborating witnesses provided differing versions of events. Here Mr. Smith has a consistent story that, while not independently verified, is at least given independent credibility by the questions answered by his wife.
+
+   There is no other evidence besides the car crash and failed breath test towards a conviction of LA R.S 98. With the court unlikely to allow the evidence to weigh against the guilt of Mr. Smith, the prosecution will have no evidence towards operation of the vehicle. The prosecution of Mr. Smith is likely to fail along this theory that he was the driver and therefore operated the vehicle.
 
 ** question 2
 
