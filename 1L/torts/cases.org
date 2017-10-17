@@ -1962,19 +1962,31 @@
 *** Main Takeaway
 
 * Standard of Care
-** Vaughn
+** Vaughn v. Menlove
+
+   Curt of Common Pleas, 1837
 
 *** Procedural History
 
 **** facts
 
+     A man built a shed to store hay near the edge of his property. His neighbor complained of the risk of fire presented to his cottages near the shed. The neighbor dismissed the claims. On several occasions, the risks were mentioned and defendant stated "I'll risk it". Defendant also built a chimney in his hay shed. Defendant insured his stock.  Within five weeks, the hay shed caught fire and Plaintiff brings this action for gross negligence.
+
 **** lower court
+
+     Jury instructed to decide if Defendant acted in gross negligence against what a reasonable man would have done. Jury finds for plaintiff. Defendant appeals and succeeds on theory that actions should be judged against whether the defendant "bona fide to the best of his judgment".
 
 *** Questions Presented
 
+    Is the standard of care required measured against what a reasonably prudent person would do or against the understanding of the individual?
+
 *** Rule
 
+    "in all cases a regard to caution such as a man of ordinary prudence would observe."
+
 *** Reasoning
+
+    Defendant argues that this objective standard is too vague to be practicable. Court argues that they have been applying this standard for some time. And despite its shortcomings, to hold to what the individual knew would be to have no standard at all. It would change in every situation.
 
 *** Holding
 
