@@ -2419,3 +2419,138 @@ united states of appeals, 7th circuit
 **** Main Takeaway
 
 * doctrine of promissory estoppel
+
+** development of P.E as a substitute for consideration
+*** Ricketts v. scothorn
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was given a note at work that she was to be given a sum of money an interest from her grandfather. There was nothing alleged in return to the grandfather. However, he gave her the note at work and with the understanding that his other grand children did not work and he wished her to be well off such that she did not have to work. In reliance of this, Plaintiff quit her job shortly thereafter. A year or so later, after interest payments the entire time, she asked for and received permission to get another job. Defendant passed away and the estate argues that the note lacked consideration and is therefore not binding. Plaintiff brings an action for the balance of the promise.
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+     "It has been held that a note given in expectation of the payee performing certain services, but without any contract binding him to serve, will not support an action .... But when the payee changes his position to his disadvantage, in reliance on that promise, a right of action does arise...."
+
+     "Equitable estoppel is the effect of the voluntary vonduct of a party whereby he is absolutely precluuded, both at law an in equity from asserting rights which might perhaps have otherwise existed, either of properyt, of contract or of remedy, as against another person who in good faither relied upon such conduct, and has been led thereby to change his position for the worse, and who on his part acquires some corresponding right either of property, of contract, or of remedy."
+
+**** Reasoning
+
+     The plaintiff was a working girl, earning a salary. The grandfather suggested she could abandon her work and rely on his gift. The court emphasizes that defendant "doubtless, desired that hse should give up her occupation, but whether he did or not, it is entirely certain that he contemplated such action on her part as a reasonable and probably consequence of his gift. Having intentionally influenced the plaintiff to alter her position for the worse on th efaith of the note being pad when due, it would be grossly inequitable to permit the mker, or his executor, to resist payment on the ground that the promise was given without consideration."
+
+**** Holding
+
+     Affirming the lower court in favor of Plaintiff to recover her money.
+
+**** Main Takeaway
+
+     When someone makes a promise without consideration but knowing and intending for you to rely on its promise, they can be estopped from not honoring the promise. "Contemplation by defendant that plaintiff would rely and intentionall influencing plaintiff to alter her position for the worse in reliance on the promise."
+
+*** greiner v. greiner
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+*** feinberg v. pfeiffer
+
+    St Louis Court of Appeals, Missouri, 1959
+
+**** Procedural History
+
+***** facts
+
+      Defendant corporation promised to pay plaintiff a pension of $200 per month for life after a career of 30 odd years. She had risen through the ranks to a high position and the promise was voted on at a board meeting without her knowledge. It was offered to her hoping she would not immediately retire but with the knowledge that when she was ready it would be waiting for her. A year and a half later, Plaintiff retired, stating that she was tired, but not in ill health. She was not forced to retire but stated that she did so relying on the pension although she could continue to work. The board paid her pension each month, until the son took over for the former CEO. His advisor argued they could cease payments, which they diminished. Plaintiff refused the iminished check and brings an action for damages.
+
+***** lower court
+
+      Found that Plaintiff had relied on the promise and could have continued working at her current job or found other gainful employment after she left.
+
+**** Questions Presented
+
+     Was the continuing to work at the job after the pension offer a consideration for the offer?
+
+     Was Plaintiff's change in position in reliance on the promise of the retirement pension and the abandonment of possibility of gainful employment a sufficient reliance on the promise of defendant as to estopp them.
+
+**** Rule
+
+**** Reasoning
+
+     Plaintiff continuing to work at her job did not serve as consideration. The promise made no mention of this. The offer did not require any term of working for its promise, being told she could quit on the first day it was offered.
+
+     The court agreed with the second contention however. Citing restatement:
+
+     #+BEGIN_QUOTE
+     A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only be enforcement of the promise.
+     #+END_QUOTE
+
+**** Holding
+
+**** Main Takeaway
+*** pitts v mcgraw-edison
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+*** james bair co v gimbel bros inc
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+*** drennan v star paving co.
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
