@@ -97,7 +97,7 @@ objective test suggests a corresponding DUTY TO READ.
 * aug 31
 
 ** offer
-did they promise something by which they would be bound. did the oferee understand that the offeror wished to be bound and did they accept it∫ùéâo˝
+did they promise something by which they would be bound. did the oferee understand that the offeror wished to be bound and did they accept it
 
 1. communication
 2. intend
@@ -1724,3 +1724,99 @@ exceptions fall into two categories:
 main difference. prmoissory lies in K, equitable lies in tort. was in one of the earlier cases where we didn't have K law. promissory estoppel serves as the legal basis
 
 equitable: is a defense that must be raised.
+
+* oct 17
+
+** promissory estoppel
+
+   equitable doctrine. used for unenforceable prmoises
+
+   last resort used to avoid injustices
+
+   two ways it can be used:
+1. substitute for consideration to enforce the K
+2. substitute for breach
+
+going to look to see if a substitute for consideration so as to enforce the K or was it a substitute for breach in that the party is just gonna get reliance damages.
+
+*** elements
+
+1. promise
+2. reasonable reliance
+   1. has to be reasonable. promisor has to intend or should haev known of reliance
+   2. such action or forbearnce happened
+   3. reliance must be justified
+3. injustice if no enforcement
+
+*** restatement 90
+
+    source of this.
+
+    compare to 90 from 1st restatement: was the same but included definite and substantial character. now its any reliance is sufficient, whereas before it had to be this harder standard.
+
+** rickets
+
+   why they used equitable rather than promissory. basically promissory wasn't around. treated as a defense as grandpa was estopped, acted as a shield against the non-enforcement.
+
+** greiner v greiner
+
+   looking at the development of promissory estoppel and what the court is looking for.
+
+   look for damages for injustice.
+
+** pension case
+
+   was there actual and reasonable reliance? she and her husband sat down and established that with her husband's income and the pension she would be able to retire when she did. introduced proof of actual reliance on the promise.
+
+   was there injustice? court says yes. she gets $5100.
+
+** pitts v mcgraw
+
+   promise: yes pay commission
+
+   actual and reasonable reliance: relied on pension. it wasn't a regular promise, new and unique for independent contractor and based on that and the long time relationship. a promise that they didn't have to make. From company perspective: any reliance on this beyond 5 years was unreasonable. Never employed by the company so they had no duty to compensate so it was a gratuitous promise.
+
+   how do we reconcile feinberg and pitts.
+
+** compare baird and drennen
+
+
+*** baird v gimble
+
+    defendant linoleum merchant. finds out big job coming up soon and contractor bidding. subcontractor realized that it had underbid and tried to contact all of the contractors but winning contractor had already sent bid in and attempted to accept.
+
+    no damages. declares no option K.
+
+    contractor was not required
+
+    subcontractor told about problems in the bid as soon as they found out but before the contractor was awarded the bid.
+
+*** drennen
+
+    subcontractor underbids. contractor relies on those bids in making full bid.
+
+    damages for contractor.
+
+    contractor was required to identify the name of the subcontractor who would do work. so subcontractor was identified in contract.
+
+    reliance was more reasonable.
+
+    subcontractor told about problems in the bid after bid acceptance.
+
+*** court suggestion in baird
+
+    when baird was decided, promissory estoppel was not used a lot in commercial cases. was usually used in donative type settings. had not up to the point of baird used in commercial settings so hesitant to use outside of donative, charitable type settings.
+
+    by the time drennen came around its use has become more common in commercial settings.
+
+*** restatement 87
+
+    if a contractor relies on subcontractor in making bid and contractor is awarded
+
+*** allegheny
+
+    what was the cause of action: breach
+
+    what was the alleged contract: pay money after death for scholarship
+
+    was there consideration: on part of mary, detriment of $5000. giving up right to keep money, paying money is a detriment and benefit to the college. Consideration: went beyond taking donation and going to name it Mary Yates Scholarship. and use it for purpose for which you said we wanted to use it.

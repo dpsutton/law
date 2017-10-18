@@ -2457,7 +2457,11 @@ united states of appeals, 7th circuit
 
 ***** facts
 
+      mom sued son for eviction.
+
 ***** lower court
+
+
 
 **** Questions Presented
 
@@ -2505,9 +2509,13 @@ united states of appeals, 7th circuit
 **** Main Takeaway
 *** pitts v mcgraw-edison
 
+    us court appeals 6th, 1964
+
 **** Procedural History
 
 ***** facts
+
+      independen contractor for mcgraw for a good number of years. they weren't going to pay him any longer, told him that they would pay him a 1% commission based on the new guy to ease retirement for him. they paid that commission for 5 years and then they let him know that no more payments were coming.
 
 ***** lower court
 
