@@ -2562,3 +2562,85 @@ united states of appeals, 7th circuit
 **** Holding
 
 **** Main Takeaway
+
+** establishing the "elements" of promissory estoppel
+*** blatt v university of southern california
+
+    court of appeal of claifornia, 1970
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was not elected to a legal honorary society after graduating 4th of 135 from his lass. He was told by defendants that the order elected people being in the top 10% of the class. Later, he was informed that Law Review work was required for election. Plaintiff had taken Law Review assignments before but ceased thinking the requirement was only for day students. Plaintiff argues that there was is a cause for breach against a contract. Argues there was offer (court stresses /would be eligible/), the terms of election, and acceptance, his hard work. Argues that terms required good character and top 10%, both of which he merits.
+
+***** lower court
+
+      Complaint for injunctive and declaratory relief and seeks to compel the admisssion of plaintiff to membership in the Order of the Coif, a national honorary legal society.
+
+**** Questions Presented
+
+     Did plaintiff's hard work in law school, purportedly in reliance on the offer of election to the honor society, create an enforceable agreement for the honor society to elect him upon achievement of both election criteria.
+
+**** Rule
+
+     #+BEGIN_QUOTE
+     A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise.
+     #+END_QUOTE
+
+**** Reasoning
+
+     Taking the offer and acceptance as plaintiff presents them, the court notes that there was no consideration for the promise to elect to the order of the coif. The hard work Plaintiff performed would benefit solely himself. Therefore for a K to exist it must be promissory estoppel that gives the terms enforceability. The court uses the first restatement definition which adds in the /definite and substantial character/ requirement: the induced action or forbearance must be of such caliber.
+
+     Plaintiff argues that the benefit does not need to flow to the promisee, it is enough the the promisor forcloses a legal right he once had. For instance the case where the man gave up drinking and smoking for a year. He argues that he had the option to coast through school but, in light of the honor offered him if he were to work hard, chose to do so. "the election is not a mere gratuity granted without achievement, but is the promised award for inspired achievement."
+
+     The court distinguishes the cases cited noting that in each case the promisor suffered "actual detriment in foregoing an act, in refusing other employment or in expending definite and substantial effort or money in reliance on a promies". The court normally doesn't weigh the consideration, leaving that that to the parties in bargain, but they conclude that the promises did not "induce '/action ... of a definite and substantial character/'".
+
+     And a nice little bowtie, all of the above is meaningless. Even if we acknowledge a contract there is no breach. The promise was to be eligible for election. The Plaintiff's name was on the eligible list and received consideration. Therefore plaintiff received everything that was promised him.
+
+**** Holding
+
+     The lower court's dismissal was correct. If there was a contract, there was no breach. The court holds, however, that the defendant's were not estopped in the first place.
+
+**** Main Takeaway
+
+     Promissory estoppel requires
+
+*** spooner v. reserve life insurnace
+
+    supreme court of washington 1955
+
+**** Procedural History
+
+***** facts
+
+      An insurance company introduced a new commission program designed to reward its members for their hard work. The company had grown quite successful and offered substantial incentives. The company made it voluntary and workers had to sign up to participate. Part of the agreement was that the company would withdraw, alter, diminish, or increase the program's rewards at any time.
+
+***** lower court
+
+      Presumably the company did not pay and workers bring an action for breach seeking their commissions. Finds in favor of workers to which company brings an appeal.
+
+**** Questions Presented
+
+     Was the promise made by the company of such a nature that the reliance upon would estopp the company and render the agreement enforceable.
+
+**** Rule
+
+     again from 1st restatement:
+
+     #+BEGIN_QUOTE
+     A promise which the promisor should reasonably expect to induce action or forbearance of a definite and substantial character on the part of the promisee and which does induce such action or forbearance is binding if injustice can be avoided only by enforcement of the promise. . . . 
+     #+END_QUOTE
+
+**** Reasoning
+
+     The first clause, the substrate almost, is that there is an operable promise. The court points out that an illusory promise cannot be estopped under the doctring of promissory estoppel.
+
+     #+BEGIN_QUOTE
+     A supposed promise may be illusory because it is so indefinite that it cannot be enforced . . . , or by reason of provisions contained in the promise which in effect make its performance optional or entirely discretionary on the part of the promisor. . . . 
+     #+END_QUOTE
+
+     The court notes that the company was able to introduce whatever terms it liked. The term, "withhold", was validly introduced and in plain english. The workers knew what they were signing was an illusory promise.
+**** Holding
+
+**** Main Takeaway
