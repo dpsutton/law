@@ -2644,3 +2644,243 @@ united states of appeals, 7th circuit
 **** Holding
 
 **** Main Takeaway
+* COMMENT reading
+
+  misrepresentation 961-975
+  undue influence 989-995
+  unconscionability 1001-1027
+* ch 16 assent improperly obtained and assent to improper terms
+** misrepresentation
+*** halpert v rosenthal
+
+    supreme court of rhode island, 1970
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was to move a house to defendant's land. After the contract was signed for 54K, termites were found in an inspection. Defendant does not attend title transfer and Plaintiff files for breach. House sells to another buyer for 19k less than K price, Plaintiff seeking balance. Defendant claims that plaintiff-seller and agent "had, during the preagreement negotiation, intentionally misrepresented the house as being free of termites".
+
+***** lower court
+
+      Found for defendant. Notably, court of first impression on this issue. Which explains why the holding is the pronouncement of a rule rather than fitting of the actions into a preexisting rule. Note that there was no determination of /whether/ the actions were innocent or if they fit into some doctrine or not.
+
+**** Questions Presented
+
+     When defendant and agent represented on three times that there were no termites, were their actions fraudulent or correct to the best of their knowledge.
+
+     Whether an innocent misrepresentation of a material fact warrants the granting of a claim for rescission.
+
+**** Rule
+
+     an innocent misrepresentation of a material fact warrants the granting of a claim for rescission.
+
+**** Reasoning
+
+     Follows restatement 476: "Where a party is induced to enter into a transaction with another part that he was under no duty to enter into by means of the latter's fraud or material misrepresentation, the transaction is voidable as against the latter ... ." Misrepresentation is "any manifestation by words or other conduct by one person to another that, under the circumstances, amounts to an assertoin not in accordance with the facts". Applies to innocent, negligent, or known to be false misrepresentations. "A misrepresentation becomes material when it becomes likely to affect the conduct of a reasonable man with reference to a transaction with another person". The courts must "look to the effect of the untrue statement upon the person to whom it is made, rather than to the motive of the one making the representation".
+
+     "Misrepresentation, even if made innocently may be actionable, if made and relied on as a positive statement of fact." Depends on: "when a defendant has induced another to act by representatoins false in fact although not dishonestly made, and damage has directly resutled from the action taken"
+
+**** Holding
+
+     Finds for defendants. the misrepresentations induced actions and damage has directly resulted from the action taken.
+
+**** Main Takeaway
+
+     that it is no specie of fraud, but a separate category. the misrepresentations , even innocent, can allow for a rescission of the K. Also allow for compelling of contract as a cause of action
+
+*** byers v federal land co
+
+    us court of appeals, 8th circuit 1924
+
+**** Procedural History
+
+***** facts
+
+      Nebraska man, plaintiff, buys land sight-unseen in Montana for $35 an acre, although the true market worth was $15 an acre. Alleging two complaints: that the company that sold the land did not own the land and that the real estates who offered the value of the land overstated the costs. Argues that both of these errors were material misrepresentations.
+
+***** lower court
+
+      Rules for defendants.
+
+**** Questions Presented
+
+     Was the inflation of price a material misrepresentation?
+
+     Was federal land's lack of possession in the land a material misrepresentation?
+
+**** Rule
+
+     Commodities such as real estate can have difficult values that are difficult to estimate, so estimations of value are taken as opinion rather than fact. Misrepresentations of these
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+*** vokes v. arthur murray inc
+
+    court appeals florida 1968
+
+**** Procedural History
+
+***** facts
+
+      51 year old widow is bilked for dance lessons. Made to purchase eligibility for cruises she then had to fund to Miami, Mexico and other destinations. Was sold bronze, silver, and gold "achievements". Constantly praised and told of her natural ability. Had thousands of hours of unused dance lessons and sold more. Eventually spent over 31,000$ in dance fees. Suing for unused balance of lessons.
+
+***** lower court
+
+      final order dismissingw ith prejudice for failure to state a cause of action.
+
+**** Questions Presented
+
+     Was the constant flattery and upselling a material misrepresentation or was it opinion rather than fact, and thus not amenable to a material misrepresentation theory of damages.
+
+**** Rule
+
+     In general, opinions cannot serve as material misrepresentations for the purposes of whatever this is called. However, there are exceptions in the case where one holds a fiduciary duty to the other.
+
+**** Reasoning
+
+     "A statement of a party having superior knowledge may be regarded as a statement of fact although it would be considered as opinion if the parties were dealing on equal terms". When there's a duty or a reason one side has more knowledge than the other, the presentation of opinion does not escape the "material misrepresentation" analysis. The defendants here had "superior knowledge" of the plaintiff's dancing abilities and undertook to misrepresent her skill and progression in hopes of her paying more money. In situations where there isn't a compelling reason to tell the truth, when someone elects to do so, they must provide the /whole truth/. Had they done so, they would have had to tell her about her nonexistant progression and lack of innate ability.
+
+     "We repeat that where parties are dealing on a contractual basis at arm’s length with no inequities or inherently unfair practices employed, the Courts will in general “leave the parties where they find themselves.”"
+
+**** Holding
+
+     But in the case sub judice, from the allegations of the unanswered complaint, we cannot say that enough of the accompanying ingredients, as mentioned in the foregoing authorities, were not present which otherwise would have barred the equitable arm of the Court to her. In our view, from the showing made in her complaint, plaintiff is entitled to her day in Court.
+
+**** Main Takeaway
+** undue influence
+*** odorizzi v bloomfield school district
+
+    district court of appeals california, 2nd district 1966
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff seeks to rescind his resignation from a school "on the ground that his consent had not been real or free ... but had been obtained through duress, menace, fraud, undue influence, or mistake".
+
+***** lower court
+
+      This action is on appeal from judgment dismissing plaintiff's complaint.
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+     1. not duress or menace: not duress because actions threatened were not unlawful
+     2. no fraud: fraud is conscious misrepresentation, or concealment, or non-disclosure of a material fact whihc induces the innocent party to enter the contract. "A complaint for fraud must plead misrepresentation, knowledge of falsity, intent to induce reliance, justifiable reliance, and resulting damage." The complaint had only the misrepresentation.
+     3. not constructive fraud: "arises on a breach of duty by one in a confidential or fiduciary relationship to another which induces justifiable reliance by the latter to his prejudice". Plaintiff sets forth no facts justifying why the teacher/superintendent relationship falls into this category. employer/employee relationship does not arise to this level by existing jurisprudence.
+     4. not mistake: "the fact that their speculations did not forecast the exact pattern which events subsequently took does not provide the basis for a claim that they were acting under some sort of mistake". no mistake as to fact or law. both parties knew the same information and neither had a misunderstanding how law worked of which the other took advantage.
+     5. Undue influence: "persuasion whihc ends to be coercive in nature, persuasioni whihc overcomes the will without convincing the judgment ... the hallmark of such persuasion is high pressure, a pressure which works on mental, moral, or emotional weakness to such an extent that it approaches the boundaries of coercion". "taking an unfair advantage of another's weakness of mind, or ... taking a grossly oppressive and unfair advantage of another's necessities or distress". "In essence undue influence involves the use of excessive pressure to persuade o nvulnerable to such pressure, pressure applied by a dominant subject to a servient object."
+
+        1. First element is a weakness of the mind. The 40 hours without sleep and the events of the arrest and booking serve this element
+
+        2. Second element is an application of excessive strength by a dominant subject against a servient object. court argues that it should be if there's weakness on one side or strength on the other, all they are looking for is a mismatch resulting in the will of one substituting for another.
+
+**** Holding
+
+     Holds that the complaint /does/ state a cause of action for recission and wants a fact finder to decide if the argument holds water.
+
+**** Main Takeaway
+** unconscioinability
+*** williams v walker-thomas furniture
+
+    us court of appeals, DC circuit 1965
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+      dismissed as there was no mechanism for dealing with "unfair" contracts. the appellate court cites another district court case against the same furniture store where the court laments that it cannot do anything and implores Congress to take action against this terrible business practice.
+
+**** Questions Presented
+
+**** Rule
+
+     "the court may refuse to enforce a K which it finds to be unconscioinable at the time it was made" recently passed (then) UCC.
+
+     "Where the element of unconscionability is present at the time a K is made, the K should not be enforced"
+
+**** Reasoning
+
+     generally lack of meaningful choice on one party with unreasonably favorable K terms to the other. "consideration of all the circumstances surrounding the transaction" for lack of meaningful choice. Ways to lack meaningful choice: "gross inequality of bargaining power", "reasonable opportunity to understand terms of K, or were the important terms hidden in a maze of fine print and minimied by deceptive sales practices?"
+
+     If the above is found, turn to determining fairness or reasonableness of the terms. must be "considered in light of the circumstances existign when the K was made".
+
+**** Holding
+
+     Finds that there is the chance for unconscionability but the record is not developed as the lower courts felt they had no mechanism to do so. sends back for fact finding for fairness in the light of the circumstances existing when the K was made.
+
+**** Main Takeaway
+
+     unconscionability requires lack of meaningful choice and terms that grossly favor the other party.
+
+     "such as no man in his senses and not under delusion would make on the one hand, and as no honest or fair man would accept, on the other".
+
+*** in re realnetworks
+
+    us district court illinois, 2000
+
+**** Procedural History
+
+***** facts
+
+      Case about a clickwarp agreement for real networks. Concerning forum selection clause in Washington State, arbitration, prevention of group arbitration, and costs of arbitration.
+
+***** lower court
+
+      This is a district court, not sure procedurally where we are.
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+
+
+**** Holding
+
+**** Main Takeaway
+
+*** discover bank v superior court
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+*** gatton v tmobile usa
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
