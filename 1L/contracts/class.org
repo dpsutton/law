@@ -14,13 +14,13 @@ when expectancy damages are difficult or impossible to quantify
 
 ** formula
 
-loss in value + other loss - cost avoided - loss avoided
+   loss in value + other loss - cost avoided - loss avoided
 
 *** loss in value
- is the expectation value (the cost of the contract). if some performed, difference between where we're at versus the fulfilment position
+    is the expectation value (the cost of the contract). if some performed, difference between where we're at versus the fulfilment position
 
 *** other loss
-incidentals and consequential
+    incidentals and consequential
 
 *** costs and loss avoided
 
@@ -28,7 +28,7 @@ incidentals and consequential
 
 *** change in K law
 
-classic/formalist -> contemporary/realist
+    classic/formalist -> contemporary/realist
 
 *** classic/formalist
 - focus on coherent and well-defined rules
@@ -38,7 +38,7 @@ judges and scholars believed that law was essentially a science. box that would 
 
 *** contemporary/realist
 
-move away from strict, rule based. to a consideration of doctrine and policy and process. torts, while policy plays a part, is still very rule based and formal. battery: a few pieces and get the output. but in K we have policies that suggest different rules.
+    move away from strict, rule based. to a consideration of doctrine and policy and process. torts, while policy plays a part, is still very rule based and formal. battery: a few pieces and get the output. but in K we have policies that suggest different rules.
 
 - contractural relationships are just too complex and varied to be decided by some kind of rigid machine
 - had to concern ourselves with the power of the bargaining players; power imbalance, business ethics, employment rights, etc.
@@ -50,54 +50,54 @@ no school swinging back to the original neo-formalist.
 ** definition
 
 *** contract
-a contract is a promise or a set of promises for the breach of which the law gives a remedy, or th eperformance of which the law in some way recognies as a duty.
+    a contract is a promise or a set of promises for the breach of which the law gives a remedy, or th eperformance of which the law in some way recognies as a duty.
 
-the parties must intend to enter into a K relationship and agree to the terms, and the assent must be the kind the law will enforce.
+    the parties must intend to enter into a K relationship and agree to the terms, and the assent must be the kind the law will enforce.
 
 *** promise
 
-a promise is a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made
+    a promise is a manifestation of intention to act or refrain from acting in a specified way, so made as to justify a promisee in understanding that a commitment has been made
 
 *** agreement
 
-agreement: manifestation of mutual assent on the part of two or more persons.
+    agreement: manifestation of mutual assent on the part of two or more persons.
 
-bargain: is an agreement to exchange promises or to exchange a promise for a performance or to exchange performances.
+    bargain: is an agreement to exchange promises or to exchange a promise for a performance or to exchange performances.
 
-bargain may or may not create an obligation; agreement is creating an obligation.
+    bargain may or may not create an obligation; agreement is creating an obligation.
 
 *** manifestation
 
-manifestation of mutual assent to an exchange requires that each party either makes a promise or begin or render a performance
+    manifestation of mutual assent to an exchange requires that each party either makes a promise or begin or render a performance
 
 *** conduct as manifestation of assent
 
-manifestation of assent may be made wholly or partly by written or spoken words or by other acts or failure to act.
+    manifestation of assent may be made wholly or partly by written or spoken words or by other acts or failure to act.
 
-the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in the conduct and knows or has reason to know that the other party may infer from his conduct that he assents.
+    the conduct of a party is not effective as a manifestation of his assent unless he intends to engage in the conduct and knows or has reason to know that the other party may infer from his conduct that he assents.
 
 ** objective
 
-started in the formalist parts. there's no machine that can take into account the closely held secrets of the mind; however we can make simplified objective machines.
+   started in the formalist parts. there's no machine that can take into account the closely held secrets of the mind; however we can make simplified objective machines.
 
 - don't want to bind someone who did not agree to be bound
 - but balance that against the expectations of one who reasonably relied on the appearance of assent.
 
 *** who is the reasonable person
 
-between 1910 and 1954. they are male. they are white. they are 50s and above. socioeconomic back ground, they are at least middle class, upper middle class.
+    between 1910 and 1954. they are male. they are white. they are 50s and above. socioeconomic back ground, they are at least middle class, upper middle class.
 
-can look at probabilities, contracts of a similar circumstances. what do people expect when tey are buying a car? what do people expect when they get in a cab.
+    can look at probabilities, contracts of a similar circumstances. what do people expect when tey are buying a car? what do people expect when they get in a cab.
 
 *** subjective part
 
-look at the words used. in the context of the entire trasnactions, behavior. in certain circumstances look at custom and usage in the marketplace
+    look at the words used. in the context of the entire trasnactions, behavior. in certain circumstances look at custom and usage in the marketplace
 
-objective test suggests a corresponding DUTY TO READ.
+    objective test suggests a corresponding DUTY TO READ.
 * aug 31
 
 ** offer
-did they promise something by which they would be bound. did the oferee understand that the offeror wished to be bound and did they accept it
+   did they promise something by which they would be bound. did the oferee understand that the offeror wished to be bound and did they accept it
 
 1. communication
 2. intend
@@ -120,18 +120,18 @@ how does a party breach,
 
 *** objective standard
 
-mutual assent. viewed from an objective standard. would a reasonable person have understood that an offer was made and that an offer was accepted.
+    mutual assent. viewed from an objective standard. would a reasonable person have understood that an offer was made and that an offer was accepted.
 
-use the behavior of the parties. the words said.
+    use the behavior of the parties. the words said.
 
-when there are special circumstances, we can leave the objective standard for the parties' subjective knowledge.
+    when there are special circumstances, we can leave the objective standard for the parties' subjective knowledge.
 
 *** offer
-an offer is the manifestation of willingness to enter into a bargain, so made as to justify another
+    an offer is the manifestation of willingness to enter into a bargain, so made as to justify another
 
 *** certainty
 
-term of K must be reasonably certainthe terms of K are certain
+    term of K must be reasonably certainthe terms of K are certain
 
 *** nebraska
 
@@ -141,7 +141,7 @@ term of K must be reasonably certainthe terms of K are certain
 
 *** to whom addressed
 
-in most instances looking for offers addressed to some kind of identifieable group of people. when offers are made to large part of gen public, we presume, (rebuttable presumption) that it is a solicitation for offers rather than an offer.
+    in most instances looking for offers addressed to some kind of identifieable group of people. when offers are made to large part of gen public, we presume, (rebuttable presumption) that it is a solicitation for offers rather than an offer.
 
 ** prelim negotiations
 
@@ -429,11 +429,11 @@ when there's partial performance we get an option contract
 
 *** hobbs
 
-series of transactions, done in a particular way. sent skins, received payments. sent skins in, heard nothing and then several months. silence looks a lot like assent.
+    series of transactions, done in a particular way. sent skins, received payments. sent skins in, heard nothing and then several months. silence looks a lot like assent.
 
 **** acceptance by silence
 
-acceptance by silence is limited:
+     acceptance by silence is limited:
 - when offeree takes the benefit of offered services with reasonable opportunity to reject them & knows compensation is expected
 - offeror gave offeree reason to understand that seent may be manifested by silence or inaction
 
@@ -443,9 +443,9 @@ acceptance by silence is limited:
 
 ** review of mutual assent
 
-considerations for mutual assent. objective analysis, just a little bit of subjective tinge
+   considerations for mutual assent. objective analysis, just a little bit of subjective tinge
 
-offer
+   offer
 - communication
 - substance
   - intent/promise language, essential terms, invite acceptance
@@ -460,9 +460,9 @@ counter offer
 
 ** hypos
 
-lost your dog and post the following around the neighborhood: Lost Dog $100 cash reward
+   lost your dog and post the following around the neighborhood: Lost Dog $100 cash reward
 
-ignoring any issues of consideration, is this a valid offer?
+   ignoring any issues of consideration, is this a valid offer?
 
 *** COMMENT remember for offer
 1. communication
@@ -473,26 +473,26 @@ ignoring any issues of consideration, is this a valid offer?
 
 *** hypo 1 (original)
 
-is it an offer? It is a communication, is a desire to to enter a contract, directed at the neighborhood, invites acceptance, gives reasonable understanding that acceptance will complete the contract.
+    is it an offer? It is a communication, is a desire to to enter a contract, directed at the neighborhood, invites acceptance, gives reasonable understanding that acceptance will complete the contract.
 
-would a reasonable person understand this? what condition of the dog, for information about the dog.
+    would a reasonable person understand this? what condition of the dog, for information about the dog.
 
-relating to who its offered to (specific audience): while it looks broad, the offer can only extend to the person who has the dog.
+    relating to who its offered to (specific audience): while it looks broad, the offer can only extend to the person who has the dog.
 
 *** good samiritan finds it w/o knowledge of the poster
 
-no contract. lack of a
+    no contract. lack of a
 
 *** hypos 3
 
-you realize a close friend is going through a hard time, and you say, "I will lend you $500 if you promise to pay it back plus 5 percent interest
+    you realize a close friend is going through a hard time, and you say, "I will lend you $500 if you promise to pay it back plus 5 percent interest
 
-your friend thanks you and says "that's great, but can we make it Nov 2 so my paycheck
+    your friend thanks you and says "that's great, but can we make it Nov 2 so my paycheck
 
 
-rule about communication. if no rule on how to accept. if the offer does not specify how to do acceptance rule is: "reasonable means of acceptance"
+    rule about communication. if no rule on how to accept. if the offer does not specify how to do acceptance rule is: "reasonable means of acceptance"
 
-without knowing original offeror,
+    without knowing original offeror,
 
 *** hypo 4
 
@@ -511,28 +511,28 @@ have not limited acceptance to the cubs tattoo on the forehead, can still accept
 
 *** hypo 5
 
-alex send becky a letter
+    alex send becky a letter
 
-both parties send a letter to the offer offering identical terms for sale of property. but we have two offers so no possibility of acceptance
+    both parties send a letter to the offer offering identical terms for sale of property. but we have two offers so no possibility of acceptance
 
 *** hypo 6
 
-sell car for 1200. "I accept and want you to put new tires on it"
+    sell car for 1200. "I accept and want you to put new tires on it"
 
-do we have acceptance or counteroffer?
+    do we have acceptance or counteroffer?
 
-think its acceptance and new bargin. in previous case, it was worded as "confirm", no conditional language here.
+    think its acceptance and new bargin. in previous case, it was worded as "confirm", no conditional language here.
 
 ** creation of an option K
 
-two ways to create
+   two ways to create
 *** to pay consideration to keep the contract open
 
-if we enter into a contract, give money to keep the offer open for the week, offer is required to held open
+    if we enter into a contract, give money to keep the offer open for the week, offer is required to held open
 
 *** part performance or tender
 
-partial payment WHEN the acceptance method is performance.
+    partial payment WHEN the acceptance method is performance.
 
 ** electronic contracts
 
@@ -692,90 +692,90 @@ how do we establish mutual assent when we have no parties directly involved with
 
 ***** no party aware of the ambiguity
 
-generally no K
+      generally no K
 
-unless both parties intended the same meaning
+      unless both parties intended the same meaning
 
 ***** both parties were aware of the ambiguity but didn't talk about it
 
-find no K
+      find no K
 
-it doesn't make sense to grant one parties meaning over the other parties.
+      it doesn't make sense to grant one parties meaning over the other parties.
 
 ***** only one party aware of the ambiguity
 
-generally K enforced based on the non-aware party's terms
+      generally K enforced based on the non-aware party's terms
 
 *** raffles v wichelhaus
 
-"mutual mistake"
+    "mutual mistake"
 
-contract for the sale of cotton to arrive on "Peerless" from bombar.
+    contract for the sale of cotton to arrive on "Peerless" from bombar.
 
-lower court says you got your cotton on a boat from bombay. pay up. appellate court says there was no "meeting of the mind" because they never agreed on which boat. There is a much more subjective standard. court decides that this fails at formation. from a reasonable point of view, was there mutual assent? from an objective point of view it seems like there was mutual assent.
+    lower court says you got your cotton on a boat from bombay. pay up. appellate court says there was no "meeting of the mind" because they never agreed on which boat. There is a much more subjective standard. court decides that this fails at formation. from a reasonable point of view, was there mutual assent? from an objective point of view it seems like there was mutual assent.
 
 *** oswald v allen
 
-"mutual mistake"
+    "mutual mistake"
 
-dfeendant has two coin collections. one called swiss collection, one rare collection, but has swiss coins in both. plaintiff looks at the swiss coin collection and is shown a safety deposit box. looks at the swiss coins in the rarity collection as well. enter into an agreement. wsa gonna sell the swiss coin collection for $50k but P thought he was buying all of the swiss coins across both collections but D thought she was only selling the swiss collection and keeping the rare collection in total
+    dfeendant has two coin collections. one called swiss collection, one rare collection, but has swiss coins in both. plaintiff looks at the swiss coin collection and is shown a safety deposit box. looks at the swiss coins in the rarity collection as well. enter into an agreement. wsa gonna sell the swiss coin collection for $50k but P thought he was buying all of the swiss coins across both collections but D thought she was only selling the swiss collection and keeping the rare collection in total
 
-court decides that there was no K and upholds the lower court ruling. same ruling as in previous case, there was no meeting of the minds, etc.
+    court decides that there was no K and upholds the lower court ruling. same ruling as in previous case, there was no meeting of the minds, etc.
 
-what are the promissory terms of this K? money for coins. unlike in previous K, concerned about promissory term, an essential term in this K whereas we were looking at a smaller term in the original K. we get to the same result in both, but is that right?
+    what are the promissory terms of this K? money for coins. unlike in previous K, concerned about promissory term, an essential term in this K whereas we were looking at a smaller term in the original K. we get to the same result in both, but is that right?
 
 **** ambiguous
 
-when ambiguous we are looking to see what the parties knew. if both parties are in the dark, NO K.
+     when ambiguous we are looking to see what the parties knew. if both parties are in the dark, NO K.
 
-what about if in the dealings, there was correctoin of ambiguous terms. "the courts gonna find a K but on whose terms?. Gonna find under allen (the old lady). during correction, its clear to both sides the other side wants the other. they are aware of the ambiguity and both choose the opposite sides and therefore no K"
+     what about if in the dealings, there was correctoin of ambiguous terms. "the courts gonna find a K but on whose terms?. Gonna find under allen (the old lady). during correction, its clear to both sides the other side wants the other. they are aware of the ambiguity and both choose the opposite sides and therefore no K"
 
 *** restatements 200 & 20245
 
 **** goal
 
-ascertaining the meaning of the promise or agreement
+     ascertaining the meaning of the promise or agreement
 
-what did the parties K to?
+     what did the parties K to?
 
 **** restatement 201 different meanings
 
-have the praties attached differemtn meanings?
+     have the praties attached differemtn meanings?
 
-if no, then the shared meaning is applied.
+     if no, then the shared meaning is applied.
 
-if yes, did 1 part know or have reason to know that th eother party attached a different meaning while the other party did not?
+     if yes, did 1 part know or have reason to know that th eother party attached a different meaning while the other party did not?
 
-if yes the meaning attached by the "other party"
-if no then probably no K.
+     if yes the meaning attached by the "other party"
+     if no then probably no K.
 
 *** Weinberg v. Edelstein
 
-"vague terms"  what is a dress
+    "vague terms"  what is a dress
 
-P's lease from 1949 provided they could sell dresses coats and suits. landlords promised ont to permit other tennants to sell ladies dresses coats and suits.
+    P's lease from 1949 provided they could sell dresses coats and suits. landlords promised ont to permit other tennants to sell ladies dresses coats and suits.
 
-D's lease took over someone in 1950
+    D's lease took over someone in 1950
 
-sold hosiery, gloves, lingerie, bras... and they knew of the restrictive covenant in P's ease.
+    sold hosiery, gloves, lingerie, bras... and they knew of the restrictive covenant in P's ease.
 
-problem comes about when D sells skirts and tops that could be worn together but didn't have to be. the restrictive covennt are legal part of an agreement where use of land or whatever you're using is restricted in some way.
+    problem comes about when D sells skirts and tops that could be worn together but didn't have to be. the restrictive covennt are legal part of an agreement where use of land or whatever you're using is restricted in some way.
 
-procedurally P sues for injunction against D. this is the merits part after an injunction. so we take our time. what did these parties understand what a dress was. both definitions fit the. so next look at industry definitions. lots of manufacturing in US and could look at unions and looked at dictionary, looked at recent style trends. and the style was changing while the K was made and they had the chance to update the language but they did not.
+    procedurally P sues for injunction against D. this is the merits part after an injunction. so we take our time. what did these parties understand what a dress was. both definitions fit the. so next look at industry definitions. lots of manufacturing in US and could look at unions and looked at dictionary, looked at recent style trends. and the style was changing while the K was made and they had the chance to update the language but they did not.
 
-holding that the D was not selling dress. D could not compel the customer to buy both. injunction was denied, can't advertise as pairs, can't sell as pairs, can't price as pairs.
+    holding that the D was not selling dress. D could not compel the customer to buy both. injunction was denied, can't advertise as pairs, can't sell as pairs, can't price as pairs.
 
-how does the court make that determination. when does it stop? how does it try to resolve this. will look beyond the K to find the meaning thats most reasonable. "I don't want to do damage. gonna attempt to interpret it in a way that is consistent with our tools and does the most justice for both parties"
+    how does the court make that determination. when does it stop? how does it try to resolve this. will look beyond the K to find the meaning thats most reasonable. "I don't want to do damage. gonna attempt to interpret it in a way that is consistent with our tools and does the most justice for both parties"
 
 *** frigaliment importing
 
-"chicken case"
+    "chicken case"
 
-P: chicken  = young chicken, broiling and frying
-D: chicken = more inclusive, includes older stewing chicken
+    P: chicken  = young chicken, broiling and frying
+    D: chicken = more inclusive, includes older stewing chicken
 
 
-court steps
+    court steps
 
 1. dictionary def: both sides supported
 2. usda regulations : supported both sides
@@ -793,16 +793,16 @@ takeaway. courts are going to again, don't have to have a clear answer. gonna lo
 
 *** ucc article 2: sale of goods
 
-sale: passing of _title_ from the seller to the buyer for a price
-goods: movable things, including manufactured goods, livestock, and growing crops
+    sale: passing of _title_ from the seller to the buyer for a price
+    goods: movable things, including manufactured goods, livestock, and growing crops
 
-NOT limited to merchants, but there are special rules when the transaction involves a merchant
+    NOT limited to merchants, but there are special rules when the transaction involves a merchant
 
-applies to the sale of goods. in order to have the sale of goods you have to have a passing of a title form one to another. every time you go to a store you get a title transfer. every time you sell a textbook UCC applies.
+    applies to the sale of goods. in order to have the sale of goods you have to have a passing of a title form one to another. every time you go to a store you get a title transfer. every time you sell a textbook UCC applies.
 
 ** readings
 
-tuesday
+   tuesday
 
 *** filling in the gaps384-398
 
@@ -810,7 +810,7 @@ tuesday
 
 *** start battle of forms 419-436
 
-thursday
+    thursday
 
 *** finish battle of forms 419-436
 
@@ -879,15 +879,15 @@ K law comes from courts of equity rather than courts of law. always trying to ge
 
 *** background
 
-   all manifestations of assent are inevitably incomplete
+    all manifestations of assent are inevitably incomplete
 
-   how do we justify gap-filling? parties intended to K /and/ there is a reasonably certain basis for giving a remedy.
+    how do we justify gap-filling? parties intended to K /and/ there is a reasonably certain basis for giving a remedy.
 
-   CL will never fill in price for real estate whereas UCC can.
+    CL will never fill in price for real estate whereas UCC can.
 
-   UCC (majority): courts can supply reasonable terms for those missing: /ONLY/ when they are consistent with intent as otherwise expressed.
+    UCC (majority): courts can supply reasonable terms for those missing: /ONLY/ when they are consistent with intent as otherwise expressed.
 
-   courts don't want to add terms unless it looks like they meant to and the K fails if they don't.
+    courts don't want to add terms unless it looks like they meant to and the K fails if they don't.
 
 *** sun printing
 
@@ -1208,9 +1208,9 @@ if no objective meaning, the terms is objectively ambiguous: NO K
 
 **** thoughts
 
-we have an ambiguous term where one party knows of two meanings and another knows of only one. The party that knows of two terms is an industry professional and the one without knowledge that an ambiguity exists is a new-comer.
+     we have an ambiguous term where one party knows of two meanings and another knows of only one. The party that knows of two terms is an industry professional and the one without knowledge that an ambiguity exists is a new-comer.
 
-this is an issue related to interpretation of ambiguous or vague terms. We have partial performance so this is not a formation issue but an interpretation analysis. One party thought it meant 7 days, one party thinks 6 days. Does one party know or have reason to know the other party the other party attached a different meaning while the other party does not? The commercial laundry company knew and therefore the K will be interpreted for 7 days or else damages
+     this is an issue related to interpretation of ambiguous or vague terms. We have partial performance so this is not a formation issue but an interpretation analysis. One party thought it meant 7 days, one party thinks 6 days. Does one party know or have reason to know the other party the other party attached a different meaning while the other party does not? The commercial laundry company knew and therefore the K will be interpreted for 7 days or else damages
 
 *** 2
 
@@ -1226,11 +1226,11 @@ is buyer entitled to take a 5% discount if he pays within 15 days?
 
 **** thoughts
 
-missing term: K doesn't say anything about a discount. So can this term be added to this otherwise written K.
+     missing term: K doesn't say anything about a discount. So can this term be added to this otherwise written K.
 
-Gapfiller Question 1: is for sale of goods? Yes. so UCC applies. Courts can supply reasonable terms for those missing: only when consistent with the intent.
+     Gapfiller Question 1: is for sale of goods? Yes. so UCC applies. Courts can supply reasonable terms for those missing: only when consistent with the intent.
 
-gonna look at course of dealing. between these two entities: suggests as to intent that there is agreement on 5% on 15. also know the trade usage 2% on 10 days, but course of dealings weighs more heavily. material alteration, so the court rejects this term. so the buyer is entitled to take a 5% discount.
+     gonna look at course of dealing. between these two entities: suggests as to intent that there is agreement on 5% on 15. also know the trade usage 2% on 10 days, but course of dealings weighs more heavily. material alteration, so the court rejects this term. so the buyer is entitled to take a 5% discount.
 
 *** 3
 * sep 26 night class
@@ -1274,9 +1274,9 @@ gonna look at course of dealing. between these two entities: suggests as to inte
 
 **** answer
 
-issues in formation: was the K definite enough?
+     issues in formation: was the K definite enough?
 
-common law: to determine if definite enough:
+     common law: to determine if definite enough:
 - appears parties intended to K.
 
 gap filling question under restatement, not UCC.
@@ -1721,9 +1721,9 @@ exceptions fall into two categories:
 
 *** difference in pormissory and equitable estoppel
 
-main difference. prmoissory lies in K, equitable lies in tort. was in one of the earlier cases where we didn't have K law. promissory estoppel serves as the legal basis
+    main difference. prmoissory lies in K, equitable lies in tort. was in one of the earlier cases where we didn't have K law. promissory estoppel serves as the legal basis
 
-equitable: is a defense that must be raised.
+    equitable: is a defense that must be raised.
 
 * oct 17
 
@@ -1845,14 +1845,14 @@ going to look to see if a substitute for consideration so as to enforce the K or
 
 ** good faith
 
-every K includes an implied duty of good faith performance
+   every K includes an implied duty of good faith performance
 
-restatement 205: every K imposes upon a party a duty of good faith and fair dealing in its performance and enforcement
+   restatement 205: every K imposes upon a party a duty of good faith and fair dealing in its performance and enforcement
 
-ucc 304: every K or duty ... imposes an obligation of good faith in its performance or enforcement.
-2-103: honesty in fact & observance of reasonable standards of fair dealing in the trade
+   ucc 304: every K or duty ... imposes an obligation of good faith in its performance or enforcement.
+   2-103: honesty in fact & observance of reasonable standards of fair dealing in the trade
 
-looking at /performance/
+   looking at /performance/
 
 * sick oct xx
 
@@ -1860,7 +1860,7 @@ looking at /performance/
 
 ** undue influence
 
-two types of relationships:
+   two types of relationships:
 1. dominant servient
 2.
 
@@ -1871,6 +1871,6 @@ exceptions for opinion:
 
 ** unconscionablility
 
-absence of meaningful choice : absence of argaining power : subjective
+   absence of meaningful choice : absence of argaining power : subjective
 
-unconscionable term: unreasonably favorable to one party : objective
+   unconscionable term: unreasonably favorable to one party : objective
