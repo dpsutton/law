@@ -2649,6 +2649,13 @@ united states of appeals, 7th circuit
   misrepresentation 961-975
   undue influence 989-995
   unconscionability 1001-1027
+
+** TODO public policy 1047-1064
+** mistake [0/4]
+*** TODO 1065 - 1075,
+*** TODO 1087 - 1093
+*** TODO 1098 - 1103
+*** TODO 1115 - 1119
 * ch 16 assent improperly obtained and assent to improper terms
 ** misrepresentation
 *** halpert v rosenthal
@@ -2868,6 +2875,117 @@ united states of appeals, 7th circuit
 
 **** Main Takeaway
 *** gatton v tmobile usa
+
+**** Procedural History
+
+***** facts
+
+***** lower court
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+**** Holding
+
+**** Main Takeaway
+
+** public policy 1047 - 1064
+
+*** az v bz
+
+    supreme judicila court of massachusetts 2000
+
+**** Procedural History
+
+***** facts
+
+      A couple is going through a divorce and has frozen embryos from a previous round of IVF. Before the separatoin, unbeknowst to the husband, the wife had one of the preembryos thawed and implanted. The wife sought and received a protective order following the husband finding out, with the couple ultimately filing for divorce. The consent forms for the IVF procedure allowed for the pair to indicate their wishes and allowed for them to revoke their consent in writing at any time.
+
+      The forms were often blank, signed by the husband, and filled out by the wife. She wrote substantially the same terms each time. Since 1988 the terms indicated that in the event of separation the embryos would be returned to the wife for implantation.
+
+***** lower court
+
+      the probabe court handling the divorce examined the agreement from the last consent form, signed 4 years before the divorce proceedings. The court held that there was a "change of circumstances" that prevented the agreement from being enforced: the wife had had twins from implantation, the protective order against the hustband, husband filing for divorce, and the wife seeking the remaining embryos to have more children.
+
+**** Questions Presented
+
+**** Rule
+
+**** Reasoning
+
+     "we are dubioius at best that it represents the intent of the husband and the wife regarding disposition of the preembryos in the case of a dispute between them".
+
+     primary purpose of the document was how the doctors were to interact with the couple as a unit, not when they fractured. it was an expression of the will of them together which has now changed.
+     wife seeks to enforce after four years in "significantly changed circumstances and over husband's objection".
+     uses "should we become separated" which the court finds a distiction with divorce.
+     consent form was signed blank by the husband and wife edited later, although similar to those previously signed.
+
+     however, had all of these impediments not been present, court still would have not enforced. "we would not enforce an agreement that would comple one donor to become a parent against his or her will. As a matter of public policy, we conclude that forced procreatoin is not an area amenable to judicial enforcement". note a bunch of cases preventing K fro familial relationships and find this the same. "the husband signed this consent form in 1991. enforcing the form against him would require him to become a parent over his present objection to such an undertaking. we decline to do so". "we derive from existing state laws and judicial precedent a public policy ... that individiauls shall not be compelled to enter into intimate faimliy relationships..."
+
+**** Holding
+
+     "in any event, for several independent reasons, we conclude that the form should not be enforced in the circumstances of this case".
+
+**** Main Takeaway
+
+     "while courts are hesitant to invalidate contracts on these public policy grounds, the public interest in freedom of K is sometimes outweighed by other public poliyc considerations; in those cases the K will not be enforced". Legislature has removed enforceability of some K: K to enter or not enter familial relationships, cause for breach of promise to marry; surrender of children for adoption before 4th day. previously held that contracts requiring surrogate mothers to give up child immediately invalid s that mother could change mind, K requiring abandon a marriage.
+
+*** meyer v hawkinson
+
+    supreme court of ND, 2001
+
+**** Procedural History
+
+***** facts
+
+      Couple goes to Canada on a gambling trip. There they buy some lottery tickets and promise to share winnings. They end up winning 1.6 million canadian, but eventually end up not sharing, sending only $2500 to each of the other couple as a token of friendship. Couple ends friendship and brings suit.
+
+***** lower court
+
+      Plaintiffs appealing from summar judgment for D. Lower court held that even if there.
+
+**** Questions Presented
+
+**** Rule
+
+     "Gambling differs from other business transactions and ordinary remedies usually are not available to enforce gambling debts. It is essential to the existence of a K to have a lawful object. A contract is void if the ocnsideration given for the K is unlawful. A K is unlawful if it is (1) contrary to an express provision of law; (2) contrary to the policy of express law, althoguh no expressly prohibited; or (3) otherwise contrary to good morals."
+
+**** Reasoning
+
+     ND law expressly forbids gambling. So had the K been entered in ND, it would have not been enforceable (void? voidable?). "The K may still be unlawful if contrary to the public policy underpinning express law, although not expressly prohibited". But the laws of ND prohibit sale, purchase, etc, of lottery tickets even if the lottery is legal in the state of origin. Allowing this K would "frustrate that policy", going against the clear indication of public policy (see (2)).
+
+     Without an ownership interest in the lottery ticket, the scheme of sharing the profits turns into a hedging strategy of which the outcome is not determinative by the parties: wager or gambling. The opinion notes several states who take this same view on the sharing of the proceeds. "Rather, Clyde Meyer and Donald Hawkinson were allegedly exchanging promises to share winnings from their individually owned lottery tickets on the happening of the uncertain event that the numbers drawn in the Canadian lottery matched one of their ticket numbers. Consequently, the alleged contract between Hawkinson and Meyer was a wager or side bet, that is, an attempt to hedge their bets and increase their odds of winning the Canadian lottery."
+
+**** Holding
+
+     That the contract will not be enforced under ND law.
+
+**** Main Takeaway
+
+     Public policy is a principle of law whereby contracts will not be enforced if they have a *tendency* to be injurious to the public or against the public good.
+
+     the dissent has a more strict take on public policy. It notes that this notion is fluid and always changing generation to generation. More and more, courts are not using the public policy doctrine to render Ks moot in light of this.
+
+     #+BEGIN_QUOTE
+     Public policy has been described as the will-o’-the-wisp of the law which varies and changes with the interests, habits, needs, sentiments, and fashions of the day; the public policy of one generation may not, under changed conditions, be the public policy of another. Thus, the very reverse of that which is public policy at one time may become public policy at another time.
+     #+END_QUOTE
+
+     #+BEGIN_QUOTE
+     When a court is faced with deciding whether a contract is against public policy, it must also be mindful of an individual’s right to enter into a contract. “It is not the court’s function to curtail the liberty to contract by enabling parties to escape their valid contractual obligation on the ground of public policy unless the preservation of the general public welfare imperatively so demands.” Tschirgi v. Merchants National Bank of Cedar Rapids, 253 Iowa 682, 690, 113 N.W.2d 226, 231 (1962).
+     #+END_QUOTE
+
+     Dissent argues they get the law wrong on how to assert public policy and the actual public policy of ND wrong, they dissent.
+
+*** printing and numerical registering co v smapson
+    #+BEGIN_QUOTE
+    JESSEL, M.R.*19: . . . It must not be forgotten that you are not to extend arbitrarily those rules which say that a given contract is void as being against public policy, because if there is one thing which more than another public policy requires it is that men of full age and competent understanding shall have the utmost liberty of contracting, and that their contracts when entered into freely and voluntarily shall be held sacred and shall be enforced by Courts of justice. Therefore, you have this paramount public policy to consider—that you are not lightly to interfere with this freedom of contract. Now, there is no doubt public policy may say that a contract to commit a crime . . . is necessarily void. The decisions have gone further, and contracts to commit an immoral offence . . . or to induce another to do something against the general rules of morality, though far more indefinite than the previous class, have always been held to be void. I should be sorry to extend the doctrine much further. I do not say there are no other cases to which it does apply; but I should be sorry to extend it much further. . . . 
+    #+END_QUOTE
+* ch 17 failure of a basic assumption
+** mistakes of present existing facts
+*** sherwood v walker
 
 **** Procedural History
 
