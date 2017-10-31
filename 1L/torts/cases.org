@@ -2100,6 +2100,158 @@
 
 *** Main Takeaway
 
+* The Professional
+
+* Rules of Law and Violation of Statute
+** Ney v Yellow Cab Coast
+
+   Illionois Supreme Court 1954
+
+*** Procedural History
+
+**** facts
+
+     Plaintiff was struck by a stolen cab.
+
+**** lower court
+
+     Defendant argues that failing to lock cab and turn off engine while unattended did not constitute negligence. Plaintiff brings action under Uniform Traffic Act on a negligence theory under this act. The act states that "(a) No person driving or in charge of a motor vehicle shall permit it to stand unattended without first stoppping the engine, locking the ignition and removing the key ...". Plaintiffs argue that this plain statute gives rise to a negligence claim; defendant's claim that this is not an anti-theft statute but a traffic regulating statute, "the violation of which could impose no liability on the owner or operator of the vehicle for the misconduct of a thief, for the reason that, under such circumstances, the violation of the statute is not actionable negligence in that the misconduct is neither negligence with relation to the resulting injury, nor its proximate cause".
+
+*** Questions Presented
+
+    Is the statute an anti-theft statute, giving rise to negligence for the actions of the thief, or a traffic regulation statute, giving no negligence liability to the cab company?
+
+*** Rule
+
+    Determine the intent of the legislation.
+
+*** Reasoning
+
+    The court finds that the later half of the statute, dealing with turning the wheels towards the curb and drivers too young is "no material therft deterrent"., "we cannot but conclude that this entire section is a public safety measure." the court then turns to what kind of dangers the legislature sought to prevent by interdicting leaving the key in the ignition. The court cncludes that the court is seeking to prevent danger, and thus it must hinge on forseability. Cars are so more powerful and fast than before that leaving them unattended to unauthorized use.
+
+*** Holding
+
+    The taxicab company is liable for negligence despite the intervening illegal conduct by a third party. The risk was forseable and controlled by statute which the company did not follow.
+
+*** Main Takeaway
+
+    The statutory negligence was not discharged by the illegal actions of the thief.
+
+    Dissent: holds that either its anti-theft or public safety, and the majority held it public safety. With that, the dissent notes that keys are not a deterrent to theft, but are deterrents to accidental movements. The thief is going to steal either way regardless of keys, so the legislature was seeking to attach negligence to "inadvertent starting of the automobile and an ensuing uncontrolled movement thereof. Obviously the legislature could not presume by such legislation to prevent a wliful movement of the vehicle by an unauthorized person".
+
+** Martin v Herzog
+
+   Court of Appeals of NY, 1920
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Zeni
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+* Proof of Negligence: circumstantial evidence
+
+** Goddard
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Anjou
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Joye
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+** Jasko
+
+*** Procedural History
+
+**** facts
+
+**** lower court
+
+*** Questions Presented
+
+*** Rule
+
+*** Reasoning
+
+*** Holding
+
+*** Main Takeaway
+
+
 * COMMENT reading
 
 16. Negligence:
