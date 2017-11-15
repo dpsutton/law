@@ -2644,18 +2644,6 @@ united states of appeals, 7th circuit
 **** Holding
 
 **** Main Takeaway
-* COMMENT reading
-
-  misrepresentation 961-975
-  undue influence 989-995
-  unconscionability 1001-1027
-
-** TODO public policy 1047-1064
-** mistake [0/4]
-*** TODO 1065 - 1075,
-*** TODO 1087 - 1093
-*** TODO 1098 - 1103
-*** TODO 1115 - 1119
 * ch 16 assent improperly obtained and assent to improper terms
 ** misrepresentation
 *** halpert v rosenthal
@@ -2987,6 +2975,8 @@ united states of appeals, 7th circuit
 ** mistakes of present existing facts
 *** sherwood v walker
 
+    supreme court of michigan 1887
+
 **** Procedural History
 
 ***** facts
@@ -2997,8 +2987,238 @@ united states of appeals, 7th circuit
 
 **** Rule
 
+     #+BEGIN_QUOTE
+     But it must be considered as well settled that a party who has given an apparent consent to a contract of sale may refuse to execute it, or he may avoid it after it has been completed, if the assent was founded, or the contract made, upon the mistake of a material fact,—such as the subject-matter of the sale, the price, or some collateral fact materially inducing the agreement; and this can be done when the mistake is mutual. . . . 
+     #+END_QUOTE
+
+***** exceptions to the rule
+
+      #+BEGIN_QUOTE
+      If there is a difference or misapprehension as to the substance of the thing bargained for, if the thing actually delivered or received is different in substance from the thing bargained for and intended to be sold,—then there is no contract; but if it be only a difference in some quality or accident, even though the mistake may have been the actuating motive to the purchaser or seller, or both of them, yet the contract remains binding.
+      #+END_QUOTE
+
+**** Reasoning
+
+     Under this principle, the following has happened: "A horse was purchased under the belief that he is sound, and both vendor and vendee honestly believe him to be sound, the purchaser must stand by his bargain, and pay the full price, unless there was a warranty."
+
+     However this is a mistake as to quality, not any fundamental aspect of the horse. In the cow case, the difference is $80 for a barren cow and $750 for a calf-bearing cow. They are fundamentally different animals with different purposes. The parties did not disagree as to which cow. The court holds that the difference is as great as that between an ox and a cow. Had the mistaken been whether she was with calf or not, it may have been valid; but the mistake was a fundamental one that would affect the "character of the animal for all time, and for her present and ultimate use".
+
+     "The mistake affected the substance of the whole consideration, and it must be considered that there was no contract to sell or sale of the cow as she actually was. The thing sold and bought had in fact no existence. She was sold as a beef creature would be sold; she is in fact a breeding cow, and a valuable one."
+
+**** Holding
+
+     "The court should have instructed the jury that if they found that the cow was sold, or contracted to be sold, upon the understanding of both parties that she was barren, and useless for the purpose of breeding, and that in fact she was not barren, but capable of breeding, then the defendants had a right to rescind, and to refuse to deliver, and the verdict should be in their favor."
+
+**** Main Takeaway
+
+     the court holds that a birthing cow and a meat cow are fundamentally different animals with different purposes. The sale of a meat cow that turns out to be a birthing cow is not a difference of quality but essentially a contract for an animal that didn't exist. The mistake is not based on the price difference, which is substantial, but on the different purposes and different nature of the animals.
+
+     Dissent is quite persuasive in this case I think. Also, from restatement: " A party’s prediction or judgment as to events to occur in the future, even if erroneous, is not a “mistake” as that word is defined here." this seems to cover whether the animal was barren or not, a prediction on its child-bearing future.
+
+*** restatment: mistake defined:
+
+1. Where a mistake of both parties at the time a contract was made as to a basic assumption on which the contract was made has a material effect on the agreed exchange of performances, the contract is voidable by the adversely affected party unless he bears the risk of the mistake under the rule stated in §154.
+2. In determining whether the mistake has a material effect on the agreed exchange of performances, account is taken of any relief by way of reformation, restitution, or otherwise.
+
+A party bears the risk of a mistake when:
+1. the risk is allocated to him by the agreement of the parties or
+2. he is aware, at the time the contract is made, that he has only limited knowledge with respect otthe facts to which the mistake relates but treats his limited knowledge as sufficient, or
+3. th erisk is allocated to him by the court on the ground that it is reasonable in the circumstances to do so.
+
+*** tyra v cheney
+
+    supreme court of minnesota 1915
+
+**** Procedural History
+
+***** facts
+
+      Plaintiff was working on the school of defendant. He gave an oral bid and left out $963 from a written copy of the bid. P argues D accepted the lower written bid with knowledge of plaintiff's mistake. Defendant denies ever reciving any bid prior to written bid.
+
+***** lower court
+
+      Verdict for plaintiff, this motion comes from defendant.
+
+**** Questions Presented
+
+**** Rule
+
 **** Reasoning
 
 **** Holding
 
 **** Main Takeaway
+
+
+* COMMENT reading
+
+  misrepresentation 961-975
+  undue influence 989-995
+  unconscionability 1001-1027
+
+** DONE public policy 1047-1064
+** mistake [1/4]
+*** DONE 1065 - 1075,
+*** TODO 1087 - 1093
+*** TODO 1098 - 1103
+*** TODO 1115 - 1119
+** limitations damages [0/5]
+*** TODO 68-72
+*** TODO 80-93
+*** TODO 98-103
+*** TODO 110-113
+*** TODO 120-138
+** specific performance [3/3]
+*** DONE 152-175
+*** DONE 177-180
+*** DONE 183 - 187
+*** 193 - 205
+** restitution [0/1]
+*** TODO 205-226
+
+* ch 04 damages
+** three limitations on damages
+*** remoteness or forseeability of harm
+
+**** hadley v baxendale
+
+***** Procedural History
+
+****** facts
+
+****** lower court
+
+***** Questions Presented
+
+***** Rule
+
+***** Reasoning
+
+***** Holding
+
+***** Main Takeaway
+
+* ch03 other remedies and causes of action
+
+** specific performance and injunctions
+*** contracts for land
+**** loveless v diehl
+
+     supreme court of arkansas 1963
+
+***** Procedural History
+
+      The case seems to have made two trips to the supreme court. it originally made its way up where the court rendered its idea of justice to the tune of $1000, the difference between the option and 3rd party K price. this was applied to the awarding of 1440 for loveless so that the net was diehl owing the balance of 440 or so. It went back down where it was given a rehearing and came back up. The diehls were pushing for specific performance for some reason.
+
+      specific performance hails itself as offering complete justice. The diehls maintain that the $1000 award did not hit this spot and that they never asked for this so that the courts avoidance of specific performance was "not warranted". The court agrees. The court is taking the opinion that written sales of land must be honored unless there is a really good reason not to. The dissents make the point that this is wrong, protracted, and easily settled with the $1000 judgment. The original owners seem to really want to keep the land and the court does not want to unjustly enrich them.
+
+****** facts
+
+       Loveless owned a farm and leased to diehl. lease contained "shall have an option to purchase said property at any time during the life of this lease" with price included. diehls improved the land to the tune of several thousand dollars and purhcased a milking system for 1400, the note that remains unpaid. The diehls intended to purchase the land but as time went on found themselves unable. They listed with real estate agents to sale the land on the strength of the option. They found a buyer to pay 22k on a 21k option, netting them 1k in profit but the original owner interferred and disclaimed any intention to sell to the diehls.
+
+****** lower court
+
+       counterclaim as diehl is original plaintiff suing for specific performance of an options contract or damags in the alternative.
+
+***** Main Takeaway
+
+      It seems difficult to get specific performance, but when the situation affords it, it is due as "a matter of course". The court needs strange situations to dislodge this remedy. "But the remedy of specific performance, in gving the complaining party exactly what he bargained for, ordinarily affords complete and perfect relief and therefore is usually to be awarded as /a matter of course/".
+
+*** contracts for goods
+**** cumbest v harris
+
+     supreme court of MS 1978
+
+***** Procedural History
+
+****** facts
+
+****** lower court
+
+       on appeal from chancery court dismissing cumbest's complaint.
+
+***** Questions Presented
+
+      whether the personal property fits into the exception of the rule "a chancery court will not ordinarily decree specific performance of a contract involving personal property".
+
+***** Rule
+
+      As a general rule, "a chancery court will not ordinarily decree specific performance of a contract involving personal property".
+
+      exceptions:
+      1. where there is no adequate remedy at law
+      2. where the specific articles or property are of peculiar, sentimental or unique value;
+      3. where due to scarcity the chattel is not readily obtainable.
+
+
+      #+BEGIN_QUOTE
+      The tests to determine whether or not specific performance of a contract should be granted are the same in case of contracts for the sale of personalty as in teh case of K or the sale of realty, namely, whether teh damages for the breach are the equivalent of the promised performance, and whether the remedy at law is inadequate.
+      #+END_QUOTE
+
+***** Reasoning
+
+      The property falls under the 2nd and 3rd exceptions. The equitable reflief is justified in "defects of procedure in replevin".
+
+***** Holding
+
+      Remanding stating that there is a case.
+
+***** Main Takeaway
+
+**** school v hartzell
+
+     court of common please of PA, 1981
+
+     Plaintiff purchased a corvette for 4k with a deposit. Defendant seller returns deposit after dodging attempts by P to pay balance. P brings action for replevin desiring the car or 4600, the value of the car. Defendant responds that replevin is a remedy for one with an "exclusive and immediate right to the possession of the goods in question". P lacks this as D points out. P is bringing replevin as he wants the corvette, not one like it and the remedy in breach is money. The court denies the contention that the car is unique enough to qualify for specific performance and says equity is not available as there are avenues in law remaining, to wit, breach.
+
+**** sedmak v charlie's chevrolet
+
+     missouri court of appeals, 1981
+
+     Defendant dealer and Plaintiff purchaser contract to purchase an indy pace car corvette. Plaintiff pays a $500 deposit and agrees for dealerhsip to hold onto car until after indy 500 for promotional reasons. Dealership realizes extra value of car and changes position that deposit was right of first and last bid, not purchase. They took no deposits from others who wished to bid on the car.
+
+     The car was quite rare--only one given to each dealership--so that replacement on the open market could, "if at all, with considerable expense, trouble, loss, great delay or inconvenience". This reason meant that they had no adequate remedy in law. The court may decree specific performance for breach "where the goods are unique or in othe rproper circumstances". There was a short supply of this type of these cars, with bids reaching 28k on 14k sticker. Short supply and high demand, hard to get the car otherwise. This made a "proper circumstance" for ordering specific performance.
+
+*** contracts for personal services
+**** the case of mary clark, a woman of color
+
+     supreme court of judicature of the state of indiana, 1821
+
+     habeas proceeding in a the free state of Missouri for a black woman, Mary Clark, seeking relief from her indentured servitude contract of 20 years. Defendant is the person she is indentured to, seeking specific performance of the contract. The court lays out that involuntary servitude is forbeared by the constitution but it remains to be seen that this, being a voluntary contract, is involuntary under the eyes of the law. The court is treating this as a contract not subject to the provision that "negro[s] or mulatto[s]" cannot indenture themselves (and i don't know why).
+
+     There are no statutory provisions for specific performance under K law that apply. The exceptions are for apprentices and soldiers and sailors, based on minority and public policy, respectively. there are some covenants that can be enforced in equity, but this one fails the test. To order specific performance would create great animosity of the worker under the eye of the master. They cannot force someone else to substitute either.
+**** lumley v wagner
+
+     Opera singer and a theatre enter a contract for singer to sing. Add an addendum that she cannot sing at other theatres as well. She wants to sing in Italy and theatre brings action asking for an injunction. Court acknowledges that they cannot force someone to perform a service; they can, however, prevent them from doing so elsewhere. The court says they would do so even without the clear stipulation to this effect.
+
+**** ford v jermon
+
+     Takes the opposite view of lumley. contract for a performer. original bill is to force performance and an injunction against performances outside of their theatres. However, abandons the first prayer and relies on the second. The court points out why would they settle on a remedy that hurts D more and helps P less? They walk away from injunctions. Point out that Lumley is really a stand out and was more of a warning than a precedent.
+
+**** duff v russell
+
+**** dallas cowboys football club v harris
+
+     #+BEGIN_QUOTE
+     It is well established in this State and other jurisdictions that injunctive reflief will be granted to restrain violatoin by an employee of negative covenants in a personal service contract if the employee is a person of exceptional and unique knowledge, skill and ability in performing the service called for in the contract
+     #+END_QUOTE
+
+     This case revolves around, therefore, whether the player was an employee of this caliber. There was testimony that he was, and a contractual acknowledgement of this fact. However, the jury returned a verdict in favor of Harris. On appeal, the court notes that the evidence does not support this and sends back for another trial, leaving in place the temporary injunction.
+
+**** bailey v state of alabama 1911
+
+***** Procedural History
+
+****** facts
+
+****** lower court
+
+***** Questions Presented
+
+***** Rule
+
+***** Reasoning
+
+***** Holding
+
+***** Main Takeaway
