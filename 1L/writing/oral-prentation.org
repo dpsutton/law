@@ -1,0 +1,104 @@
+* COMMENT research
+** uncategorized
+
+   "assault on a school teacher is an assault committed when teh offender has reasoanble grounds to believe the victim is a school teacher acting in the performance of his duties"
+
+   need required meetings of:
+
+*** school teacher
+
+    Ms. Wilson came in the door and said for all students. For the purposes of 14:38, "'school teacher' means any teacher, instructor, administrator, staff person, or employee". We can infer that Ms. Wilson is a teacher herself or an employee of the school instructing the children.
+
+*** acting in performance of duties
+
+    "for all students to put up their personal belongings and take out their math book".
+
+*** assault
+
+    #+BEGIN_QUOTE
+    For the purposes of this Section, “assault” means an attempt to commit on a school teacher a battery or the intentional placing of a school teacher in reasonable apprehension of receiving a battery or making statements threatening physical harm to a school teacher.
+    #+END_QUOTE
+
+*** school
+
+    The setting is a classroom although this does not appear to be a required element.
+
+*** student
+
+    Sandra is a ninth grade student at Elm Grove High School.
+
+** random
+
+   assault is usually time boxed to imminent actions. however, this assault is expanded with threatening physical harm. the threat of physical harm does not require an immediacy or imminent nature of the physical harm, solely the threat.
+
+* Introduction
+
+  #+BEGIN_QUOTE
+  A. (1) Assault on a school teacher is an assault committed when the offender has reasonable grounds to believe the victim is a school teacher acting in the performance of his duties.
+
+  [***]
+
+     (2)(b)For the purposes of this Section, “assault” means an attempt to commit on a school teacher a battery or the intentional placing of a school teacher in reasonable apprehension of receiving a battery or making statements threatening physical harm to a school teacher.
+  #+END_QUOTE
+
+  The question hinges on whether there was an assault, as defined by 14:38. It is clear that there was no "attempt to commit on a shcool teacher a battery" because there was no action to touch Ms. Wilson. The claim succeeds or fails on whether the actions support a finding of (1) "intentional placing of a school teacher in reasonable apprehension of receiving a battery" or (2) "making statements threatening physical harm to a school teacher."
+
+* reasonable apprehension
+
+  "intentional placing of a school teacher in reasonable apprehension of receiving a battery"
+
+1. intent to scare mental element (general intent)
+2. conduct by defendant of the sort to arouse a reasonable apprehension of bodily harm
+3. the resulting apprehension on the part of the victim
+
+  /State v. De Gruy/ 215 So.3d 723
+
+
+** for
+
+   Assault requires either "proof of only general criminal intent or a showing that the defendant ... must have adverted to the prescribed criminal consequences as reasonably certain to result from his act...". In other words, general intent in a criminal context. The standing and yelling were voluntary actions and the apprehension of physical violence that resulted was forseable. The state could argue that the yelling in a teacher's face is far from a normal classroom interaction; so far, in fact, as to meet the intent to scare mental element. For what purpose does raising the voice achieve? It does not amplify the merits of an argument. It only attempts to cower the opponent into submission with a menace of physical violence lurking underneath the unbolstered logic.
+
+   This intentional conduct might arouse a reasonable apprehension of bodily harm as teachers are not accustomed to be spoken this way and the anger and intensity of yelling is a presage to a physical altercation. According to "Indicators of School Crime and Safety: 2014", "[d]uring the 2011–12 school year, 9 percent of school teachers reported being threatened with injury by a student from their school". This frequency of teachers being threatened with physical injury speaks to both the knowledge that the student might have had of the possible or likely outcome of the yelling as well as the reasonable reaction of the teacher to the yelling.
+
+   Assault requires that the victim have a reasonable apprehension of bodily harm. The last part is a factual question for the teacher. While the record does not contain any information one way or another about this, this is quite possibly a mistake of the record and not indicative of a lack of apprehension. All we know is that she immediately called the police. The successful prosecution under this avenue does hinge on it and it must be shown. However, there are ways around it.
+
+** against
+
+   #+BEGIN_QUOTE
+   Mere words do not constitute an assault; yet, a combination of threats, present ability to carry out the threats, and reasonable apprehension of harmful or offensive contact may suffice.
+   #+END_QUOTE
+
+   /Groff v Southwest Beverage Co, Inc./: 997 So.2d 782
+
+   The defendant will argue that she never harbored an intent to create an apprehension of a battery nor was reasonably certain that her actions would so create one. Her intention was to express anger. This alone would prove fatal to an assault prosecution. Notwithstanding this, defendant would argue that there is no reasonable apprehension of a battery in this situation. Standing in opposition is not a presage to violence but placing the parties on equal footing of posture during an arugment. Yelling is indicative of a disruption of class, not of a violent encounter. Central to assault law in Lousiana is that words alone may not be sufficient ot constitute an assault. The courts are looking for indicia that defendant "was going to strike [plaintiff] or that [plaintiff] was about to be injured". They look for closed fists and the contents of words. We lack both of these elements. There is nothing in the record about the posture of defendant nor the content of her speech. There are no indicia of an incipient battery here. "An intention to do harm is of the essence of an assault". "To render one guilty of assault, it is sufficient that the act done is with intent to put the party assailed in fear or apprehension of bodily harm, though with no intent to strike...". "A bare intent to commit an assault unless followed by some hostile demonstration will not constitute an assault". Our situation bears no relation to these summaries of assault. We have a 9th grader angry at her headphones being ripped from her head expressing her displeasure, not the impression of bodily harm.
+
+   Further, there is no evidence that the teacher had the requisite fear of bodily harm. While the record speaks to her immediately calling the police, it does not mention her backing away, flinching, or in any other way manifesting her apprehension. All we have in the record is a teacher attempting to discipline a student by calling the police.
+
+
+* threatening
+
+  "making statements threatening physical harm to a school teacher."
+
+** for
+
+   Notable of this avenue of prosecuting 14:38 is that the "reasonable apprehension" need not be found; it is enough to find the threat. State in Interest of J.D. 129 So.3d 831. The prosecution can argue about the phrase "making statements threatening physical harm to a school teacher." The only caselaw discussing threat component is where there is no dispute about the threat nature so the contours of what is encompassed and elided from this category remain undiscovered. "Here there is no dispute that J.D. uttered a threatening statement to Beardon while the latter was engaged in his duties as a teacher". State in Interest of J.D. 12 So.3d 831.
+
+   If further evidence can be introduced indicating that the student said anything threatening bodily harm at all, the statutory elements are met on its face. Certainly spoken words would constitute statements for the purposes of 14:38. However, our record is rather sparse so we analyze if there is a legal argument under this avenue without the words spoken by the student.
+
+   Recognizing the dearth of cases on the matter, we get to argue what "statements threatening physical harm" are. The prosecution would argue that "statements" are not limited to solely the words of the defendant. Attire and actions are all statements and could arguably meet the statement element. The confrontational nature of the yelling and standing amounted to a threat because it so far deviated from the teacher/student relationship and was confrontational in nature, the student standing in anger and yelling.
+
+   Threat for this statute is undefined and is therefore open to construction. The civil code of Louisiana only mentions threats in relation to extortion and still leaves them undefined there. Without further evidence as to what the student said, the state can argue that her demeanor and mode of controntation had implied threats of physical harm. This attitude and posture constituted a statement threatening physical harm satisfying the elements for a finding of assault of a school teacher.
+
+** against
+
+   If there are statements introduced tending to show threats of physical harm, the student would likely have no defense. One is tmepted to argue a provocation defense but in Louisiana, this defense is available only in murder cases or in civil actions. The statute provides for no respite due to passion and the student would have to suffer the punishment of conviction.
+
+   However, without any words from the record, the argument that posture, demeanor, and tone could satisfy the statement element seems a stretch. Beyond just the linguistic gymnastics required to reach these conclusions, the interpretation suffers from another flaw. It renders the traditional assault avenue redundant, usually an indication of a flawed interpretation. Considerations of body language and tone tending towards communicating the threat of bodily harm is squarely in the purview of traditional assault. However, this remove the intent showing of the assailerand and the apprehension requirement of the assailant in showing. This lends the statute towards an interpretation of requiring actual spoken or written statements threatening physical harm.
+
+   The caselaw bears this construction out. One conviction on the threat prong came substantially on the uttered words, "you ain't safe, I'll shoot you". State in Interest J.D. 129 So.3d 831. Another case had a student tell a teacher that he was going to "get", "shoot", and "kill" him. The courts have taken a common sense view of the statement element that it, well, a statement.
+
+   As such, without further evidence, a prosecution along the "threatening" definition of assault in 14:38 is likely to fail.
+
+* Should there be a prosecution
+
+  This case benefits from a public policy analysis. It unifies the two sides into a common solution beneficial to both of their clients. The question is better phrased not as, "is the student guilty of assault", but "/should/ the student be prosecuted for assault". The student certainly would prefer not to be prosecuted but the prosecutor has interests in this as well. The case against her is not very strong which makes the case lose/lose. If the prosecutor succeeds, a ninth grade girl has been punished under an expanded definition of assault that threatens to drag the legal system into schools more and more. A failed prosecution suffers from terrible optics at bringing the brunt of the criminal system to bear on a schoolgirl angry at having her headphones ripped off. Both parties are much better served by dealing with this classroom disruption with standard in-school disciplinary actions.
