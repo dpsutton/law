@@ -3222,3 +3222,35 @@ A party bears the risk of a mistake when:
 ***** Holding
 
 ***** Main Takeaway
+** restitution - damage interest and cause of action
+*** COMMENT readings
+205 - 226
+*** restitution for breach of K
+
+**** bush v. canfield
+
+     supreme court of errors 1818
+
+***** Procedural History
+
+****** facts
+
+****** lower court
+
+***** Questions Presented
+
+***** Rule
+
+      #+BEGIN_QUOTE
+      where a man contracts to deliver any article besides money, and fails to do it, the rule of damages is the value of the article at the time and place of delivery, and the interest for the delay.
+      #+END_QUOTE
+
+      #+BEGIN_QUOTE
+      the actual damages suffered by a party cannot always be the rule of estimating damages for a breach of K.
+      #+END_QUOTE
+
+***** Reasoning
+
+***** Holding
+
+***** Main Takeaway

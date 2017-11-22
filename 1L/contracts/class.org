@@ -1,3 +1,4 @@
+#+OPTIONS: toc:2
 * Aug 29
 
 ** damage interests
@@ -50,6 +51,7 @@ no school swinging back to the original neo-formalist.
 ** definition
 
 *** contract
+
     a contract is a promise or a set of promises for the breach of which the law gives a remedy, or th eperformance of which the law in some way recognies as a duty.
 
     the parties must intend to enter into a K relationship and agree to the terms, and the assent must be the kind the law will enforce.
@@ -1874,3 +1876,235 @@ exceptions for opinion:
    absence of meaningful choice : absence of argaining power : subjective
 
    unconscionable term: unreasonably favorable to one party : objective
+
+* oct 31
+
+** defenses
+
+*** capacity
+
+    age, mental incapacity, intoxication
+
+    voidable defenses. the minor, upon majority, can ratify. if parents ratify its on them.
+
+    for intoxicated, did the other party know or have reason to know
+
+*** duress
+
+**** physical
+
+     void.
+
+     requirements:
+- physical compulsion
+- use of force
+- unlawful compulsion
+
+improper threat that leaves V with no reasonable alternative its voidable
+
+courts tend not to find duress. most of these defenses have a high barrier.
+
+**** economic
+
+     most of the time not going to be enough to find duress. find
+
+     "serious, wrongful threat to property or finances;no other adequate means available to avoid loss"
+
+*** undue influence
+
+**** unfair persuasion
+
+     relationship:
+- under the domination of the persuader or
+- by virtue of the relationship is justified in assuming that that person will not act in a manner inconsistent with his welfare.
+
+*** fraudulent misrepresentation
+
+need:
+- statement of present fact
+- misrepresentation that was fraudulent
+- misrepresentation induced the recipient to make the K
+- recipient justified in relying on the misreprsesentation
+
+to find fraud:
+- straight up lie
+- speak with confidence and know you don't have hte level of confidence with which you speak
+- treat lack of knowledge as fact
+
+*** material misrepresentation
+
+- statement of present fact
+- misrepresentation that was material
+- misrepresentation induced the recipient to make the K
+- recipient justified in relying on the misrepresentation
+
+*** unconscionability
+
+**** procedural
+
+     relationship between the parties and the reflected bargaining power.
+
+**** substantive
+
+     the terms themselves and whether or not those terms are strongly in favor of one party or another. whether they shift the risks or take away rights that a party otherwise should have.
+
+*** public policy
+
+    in other defenses there's some fatal defect to the formation of the K. here the K itself would be legal in all other circumstances. a K to rent an airplane. if you have the $ you can rent something, no issue in entering. But if you are renting to move drugs it becomes problematic.
+
+**** balancing test analysis
+
+     want to look at all of the factors on one side, all on the other and may ultimately conclude all are met and which ones are more important. what's the policy of the state or this particular court.
+
+***** enforcement interests
+
+- parties justified expectations
+- any forfeiture that would result if the enforcement were denied, and
+- any special public interest in the enforcement of the particular term
+
+***** no enforcement interests
+
+- strenght of that policy as manifested by legislation or judcial descisions
+- likelihood tha ta refusal to enforce the term will further that policy
+- seirousness of any misconduct involved and the extent to which it was deliberate, and
+- directness of the connection between that misconduct and the term.
+
+**** public policy derived from
+
+- legislation relevant to such a policy
+- need to protect some aspect of the public welfare
+  - restraint of trade
+  - impairment of family relations
+  - interference with other protected interests
+
+**** illegal K
+
+     ways to be illegal. if subject matter or consideration it is void. if illegal at time of offer then there was no valid offer. void. never had a K that came into existence. If subject matter became illegal after offer but before acceptance, illegality operates to revoke the offer. If became illegal after a valid K was formed, illegality operates to discharge the K.
+
+***** subject matter
+
+      K to sell illegal narcotics. the subject matter is illegal and won't be enforced.
+
+      void
+
+***** consideration
+
+      sex for money
+
+      void
+
+***** purpose
+
+      renting an airplane as mentioned above.
+
+      if illegal purpose, it is voidable. by the party who:
+- party who did not know of the purpose; or
+- knew but did not facilitate the purpose *and* and purpose does not involve serious moral turpitute (grave social harm).
+
+  if both parties knew of the illegal purpose and facilitated it, or knew and the purpose involved serious moral turpitude, the K is void
+
+* nov 2
+
+* nov 7
+
+** mistake
+
+*** remedies
+
+**** recision
+* nov 14
+
+** types of damages
+
+*** expectation damages
+
+*** reliance
+
+*** restitution
+
+** measure of expectatoin
+
+   loss in value + other loss - cost avoided - loss avoided
+
+** limitations of damages
+
+*** remoteness or foreseability of harm
+
+    two questions
+1. did the damages arise naturally from the breach? proximate and usual conseuquences
+2. were the damages in teh contemplation of the parties at the time they made K as the probable result of the breach of it.
+
+**** general damages
+
+     forseable to a reasonable person
+
+**** special damages
+
+     actual notice given to the part of hte possibility of the injury
+
+     think the shipping case where the shippers did not know that the crank shaft they were shipping was the only one of the business.
+
+***** minority rule
+
+      not only is there ntoice but need tacit agreement.
+
+*** certainty of harm
+
+    damages are not recoverable for loss beyond an amount that the evidence permits to be established with reasonable certainty. "they can be proven by evidence".
+
+**** lost profits
+
+     usualy indefinite; not indefinite if the K or law establishes some standard
+
+**** wasted expenditures
+
+     what is?:
+
+     after K: easier to prove.
+
+     Before K: are damages such as would reasonable be in the contemplatoin of the parties as likely to be wasted if the K is broken?
+
+*** avoidability of harm
+
+    looking for mitigation.
+
+    once a party has notice of a breach, has a duty to do nothing to increase the damages flowing there from
+
+    have to minimize own losses. "damages are not recoverable for loss that the injrued party could have avoided without undue risk, burden or humiliation". reasonable but unsuccessful attempts are fine.
+
+** equitable remedies
+
+*** coercive
+
+*** restiuttionary
+
+*** declaratory
+
+not asking for performance, but a declaration of something. perhaps wants to know their rights.
+
+*** unique
+
+    remedy is unique is when we go to equity.
+
+*** land
+
+    land is unique by definition. people buy for different reasons and has different value.
+* nov 16
+** reliance measure
+
+   includes expenditures made in preparation for performance less any loss that the party in breach can prove with reasonable certainty the injured party would have suffered had the K been performed
+
+   cot of the injured parties expenditures in rleiance, up to the time of breach, plus the profit that would have been made had the K been fully formed.
+** rstitution
+
+   disgorging the benefit to the other party by way of part performance or reliance
+
+   two ways to measure restitution:
+1. the reasonable value to the other party of what he received in terms of what it would have cost him to obtain it from a person in the claimant's position
+2. the extent to which the other party's property has been increased in value or his other interests advanced.
+
+   can have restitution to breacher or non-breacher.
+
+** restitution for breach of K
+** restitution to the party in breach
+** restitution in quasi-K
