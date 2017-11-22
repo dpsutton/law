@@ -1,0 +1,125 @@
+* hypo 1
+
+** integration
+
+** mistake in integration
+
+** form contracts
+
+** unconsciionability - arbitration
+
+*** procedural
+
+    sophisticated parties on equal footing.
+
+*** substantive
+
+    broker's association is doing the arbitration. one party's trade group is going to enforce the arbitration provision.
+
+** parole evidence
+
+is it integrated? yes. it says so. partial or completely? have a mergers clause and we presume that it is completely integrated. we don't stop there though. we can introduce evidence about the nature of the integration. so we can argue it could be partially integrated. there are some agreements outside of the writing.
+
+does this evidence that needs to come in in orer to save the party from damages, does it supplement, interpret, or contradict the writing. It directly contradicts the writing. So it does not matter whether it is partially integrated or fully. Cannot contradict in either case.
+
+** calls of question
+
+1. is developer required to arbitrate her dispute with Broker?
+2. does broker have a claim for 1.2 million or some lesser amount.
+
+* hypo 2
+
+** issues
+
+*** first
+
+- requirements K
+- consideration of preexisting duty
+- payment on debt supported by preexisting duty
+- taking partial payment in satisfaction of debt
+
+*** second
+
+- illusory promise
+- acceptance
+- revocation
+
+*** third
+
+- minor's voiding of a K after full performance and partial payment
+- incapacity
+- quasi contract and restitution
+
+** discussion
+
+*** interpretation
+
+"season". does it mean regular season or regular and post season. subjective understanding.
+
+*** second
+
+formation issues related to consideration.
+
+** again discussion
+
+*** bus v college
+
+**** interpreation "season"
+
+all football games not at the stadium. is it part off the K? bowl travel.
+
+if not part of K, bowl travel is new agreement
+
+if part of K, modification
+
+consideration of preeisting duty: unforseen cirucmstances, justice require material change in position
+
+if no new K or modication, promisisorry estoppel :
+
+*** knight vs bus co
+
+k formation
+promissory estoppel
+mode of acceptance
+
+*** minor
+
+incapacity. right to disaffirm. restitution under quasi-K damages. not a necessaries: but bad faith/fraud, fair market value
+
+* hypo 3
+
+** remodel
+
+- modification or negotiatoin for light fixtures and is it in the K
+- ambiguity in floor removal
+- formation
+- offer: indefinite of terms. but due to part performance will interpret as interpretatoin
+- acceptance: mode of acceptance. was light fixtures
+- floor was already required
+
+- mistake (unilateral mistake. he did not know what standard demolition meant).
+
+** dog
+
+** fridge
+
+- ucc
+- valid k?
+
+she says yes. owen's email was not an offer but request for quote or price. response was probably an offer. owen's response to that valid acceptance. damages for delivery: no.
+
+one merchant and one non-merchant. so the two reeusted terms are proposals. so extended warranty is accepted but delivery is not accepted.
+
+** hammer
+
+** tile
+
+* hypo 4
+
+satute of frauds: can it be completed in one year. contemplate that it will take longer than one year. possible through natural settings that they cancel after unsatisfactory writing.
+
+frustation of purpose:
+
+after K is made. party's principle purpose is substantially frustrated without his fault. by the offucurrent of an event, ht nonoccurence of which was a basic assumption. party asserting defense did not assume the risk of the event occurring.
+
+Impracticability (not as good): supervening event. nonoccurence of the event was a basic assumption of the parties in makeing the K. effect of the event is that the party's performance is impracticale. party seeking relief was not the cause of the occurrence. neither party assumed the risk of the event occurring.

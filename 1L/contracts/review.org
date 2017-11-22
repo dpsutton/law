@@ -1,0 +1,90 @@
+#+OPTIONS: toc:2
+* november xx
+** reforming a writing -- mistakes in integration
+*** Travelers Insurance Co. v. Bailey
+
+**** study guide
+
+     How can the following case be reconciled with the materials we just studied concerning the parol evidence rule? Is not the court permitting extrinsic evidence to contradict a completely integrated agreement? What is the difference between the mistake made in the following case and a misunderstanding of the sort we studied in Chapter 5? Can this doctrine be reconciled with the objective approach to interpreting assent or does it undermine it? Notice too the court’s rejection of the terminology of mutual mistake. We shall return to that issue in Chapter 17 when considering excuses that justify the avoidance of a contractual duty.
+
+**** Case
+
+     This was the case where the guy bought insurance but the forms were filled out for 10 times the amount he purchased, unnoticed for 30 years. The agreement was $5,000 now for $500 a year when he turned 65, ten years certain, for the remainder of his life. These details were filled into the wrong policy form such that it appeared that he was owed $500 per month, 100 months certain. The premiums were paid for 30 years and in the amount required by the original agreement. The insurance agency did not offer a plan like the one reflected in the forms filled out.
+
+     Plaintiff was told by a third party that the terms of his insurance contract were surely incorrect. Plaintiff took his policy information to the insurnace agency to confirm and was shortly thereafter presented with the amended terms. There is no evidence that the defendant then knew that his original policy provided for an annuity payment larger than he was entitled to in view of the premium paid and the life insurance coverage purchased.
+
+**** idea of reforming
+
+    The court is interested in enforcing the "true insuring agreement originally entered into by the parties". The standard to get there is quite high: proving beyond a reasonable doubt the original agreement. There are issues that persuade the emotions but are not relevant to the disposition of the case:
+
+- the contract was written in this form and survived for 30 years
+- "the mistake in issuing the policy furnished the defendant came about through no fault of the defendant, but solely through the negligence and inattention of the plaintiff ... [arguing] a finding of unilateral mistake, and therefore, ... is no grounds for reformation"
+
+**** Rule
+
+     #+BEGIN_QUOTE
+     Accordingly, we hold that where there has been established beyond a reasonable doubt a specific contractual agreement between parties, and a subsequent erroneous rendition of the terms of the agreement in a material particular, the party penalized by the error is entitled to reformation, if there has been no prejudicial change of position by the other party while ignorant of the mistake.
+     #+END_QUOTE
+
+**** what to remember
+
+
+*** Restatement
+
+** statutes of frauds
+
+*** situations where it applies:
+
+    MYLEGS
+
+    date of agreement not the date of performance
+
+**** marriage
+
+     in consideration of marriage versus marriage being a precondition.
+
+**** one year
+
+     contract that cannot be completed in under a year
+
+**** land
+
+     promise to sell property
+
+**** executor
+
+     to personally take on the debts of the estate. executor promised to personally pay the debts of the estate.
+
+**** goods over $500
+
+     party to be bound
+
+**** surety
+
+     promise to pay the debt of another, collateral promise to pay.
+
+** consideration
+
+in order to have consi must have barained for exchange of value. there must be a legal detriment one of the person and there must be a benefit of the bargain.
+
+*** moral obligations
+
+*** past consideration
+
+    promise is made for a detriment previously made there is no bargain and no conosideration. promise to pay for services already received. may be valid
+
+** Questions
+
+   1. does UCC apply at $500 or $5000
+   2. in a surety ship, how is the agreement enforceable in the first place? it seems to lack consideration.
+   3. must consideration flow between the two parties? could you pay someone to not run for mayor?
+* november 5
+** offer
+*** lucy v zehmer
+** acceptance
+** revocation
+** damages
+** promissory estoppel
+** parol evidence
+** statute of frauds
+** pre-existing duty

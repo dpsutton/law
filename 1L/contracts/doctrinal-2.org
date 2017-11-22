@@ -1,0 +1,148 @@
+* question
+
+  A offers to buy "some of B's home brew equipment for $100". B agrees
+
+  is "some" too  indefinite.
+
+  common law not interested in gap filling. UCC has to have definitive proof between the parties. "reaonably certain basis" with which the court can fill the gap. court will never fill quanitty, may fill price. industry standar, way to identify price, value.
+
+  when will UCC fill gaps: price, time of performance, fill in either on what the parties indicated, goes back to "reasonableness".
+
+  followup:
+
+  A offers B $100 "some of your homebrew equipment. we can decide which ones later". B agrees.
+
+  this type of a statement is preliminary negotiations. we don't have a definitive term and we have an agreement to agree and courts will not enforce
+
+  binding as to the ultimate agreement: if the evidence shows that the parties show that parties agree to contract at that moment for everything they've agreed to at that point. has to be very explicit language. arnold palmer case had enough details to make the court . if we get enough essential terms we can probably enforce the K.
+
+* question
+
+  Unconscionable terms:
+
+  two requirements: procedural unconscionabiliity and substantive unconscionability. the former is imbalance in bargaining power and the latter is imbalance in the resulting terms in favor of the party with larger bargaining power.
+
+  take it or leave it contract, no choice. contracts of adhesion. extreme pressure. inability to K and subject to K is necessary. at arms length?
+
+  substantive: look at the terms. completely one sided, provide for lack of liability, exculpatory, shift risk,
+
+* question
+
+  interpret a vague term after partial performance
+
+  the import of partial performance is that we will not roll back the agreement but that we have a K.
+
+  "because interpretation question, parole evidence rule does not apply".
+
+  steps:
+1. parties
+2. dictionary
+3. industry
+
+answer:
+1. parties intended. did the yactually disagree
+2. has the vagueness been cured by discussion or part performance
+3. was there a subjective understanding
+   1. words of K
+   2. course of negotiations
+   3. course of performance
+   4. course of dealing
+4. does one party know or have reason to know that the other party attached a different meaning and what is it
+5. is there a reasonable objective meaning:
+   1. plain and ordinary
+   2. course of performance
+   3. course of dealing
+   4. usage of trade
+
+* question
+
+  A owns small boutique shop. She offers to buy Whoelsaler's candles, over a period of months. In accepting her offer, Wholesaler includes an extra clause providing reasonable interest on overdue invoices.
+
+  acceptance question. UCC: merchants, material terms.
+
+  UCC -> acceptance -> merchants -> material terms
+
+  ucc: no mirror image. party accepting can add new  terms.
+
+  acceptance: if both parties are merchants, terms become part of K unless they materially alter K or parties previously talked about issue and rejected it.
+
+  providing reasonable interst on overdue invoices: does it materially alter? would htey have said no? would they be surprised?
+
+* question
+
+  gap fill in a sale of goods K:
+
+  parties intend to make a K and there is a reasonable basis to fill in the gaps. There is a reasonable basis for filling the gaps.  Have it for price, time of performance, when risk of loss passes between the parties.
+
+* question
+
+  fully integrated vs partial integrated:
+
+  fully integrated K: this writing is the extent of everything that we agreed to and there are no agreement soutside of this writing. Partial: as to this writing, these are the terms we agreed to. The terms written are final, but these are not the only terms.
+
+  How determine? Nice when K includes merger or integration clause. Gonna look at the type of K that is usually fully encompassed in a writing, is the the type of K where there are terms outside of it. The longer the K the more likely it is partially integrated because that writing cannot cover all of the contingencies over a long period of time. Th eother time likely find partially integrated when particuarly complicated or not as straightforward as money for thing where they can't contemplate all of the provisions of the K. Merger clauses say this is it: why would someone include that?
+
+* question
+
+  silence cannot be acceptance except in what circumstances:
+
+  where past dealings have established a pattern whereby silence has meant acceptance. or where offeree takes dominion having had a chance to reject
+
+* question
+
+  bargained-for v. condition of a gift:
+
+  if we don't have bargained for we don't have consideration. look at detriment and benefit. detriment is giving up a legal right. it does not have to be bad or harmful.
+
+* question
+
+  A applied for a job with a large fast-food chain. A fillin in and signed the application . the application included the following clause in the middle: Applicant undestands that his paplication confers no legal rights. applicant agrees to arbitrate any disputes with employer".
+
+  applicant applies for the job and signs the application. he is not hired, thinks is wrong. wants to sue the company.
+
+  Was there consideration for this application?
+  consideration: bargain-ed for exchange
+
+  if a K, was this term unconscionable?
+
+* question
+
+  last shot rule v ucc battle of the forms
+
+  last shot: terms of the last communication sen tto the party who performed
+
+  battle: definite and seaonable expression of acceptance or written confirmation sent within a reasonable time operates as an acceptance even if it includes additional terms
+
+  at least one party is a non merchant its a proposal for differernt terms.
+
+* question
+
+  firm offer:
+
+  merchant's promise to hold offer open for a period of time. called option K under common law. under CL need separate consideration. Under UCC we need a promise to keep the offer open, in a signed writing giving assurances it will be held open.
+
+* question
+
+step by step: parol evidence rule
+
+1. is there a writing
+2. integration? if integration, ask if complete or partial.
+3. adds to or contradicts the writing
+
+can always use parol evidence in interpretation.
+
+* question
+
+  voidable v unenforcable
+
+  voidable is a bad contract (invalid) and party ca navoid. unenforceable is a valid contract that the court will not enforce.
+
+* question
+
+  material misrepresentation
+
+  misrepresentation (present fact)
+
+misrepresentation material : likely to induce a reasonable person to manifest his assent
+
+maker knows that for some reason it is likely to induce the particular recipient to  manifest his assent. misreprresentation mut ahve induced the recipient to make the K. recipient must have been justified in relying on the misrepresentation.
