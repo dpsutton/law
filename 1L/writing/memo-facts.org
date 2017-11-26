@@ -1,150 +1,94 @@
 * COMMENT facts
 
-Does It Matter?
+  Does It Matter?
 
-Larry Smith was arrested and charged with driving while intoxicated. Driving while intoxicated requires a person to operate a motor vehicle while he or she is intoxicated from either alcohol or drugs.
+  Larry Smith was arrested and charged with driving while intoxicated. Driving while intoxicated requires a person to operate a motor vehicle while he or she is intoxicated from either alcohol or drugs.
 
-You are interning with the District Attorney's Office, and your supervisor has asked you to write a memo considering whether Larry was operating the vehicle. Below is a list of facts that were discovered during the investigation of this case. You need to determine which facts matter.
+  You are interning with the District Attorney's Office, and your supervisor has asked you to write a memo considering whether Larry was operating the vehicle. Below is a list of facts that were discovered during the investigation of this case. You need to determine which facts matter.
 
-(1) Larry Smith is 36 years old.
-(2) Sara Smith is Larry's 13-year-old daughter.
-(3) Larry is divorced from Sara's mother.
-(4) Sara and her four-year-old brother Ray spend half of their time with their mom and half of their time with their dad.
-(5) During the week of June 29-July 5, Sara and Ray stayed with Larry.
-(6) On July 4, Larry, Sara, and Ray attended a Fourth of July party at his Larry's brother's home.
-(7) At the party, the kids played in the pool and with small fireworks, including snaps, smoke bombs, and sparklers.
-(8) The adults watched the kids and played spades.
-(9) Throughout the afternoon, Larry had three beers and two shots of tequila.
-(10) He also ate throughout the day: ribs, salads, fresh fruit, and cupcakes.
-(11) The fireworks ended at 11 p.m.
-(12) As Larry, Sara, and Ray were about the leave the party, Larry said to Sara, "Do you want to try to drive home? I've got a killer headache, and if you can touch the pedals, you can do it."
-(13) Sara said yes.
-(14) Sara got behind the wheel and adjusted the seat.
-(15) Larry put Ray in his booster seat in the backseat.
-(16) Larry got in the front, passenger-side seat.
-(17) Both Larry and Sara put their seatbelts on.
-(18) At 11:23 p.m., Louisiana State Trooper Ellen Moss was notified of a single-car accident on Louisiana Highway 811.
-(19) The accident was reported by Barry Pellegrin, an ambulance driver who noticed a vehicle in the ditch.
-(20) Pelligrin reported the accident, ascertained there were no injuries, and then remained at the scene until the police arrived.
-(21) Pelligrin indicated that when he arrived, all three occupants were outside the car. Larry was trying to comfort both Ray and Sara, who were both crying.
-(22) Pelligrin did not notice a smell of alcohol on Larry.
-(23) Trooper Moss observed a 2012 Ford Focus in the ditch facing away from the highway.
-(24) Moss concluded that the vehicle had been southbound before it left the roadway.
-(25) When Moss first spoke to Larry, she smelled the slight odor of alcoholic beverages.
-(26) According to Moss, Larry's speech was deliberate and his eyes were somewhat bloodshot.
-(27) At the scene, Larry admitted to Moss that he had been drinking. He told her that he had consumed "A few beers and a couple shots of Jose Cuervo" throughout the day.
-(28) Larry also told Moss that Sara had been driving.
-(29) Moss interviewed Sara.
-(30) Sara told Moss that she had been driving.
-(31) Sara said that she put the key in the ignition and started the car.
-(32) The car has a stick shift/manual transmission, so Sara had to manipulate the clutch, the gas pedal, and the brake.
-(33) Sara told Moss that her grandfather, who is an amateur race car driver, taught her to drive when she was about 10.
-(34) Sara told Moss that she had some trouble switching gears when she first got started.
-(35) She said Larry, from the passenger seat, initially put the car in reverse while she pressed in the clutch.
-(36) She said Larry also helped her shift from third to fourth gear.
-(37) Moss looked into the vehicle, and she noticed that the driver's side car seat was pushed almost all of the way forward.
-(38) The passenger side car seat was pushed all of the way back.
-(39) Moss estimated that Larry was 5 feet 10 inches tall.
-(40) She estimated Sara was no more than 5 feet 2 inches tall.
-(41) Sara told Moss that the car went into a ditch because a dog ran out into the road.
-(42) Sara said that she tried to swerve around the dog, and she ended up in the ditch.
-(43) Moss administered a field sobriety test to Larry.
-(44) Larry passed the test.
-(45) Larry agreed to a breath test.
-(46) The test indicated that Larry's blood alcohol level was 0.09, just over the legal limit.
-(47) Larry, Sara, and Ray were placed in the backset of the police cruiser.
-(48) They were taken to the police station.
-(49) Moss called Sara and Ray's mother to pick them up.
-(50) When the mother arrived, she told Moss that even though Sara was young, she was a good driver.
-(51) Sara had driven a number of different vehicles on her grandfather's property throughout her life.
-(52) With her mom present, Sara answered a few more questions.
-(53) Sara said she was driving at 45 miles per hour, the posted speed limit.
-(54) Sara admitted that she did not have a driver's license.
-(55) Sara also indicated that she had not taken driver's education and she did not have a learner's permit.
-(54) When asked why she thought her dad asked her to drive, Sara answered, "Because I had been bugging him all week, and he had a bad headache."
-(55) It was also revealed that Larry suffers from debilitating migraines, and he has been advised by his physician not to drive when he has one.
+  (1) Larry Smith is 36 years old.
+  (2) Sara Smith is Larry's 13-year-old daughter.
+  (3) Larry is divorced from Sara's mother.
+  (4) Sara and her four-year-old brother Ray spend half of their time with their mom and half of their time with their dad.
+  (5) During the week of June 29-July 5, Sara and Ray stayed with Larry.
+  (6) On July 4, Larry, Sara, and Ray attended a Fourth of July party at his Larry's brother's home.
+  (7) At the party, the kids played in the pool and with small fireworks, including snaps, smoke bombs, and sparklers.
+  (8) The adults watched the kids and played spades.
+  (9) Throughout the afternoon, Larry had three beers and two shots of tequila.
+  (10) He also ate throughout the day: ribs, salads, fresh fruit, and cupcakes.
+  (11) The fireworks ended at 11 p.m.
+  (12) As Larry, Sara, and Ray were about the leave the party, Larry said to Sara, "Do you want to try to drive home? I've got a killer headache, and if you can touch the pedals, you can do it."
+  (13) Sara said yes.
+  (14) Sara got behind the wheel and adjusted the seat.
+  (15) Larry put Ray in his booster seat in the backseat.
+  (16) Larry got in the front, passenger-side seat.
+  (17) Both Larry and Sara put their seatbelts on.
+  (18) At 11:23 p.m., Louisiana State Trooper Ellen Moss was notified of a single-car accident on Louisiana Highway 811.
+  (19) The accident was reported by Barry Pellegrin, an ambulance driver who noticed a vehicle in the ditch.
+  (20) Pelligrin reported the accident, ascertained there were no injuries, and then remained at the scene until the police arrived.
+  (21) Pelligrin indicated that when he arrived, all three occupants were outside the car. Larry was trying to comfort both Ray and Sara, who were both crying.
+  (22) Pelligrin did not notice a smell of alcohol on Larry.
+  (23) Trooper Moss observed a 2012 Ford Focus in the ditch facing away from the highway.
+  (24) Moss concluded that the vehicle had been southbound before it left the roadway.
+  (25) When Moss first spoke to Larry, she smelled the slight odor of alcoholic beverages.
+  (26) According to Moss, Larry's speech was deliberate and his eyes were somewhat bloodshot.
+  (27) At the scene, Larry admitted to Moss that he had been drinking. He told her that he had consumed "A few beers and a couple shots of Jose Cuervo" throughout the day.
+  (28) Larry also told Moss that Sara had been driving.
+  (29) Moss interviewed Sara.
+  (30) Sara told Moss that she had been driving.
+  (31) Sara said that she put the key in the ignition and started the car.
+  (32) The car has a stick shift/manual transmission, so Sara had to manipulate the clutch, the gas pedal, and the brake.
+  (33) Sara told Moss that her grandfather, who is an amateur race car driver, taught her to drive when she was about 10.
+  (34) Sara told Moss that she had some trouble switching gears when she first got started.
+  (35) She said Larry, from the passenger seat, initially put the car in reverse while she pressed in the clutch.
+  (36) She said Larry also helped her shift from third to fourth gear.
+  (37) Moss looked into the vehicle, and she noticed that the driver's side car seat was pushed almost all of the way forward.
+  (38) The passenger side car seat was pushed all of the way back.
+  (39) Moss estimated that Larry was 5 feet 10 inches tall.
+  (40) She estimated Sara was no more than 5 feet 2 inches tall.
+  (41) Sara told Moss that the car went into a ditch because a dog ran out into the road.
+  (42) Sara said that she tried to swerve around the dog, and she ended up in the ditch.
+  (43) Moss administered a field sobriety test to Larry.
+  (44) Larry passed the test.
+  (45) Larry agreed to a breath test.
+  (46) The test indicated that Larry's blood alcohol level was 0.09, just over the legal limit.
+  (47) Larry, Sara, and Ray were placed in the backset of the police cruiser.
+  (48) They were taken to the police station.
+  (49) Moss called Sara and Ray's mother to pick them up.
+  (50) When the mother arrived, she told Moss that even though Sara was young, she was a good driver.
+  (51) Sara had driven a number of different vehicles on her grandfather's property throughout her life.
+  (52) With her mom present, Sara answered a few more questions.
+  (53) Sara said she was driving at 45 miles per hour, the posted speed limit.
+  (54) Sara admitted that she did not have a driver's license.
+  (55) Sara also indicated that she had not taken driver's education and she did not have a learner's permit.
+  (54) When asked why she thought her dad asked her to drive, Sara answered, "Because I had been bugging him all week, and he had a bad headache."
+  (55) It was also revealed that Larry suffers from debilitating migraines, and he has been advised by his physician not to drive when he has one.
 
 * Brief Summary
 
-  At a family get-together, Larry Smith consumed alcohol. After the fireworks ceased at 11 p.m., the family left. The vehicle was found in a ditch along the roadside with Larry and his two children outside of the vehicle. The family maintains that the daughter, Sara, age 13, was the one driving. According to the recounting of the family, Larry's only involvement with the vehicle's operation was putting the car initially in reverse, and aiding Sara in shifting once from third to fourth gear. Both of these interactions with the controls of the vehicle were from the passenger seat. A breath test administered indicated that Larry's blood alcohol level was 0.09. This case has two avenues for prosecution under LA R.S 14:98 which criminalizes operation of a vehicle while intoxicated: whether the story is a reasonable one or if Larry was the actual driver at the time of the crash, and in the alternative, whether Larry's operation of the vehicle's controls from the passenger seat satisfies the statutory element of operation.
+  At a family get-together, Larry Smith consumed alcohol. After the fireworks ceased at 11 p.m., the family left. The vehicle was found in a ditch along the roadside with Larry and his two children outside of the vehicle. The family maintains that the daughter, Sara, age 13, was the one driving. According to the recounting of the family, Larry's only involvement with the vehicle's operation was putting the car initially in reverse, and aiding Sara in shifting once from third to fourth gear. Both of these interactions with the controls of the vehicle were from the passenger seat. A breath test administered demonstrated that Larry had a 0.09% blood alcohol level. The issue is whether Larry's operation of the vehicle's controls from the passenger seat satisfies the statutory element of operation.
 
 * relevant facts
 
-On July 4, Larry Smith took his two children Sara, and Ray to a Fourth of July party at his Larry's brother's home. Throuhout the afternoon, Larry had three beers and two shots of tequila. The party ended at 11 p.m. As Larry, Sara, and Ray were about the leave the party, Larry said to Sara, "Do you want to try to drive home? I've got a killer headache, and if you can touch the pedals, you can do it." Sara said yes. Sara got behind the wheel and adjusted the seat. At 11:23 p.m., Louisiana State Trooper Ellen Moss was notified of a single-car accident on Louisiana Highway 811. Paramedics arrived before officer Moss and indicated that when he arrived, all three occupants were outside the car. Larry was trying to comfort both Ray and Sara, who were both crying. When Moss first spoke to Larry, she smelled the slight odor of alcoholic beverages. According to Moss, Larry's speech was deliberate and his eyes were somewhat bloodshot. At the scene, Larry admitted to Moss that he had been drinking. He told her that he had consumed "A few beers and a couple shots of Jose Cuervo" throughout the day. Larry also told Moss that Sara had been driving.
+On July 4, Larry Smith took his two children Sara, and Ray to a Fourth of July party at his Larry's brother's home. Throuhout the afternoon, Larry had three beers and two shots of tequila. The party ended at 11 p.m. As Larry, Sara, and Ray were about the leave the party, Larry said to Sara, "Do you want to try to drive home? I've got a killer headache, and if you can touch the pedals, you can do it." Sara said yes. Sara got behind the wheel and adjusted the seat. At 11:23 p.m., Louisiana State Trooper Ellen Moss was notified of a single-car accident on Louisiana Highway 811. Paramedics arrived before officer Moss and indicated that when he arrived, all three occupants were outside the car. Larry was trying to comfort both Ray and Sara, who were both crying. When Moss first spoke to Larry, she smelled the slight odor of alcoholic beverages. According to Moss, Larry's speech was deliberate and his eyes were somewhat bloodshot. At the scene, Larry admitted to Moss that he had been drinking. He told her that he had consumed "A few beers and a couple shots of Jose Cuervo" throughout the day.
 
-Larry also told Moss that Sara had been driving. Moss interviewed Sara. Sara told Moss that she had been driving. Sara said that she put the key in the ignition and started the car. The car has a stick shift/manual transmission, so Sara had to manipulate the clutch, the gas pedal, and the brake. Sara told Moss that her grandfather, who is an amateur race car driver, taught her to drive when she was about 10. Sara told Moss that she had some trouble switching gears when she first got started. She said Larry, from the passenger seat, initially put the car in reverse while she pressed in the clutch. She said Larry also helped her shift from third to fourth gear. Moss looked into the vehicle, and she noticed that the driver's side car seat was pushed almost all of the way forward. The passenger side car seat was pushed all of the way back. Moss estimated that Larry was 5 feet 10 inches tall. She estimated Sara was no more than 5 feet 2 inches tall. Sara told Moss that the car went into a ditch because a dog ran out into the road. Sara said that she tried to swerve around the dog, and she ended up in the ditch.
+Larry also told Moss that Sara had been driving. Moss interviewed Sara. Sara told Moss that she had been driving. Sara said that she put the key in the ignition and started the car. The car has a stick shift/manual transmission, so Sara had to manipulate the clutch, the gas pedal, and the brake. Sara told Moss that her grandfather, who is an amateur race car driver, taught her to drive when she was about ten. Sara told Moss that she had some trouble switching gears when she first got started. She said Larry, from the passenger seat, initially put the car in reverse while she pressed in the clutch. She said Larry also helped her shift from third to fourth gear. Moss looked into the vehicle, and she noticed that the driver's side car seat was pushed almost all of the way forward. The passenger side car seat was pushed all of the way back. Moss estimated that Larry was 5 feet 10 inches tall. She estimated Sara was no more than 5 feet 2 inches tall. Sara told Moss that the car went into a ditch because a dog ran out into the road. Sara said that she tried to swerve around the dog, and she ended up in the ditch.
 
 At the scene, Officer Moss administered a field sobriety test to Larry. Larry passed the test, but agreed to a breath test. The test indicated that Larry's blood alcohol level was 0.09, just over the legal limit. After being taken to the police station, an officer called Sara and Ray's mother to pick them up. When the mother arrived, she told Moss that even though Sara was young, she was a good driver. Sara had driven a number of different vehicles on her grandfather's property throughout her life. When asked why she thought her dad asked her to drive, Sara answered, "Because I had been bugging him all week, and he had a bad headache."
 
 * questions presented
 
-** COMMENT template
-
-   Under insert applicable law here, did insert issue present here, when…give hypo-specific facts here?
-
-** Question 1
-
-   Under LA R.S. 14:98, does the circumstantial evidence exclude the reasonable hypothesis that Sara, Larry's daughter, was the driver of the automobile, such that the circumstantial evidence can sustain a conviction of Larry for operation of the vehicle while intoxicated?
-
-** Question 2
-
    Under LA R.S. 14:98, does the fact that Larry, from the passenger seat, put the car into reverse intially and that he helped his daughter shift from third to fourth gear qualify as operation of the vehicle?
 
 * Short answer
 
-** question 1
-
-   The evidence does not exclude the reasonable hypothesis that Sara, Larry's daughter, was driving the vehicle at the time of the crash. The seats were set in a manner consistent with this theory. This recounting of events was given at the time of the accident and the mother, talking to officers at the police station without collaborating with Larry, indicated that Sara had been driving for some time, albeit on private property. The evidence from the scene is consistent with this version of events and thus Larry cannot be assumed to be the driver at the time of the crash.
-
-** question 2
-
-   Larry's operation of the gearshift on at least two occassions will satisfy the operation element for the purposes of LA R.S. 14:98, providing for a successful prosecution under that statute. The courts have looked for operation of vehicle controls to satisfy this element, which is certainly present. This situation differs, certainly, as these other occassions have been in a context where that person was the driver of the vehicle, not the passenger. The statute does not require this, however. It also criminalizes a broader category of conduct than merely driving a vehicle while intoxicated, it criminalizes operating a vehicle while intoxicated.
+   Larry operated the gearshift at least twice while intoxicated. These actions satisfy the operation element for the purposes of LA R.S. 14:98, providing for a successful prosecution under that statute. Courts have noted that the statute does not require driving, only a more encompassing class of behavior, operation, which is present here. This situation differs, certainly, as these other occassions have been in a context where that person was the driver of the vehicle, not the passenger.
 
 * analysis
 
-** question 1
-
 *** COMMENT from cases
 
-**** phillips
-
-    "the evidence in this case would have justified any rational fact finder in the belief that the state had excluded every reasonable hypothesis of innocence".
-
-    officer found defendant seated at the steering wheel, no other passengers there. trial judge held that there was no other reasonable explanation of how the vehicle got there.
-
-    Defendant argued that /State v. Lindinger/ was controlling. There defendant was resting against a truck 50 to 100 feet from the roadway at the end of skidmarks leaving the road. "Evidence of the defendant's intoxication was overwhelming but the court held that the presence of defendant by the truck was not sufficient to support the inference (beyond reasonable doubt) he had driven it there or, more importantly, that he had done so while intoxicated."
-
-    Defendant was found /inside/ the truck, with lights on half-on and half-off the road.
-
-**** johnson
-
-     had testimony offered to show that after the officer pulled over the vehicle, the passengers switched seats. This theory was put to the jury and rejected. The testimony differed between the two witnesses leading the jury to reject this version of the events in favor of Officer Boren.
-
-**** bastrop
-
-     repeatedly said he was not driving.
-
-     "in the absence of other circumstances, this evidence may be legally sufficient to exclude every reasonably hypothesis other than that Paxton had operated the car to achieve the position it was in when the police arrived."
-
-     "... although this is a resonable hypothesis because it is shown that he wsa in a position to do so. It is equally as reasonable, however, to deduce ..."
-
-     "Prosecution simply failed to meet its burden of proving beyond a reasonable doubt and to the exclusion of other reasonable hypotheses ..."
-
-*** answer
-
-   Often in cases of Operating While Intoxicated, evidence is circumstantial. Officers frequently arrive at the scene after operation has ceased, either due to a collision or extreme intoxication. Courts allow so-called circumstantial evidence to weigh towards guilt only in cases where the evidence precludes all reasonably hypotheses of innocence consistent with the circumstantial evidence. In /State v. Phillips/, the court sustained a guilty verdict as "the evidence in this case would have justified any rational fact finder in the belief that the state had excluded every reasonable hypothesis of innocence". The exclusion of reasonable hypotheses of innocence can come down to the jury's weighing of evidence. In /State v. Johnson/, the defendant put forth an alternative version on the evidence which the jury ultimately rejected in favor of the version advanced by the arresting officer. The court can consider In /Bastrop/, a case of successful defense under the alternative hypothesis of innocence, the defendant maintained the ori
-
-   The theory that the man was the driver of the car and he therefore opearted the vehicle is likely to fail. The circumstances certainly could lead one to infer that Mr. Smith was the driver, and thus operated, the car. There was obviously a car collision, and the sole of-age driver, Mr. Smith, had a blood-alchol concentration above the legal limit. As the /Paxton/ court noted, "In the /absence/ of other circumstances, this evidence may be legally sufficient to exclude every reasonably hypothesis other than that [defendant] had operated the car to achieve the position it was in when the police arrived". The evidence here is similar. Police alight upon a car that is either wrecked or parked in a haphazard manner. The police have no observed the ongoing behavior and have no evidence that the defendant was the one who drove the car into the spot it is in. However, this case is distinguishable from /Phillips/ where the evidence was found to exclude every reasonable hypothesis of innocence. Phillips was found intoxicated, in the driver's seat, slumped over into the passenger seat. The court found that no reasonable alternative could explain these facts. The theory that the man drove sober to the location, parked his car haphazardly half-in and half-out of the road and proceeded to get drunk is explicitly rejected by the court.
-
-   In contrast, Mr. Smith puts forth a reasonable alternative of innocence consistent with the facts. Mr Smith, much like the defendant in /Paxton/, immediately claims his innocence. The story is consistent from the very beginning. Further, the story is corroborated by independent accounts from his ex-wife at the station. There she mentions how the thirteen year old daughter has a history of driving on private property, having been taught by her grandfather. This account is provided independently of any collusion with Mr. Smith lending it greater weight. While the choice of a thirteen year old to drive an automobile late at night after a family part is not a wise choice, it is not inherently unreasonable. The theory is reasonable, not in the choice that someone /should/ choose this course of action, but that this course of events /could/--beyond a miniscule chance--have happened. No one saw defendant in the drivers seat nor operating hte controls. The driver and passenger seats were adjusted to the heights of the daughter in the driver's seat and Mr. Smith in the passenger seat. In /Johnson/, an alternative theory was advanced which the jury rejected. There the story wsa actually two different stories, as the corroborating witnesses provided differing versions of events. Here Mr. Smith has a consistent story that, while not independently verified, is at least given independent credibility by the questions answered by his wife.
-
-   There is no other evidence besides the car crash and failed breath test towards a conviction of LA R.S 98. With the court unlikely to allow the evidence to weigh against the guilt of Mr. Smith, the prosecution will have no evidence towards operation of the vehicle. The prosecution of Mr. Smith is likely to fail along this theory that he was the driver and therefore operated the vehicle.
-
-** question 2
-
-*** COMMENT from cases
-
-"the operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance".
+    "the operating of any motor vehicle, aircraft, watercraft, vessel, or other means of conveyance".
 
 **** phillips
 
@@ -162,7 +106,7 @@ At the scene, Officer Moss administered a field sobriety test to Larry. Larry pa
 
      The brake light flashed. The court points out that the evidence does not exclude the possibility that his wife hit the brake pedal as she scooted over rather than Mr. Paxton's foot. The court implies that the hitting of the brake pedal causing the lights to flash would be sufficient to satisfy the operation element of OWI.
 
-**** bristol
+**** brister
 
      the term "operate" includes merely controlling the vehicle. Doing anything with regard to the mechanism of a motor vehicle, whether it has any effect on the engine or not, is also included in the term "operate". Similarly, it has been held that a person begins to operate the instant he begins to manipulate the machinery of the vehicle for the purpose of putting the car in motion, and that "operates" refers to the actual physical handling of the controls of a vehicle".
 
@@ -176,16 +120,26 @@ At the scene, Officer Moss administered a field sobriety test to Larry. Larry pa
 
 *** answer
 
-    In operating the gearshift while his daughter drove, Mr. Smith satisfied the operation element of LA R.S. 14:98 despite sitting in the passenger seat. Although the facts are distinguishable from the facts from the controlling cases, their guiding principles make no distinction of where the operator is sitting in the car.
+**** Prosecution's Argument
 
-    The guiding cases universally find the defendant in the driver's seat, leading to some uncertainty if the fact that Mr. Smith, riding in the passenger seat, could escape the operating element. In /State v. Phillips/, the trial judged reasoned that "the circumstances warrant finding that he is the invidudual who drove there". In /Johnson/, the trial record notes that "the officer saw defendant behind the steering wheel". The defendant in /State v. Phillips/ was found slumped over while sitting in the drivers seat. All of these cases centered around a defendant in the driver's seat, not the passenger seat. Mr. Smith might present a defense that as the passenger, he was not the operator of the vehicle.
+     In operating the gearshift while his daughter drove, Mr. Smith most likely satisfied the operation element of LA R.S. 14:98 despite sitting in the passenger seat. Although the facts are distinguishable from the facts from the controlling cases, their guiding principles make no distinction of where the operator is sitting in the car.
 
-    The argument that a passenger is not the operator of a vehicle would stumble on a linguistic quirk, missing the language of the law. The law does not penalize an operator who is intoxicated but /operation/ by one who is intoxicated. The highlighting of the location of defendants in cars does not intend to meet a required element of the statute but goes towards the burden of excluding reasonable hypotheses of innocence from circumstantial evidence towards a more broad definition of operation of which driving is a sufficient, but not necessary, showing.
+     The guiding cases universally find the defendant in the driver's seat, leading to some uncertainty if the fact that Mr. Smith, riding in the passenger seat, could escape the operating element. In /State v. Phillips/, the trial judged reasoned that "the circumstances warrant finding that he is the invidudual who drove there." In /Johnson/, the trial record notes that "the officer saw defendant behind the steering wheel." The defendant in /State v. Phillips/ was found slumped over while sitting in the drivers seat. All of these cases centered around a defendant in the driver's seat, not the passenger seat. Mr. Smith might present a defense that as the passenger, he was not the operator of the vehicle. The argument that a passenger is not the operator of a vehicle would stumble on a linguistic quirk, missing the language of the law. The law does not penalize an operator or driver who is intoxicated but /operation/ by one who is intoxicated. These cases highlighted the defendant behind the wheel in order to create a reasonable hypothesis that the accused was driving, a sufficient showing of operation. The focusing on the driver's seat was not focusing on a required element of the crime but a procedural aspect of circumstantial evidence. They sought to create a reasonable hypothesis of driving--a sufficient standard to find operation--and then exclude other reasonble hypotheses of innocence.
 
-    If the required element were driving, the location of the accused inside the car would carry great weight. However, /City of Bastrop v. Paxton/ forecloses this as a defense explicitly: "the term /operating/ is broader than the term /driving/". /Johnson/ states that "in order to operate a motor vehicle, the defendant must have exercised some control or manipulation over the vehicle, such as steering or any physical handling of the controls for the purpose of putting the car in motion". /Bristol/ further explains this theory of what the legislature has proscribed: "Similarly, it has been held that a person begins to operate the instant he begins to manipulate the machinery of the vehicle for the purpose of putting the car in motion, and that 'operates' refers to the actual physical handling of the controls of a vehicle". In /Rhutan/, a case where the court found the evidence of operation lacking, the court emphasized, among other elements, that although passed-out in the driver's seat, defendant's hands were not near the controls of the vehicle. In /Bastrop/, officer's focused on the brake lights of a parked car as sufficient operation; the court was willing to find operation on this measure if the action could be attributed to defendant alone but found that the evidence could only support that he "/may have/ flashed the brake light" (emphasis in the original). The court demonstrates how closely it cleaves to this requirement of operating the controls for LA R.S. 14:98 in /State v. Brister/. Defendant was found unconscious in a car with a half-empty bottle of liquor in a lane of traffic with the engine off. The car rolled down an incline without any intervention of defendant, which the court found insufficient to merit a finding of operation. Defendant was clearly intoxicated in the driver's seat of a moving vehicle but his lack of touching any of the vehicle's controls preventing a legal finding of operation. Thus the separation between operation and not operation is a quite literal standard of touching controls: if the car moves without input there is operation; if the brake pedal is pushed, even when in park, there is operation.
+     However, when there was other direct evidence of operation, this evidence was presented on its own regardless of the position of the driver. The clearest example of this is in /Bastrop/. There the defendant was arrested for operation of the vehicle as he moved from the driver's seat to the passenger's seat. On appeal, the court overturned his conviction not because he was no longer in a position to opreate the vehicle from the passenger seat but that the operation of the brake pedal could not be attributed to him beyond a reasonable doubt. Since his wife was getting into the driver's seat, the court was unable, as a matter of law, to exclude the reasonable hypothesis that the defendant's wife's foot actuated the brake. Thus the position is irrelevant when there is some other evidence of operation. With the evidence that Mr. Smith moved the gearshift into reverse and then later from third to fourth gear there is no reason to scrutinize his position in the car as there is no longer any reason to infer operation.
 
-    The defendant's daughter's testimony provides evidence that Mr. Smith operated the vehicle. In talking with the officer at the scene of the accident, "she said [defendant] Larry [Smith], from the passenger seat, initially put the car in reverse while she pressed in the clutch". Further, "she said Larry also helped her shift from third to fourth gear". These interactions with the controls of the vehicle fall under the exact standard set forth in /Bastrop v. Paxton/: "any physical handling of the controls for the purpose of putting the car in motion". The gearshift is certainly a control of the vehicle, and certainly is one necessary for "putting the car in motion".
+     The prosecution will have a strong argument that Mr. Smith's actions of moving the gear shift constitute operation as contemplated by the statute. In /City of Bastrop v. Paxton/ the court explicitly points out that "the term /operating/ is broader than the term /driving/." /Johnson/ states that "in order to operate a motor vehicle, the defendant must have exercised some control or manipulation over the vehicle, such as steering or any physical handling of the controls for the purpose of putting the car in motion." /Brister/ further explains this theory of what the legislature has proscribed: "Similarly, it has been held that a person begins to operate the instant he begins to manipulate the machinery of the vehicle for the purpose of putting the car in motion, and that 'operates' refers to the actual physical handling of the controls of a vehicle." Mr. Smith appears to have "physically handl[ed] ... the controls for the purpose of putting the car in motion" when he "initially put the car in reverse while [Sara] pressed in the clutch." While the vehicle was in motion, he also "helped [Sara] shift from third to fourth gear." In both instances, Mr. Smith has directly operated "the controls for the purpose of putting the car in motion." His conduct satisfies the tests for operation in these cases.
 
-    No case provides respite from this conclusion. /Brister/ shows how the court will find an absence of operation even in a moving vehicle in the middle of the road with a drunk occupant in the driver's seat when there is no operation of any vehicular control. The /Paxton/ court was posed to find the defendant guilty if they could attribute the brake pedal application to the defendant but found insufficient evidence. The /Rutan/ court was interested in where a man's hands were in a car that was turned off. The courts have applied a standard that any interaction with the vehicle's controls will suffice for the purposes of operation and Defendant Smith has at least two occurrences of interacting with the vehicle's gearshift. While each of these courts considered a defendant in the driver's seat, their analyses of operation hinged on interaction with controls unless they could draw a conclusion that the defendant was driving, in which case interaction with controls was obviously present.
+     Mr. Smith will find no solace in the three cases where the defendant was found not guilty of operation either as he fails the operation test that found those defendant's not liable. In /Rhutan/, a case where the court found the evidence of operation lacking, the court emphasized, among other elements, that although passed-out in the driver's seat, defendant's hands were not near the controls of the vehicle. In /Bastrop/, officer's focused on the brake lights of a parked car as sufficient operation; the court was willing to find operation on this measure if the action could be attributed to defendant alone but found that the evidence could only support that he "/may have/ flashed the brake light" (emphasis in the original). The court demonstrates how closely it cleaves to this requirement of operating the controls for LA R.S. 14:98 in /State v. Brister/. Defendant was found unconscious in a car with a half-empty bottle of liquor in a lane of traffic with the engine off. The car rolled down an incline without any intervention of defendant, which the court found insufficient to merit a finding of operation. Defendant was clearly intoxicated in the driver's seat of a moving vehicle but his lack of touching any of the vehicle's controls preventing a legal finding of operation. Thus the separation between operation and not operation is a quite literal standard of touching controls: if the car moves without input there is no operation; any interaction with the controls, even something as trivial as pushing the brake pedal even when in park, supports a finding of operation. The court does not look to movement of the car or any type of ambiguous "meaningful standard" of operation. Mr. Smith twice changed gears in the car. This falls afoul of the bright line rule the court has established.
 
-    Moreover, this conclusion is in line with the policy objectives of the legislature. Driving while intoxicated presents an obvious danger which the legislature rightfully seeks to establish law to curb and punish this behavior. However, driving is not the only source of risk to life, health, or property that the legislature considered in enacting this statute. Interacting with the controls of multi-ton vehicles capable of rapid acceleration while intoxicated presents dangers from unintended behavior of the automobile in general. In the instant case, accidental selection of the wrong gear or engaging a gear when the driver is not ready can cause loss of control while parked or while shifting from third to fourth gear. The legislature purposefully used the standard of "operation" and did not tie this to the driver of the vehicle. Mr. Smith has met every required element of LA R.S. 14:98 and can be subject to a successfull prosecution.
+     Moreover, this conclusion is in line with the policy objectives of the legislature. Driving while intoxicated presents an obvious danger which the legislature rightfully seeks to establish law to curb and punish this behavior. However, driving is not the only source of risk to life, health, or property that the legislature considered in enacting this statute. Interacting with the controls of multi-ton vehicles capable of rapid acceleration while intoxicated presents dangers from unintended behavior of the automobile in general. In the instant case, accidental selection of the wrong gear or engaging a gear when the driver is not ready can cause loss of control while parked or while shifting from third to fourth gear. The legislature purposefully used the standard of "operation" and did not tie this to the driver of the vehicle. Mr. Smith has met every required element of LA R.S. 14:98 and can be subject to a successfull prosecution.
+
+**** Mr. Smith's Argument
+
+     The prosecution treats the location of the person charged with operation while intoxicated as relevant only when seeking an inference of operation. Since the evidence shows that Mr. Smith touched the controls, this issue is irrelevant to the prosecution as the case does not rely on an inference of touching the controls. But this assumption underlies each of the tests applied in the preceding cases. When the court treats any and all interaction with the controls as operation, they do so knowing that the person interacting is in the driver's seat. It is a broad definition in light of the position of the operator. Each of the cases is distinguishable by this substantial--at least on its face--change in position of the accused.
+
+     This change in posture is material with respect to the wording of the tests. Since most of these tests include an intent element, a passenger would fail to satisfy these tests from the passenger seat. If in order to operate a person must have a "purpose of putting the car in motion", passengers culpability in this is suspect at best. A passenger can barely be said to have a purpose of putting a car in motion if they have no pedals at their control. Any interaction with controls here would be supplemental to another and without the purpose of putting the car in motion. In Mr. Smith's case, the car could not move until the driver disengaged the clutch; placing the car in gear can have no effect while the engine is disconnected from the drive train. Quoting /Brister/, "[t]he mere presence of defendant in the car while it was in motion does not make him the operator of the vhicle." The court there is looking for control or manipulation over the vehicle. And again the court has the unspoken assumption that the accused is in the driver's seat. The test of looking for "some control or manipulation over the vehicle" is again looking towards a defendant in the driver's seat. There is no case law that this test is the same to be applied to a passenger.
+
+     Further bolstering this understanding is that the law falls under the title "Driving Offenses". While the court has recognized that operation is more broad than driving, it is not done arbitrarily. The expansion is to catch potential drivers and define at what point someone in control of a vehicle has interacted with the vehicle enough for police to legally step in. The legislature was attempting to prevent driving and used wording to allow people in the driver's seat to be prevented from driving. To extend this test to someone in the passenger seat would be hold to a legal formalism that frustrates the legislative purpose by extending beyond the legislative mandate.
+
+     If the test is not any interaction with controls, what test is there. Mr. Smith will argue that helping a driver should fall short of any test the court would find. He drank and then found another driver. His car, a manual gearshift, proved to be more difficult to operate than automatic gearshifts and he helped. The danger to society from an intoxicated driver was averted and he provided no meaningful operation of the car. As the passenger he could not have the purpose to put the car in motion even if he knew that by his actions it was reasonably certain to follow.
