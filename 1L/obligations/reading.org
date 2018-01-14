@@ -1,0 +1,148 @@
+* Preliminary Title
+** Chapter 1 General Principles
+   1. Sources of law: legislation and custom
+   2. legislation is a solemn expression of legislative will
+   3. custom
+
+      custom results form pracctice repeated for a long time and
+      generally accepted as having acquired the force of la.w custom may
+      not abrogate legislation.
+
+      distinct from "conventional usages", a secondary source of
+      law. Custom requries two things:
+      1. a long series of actions constantly repeated; and
+
+      2. a juridicial sentiment that the practice is binding.
+
+      Conventional usage has only the first.
+
+** Chapter 2 Interpretation of Laws
+
+   9. clear and unambiguous law
+
+* Title III: Obligations in General
+
+** Chapter 1 General Principles
+
+*** 1756 Obligations definition
+
+    An obligation is a legal relationship whereby a person,
+    called the obligor, is bound to render a performance in favor
+    of another, called the obligee. Performance may consist of
+    giving, doing, or not doing something.
+
+*** 1757 Sources of Obligations
+
+    Obligations arise from contracts and other declarations of
+    will. They also arise directly from the law, regardless of a
+    declaration of will, in instances such as wrongful acts, the
+    management of the affairs of another, unjust enrichment and other
+    acts or facts.
+
+*** 1758 General effects
+
+    1. an obligation may give the obligee the right to:
+       1. Enforce the performance that the obligor is bound to render
+       2. enforce performance by causing it to be rendered by another
+          at the obligor's expense;
+       3. recover damages for the obligor's failure to perform, or his
+          defective or delayed performance.
+    2. an obligation may give the obligor the right to:
+       1. obtain the proper discharge when he has performed in full;
+       2. contest the obligee's actions wshen the obligation has been
+          extinguished or modified by a legal cause.
+
+*** 1759 Good faith
+
+    good faith shall govern the conduct of the obligor and the obligee
+    in whatever pertains to the obligation
+
+* Title IV Conventional Obligations or Contracts
+
+** Chapter 1 General Principles
+
+*** 1906 Definition of Contract
+
+    A contract is an agreement by two or more parties whereby
+    obligations are created, modified, or extinguished.
+
+** Chapter 2 Contractual Capacity and Exceptions
+
+*** 1918 General statement of capacity
+
+    states that the capacity is the rule rather than the
+    exception. Those exceptions are minority, interdicts, and "persons
+    deprived of reason at the time of contracting".
+
+    The next article, 1919, says that without the legal capacity, only
+    the party without legal capacity may ask for recission. So that
+    lack of capacity is the option to not be bound. The contracts are
+    "relatively null" and not an absolute nullity.
+
+** Chapter 3 Consent
+
+*** 1927 Consent
+
+    A contract is formed by the consent of the parties established
+    through offer and acceptance.
+
+    Unless the law prescribes a certain formality for the intended
+    contract, offer and acceptance may be made orally, in writing, or
+    by action or inaction that under the circumstances in clearly
+    indicative of consent.
+
+    Unless otherwise specified in the offer, there need not be
+    conformity between the manner in which the offer is made and the
+    manner in which acceptance is made.
+
+** Chapter 5 Cause
+
+*** 1966 No obligation without cause
+
+    An obligation cannot exist without a lawfull cause
+
+*** 1967 Cause defined; detrimental reliance
+
+    Cause is the reason why a party obligates himself.
+
+    A party may be obligated by a promise when knew or should have
+    known that the promise would induce the other party to rely on it
+    to his detriment and the other party was reasonable in so
+    relying. REcovery may be limited to the expenses incurred or the
+    damages suffered as a result of the promisee's reliance on the
+    promise. Reliance on a gratuitous promise made without required
+    formalities is not reasonable.
+
+** Chapter 6 Object and Matter of Contracts
+
+*** 1972 Possible or impossible object
+
+    A contractual object is possible or impossible according to tits
+    own nature and not according to the parties' ability to perform.
+
+*** 1973 Object determined as to kind
+
+    The object of a contract must be determined at last as to its
+    kind.
+
+    The quantity of a contractual object may be undetermined, provided
+    it is determinable.
+
+* Title V Obligations Arising without Agreement
+
+** Chapter 2. Of offenses and quasi offenses
+
+*** 2315 Liability for acts causing damages
+
+    collection of obligations relating to liability for acts causing
+    damages
+    1. survival action
+    2. wrongful death action
+    3. additional damages: child pornography
+    4. additional damages; intoxicated defendant
+    5. wrongful death and survival action; exception
+    6. liability for damages caused by injury to another
+    7. liability for damages caused by criminal sexual activity
+       occuring during childhood
+    8. liability for damages caused by domestic abuse
+    9. liability for damages caused by acts of terror
