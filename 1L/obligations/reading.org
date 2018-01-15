@@ -1,148 +1,334 @@
-* Preliminary Title
-** Chapter 1 General Principles
-   1. Sources of law: legislation and custom
-   2. legislation is a solemn expression of legislative will
-   3. custom
+* Jan 10
+** Preliminary Title
+*** Chapter 1 General Principles
+    1. Sources of law: legislation and custom
+    2. legislation is a solemn expression of legislative will
+    3. custom
 
-      custom results form pracctice repeated for a long time and
-      generally accepted as having acquired the force of la.w custom may
-      not abrogate legislation.
+       custom results form pracctice repeated for a long time and
+       generally accepted as having acquired the force of la.w custom may
+       not abrogate legislation.
 
-      distinct from "conventional usages", a secondary source of
-      law. Custom requries two things:
-      1. a long series of actions constantly repeated; and
+       distinct from "conventional usages", a secondary source of
+       law. Custom requries two things:
+       1. a long series of actions constantly repeated; and
 
-      2. a juridicial sentiment that the practice is binding.
+       2. a juridicial sentiment that the practice is binding.
 
-      Conventional usage has only the first.
+       Conventional usage has only the first.
 
-** Chapter 2 Interpretation of Laws
+*** Chapter 2 Interpretation of Laws
 
-   9. clear and unambiguous law
+    9. clear and unambiguous law
 
-* Title III: Obligations in General
+** Title III: Obligations in General
 
-** Chapter 1 General Principles
+*** Chapter 1 General Principles
 
-*** 1756 Obligations definition
+**** 1756 Obligations definition
 
-    An obligation is a legal relationship whereby a person,
-    called the obligor, is bound to render a performance in favor
-    of another, called the obligee. Performance may consist of
-    giving, doing, or not doing something.
+     An obligation is a legal relationship whereby a person,
+     called the obligor, is bound to render a performance in favor
+     of another, called the obligee. Performance may consist of
+     giving, doing, or not doing something.
 
-*** 1757 Sources of Obligations
+**** 1757 Sources of Obligations
 
-    Obligations arise from contracts and other declarations of
-    will. They also arise directly from the law, regardless of a
-    declaration of will, in instances such as wrongful acts, the
-    management of the affairs of another, unjust enrichment and other
-    acts or facts.
+     Obligations arise from contracts and other declarations of
+     will. They also arise directly from the law, regardless of a
+     declaration of will, in instances such as wrongful acts, the
+     management of the affairs of another, unjust enrichment and other
+     acts or facts.
 
-*** 1758 General effects
+**** 1758 General effects
 
-    1. an obligation may give the obligee the right to:
-       1. Enforce the performance that the obligor is bound to render
-       2. enforce performance by causing it to be rendered by another
-          at the obligor's expense;
-       3. recover damages for the obligor's failure to perform, or his
-          defective or delayed performance.
-    2. an obligation may give the obligor the right to:
-       1. obtain the proper discharge when he has performed in full;
-       2. contest the obligee's actions wshen the obligation has been
-          extinguished or modified by a legal cause.
+     1. an obligation may give the obligee the right to:
+        1. Enforce the performance that the obligor is bound to render
+        2. enforce performance by causing it to be rendered by another
+           at the obligor's expense;
+        3. recover damages for the obligor's failure to perform, or his
+           defective or delayed performance.
+     2. an obligation may give the obligor the right to:
+        1. obtain the proper discharge when he has performed in full;
+        2. contest the obligee's actions wshen the obligation has been
+           extinguished or modified by a legal cause.
 
-*** 1759 Good faith
+**** 1759 Good faith
 
-    good faith shall govern the conduct of the obligor and the obligee
-    in whatever pertains to the obligation
+     good faith shall govern the conduct of the obligor and the obligee
+     in whatever pertains to the obligation
 
-* Title IV Conventional Obligations or Contracts
+** Title IV Conventional Obligations or Contracts
 
-** Chapter 1 General Principles
+*** Chapter 1 General Principles
 
-*** 1906 Definition of Contract
+**** 1906 Definition of Contract
 
-    A contract is an agreement by two or more parties whereby
-    obligations are created, modified, or extinguished.
+     A contract is an agreement by two or more parties whereby
+     obligations are created, modified, or extinguished.
 
-** Chapter 2 Contractual Capacity and Exceptions
+*** Chapter 2 Contractual Capacity and Exceptions
 
-*** 1918 General statement of capacity
+**** 1918 General statement of capacity
 
-    states that the capacity is the rule rather than the
-    exception. Those exceptions are minority, interdicts, and "persons
-    deprived of reason at the time of contracting".
+     states that the capacity is the rule rather than the
+     exception. Those exceptions are minority, interdicts, and "persons
+     deprived of reason at the time of contracting".
 
-    The next article, 1919, says that without the legal capacity, only
-    the party without legal capacity may ask for recission. So that
-    lack of capacity is the option to not be bound. The contracts are
-    "relatively null" and not an absolute nullity.
+     The next article, 1919, says that without the legal capacity, only
+     the party without legal capacity may ask for recission. So that
+     lack of capacity is the option to not be bound. The contracts are
+     "relatively null" and not an absolute nullity.
 
-** Chapter 3 Consent
+*** Chapter 3 Consent
 
-*** 1927 Consent
+**** 1927 Consent
 
-    A contract is formed by the consent of the parties established
-    through offer and acceptance.
+     A contract is formed by the consent of the parties established
+     through offer and acceptance.
 
-    Unless the law prescribes a certain formality for the intended
-    contract, offer and acceptance may be made orally, in writing, or
-    by action or inaction that under the circumstances in clearly
-    indicative of consent.
+     Unless the law prescribes a certain formality for the intended
+     contract, offer and acceptance may be made orally, in writing, or
+     by action or inaction that under the circumstances in clearly
+     indicative of consent.
 
-    Unless otherwise specified in the offer, there need not be
-    conformity between the manner in which the offer is made and the
-    manner in which acceptance is made.
+     Unless otherwise specified in the offer, there need not be
+     conformity between the manner in which the offer is made and the
+     manner in which acceptance is made.
 
-** Chapter 5 Cause
+*** Chapter 5 Cause
 
-*** 1966 No obligation without cause
+**** 1966 No obligation without cause
 
-    An obligation cannot exist without a lawfull cause
+     An obligation cannot exist without a lawfull cause
 
-*** 1967 Cause defined; detrimental reliance
+**** 1967 Cause defined; detrimental reliance
 
-    Cause is the reason why a party obligates himself.
+     Cause is the reason why a party obligates himself.
 
-    A party may be obligated by a promise when knew or should have
-    known that the promise would induce the other party to rely on it
-    to his detriment and the other party was reasonable in so
-    relying. REcovery may be limited to the expenses incurred or the
-    damages suffered as a result of the promisee's reliance on the
-    promise. Reliance on a gratuitous promise made without required
-    formalities is not reasonable.
+     A party may be obligated by a promise when knew or should have
+     known that the promise would induce the other party to rely on it
+     to his detriment and the other party was reasonable in so
+     relying. REcovery may be limited to the expenses incurred or the
+     damages suffered as a result of the promisee's reliance on the
+     promise. Reliance on a gratuitous promise made without required
+     formalities is not reasonable.
 
-** Chapter 6 Object and Matter of Contracts
+*** Chapter 6 Object and Matter of Contracts
 
-*** 1972 Possible or impossible object
+**** 1972 Possible or impossible object
 
-    A contractual object is possible or impossible according to tits
-    own nature and not according to the parties' ability to perform.
+     A contractual object is possible or impossible according to tits
+     own nature and not according to the parties' ability to perform.
 
-*** 1973 Object determined as to kind
+**** 1973 Object determined as to kind
 
-    The object of a contract must be determined at last as to its
-    kind.
+     The object of a contract must be determined at last as to its
+     kind.
 
-    The quantity of a contractual object may be undetermined, provided
-    it is determinable.
+     The quantity of a contractual object may be undetermined, provided
+     it is determinable.
 
-* Title V Obligations Arising without Agreement
+** Title V Obligations Arising without Agreement
 
-** Chapter 2. Of offenses and quasi offenses
+*** Chapter 2. Of offenses and quasi offenses
 
-*** 2315 Liability for acts causing damages
+**** 2315 Liability for acts causing damages
 
-    collection of obligations relating to liability for acts causing
-    damages
-    1. survival action
-    2. wrongful death action
-    3. additional damages: child pornography
-    4. additional damages; intoxicated defendant
-    5. wrongful death and survival action; exception
-    6. liability for damages caused by injury to another
-    7. liability for damages caused by criminal sexual activity
-       occuring during childhood
-    8. liability for damages caused by domestic abuse
-    9. liability for damages caused by acts of terror
+     collection of obligations relating to liability for acts causing
+     damages
+     1. survival action
+     2. wrongful death action
+     3. additional damages: child pornography
+     4. additional damages; intoxicated defendant
+     5. wrongful death and survival action; exception
+     6. liability for damages caused by injury to another
+     7. liability for damages caused by criminal sexual activity
+        occuring during childhood
+     8. liability for damages caused by domestic abuse
+     9. liability for damages caused by acts of terror
+
+* Jan 15
+
+** Title IV Conventional Obligations or Contracts
+
+*** Chapter 2 Contractual Capacity and Exceptions
+
+**** 1918 General statement of capacity
+
+     All persons have capacity to contract, except unemancipated
+     minors, interdicts, and persons deprived of reason at the time of contracting
+
+**** 1919 Right to plead rescission
+
+     A contract made by a perosn without legal capacity is relatively
+     null and may be rescinded only at the request of that person or
+     his legal representative.
+
+**** 1920 right to require confirmation or rescission of the contract
+
+     Immediately after discovering the incapacity of a party, who at
+     the time of contracting was ignorant of the incapacity of the
+     other party, may require form that party, if the incapacity has
+     ceased, or from the legal representative if it has not, that the
+     contract be confirmed or rescinded.
+
+**** 1921 rescission of contract for incapacity
+
+     Upon rescission of a contract on the ground of incapacity, each
+     party or his legal representative shall restore to the other what
+     he has received thereunder. When restoration is impossible or
+     impracticable, the court may award compensation to the party to
+     whom restoration cannot be made.
+
+**** 1922 fully emancipated minor
+
+     A fully emancipated minor has full contractual capacity.
+
+**** 1923 incapacity of unemancipated minor; exceptions
+
+     A contract by an unemancipated minor may be rescinded on grounds
+     of incapacity except when made for the purpose of providing the
+     minor with something necessary for his support or education, or
+     for a purpose related to his business.
+
+**** 1924 mere representation of majority; reliance
+
+     The mere representation of majority by an unemancipated minor
+     does not preclude an action for rescission of the contract. When
+     the other party reasonably relies on the minor's representation
+     of majority, the contract may not be rescinded.
+
+**** 1925 noninterdicted person deprived of reason; protection of innocent contracting party by onerous title
+
+     A noninterdicted person, who was deprived of reason at the time
+     of contracting, may obtain rescission of an onerous contract upon
+     the ground of incapacity only upon showing that the other party
+     knew or should have known that person's incapacity.
+
+**** 1926 attack on noninterdicted decedent's contracts
+
+     A contract made by a noninterdicted person deprived of reason at
+     the time of contracting may be attacked after his death, on the
+     ground of incapacity, only when the contract is gratuitous, or it
+     evidences lack of understanding, or was made within thirty days
+     of his death, or when application for interdiction was filed
+     before his death.
+
+*** Chapter 3 Consent
+
+**** 1927 Consent
+
+     A contract is formed by the consent of the parties established
+     through offer and acceptance.
+
+     Unless the law prescribes a certain formality for the intended
+     contract, off and acceptance may be made orally, in writing, or
+     by action or inaction that under the circumstances is clearly
+     indicative of consent.
+
+     Unless otherwise specified in the offer, there need not be
+     conformity between the manner in which the offer is made and the
+     manner in which the acceptance is made.
+
+**** 1928 Irrevocable Offer
+
+     An offer that specifies a period of time for acceptance is
+     irrevocable during that time.
+
+     When the offeror manifests an intent to give the offeree a delay
+     within which t o accept, without specifying a time, the offer is
+     irrevocable for a reasonable time.
+
+**** 1929 Expiration of irrevocable offer for lack of acceptance
+
+     An irrecovable offer expires if not accepted within the time
+     prescribed in the preceding article.
+
+**** 1930 Revocable Offer
+
+     An offer not irrevocable under Civil Code 1928 may be revoked
+     before it is accepted.
+
+**** 1931 Expiration of revocable offer
+
+     A revocable offer expires if not accepted within a reasonable time.
+
+**** 1932 Expiration of offer by death or incapacity of either party
+
+     An offer expires by the death or incapacity of the offeror or the
+     offeree before it has been accepted.
+
+**** 1933 Option Contracts
+
+     An option is a contract whereby the parties agree that offeror is
+     bound by his offer for a specified period of time and the the
+     offeree may accept within that time.
+
+
+***** Commentary
+
+      This is distinct from an irrevocable offer even though the code
+      definition does not hint at this. Options are assignable and
+      have different rules about about death an incapacity of the
+      parties. It kinda sucks that the source of truth here is
+      woefully incomplete.
+
+**** Timetables
+
+     | action                 | timetable        |
+     |------------------------+------------------|
+     | irrevocable acceptance | when received    |
+     | recovable acceptance   | when transmitted |
+     | revocation             | when received    |
+
+     A written revocation, rejection, or acceptance is received when
+     it comes into the possession of the addressee or of a person
+     authorized by him to receive it, or when it is deposited in a
+     place the addressee has indicated as the place for this or
+     similar communications to be deposited for him.
+
+**** 1947 Form contemplated by parties
+
+     When, in the absence of a legal requirement, the parties have
+     contemplated a certain form, it is presumed that they do not
+     intend to be bound until the contract is executed in that form.
+
+** Title IX Lease
+
+*** Chapter 3 The obligations of the lessor and the lessee
+
+**** 2687 Damage caused by fault
+
+     The lessee is liable for damage to the thing caused by his fault
+     or that of a person who, with his consent, is on the presmises or
+     uses the thing.
+
+**** 2688 Obligation to inform lessor
+
+     The lessee is bound to notify the lessor without delay when the
+     thing has been damaged or requires repair, or when his possession
+     has been disturbed by a third person. The lessor is entitled to
+     damages sustained as a result of the lessee's failure to perform
+     this obligation.
+
+**** 2689 Payment of taxes and other charges
+
+     The lessor is bound to pay all taxes, assessments, and other
+     charges that burden the thing, except those that arise from the
+     use of the thing by the lessee.
+
+** Litvinoff
+
+*** Capacity
+
+**** four required elements
+
+1. capacity
+2. cause
+3. consent
+4. object
+
+/par excellence/: better or more than all others of the same kind
+
+generally defined as the ability to exercise certain rights and duties.

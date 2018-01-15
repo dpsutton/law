@@ -1,7 +1,7 @@
 #+TITLE: Obligations
 
-* Schedule [1/29]:
-** TODO Jan 10
+* Schedule [2/29]:
+** DONE Jan 10
 La. Civil Code intro, arts. 1-14, 1756- 1759,
 Read Articles 1756-1759, 1906, 1918, 1927, 1966-1967, 1972-1973, 2315 of the Civil Code AND
 Harrison v. Gore, 660 So. 2d 563 (La. App. 2nd Cir. 1995).
