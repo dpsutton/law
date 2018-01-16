@@ -148,7 +148,7 @@
      8. liability for damages caused by domestic abuse
      9. liability for damages caused by acts of terror
 
-* Jan 15
+* Jan 17
 
 ** Title IV Conventional Obligations or Contracts
 
@@ -324,11 +324,250 @@
 
 **** four required elements
 
-1. capacity
-2. cause
-3. consent
-4. object
+     1. capacity
+     2. cause
+     3. consent
+     4. object
 
-/par excellence/: better or more than all others of the same kind
+     /par excellence/: better or more than all others of the same kind
 
-generally defined as the ability to exercise certain rights and duties.
+     generally defined as the ability to exercise certain rights and duties.
+
+**** Julius Cohen Jeweler, Inc. v. Succession of Jumonville
+
+***** facts
+
+      Senator Jumonville was known to a jeweller as a large spender. In
+      May of 1982 his family seeks to have him declared interdicted and
+      to have provisional curators appointed to manage affairs. The trial
+      court so appointed the curators /without/ a hearing declaring the
+      Senator interdicted.
+
+      In Feburary of 1983, the jeweler meets with the Senator who
+      purchases $190,000 of jewelery for family memebers. His daughter
+      happens to meet the jeweler and returns some so that the result is
+      only $40,000 of jewelery purchased. It was not until the next day
+      that the jewler heard of the pending interdiction suit. Cohen twice
+      tried to persuade the Senator to cancel the jewelry sale.
+
+      The Senator died in May of 1983 about a year after the intial
+      interdiction proceeding. The jeweler brought action against the
+      succession for the unpaid balance of $40,000.
+
+***** lower court
+
+      Petitioner plaintiff argued that the Senator had entered into a
+      binding contract. Further, the petitioner-plaintiff argued that
+      defendants were equitably estopped "from asserting the defense of
+      incapcity to contract".
+
+      Defendants argued that the contract was null because of the
+      filing for interdiction and appointment of the provisional
+      curators voided any attempt by the Senator to contract after
+      that date. They had only to ask for a rescission. They also
+      claimed that failure to recoup the remaining balance of jewelry
+      was a failure to mitigate his damages.
+
+***** rule
+
+      "The general rule is that all persons are presumed cappable of
+      contracting, except those who have been declared incapable by law".
+
+      1919: Right to plead rescission
+      #+BEGIN_QUOTE
+      A contract made by a person without legal capacity is relatively
+      null and may be rescinded only at the request of that person or his
+      legal reprsentative.
+
+      Comment: (d) Under this article, a contract made by an interdict
+      after the date of /successfull/ application for interdiction is
+      relatively null.
+      #+END_QUOTE
+
+      1926: Attack on noninterdicted decedent's contracts
+      #+BEGIN_QUOTE
+      A contract made by a noninterdicted person deprived of reason at
+      the time of contracting may be attacked after his death, on the
+      ground of incapacity, only when the contract is gratuitous, or it
+      evidences lack of understanding, or was made within thirty days
+      of his death, or when application for /interdiction was filed
+      before his death./
+      #+END_QUOTE
+
+      "The conclusive presumption to contract arises only after a
+      judgment of interdiction" Cited as 1788.1 but this seems to be
+      "Joint obligations for obligors or obligees"
+
+      1925: Noninterdicted person deprived of reason; protection of
+      innocent contracting party by onerous title
+      #+BEGIN_QUOTE
+      A noninterdicted person, who was /deprived of reason at the time/
+      of contracting, may obtain rescission of an onerous contract upon
+      the ground of incapcacity only upon /showing that the other party
+      knew or should have known that person's incapacity./
+      #+END_QUOTE
+
+***** holding
+
+      The rescission effort by the defense fails for failure to
+      demonstrate the two required showings: incapacity and known or
+      should have known. The lack of a hearing determining interdiction
+      prevents the court from assuming this quite harsh curbing of civil
+      rights.
+
+***** reasoning
+
+      The succession can attack the contract under the "interdiction was
+      filed before his death" allowance of 1926. However, their claim
+      that the Senator lacked capacity fails because a court never ruled
+      him interdicted. The appellate court holds that the lower court was
+      incorrect in finding the appointed curators sufficient to presume
+      the Senator interdicted.
+
+      As such, the defendants can only argue that the senator was
+      incapable at the time and the jeweler knew or should have
+      known. The testimony of a doctor is excluded as hearsay and the
+      court points out that the Senator hosted the jeweler along with
+      several others at a fancy dinner party, along with paying for
+      lodging and accomodations as in the past. "It was undisputed that
+      the Senator was unaware of the interdiction proceedings ... until
+      ... two days after the sale."
+
+***** takeaway
+
+**** Rabin v Blazas
+
+***** facts
+
+      Blazas is an 80 year old man who contracted to purchase two
+      properties. At the time of inspecting the properties, although
+      he had difficulty hearing plaintiff he did not have issues
+      understanding him. He drove plaintiff to the property and had a
+      discussion about interest rates, financing, and the advantage of
+      paying cash. The contract was for $55,000 with a 10% down
+      payment in 48 hours. This period elapsed without payment and a
+      suit results for breach.
+
+      A doctor testified at the trial court that Blazas (D) had a
+      brain condition that would render him incapable. This diagnosis
+      was made six months after the contract in question. The doctor
+      could not say if the symptoms were present at the time of
+      contracting.
+
+***** lower court
+
+      Blazas, defendant, argues that due to his age and infirmity, he
+      was incapable of contracting and the contract should be
+      rescinded. The court rejects this argument and rules for
+      plaintiff in amount of $12,450.
+
+***** rule
+
+      1925: Noninterdicted person deprived of reason; protection of
+      innocent contracting party by onerous title
+      #+BEGIN_QUOTE
+      A noninterdicted person, who was /deprived of reason at the time/
+      of contracting, may obtain rescission of an onerous contract upon
+      the ground of incapcacity only upon /showing that the other party
+      knew or should have known that person's incapacity./
+      #+END_QUOTE
+
+***** holding
+
+      The doctor fails to demonstrate that he was incapable at the
+      time of contracting. As such the contract is valid and damages
+      are owed. The lower court is affirmed.
+
+***** reasoning
+
+      In order to rescind the contract, the doctor must satisfy both
+      elements of 1925: (1) that his was incapable at the time of
+      contracting and (2) that the other party knew or should have
+      known. The court stops the analysis at the failure to
+      demonstrate (1). The doctor could not state that the onset of
+      the disease was present at the time of contracting, and
+      therefore the defendant had failed to prove his case to
+      rescind. But the court continues and notes that testimony
+      appears to show a lucid and savvy property owner engaged in
+      technical discussions. /If/ he was incapacitated, the other
+      party would have had no idea.
+
+***** takeaway
+
+*** Consent
+
+**** Belgard v Collins
+
+***** facts
+
+      Mrs. Collins' store was damaged in a storm. Mr. Belgard runs an
+      engineering consulting firm whose business plan is to provide
+      bids based on their own engineering inspection and recoup 25% of
+      amount supplied by the insurance company above the original
+      payout.
+
+      Mr. Belgard claims that he offered to bring his engineer to go
+      over the details. He did so while present and compiled the
+      engineers report with his bid and two others. Mrs. Collins asked
+      him to submit this package to the insurnace which he claims is
+      her acceptance of the services.
+
+      Mrs. Collins states that she thought that Mr. Belgard was a
+      contractor looking to bid on the repair work. Mrs. Collins
+      understood that she was hiring the engineer and not
+      Mr. Belgard. She had a conversation about rates with Mr. Beard,
+      which he confirmed. Mr. Beard stated he had no knowledge of any
+      agreement between Mrs. Collins and Mr. Belgard.
+
+      Mrs. Collins received an advance from the insurance company of
+      $50,000 and sought to pay Mr. Beard for his services. He said
+      that he had been paid by Mr. Belgard. Mrs. Collins tried to
+      determine why the consultant had paid the engineer and was not
+      told how much. Mrs. Collins claimed that Mr. Belgard submitted
+      the package of information of his own accord.
+
+      All three bids were rejected and Mrs. Collins received $123,000
+      from the insurance. Mr. Belgard brings suit for 25% of the
+      payout above the $50,000 initial check.
+
+***** lower court
+
+      Found in favor of Mrs. Collins stating that there was never a
+      "meeting of the minds" and thus no oral contract.
+
+***** rule
+
+      Four elements for a valid contract:
+      1. the parties must have legal capacity to contract;
+      2. the parties' mutual consent must be freely given;
+      3. there must be a lawful cause or purpose; and
+      4. the object of the contract must be lawful, possible, and
+         determined or determinable.
+
+***** holding
+
+      The lower court is affirmed and there was no oral contract
+      between the parties.
+
+      However, Mrs. Collins received the economic benefit of the
+      engineer's services and the lower court's order is amended for
+      her to pay the $1300 fee.
+
+***** reasoning
+
+      The lower court found that there was no "meeting of the minds"
+      of the two parties--a finding of fact. As such, appellate review
+      to disturb this finding is only in the case the conclusion is
+      "clearly wrong".
+
+      The court notes that Mrs. Collins believed Mr. Belgard was a
+      contractor. She tried to pay the engineer, a step that would not
+      be necessary if she thought she was dealing with a
+      contractor. This step was months after Mr. Belgard thinks she
+      agreed to the consulting contract.
+
+      There is no evidence to suggest a failing of a contract for lack
+      of "meeting of the minds" is "clearly wrong" and the lower court
+      is affirmed.
+
+***** takeaway
