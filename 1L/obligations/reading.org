@@ -571,3 +571,154 @@
       is affirmed.
 
 ***** takeaway
+**** North Louisiana Milk Producers Assoc, Inc. v. Southland Corporation
+
+***** facts
+
+      A dispute between milk producer and consumer. The two had dealt
+      for years together, taking the higher of the minimum price set
+      by a state and federal agency. After time, this price was
+      determined to be too low by the seller (North Louisiana Milk
+      Producers Association).
+
+      "Effective for the month of ____, all milk purchased by your
+      plant will be priced at $_____. Your acceptance of milk from
+      members of this assoc during .. will constitute your agreement
+      to these announced prices."
+
+      Consumer of milk (defendant) disputes these prices with several
+      letters over the months. Plaintiff responds that they reject the
+      counter offer and state that all milk received from members are
+      on terms previously stated. Defendant continued to order milk in
+      customary way: supervisors ordering by phone with no discussion
+      of price at time.
+
+      Plaintiff billed at described prices, defendant paid at the
+      customary higher of the two minimum prices set by the agencies,
+      leading to a balance of $79,958 at the time of suit. (why not in
+      federal court then?).
+
+***** lower court
+
+      Rules for plaintiff at his price. "defendant contends on appeal
+      that since there was no agreement or contract as to price, the
+      lower court erred in supplying the price".
+
+***** rule
+
+      #+BEGIN_QUOTE
+      To be considered properly as such, the offer must fulfill the
+      following three requirements clearly established in the
+      Louisiana Civil Code:
+      1) The design to give the other party the right of concluding
+         the contract by his assent
+      2) The offeror's intention to obligate himself
+      3) A Serious intent
+      #+END_QUOTE
+
+***** holding
+
+      Plaintiff made an operative offer that specified the mode of
+      acceptance: ordering milk.
+
+      Defendant never crafted a true counter offer as it did not
+      specify a specific quantity of milk at a specific price.
+
+      Therefore when defendant's employees ordered milk from plaintiff
+      without conditioning as to price, it served as acceptance of
+      standing offer to sell at stated price by plaintiff.
+
+***** reasoning
+
+      Before 1976, the time when the producer divereged from the
+      prices set by the agencies, each side could rightfully be
+      considered an offeror. An offer to sell at price X or an offer
+      to purchase at price X. Plaintiffs broke with this custom in
+      1976 and set stated prices. "[I]t made a standing or operative
+      offer to sell for the stated period as was expressed in the
+      monthly correspondence as well as in some telephone calls
+      between the managesr". The method of acceptance was
+      explicit--ordering milk--and "not the a promise by defendant
+      that it would order in the future".
+
+      Plaintiff clearly would not acquiesce to the offer of defendant
+      so it is an offer to sell, not an offer to purchase
+      after 1976. Defendant could have phrased its orders "sell us X
+      amount of milk at Y dollars" yet did not do so. Thus there was
+      never a true offer of the supposed "counter offer".
+
+***** takeaway
+
+**** Illinois Central Gulf Railroad Company v. International Harvester Company
+
+***** facts
+
+      A company rents property on Poydras street. When the superdome
+      is constructed, the property value increases. The company asks
+      to sublease to a parking garage structure, to which the leasing
+      company declines. The company does so anyways, sending rent
+      payments for the next two and a half years. Sues for eviction in
+      Novemeber 1977 when sublease was started in January 1975.
+
+***** lower court
+
+      Trial court ruled that there was no consent to a lease
+      modification and therefore the actions were a breach of the
+      lease. The contract included a right to terminate which they
+      were validly exercising.
+
+      The appellate court overturned this, ruling "by its silence and
+      inaction, had impliedly assented to the sublease and altered
+      used of the premises"
+
+***** rule
+
+      "According to the civil code, consent may be implied in the
+      following instances:
+
+      #+BEGIN_QUOTE
+      ... when it is manifested by actions, even by silence or by
+      inaction, in cases win which they can from the circumstances be
+      supposed to mean, or by legal presumption are directed to be
+      considered as evidence of assent.
+
+      when (actions without words) are done under circumstances that
+      naturally imply a consent to such contract... [1927]
+      #+END_QUOTE
+
+      i don't find the above in 1927 at all:
+
+      1927: Consent
+      #+BEGIN_QUOTE
+      A contract is formed by the consent of the parties established
+      through offer and acceptance.
+
+      Unless the law prescribes a certain formality for the intended
+      contract, offer and acceptance m,ay be made orally, in writing,
+      or by action or inaction that /under the circumstances is clearly
+      indicative of consent./
+
+      Unless otherwise specified in the offer, there need not be
+      conformity between the manner in which the offer is made and the
+      manner in which the acceptance is made.
+      #+END_QUOTE
+
+***** holding
+
+      The landlord had not demonstrated consent to the lease modification
+
+***** reasoning
+
+      There is no legal presumption of acceptance form the accepting
+      of rent. So the question is "whether the judge exercised sound
+      discretion in determing that Illinois Central's consent to a
+      modification of the lease contract was not unequivocally implied
+      from its silence and inaction under the particular circumstances
+      of the instant case."
+
+      Lack of finding of consent. The delay is not inconsistent with
+      this. Note the size of the company, amount of holdings, new
+      management, etc. The lawsuit was filed soon after they found out
+      the circumstances.
+
+***** takeaway
