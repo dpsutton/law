@@ -5,9 +5,9 @@
 ** offer
 ** acceptance
 ** revocation
-** rejectoin
+** rejection
 ** counter offer
-* integration
+* interpretation
 ** interpreting terms
 ** gap filling
 ** form k's which terms were agreed to
@@ -15,7 +15,8 @@
 ** parol evidence rule
 ** mistake in integration
 * enforcement
-** consideratoin
+** consideration
+A contract is an enforceable promise. With some exceptions, to be enforceable a promise must be supported by a consideratoin. A promise is supported by a consideration if it is bargained for. A promise is bargained for "if it is sought in exchange for his promise and is given by the promisee in exchange for that promise."
 ** modification & preexisting duty
 ** promissory estoppel
 ** statute of frauds
@@ -28,8 +29,12 @@
 ** unconscionability
 ** public policy/illegality
 ** mistake
+'a belief that is not in accord with the facts"
 ** impracticability / impossibility
+impossibility: impossible due to no fault. impossible on behalf of the side claiming the defense
+impracticability: "extreme and unreasonable difficulty"
 ** frustration of purpsoe
+principal purpose substantially frustrated without his fault by occurrence/non-occurence that was a basic assumption
 * damages
 ** expectation
 ** reliance
