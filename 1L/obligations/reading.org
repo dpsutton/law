@@ -858,3 +858,155 @@
       offer, "creating another and a separate obligation".
 
 ***** takeaway
+
+**** North Central Utilities, Inc. v. Walker Community Water System, Inc.
+
+***** facts
+
+      Walker Community Water System advertised for bids, for which
+      North Central Utilities was the lowest bidder. Defendant did not
+      accept this bid and Plaintiff brings action to force acceptance
+      of bid.
+
+***** lower court
+
+      Held in favor of defendant but seems to be on grounds relating
+      to public utility and responsibilities consequent.
+
+***** rule
+
+      annoyingly, does not cite the civil code. goes to common law in
+      another state and then states that the louisiana law "is
+      basically the same". how about a cite and how it differs then.
+
+      here's the paraphrase of common law that is "basically the same"
+      as our law but not a quote of our law, just random shiz.
+
+      "For any proposal to qualify as an offer, it  must reflect the
+      intent of the author to give to the other party the right to
+      concluding the contract by assent". This is so foundational to
+      contracts that it is so strange that there isn't some language
+      in 192x stating exactly that.
+
+***** holding
+
+      The language was not an offer and therefore ofcourse the utility
+      was free to reject any and all bids it so desired.
+
+***** reasoning
+
+      Ignores public utility laws and looks at the request for
+      bids. Finds that this was not an offer but "merely indicates an
+      intent to sell, and does not constitute an offer to accept the
+      highest bid".
+
+***** takeaway
+
+*** Duration of the Offer
+
+**** Schulingkamp v. Aicklen
+
+***** facts
+
+      Defendant send irrecovable offer to Plaintiff on November 15. On
+      December 21, sends revocation of offer. On December 26,
+      Plaintiff signs acceptance and sends on January 2.
+
+      Offer states was irrevocable through act of sale which plaintiff
+      argues means the defendants were unable to revoke.
+
+***** lower court
+
+***** rule
+
+      1928
+      #+BEGIN_QUOTE
+      An offer that specifies a period of time for acceptance is
+      irrevocable during that time.
+
+      When the offeror manifests an intent to give the offeree a delay
+      within which to accept, without specifying a time, the offer is
+      irrevocable for /a reasonable time/.
+      #+END_QUOTE
+
+***** holding
+
+      The irrevocable offer was open for a reasonable amount of time
+      and then revoked. There was no contract since there was no consent.
+
+***** reasoning
+
+      With no time specified, the standard from 1928 is a "reasonable
+      time". This is circumstance specific and the court decides that
+      a reasonble period of time has passed in which the plaintiff
+      could have accepted. The factors used are elided in this
+      presentation for some dumb reason so we don't get to see why the
+      court thinks that 36 days was an unreasonable amount of time.
+
+***** takeaway
+
+**** Meyers v. Burger King Corporation
+
+***** facts
+
+      Injury relating to construction in a Burger King. Relevant to us
+      is whether there was a contract between Parkway (Burger King's
+      insurer). Parkway states that it does not have a contract with
+      BK since their offer stated the price was in effect for at least
+      45 days. Burger King did not accept within 45 days so Parkway
+      argues the offer had expired leaving a formation issue.
+
+***** lower court
+
+***** rule
+
+      1928
+      #+BEGIN_QUOTE
+      An offer that specifies a period of time for acceptance is
+      irrevocable during that time.
+
+      When the offeror manifests an intent to give the offeree a delay
+      within which to accept, without specifying a time, the offer is
+      irrevocable for /a reasonable time/.
+      #+END_QUOTE
+
+      1927
+      #+BEGIN_QUOTE
+      ...
+      Unless otherwise specified in the offer, there need not be
+      conformity between the manner in which the offer is made and the
+      manner in which the acceptance is made.
+      #+END_QUOTE
+
+***** holding
+
+      There was a valid acceptance of the contract while the offer was
+      still open. The offer was subject to a reasonable time duration
+      as per 1928 and that reasonable time had not expired.
+
+***** reasoning
+
+      The offer did not expire at 45 days, it was open at least 45
+      days. Since no time was actually specified but some time was
+      indicated, 1928 stipulates that the offer is open for a
+      reasonable time. The court doesn't have to investigate this as
+      they find Burger King tacitly accepted the offer at 46 days when
+      it invited Parkway to begin renovations. The court doesn't need
+      intricate analysis that 46 days is a reasonable time with a
+      minimum floor of 45 days.
+
+***** takeaway
+
+* W. M. Heroman & Co., Inc. v. Saia Electric, Inc.
+
+** facts
+
+** lower court
+
+** rule
+
+** holding
+
+** reasoning
+
+** takeaway
