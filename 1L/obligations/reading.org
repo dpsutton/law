@@ -833,6 +833,17 @@
 
 ***** holding
 
+      The court holds that the original contract for sale was the mode
+      of acceptance of the advertisement's offer to trade a 54 for
+      a 55. This was a separate agreement from the original sale and
+      therefore the full integration clause does not exclude parole
+      evidence of the other contract. The dissent takes issue with a
+      newspaper ad being a true offer rather than an invitation to
+      offer, the majority seems to hold that its ambiguous so that
+      ambiguity is held against the author. seems a little harsh.
+
+***** reasoning
+
       As to whether it was an offer, the court seems to say if it was
       ambiguous then that ambiguity is held against the
       author. Defendant argued that plaintiff was under a duty to
@@ -845,7 +856,5 @@
       signed contract. court finds that no it is not. it is
       separate. the sales contract is the acceptance of the newspaper
       offer, "creating another and a separate obligation".
-
-***** reasoning
 
 ***** takeaway
