@@ -1,13 +1,13 @@
 #+TITLE: Obligations
 
-* Schedule [2/29]:
+* Schedule [3/29]:
 ** DONE Jan 10
 La. Civil Code intro, arts. 1-14, 1756- 1759,
 Read Articles 1756-1759, 1906, 1918, 1927, 1966-1967, 1972-1973, 2315 of the Civil Code AND
 Harrison v. Gore, 660 So. 2d 563 (La. App. 2nd Cir. 1995).
 ** DONE Jan 15
 Martin Luther King Jr. Holiday
-** TODO Jan 17
+** DONE Jan 17
 Civil Code arts 1918-1926, 1927-1947, 2687-89,
 Litvinoff 15- 37;
 After p 16, add Succession of Jumonville, 506 So. 2d 535 (La. 1st Cir. 1987);

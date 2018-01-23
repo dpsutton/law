@@ -722,3 +722,130 @@
       the circumstances.
 
 ***** takeaway
+
+* Jan 22
+
+** Litvinoff
+
+   p 37-84
+
+*** Consent
+
+**** Marine Ins Co Limited of London, Eng. v. Rehm
+
+***** facts
+
+      A man's car was stolen out of a parking garage. His insurance is
+      suing the parking lot company.
+
+***** lower court
+
+      seems to have agreed with defendants that the parking recepit
+      declaimed all liability
+
+***** rule
+
+***** holding
+
+      there was liability. there was no consent to the language on the receipt.
+
+***** reasoning
+
+      "the check given by the defendant in this case to Klein upon the
+      receipt of his automobile wa nothing more than a means of
+      identifying his property or a mere receipt and was not a special
+      contract".
+
+***** takeaway
+
+**** Cashio v. Amco Transmissions
+
+***** facts
+
+      A man leaves his car with a transmission shop with $3.00 parking
+      for a saints game. he is aware that the lot will be unattended
+      as both the attendant and the owner are attending the game as
+      well. The car is stolen and he brings this suit.
+
+***** lower court
+
+***** rule
+
+      #+BEGIN_QUOTE
+      ... when it is manifested by actions, even by silence or by
+      inaction, in cases win which they can from the circumstances be
+      supposed to mean, or by legal presumption are directed to be
+      considered as evidence of assent.
+
+      when (actions without words) are done under circumstances that
+      naturally imply a consent to such contract... [1927]
+      #+END_QUOTE
+
+      same reasoning as above but here we legal presumption
+
+***** holding
+
+      there was no evidence of consent to the contrary so defendants
+      consented as depositaries rather than lessors.
+
+***** reasoning
+
+      Louisiana law has taken up this very issue. R.S. 9:2783 provides
+      a safe harbor to prevent a contract of deposit and but only one
+      of hiring or letting out space. Compliance with this is not the
+      only way to create a lease agreemtn. In a related case, the
+      parking lot owner did not comply with the law but the court
+      found that there was a lease and not deposit contract by "the
+      mutual intent of the parties can be inferred from the
+      circumstances".
+
+      While the parking lot was clearly going to be unat;wtended, the
+      customer retained exclusive rights to the vehicle at all times,
+      had unrestricted access to the lot, the court finds that there
+      was a depository relationship created. The sign did not clearly
+      declaim liability and thus a depository relationship was created
+
+***** takeaway
+
+*** Offer
+
+**** Johnson v. Capital City Ford Company, Inc.
+
+***** facts
+
+      A newspaper ran an advertisement offering (?) to trade 1955 ford
+      pickups for 1954 pickups purchased in the next two weeks. A man
+      went in an purchased one and then later was denied the trade for
+      a 1955 Ford pickup.
+
+      The contract to purchase stipulated that it "compirse[d] the
+      entire agreement pertaining to this purhcase and no other
+      agreement of any kind, verbal understanding or promise
+      whatsoever, will be recognized".
+
+***** lower court
+
+***** rule
+
+      "defendant was under a duty to notify plaintiff of any
+      modification of the newspaper offer. the omission in this
+      contract is construed against defendant."
+
+***** holding
+
+      As to whether it was an offer, the court seems to say if it was
+      ambiguous then that ambiguity is held against the
+      author. Defendant argued that plaintiff was under a duty to
+      state that he was accepting the offer. Court points out that in
+      fact they were under a duty to talk about any modifications that
+      to the offer. Defendants were arguing that if he was accepting
+      the deal they would have offered less on trade in value.
+
+      Discussion of whether the newspaper article was part of the
+      signed contract. court finds that no it is not. it is
+      separate. the sales contract is the acceptance of the newspaper
+      offer, "creating another and a separate obligation".
+
+***** reasoning
+
+***** takeaway
