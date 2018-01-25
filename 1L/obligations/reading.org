@@ -811,6 +811,16 @@
 
 **** Johnson v. Capital City Ford Company, Inc.
 
+***** notes
+
+     #+BEGIN_QUOTE
+     Plaintiff's /motive/ in purchasing ... was not only to receive it
+     for the trade-in and boot given, but also to receive the right ...
+     #+END_QUOTE
+
+     goes to cause. Tate was a luminary and uses this cause hook to
+     make it an offer.
+
 ***** facts
 
       A newspaper ran an advertisement offering (?) to trade 1955 ford
@@ -947,6 +957,13 @@
 
 **** Meyers v. Burger King Corporation
 
+***** notes
+
+      meyers works for parkway. parkway offers to rebuild burger
+      king. he sues deep pockets. BK says they have a K and the K will
+      indemnify BK from any lawsuits from injury. but BK has no power
+      to affect the workplace safety.
+
 ***** facts
 
       Injury relating to construction in a Burger King. Relevant to us
@@ -997,16 +1014,16 @@
 
 ***** takeaway
 
-* W. M. Heroman & Co., Inc. v. Saia Electric, Inc.
+**** W. M. Heroman & Co., Inc. v. Saia Electric, Inc.
 
-** facts
+***** facts
 
-** lower court
+***** lower court
 
-** rule
+***** rule
 
-** holding
+***** holding
 
-** reasoning
+***** reasoning
 
-** takeaway
+***** takeaway

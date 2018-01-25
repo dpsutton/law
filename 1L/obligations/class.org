@@ -2,175 +2,240 @@
 
 ** background
 
-both civil and common law.
+   both civil and common law.
 
-90% of all countries practice civil law. generally don't regard judges decisions as law. the idea of a civil code: could put all of the law a person would need to know in a code.
+   90% of all countries practice civil law. generally don't regard judges decisions as law. the idea of a civil code: could put all of the law a person would need to know in a code.
 
-henry II in england in 1100s. Wanted to create power over those pesky saxons. created a circuit of judges to ride around and judge. in rest of europe, tied to land (serfs). in england people didn't consider this. could buy and sell land. very different culture. henry's courts caught on and were popular. started developing more rights: habeas, etc. when they did have legislation it was to curtail the king, especially with the power of the purse.
+   henry II in england in 1100s. Wanted to create power over those pesky saxons. created a circuit of judges to ride around and judge. in rest of europe, tied to land (serfs). in england people didn't consider this. could buy and sell land. very different culture. henry's courts caught on and were popular. started developing more rights: habeas, etc. when they did have legislation it was to curtail the king, especially with the power of the purse.
 
-in europe, all this infighting after roman empire collapses. discovered a roman emperor's collection called Justinian's digest. in the 11th century rediscovered the digest and favored people who discovered it: the king is the law. in england, not so. Three sources of law: local, church, and justinian's digest. French revolution. french tired of corrupt courts: the 3 estates. wanted to level that and make an even playing field. got rid of all law, including the courts (hadn't kept records, and such, as in england). had been trying to put all the law in one place. napoleon in 1804 came up with project where the law was organized into one "easy to read" book. Napoleon owned Louisiana for 20 days (spain owned for 80 years).
+   in europe, all this infighting after roman empire collapses. discovered a roman emperor's collection called Justinian's digest. in the 11th century rediscovered the digest and favored people who discovered it: the king is the law. in england, not so. Three sources of law: local, church, and justinian's digest. French revolution. french tired of corrupt courts: the 3 estates. wanted to level that and make an even playing field. got rid of all law, including the courts (hadn't kept records, and such, as in england). had been trying to put all the law in one place. napoleon in 1804 came up with project where the law was organized into one "easy to read" book. Napoleon owned Louisiana for 20 days (spain owned for 80 years).
 
-Thomas Jefferson wants to put in common law, but those pesky locals didn't want it. TJ sends Edward Livingston down from New York (in charge of federal bank starting up but run out on a subordinate's fraud scandal). He hired two lawyers to collect the law that is currently in place in LA. Added some spanish sources in addition to Napoleons. Accepted by US Senate in 1808. 1825 have to solve the problem that laws are in languages that no one speaks, english, spanish and french. rewrite in only english and french. 1870 code rewrite. contents are both french and US.
+   Thomas Jefferson wants to put in common law, but those pesky locals didn't want it. TJ sends Edward Livingston down from New York (in charge of federal bank starting up but run out on a subordinate's fraud scandal). He hired two lawyers to collect the law that is currently in place in LA. Added some spanish sources in addition to Napoleons. Accepted by US Senate in 1808. 1825 have to solve the problem that laws are in languages that no one speaks, english, spanish and french. rewrite in only english and french. 1870 code rewrite. contents are both french and US.
 
 *** big difference LA and other civil
 
-we have adversarial procedures versus inquisitorial.
+    we have adversarial procedures versus inquisitorial.
 
-in inquisitorial system, lawyers have no discovery power, no power to collect information. judges have all the power. often three judges for a trial. generally very little use of a jury (mostly criminal cases) and they are advised by the judge. we use common law procedures in a civil law system.
+    in inquisitorial system, lawyers have no discovery power, no power to collect information. judges have all the power. often three judges for a trial. generally very little use of a jury (mostly criminal cases) and they are advised by the judge. we use common law procedures in a civil law system.
 
 ** articles 1-9
 
-what is law in louisiana
+   what is law in louisiana
 
-sources of law in louisiana: legislation and custom
+   sources of law in louisiana: legislation and custom
 
 *** legislation
 
- legislation: is the solemn expression of legislative will
+    legislation: is the solemn expression of legislative will
 
 **** custom
 
- custom: practice repeated for a while that becomes the force of law
+     custom: practice repeated for a while that becomes the force of law
 
- there is no written rule that cases are authoritative law
+     there is no written rule that cases are authoritative law
 
- if you have a civil code article, you are expected to look up cases that interpret that article.
+     if you have a civil code article, you are expected to look up cases that interpret that article.
 
- in essence, we look quite like mississippi in common law.
+     in essence, we look quite like mississippi in common law.
 
 **** fairness
 
- if no custom or legislation, you go with fairness.
+     if no custom or legislation, you go with fairness.
 
 **** retroactivity
 
- in the absence of explicit. substantive are prospective, procedural are retroactive and prospective.
+     in the absence of explicit. substantive are prospective, procedural are retroactive and prospective.
 
- laws of substance: laws that affect your rights. us constitution prevents ex post facto.
+     laws of substance: laws that affect your rights. us constitution prevents ex post facto.
 
 **** public interest
 
- can't go against the public interest. used the word arrogate here.
+     can't go against the public interest. used the word arrogate here.
 
 ** interpretation of laws 9--13
 
 *** 9
 
-if a law is clear and unambiguous and applying doesn't lead to absurd, apply as written and don't allow any other interpretations.
+    if a law is clear and unambiguous and applying doesn't lead to absurd, apply as written and don't allow any other interpretations.
 
 *** 10
 
-if susceptible of different meanings, use the one
+    if susceptible of different meanings, use the one
 
 *** meaning of words
 
-familiar meaning or technical meaning if technical
+    familiar meaning or technical meaning if technical
 
 *** ambiguous
 
-if ambiguous, look at the context of the article and the text of the law on the whole. and interpret with reference to each other.
+    if ambiguous, look at the context of the article and the text of the law on the whole. and interpret with reference to each other.
 
-choice:
-1. purpose
-2. context
-3. same subject in connection with each other
+    choice:
+    1. purpose
+    2. context
+    3. same subject in connection with each other
 
 ** obligatiions
 
-start in 1756-1759
+   start in 1756-1759
 
 *** 1756
 
-obligation: legal relationship whereby a person (obligor) is bound to render a performance in favor of another (obligee). Performance consists of giving, doing, or not doing.
+    obligation: legal relationship whereby a person (obligor) is bound to render a performance in favor of another (obligee). Performance consists of giving, doing, or not doing.
 
-obligation to give. under a contract to sell. once paid, you have an obligation to give the object for which was paid.
+    obligation to give. under a contract to sell. once paid, you have an obligation to give the object for which was paid.
 
-obligation to: give, do, or not do.
+    obligation to: give, do, or not do.
 
 *** 1757
 
 **** source
 
-obligations arise from K and other declarations of will. (declaration of will: when you intentionally take on an obligation).
+     obligations arise from K and other declarations of will. (declaration of will: when you intentionally take on an obligation).
 
-obligations are legal duties, regardless of where the source came from.
+     obligations are legal duties, regardless of where the source came from.
 
 **** management of the affairs of the other
 
-neighbor's window is broken and you call up a handyman to board up. neighbor will owe reimbursement costs.
+     neighbor's window is broken and you call up a handyman to board up. neighbor will owe reimbursement costs.
 
 ** contract
 
 *** 1906
 
-definition of K: promise or set of promise, the breach of which the law provides a remedy, performance is recognized as a duty.
+    definition of K: promise or set of promise, the breach of which the law provides a remedy, performance is recognized as a duty.
 
-common law has which civil law does not:
+    common law has which civil law does not:
 
-consideration: a bargained for excahange.
-cause: requires no exchange. i feel like doing this.
+    consideration: a bargained for excahange.
+    cause: requires no exchange. i feel like doing this.
 
 ** harrison v gore
 
-minor sexually abused as child. brings action in K 8 years after for violating the promise of a good christian env at school was violated. statute of lim on K action is 10 years but in tort is 1 year. court finds the claim sounds in tort and is barred from relief. this sol is updated in 1993 to ten years after age of majority.
+   minor sexually abused as child. brings action in K 8 years after for violating the promise of a good christian env at school was violated. statute of lim on K action is 10 years but in tort is 1 year. court finds the claim sounds in tort and is barred from relief. this sol is updated in 1993 to ten years after age of majority.
 
 *** 3492
 
-defines prescription.
+    defines prescription.
 
-delictual action. a tort.
+    delictual action. a tort.
 
 * jan 22
 
 ** sources of obligations
 
-torts, negligence (delict, quasidelict)
+   torts, negligence (delict, quasidelict)
 
-quasi contract
+   quasi contract
 
-contract
+   contract
 
-negotiorum gestio: acting for another person.
+   negotiorum gestio: acting for another person.
 
-notice neighbor's window is broken, contract to have it fixed. neighbor will have to reimburse.
+   notice neighbor's window is broken, contract to have it fixed. neighbor will have to reimburse.
 
 ** K
 
-civil law: promsise or set of promises
+   civil law: promsise or set of promises
 
-civil law: agreement by two or more parties where obligations are created, modified, or extinguished.
+   civil law: agreement by two or more parties where obligations are created, modified, or extinguished.
 
 *** elemnts of K
 
-1. consent
-2. object
-3. capacity
-4. purpose
+    1. consent
+    2. object
+    3. capacity
+    4. purpose
 
 *** presumption
 
-capacity is presumed but rebuttable
+    capacity is presumed but rebuttable
 
 *** 1920
 
-when lacking capacity, the other party can demand to confirm the contract.
+    when lacking capacity, the other party can demand to confirm the contract.
 
 **** hypo
 
-16 year old buys car
+     16 year old buys car
 
-rescission is effective upon agreement.
+     rescission is effective upon agreement.
 
-a sale is perfected as soon as there is agreement on the price even though the thing is not delivered nor payment rendered.
+     a sale is perfected as soon as there is agreement on the price even though the thing is not delivered nor payment rendered.
 
 *** unilateral v bilateral
 
-unilateral
+    unilateral
 
-bilateral: exchange of promises
+    bilateral: exchange of promises
 
 ** consent
 
-offer and acceptance. 1927 consent.
+   offer and acceptance. 1927 consent.
 
-grumbling acceptance
+   grumbling acceptance
+
+* jan 24
+
+** consent
+
+   /clearly indicative of consent/: freedom from contract. you must
+   obligate yourself. you must intend yourself to be bound.
+
+** silence
+
+*** section 69 restatement
+
+    when an offerree failrs to respond to an offer silence operates as
+    acceptanc ein following cases only:
+
+    1. taken advantage of services knowing that payment was expected
+    2. offeror specifies in the offer that assent may be manifested by silence
+    3. previous dealings
+
+*** 1942 Acceptance by silence
+
+    When, because of /special circumstances/, the offeree's silence
+    leads the offeror reasonably to believe that a contract has been
+    formed, the offer is deemed accepted.
+
+** irrevocable
+
+   if revoked, have detrimental reliance benefits.
+
+   if time specified or offeror manifested an intent to give time.
+
+   all things are timed on receipt except acceptance of a revocable offer.
+
+** duration
+
+   saia: our first use of custom?
+
+   #+BEGIN_QUOTE
+   A more modern version of the above example might exist when a
+   custom prevails in the building trade to the effect that a
+   subcontractor's bid to a general contractor, te absence of a
+   provision to the contrary, may be considered irrevocable after it
+   has been used in preparation of the general contractor's bid to the
+   owner, and has been accepted by the owner prior to the attempted
+   revocation by the subcontractor.
+   #+END_QUOTE
+
+** options
+
+2620 eliminates consideration for option which had previously existed.
+
+ok so an option K gives different rights in remedy it
+seems. irrevocable gives right to detrimental reliance
+damages. whereas more equity is open in the option to the full
+expectation damages.
+
+*** 1933 option contracts
+
+    An option is a contract whereby /the parties agree/ that the offeror
+    is bound by his offer for a specified period of time and that the
+    offeree may accept within that time.
+
+made a big deal out of this agreement.
+
+read 2628 before youngblood. obligation v right.
