@@ -1,1029 +1,832 @@
-* Jan 10
-** Preliminary Title
-*** Chapter 1 General Principles
-    1. Sources of law: legislation and custom
-    2. legislation is a solemn expression of legislative will
-    3. custom
+* Capacity
 
-       custom results form pracctice repeated for a long time and
-       generally accepted as having acquired the force of la.w custom may
-       not abrogate legislation.
+** four required elements
 
-       distinct from "conventional usages", a secondary source of
-       law. Custom requries two things:
-       1. a long series of actions constantly repeated; and
+   1. capacity
+   2. cause
+   3. consent
+   4. object
 
-       2. a juridicial sentiment that the practice is binding.
+   /par excellence/: better or more than all others of the same kind
 
-       Conventional usage has only the first.
+   generally defined as the ability to exercise certain rights and duties.
 
-*** Chapter 2 Interpretation of Laws
+** Julius Cohen Jeweler, Inc. v. Succession of Jumonville
 
-    9. clear and unambiguous law
+*** facts
 
-** Title III: Obligations in General
+    Senator Jumonville was known to a jeweller as a large spender. In
+    May of 1982 his family seeks to have him declared interdicted and
+    to have provisional curators appointed to manage affairs. The trial
+    court so appointed the curators /without/ a hearing declaring the
+    Senator interdicted.
 
-*** Chapter 1 General Principles
+    In Feburary of 1983, the jeweler meets with the Senator who
+    purchases $190,000 of jewelery for family memebers. His daughter
+    happens to meet the jeweler and returns some so that the result is
+    only $40,000 of jewelery purchased. It was not until the next day
+    that the jewler heard of the pending interdiction suit. Cohen twice
+    tried to persuade the Senator to cancel the jewelry sale.
 
-**** 1756 Obligations definition
+    The Senator died in May of 1983 about a year after the intial
+    interdiction proceeding. The jeweler brought action against the
+    succession for the unpaid balance of $40,000.
 
-     An obligation is a legal relationship whereby a person,
-     called the obligor, is bound to render a performance in favor
-     of another, called the obligee. Performance may consist of
-     giving, doing, or not doing something.
+*** lower court
 
-**** 1757 Sources of Obligations
+    Petitioner plaintiff argued that the Senator had entered into a
+    binding contract. Further, the petitioner-plaintiff argued that
+    defendants were equitably estopped "from asserting the defense of
+    incapcity to contract".
 
-     Obligations arise from contracts and other declarations of
-     will. They also arise directly from the law, regardless of a
-     declaration of will, in instances such as wrongful acts, the
-     management of the affairs of another, unjust enrichment and other
-     acts or facts.
+    Defendants argued that the contract was null because of the
+    filing for interdiction and appointment of the provisional
+    curators voided any attempt by the Senator to contract after
+    that date. They had only to ask for a rescission. They also
+    claimed that failure to recoup the remaining balance of jewelry
+    was a failure to mitigate his damages.
 
-**** 1758 General effects
+*** rule
 
-     1. an obligation may give the obligee the right to:
-        1. Enforce the performance that the obligor is bound to render
-        2. enforce performance by causing it to be rendered by another
-           at the obligor's expense;
-        3. recover damages for the obligor's failure to perform, or his
-           defective or delayed performance.
-     2. an obligation may give the obligor the right to:
-        1. obtain the proper discharge when he has performed in full;
-        2. contest the obligee's actions wshen the obligation has been
-           extinguished or modified by a legal cause.
+    "The general rule is that all persons are presumed cappable of
+    contracting, except those who have been declared incapable by law".
 
-**** 1759 Good faith
+    1919: Right to plead rescission
+    #+BEGIN_QUOTE
+    A contract made by a person without legal capacity is relatively
+    null and may be rescinded only at the request of that person or his
+    legal reprsentative.
 
-     good faith shall govern the conduct of the obligor and the obligee
-     in whatever pertains to the obligation
+    Comment: (d) Under this article, a contract made by an interdict
+    after the date of /successfull/ application for interdiction is
+    relatively null.
+    #+END_QUOTE
 
-** Title IV Conventional Obligations or Contracts
+    1926: Attack on noninterdicted decedent's contracts
+    #+BEGIN_QUOTE
+    A contract made by a noninterdicted person deprived of reason at
+    the time of contracting may be attacked after his death, on the
+    ground of incapacity, only when the contract is gratuitous, or it
+    evidences lack of understanding, or was made within thirty days
+    of his death, or when application for /interdiction was filed
+    before his death./
+    #+END_QUOTE
 
-*** Chapter 1 General Principles
+    "The conclusive presumption to contract arises only after a
+    judgment of interdiction" Cited as 1788.1 but this seems to be
+    "Joint obligations for obligors or obligees"
 
-**** 1906 Definition of Contract
+    1925: Noninterdicted person deprived of reason; protection of
+    innocent contracting party by onerous title
+    #+BEGIN_QUOTE
+    A noninterdicted person, who was /deprived of reason at the time/
+    of contracting, may obtain rescission of an onerous contract upon
+    the ground of incapcacity only upon /showing that the other party
+    knew or should have known that person's incapacity./
+    #+END_QUOTE
 
-     A contract is an agreement by two or more parties whereby
-     obligations are created, modified, or extinguished.
+*** holding
 
-*** Chapter 2 Contractual Capacity and Exceptions
+    The rescission effort by the defense fails for failure to
+    demonstrate the two required showings: incapacity and known or
+    should have known. The lack of a hearing determining interdiction
+    prevents the court from assuming this quite harsh curbing of civil
+    rights.
 
-**** 1918 General statement of capacity
+*** reasoning
 
-     states that the capacity is the rule rather than the
-     exception. Those exceptions are minority, interdicts, and "persons
-     deprived of reason at the time of contracting".
+    The succession can attack the contract under the "interdiction was
+    filed before his death" allowance of 1926. However, their claim
+    that the Senator lacked capacity fails because a court never ruled
+    him interdicted. The appellate court holds that the lower court was
+    incorrect in finding the appointed curators sufficient to presume
+    the Senator interdicted.
 
-     The next article, 1919, says that without the legal capacity, only
-     the party without legal capacity may ask for recission. So that
-     lack of capacity is the option to not be bound. The contracts are
-     "relatively null" and not an absolute nullity.
+    As such, the defendants can only argue that the senator was
+    incapable at the time and the jeweler knew or should have
+    known. The testimony of a doctor is excluded as hearsay and the
+    court points out that the Senator hosted the jeweler along with
+    several others at a fancy dinner party, along with paying for
+    lodging and accomodations as in the past. "It was undisputed that
+    the Senator was unaware of the interdiction proceedings ... until
+    ... two days after the sale."
 
-*** Chapter 3 Consent
+*** takeaway
 
-**** 1927 Consent
+** Rabin v Blazas
 
+*** facts
+
+    Blazas is an 80 year old man who contracted to purchase two
+    properties. At the time of inspecting the properties, although
+    he had difficulty hearing plaintiff he did not have issues
+    understanding him. He drove plaintiff to the property and had a
+    discussion about interest rates, financing, and the advantage of
+    paying cash. The contract was for $55,000 with a 10% down
+    payment in 48 hours. This period elapsed without payment and a
+    suit results for breach.
+
+    A doctor testified at the trial court that Blazas (D) had a
+    brain condition that would render him incapable. This diagnosis
+    was made six months after the contract in question. The doctor
+    could not say if the symptoms were present at the time of
+    contracting.
+
+*** lower court
+
+    Blazas, defendant, argues that due to his age and infirmity, he
+    was incapable of contracting and the contract should be
+    rescinded. The court rejects this argument and rules for
+    plaintiff in amount of $12,450.
+
+*** rule
+
+    1925: Noninterdicted person deprived of reason; protection of
+    innocent contracting party by onerous title
+    #+BEGIN_QUOTE
+    A noninterdicted person, who was /deprived of reason at the time/
+    of contracting, may obtain rescission of an onerous contract upon
+    the ground of incapcacity only upon /showing that the other party
+    knew or should have known that person's incapacity./
+    #+END_QUOTE
+
+*** holding
+
+    The doctor fails to demonstrate that he was incapable at the
+    time of contracting. As such the contract is valid and damages
+    are owed. The lower court is affirmed.
+
+*** reasoning
+
+    In order to rescind the contract, the doctor must satisfy both
+    elements of 1925: (1) that his was incapable at the time of
+    contracting and (2) that the other party knew or should have
+    known. The court stops the analysis at the failure to
+    demonstrate (1). The doctor could not state that the onset of
+    the disease was present at the time of contracting, and
+    therefore the defendant had failed to prove his case to
+    rescind. But the court continues and notes that testimony
+    appears to show a lucid and savvy property owner engaged in
+    technical discussions. /If/ he was incapacitated, the other
+    party would have had no idea.
+
+*** takeaway
+
+* Consent
+
+** Union of the Parties' Will
+
+*** Belgard v Collins
+
+**** facts
+
+     Mrs. Collins' store was damaged in a storm. Mr. Belgard runs an
+     engineering consulting firm whose business plan is to provide
+     bids based on their own engineering inspection and recoup 25% of
+     amount supplied by the insurance company above the original
+     payout.
+
+     Mr. Belgard claims that he offered to bring his engineer to go
+     over the details. He did so while present and compiled the
+     engineers report with his bid and two others. Mrs. Collins asked
+     him to submit this package to the insurnace which he claims is
+     her acceptance of the services.
+
+     Mrs. Collins states that she thought that Mr. Belgard was a
+     contractor looking to bid on the repair work. Mrs. Collins
+     understood that she was hiring the engineer and not
+     Mr. Belgard. She had a conversation about rates with Mr. Beard,
+     which he confirmed. Mr. Beard stated he had no knowledge of any
+     agreement between Mrs. Collins and Mr. Belgard.
+
+     Mrs. Collins received an advance from the insurance company of
+     $50,000 and sought to pay Mr. Beard for his services. He said
+     that he had been paid by Mr. Belgard. Mrs. Collins tried to
+     determine why the consultant had paid the engineer and was not
+     told how much. Mrs. Collins claimed that Mr. Belgard submitted
+     the package of information of his own accord.
+
+     All three bids were rejected and Mrs. Collins received $123,000
+     from the insurance. Mr. Belgard brings suit for 25% of the
+     payout above the $50,000 initial check.
+
+**** lower court
+
+     Found in favor of Mrs. Collins stating that there was never a
+     "meeting of the minds" and thus no oral contract.
+
+**** rule
+
+     Four elements for a valid contract:
+     1. the parties must have legal capacity to contract;
+     2. the parties' mutual consent must be freely given;
+     3. there must be a lawful cause or purpose; and
+     4. the object of the contract must be lawful, possible, and
+        determined or determinable.
+
+**** holding
+
+     The lower court is affirmed and there was no oral contract
+     between the parties.
+
+     However, Mrs. Collins received the economic benefit of the
+     engineer's services and the lower court's order is amended for
+     her to pay the $1300 fee.
+
+**** reasoning
+
+     The lower court found that there was no "meeting of the minds"
+     of the two parties--a finding of fact. As such, appellate review
+     to disturb this finding is only in the case the conclusion is
+     "clearly wrong".
+
+     The court notes that Mrs. Collins believed Mr. Belgard was a
+     contractor. She tried to pay the engineer, a step that would not
+     be necessary if she thought she was dealing with a
+     contractor. This step was months after Mr. Belgard thinks she
+     agreed to the consulting contract.
+
+     There is no evidence to suggest a failing of a contract for lack
+     of "meeting of the minds" is "clearly wrong" and the lower court
+     is affirmed.
+
+**** takeaway
+
+** Expressing Consent
+
+*** North Louisiana Milk Producers Assoc, Inc. v. Southland Corporation
+
+**** facts
+
+     A dispute between milk producer and consumer. The two had dealt
+     for years together, taking the higher of the minimum price set
+     by a state and federal agency. After time, this price was
+     determined to be too low by the seller (North Louisiana Milk
+     Producers Association).
+
+     "Effective for the month of ____, all milk purchased by your
+     plant will be priced at $_____. Your acceptance of milk from
+     members of this assoc during .. will constitute your agreement
+     to these announced prices."
+
+     Consumer of milk (defendant) disputes these prices with several
+     letters over the months. Plaintiff responds that they reject the
+     counter offer and state that all milk received from members are
+     on terms previously stated. Defendant continued to order milk in
+     customary way: supervisors ordering by phone with no discussion
+     of price at time.
+
+     Plaintiff billed at described prices, defendant paid at the
+     customary higher of the two minimum prices set by the agencies,
+     leading to a balance of $79,958 at the time of suit. (why not in
+     federal court then?).
+
+**** lower court
+
+     Rules for plaintiff at his price. "defendant contends on appeal
+     that since there was no agreement or contract as to price, the
+     lower court erred in supplying the price".
+
+**** rule
+
+     #+BEGIN_QUOTE
+     To be considered properly as such, the offer must fulfill the
+     following three requirements clearly established in the
+     Louisiana Civil Code:
+     1) The design to give the other party the right of concluding
+        the contract by his assent
+     2) The offeror's intention to obligate himself
+     3) A Serious intent
+     #+END_QUOTE
+
+**** holding
+
+     Plaintiff made an operative offer that specified the mode of
+     acceptance: ordering milk.
+
+     Defendant never crafted a true counter offer as it did not
+     specify a specific quantity of milk at a specific price.
+
+     Therefore when defendant's employees ordered milk from plaintiff
+     without conditioning as to price, it served as acceptance of
+     standing offer to sell at stated price by plaintiff.
+
+**** reasoning
+
+     Before 1976, the time when the producer divereged from the
+     prices set by the agencies, each side could rightfully be
+     considered an offeror. An offer to sell at price X or an offer
+     to purchase at price X. Plaintiffs broke with this custom in
+     1976 and set stated prices. "[I]t made a standing or operative
+     offer to sell for the stated period as was expressed in the
+     monthly correspondence as well as in some telephone calls
+     between the managesr". The method of acceptance was
+     explicit--ordering milk--and "not the a promise by defendant
+     that it would order in the future".
+
+     Plaintiff clearly would not acquiesce to the offer of defendant
+     so it is an offer to sell, not an offer to purchase
+     after 1976. Defendant could have phrased its orders "sell us X
+     amount of milk at Y dollars" yet did not do so. Thus there was
+     never a true offer of the supposed "counter offer".
+
+**** takeaway
+
+*** Illinois Central Gulf Railroad Company v. International Harvester Company
+
+**** facts
+
+     A company rents property on Poydras street. When the superdome
+     is constructed, the property value increases. The company asks
+     to sublease to a parking garage structure, to which the leasing
+     company declines. The company does so anyways, sending rent
+     payments for the next two and a half years. Sues for eviction in
+     Novemeber 1977 when sublease was started in January 1975.
+
+**** lower court
+
+     Trial court ruled that there was no consent to a lease
+     modification and therefore the actions were a breach of the
+     lease. The contract included a right to terminate which they
+     were validly exercising.
+
+     The appellate court overturned this, ruling "by its silence and
+     inaction, had impliedly assented to the sublease and altered
+     used of the premises"
+
+**** rule
+
+     "According to the civil code, consent may be implied in the
+     following instances:
+
+     #+BEGIN_QUOTE
+     ... when it is manifested by actions, even by silence or by
+     inaction, in cases win which they can from the circumstances be
+     supposed to mean, or by legal presumption are directed to be
+     considered as evidence of assent.
+
+     when (actions without words) are done under circumstances that
+     naturally imply a consent to such contract... [1927]
+     #+END_QUOTE
+
+     i don't find the above in 1927 at all:
+
+     1927: Consent
+     #+BEGIN_QUOTE
      A contract is formed by the consent of the parties established
      through offer and acceptance.
 
      Unless the law prescribes a certain formality for the intended
-     contract, offer and acceptance may be made orally, in writing, or
-     by action or inaction that under the circumstances in clearly
-     indicative of consent.
-
-     Unless otherwise specified in the offer, there need not be
-     conformity between the manner in which the offer is made and the
-     manner in which acceptance is made.
-
-*** Chapter 5 Cause
-
-**** 1966 No obligation without cause
-
-     An obligation cannot exist without a lawfull cause
-
-**** 1967 Cause defined; detrimental reliance
-
-     Cause is the reason why a party obligates himself.
-
-     A party may be obligated by a promise when knew or should have
-     known that the promise would induce the other party to rely on it
-     to his detriment and the other party was reasonable in so
-     relying. REcovery may be limited to the expenses incurred or the
-     damages suffered as a result of the promisee's reliance on the
-     promise. Reliance on a gratuitous promise made without required
-     formalities is not reasonable.
-
-*** Chapter 6 Object and Matter of Contracts
-
-**** 1972 Possible or impossible object
-
-     A contractual object is possible or impossible according to tits
-     own nature and not according to the parties' ability to perform.
-
-**** 1973 Object determined as to kind
-
-     The object of a contract must be determined at last as to its
-     kind.
-
-     The quantity of a contractual object may be undetermined, provided
-     it is determinable.
-
-** Title V Obligations Arising without Agreement
-
-*** Chapter 2. Of offenses and quasi offenses
-
-**** 2315 Liability for acts causing damages
-
-     collection of obligations relating to liability for acts causing
-     damages
-     1. survival action
-     2. wrongful death action
-     3. additional damages: child pornography
-     4. additional damages; intoxicated defendant
-     5. wrongful death and survival action; exception
-     6. liability for damages caused by injury to another
-     7. liability for damages caused by criminal sexual activity
-        occuring during childhood
-     8. liability for damages caused by domestic abuse
-     9. liability for damages caused by acts of terror
-
-* Jan 17
-
-** Title IV Conventional Obligations or Contracts
-
-*** Chapter 2 Contractual Capacity and Exceptions
-
-**** 1918 General statement of capacity
-
-     All persons have capacity to contract, except unemancipated
-     minors, interdicts, and persons deprived of reason at the time of contracting
-
-**** 1919 Right to plead rescission
-
-     A contract made by a perosn without legal capacity is relatively
-     null and may be rescinded only at the request of that person or
-     his legal representative.
-
-**** 1920 right to require confirmation or rescission of the contract
-
-     Immediately after discovering the incapacity of a party, who at
-     the time of contracting was ignorant of the incapacity of the
-     other party, may require form that party, if the incapacity has
-     ceased, or from the legal representative if it has not, that the
-     contract be confirmed or rescinded.
-
-**** 1921 rescission of contract for incapacity
-
-     Upon rescission of a contract on the ground of incapacity, each
-     party or his legal representative shall restore to the other what
-     he has received thereunder. When restoration is impossible or
-     impracticable, the court may award compensation to the party to
-     whom restoration cannot be made.
-
-**** 1922 fully emancipated minor
-
-     A fully emancipated minor has full contractual capacity.
-
-**** 1923 incapacity of unemancipated minor; exceptions
-
-     A contract by an unemancipated minor may be rescinded on grounds
-     of incapacity except when made for the purpose of providing the
-     minor with something necessary for his support or education, or
-     for a purpose related to his business.
-
-**** 1924 mere representation of majority; reliance
-
-     The mere representation of majority by an unemancipated minor
-     does not preclude an action for rescission of the contract. When
-     the other party reasonably relies on the minor's representation
-     of majority, the contract may not be rescinded.
-
-**** 1925 noninterdicted person deprived of reason; protection of innocent contracting party by onerous title
-
-     A noninterdicted person, who was deprived of reason at the time
-     of contracting, may obtain rescission of an onerous contract upon
-     the ground of incapacity only upon showing that the other party
-     knew or should have known that person's incapacity.
-
-**** 1926 attack on noninterdicted decedent's contracts
-
-     A contract made by a noninterdicted person deprived of reason at
-     the time of contracting may be attacked after his death, on the
-     ground of incapacity, only when the contract is gratuitous, or it
-     evidences lack of understanding, or was made within thirty days
-     of his death, or when application for interdiction was filed
-     before his death.
-
-*** Chapter 3 Consent
-
-**** 1927 Consent
-
-     A contract is formed by the consent of the parties established
-     through offer and acceptance.
-
-     Unless the law prescribes a certain formality for the intended
-     contract, off and acceptance may be made orally, in writing, or
-     by action or inaction that under the circumstances is clearly
-     indicative of consent.
+     contract, offer and acceptance m,ay be made orally, in writing,
+     or by action or inaction that /under the circumstances is clearly
+     indicative of consent./
 
      Unless otherwise specified in the offer, there need not be
      conformity between the manner in which the offer is made and the
      manner in which the acceptance is made.
+     #+END_QUOTE
 
-**** 1928 Irrevocable Offer
+**** holding
 
+     The landlord had not demonstrated consent to the lease modification
+
+**** reasoning
+
+     There is no legal presumption of acceptance form the accepting
+     of rent. So the question is "whether the judge exercised sound
+     discretion in determing that Illinois Central's consent to a
+     modification of the lease contract was not unequivocally implied
+     from its silence and inaction under the particular circumstances
+     of the instant case."
+
+     Lack of finding of consent. The delay is not inconsistent with
+     this. Note the size of the company, amount of holdings, new
+     management, etc. The lawsuit was filed soon after they found out
+     the circumstances.
+
+**** takeaway
+
+*** Marine Ins Co Limited of London, Eng. v. Rehm
+
+**** facts
+
+     A man's car was stolen out of a parking garage. His insurance is
+     suing the parking lot company.
+
+**** lower court
+
+     seems to have agreed with defendants that the parking recepit
+     declaimed all liability
+
+**** rule
+
+**** holding
+
+     there was liability. there was no consent to the language on the receipt.
+
+**** reasoning
+
+     "the check given by the defendant in this case to Klein upon the
+     receipt of his automobile wa nothing more than a means of
+     identifying his property or a mere receipt and was not a special
+     contract".
+
+**** takeaway
+
+** Cashio v. Amco Transmissions
+
+*** facts
+
+    A man leaves his car with a transmission shop with $3.00 parking
+    for a saints game. he is aware that the lot will be unattended
+    as both the attendant and the owner are attending the game as
+    well. The car is stolen and he brings this suit.
+
+*** lower court
+
+*** rule
+
+    #+BEGIN_QUOTE
+    ... when it is manifested by actions, even by silence or by
+    inaction, in cases win which they can from the circumstances be
+    supposed to mean, or by legal presumption are directed to be
+    considered as evidence of assent.
+
+    when (actions without words) are done under circumstances that
+    naturally imply a consent to such contract... [1927]
+    #+END_QUOTE
+
+    same reasoning as above but here we legal presumption
+
+*** holding
+
+    there was no evidence of consent to the contrary so defendants
+    consented as depositaries rather than lessors.
+
+*** reasoning
+
+    Louisiana law has taken up this very issue. R.S. 9:2783 provides
+    a safe harbor to prevent a contract of deposit and but only one
+    of hiring or letting out space. Compliance with this is not the
+    only way to create a lease agreemtn. In a related case, the
+    parking lot owner did not comply with the law but the court
+    found that there was a lease and not deposit contract by "the
+    mutual intent of the parties can be inferred from the
+    circumstances".
+
+    While the parking lot was clearly going to be unat;wtended, the
+    customer retained exclusive rights to the vehicle at all times,
+    had unrestricted access to the lot, the court finds that there
+    was a depository relationship created. The sign did not clearly
+    declaim liability and thus a depository relationship was created
+
+*** takeaway
+
+** The Offer
+
+*** Johnson v. Capital City Ford Company, Inc.
+
+**** notes
+
+    #+BEGIN_QUOTE
+    Plaintiff's /motive/ in purchasing ... was not only to receive it
+    for the trade-in and boot given, but also to receive the right ...
+    #+END_QUOTE
+
+    goes to cause. Tate was a luminary and uses this cause hook to
+    make it an offer.
+
+**** facts
+
+     A newspaper ran an advertisement offering (?) to trade 1955 ford
+     pickups for 1954 pickups purchased in the next two weeks. A man
+     went in an purchased one and then later was denied the trade for
+     a 1955 Ford pickup.
+
+     The contract to purchase stipulated that it "compirse[d] the
+     entire agreement pertaining to this purhcase and no other
+     agreement of any kind, verbal understanding or promise
+     whatsoever, will be recognized".
+
+**** lower court
+
+**** rule
+
+     "defendant was under a duty to notify plaintiff of any
+     modification of the newspaper offer. the omission in this
+     contract is construed against defendant."
+
+**** holding
+
+     The court holds that the original contract for sale was the mode
+     of acceptance of the advertisement's offer to trade a 54 for
+     a 55. This was a separate agreement from the original sale and
+     therefore the full integration clause does not exclude parole
+     evidence of the other contract. The dissent takes issue with a
+     newspaper ad being a true offer rather than an invitation to
+     offer, the majority seems to hold that its ambiguous so that
+     ambiguity is held against the author. seems a little harsh.
+
+**** reasoning
+
+     As to whether it was an offer, the court seems to say if it was
+     ambiguous then that ambiguity is held against the
+     author. Defendant argued that plaintiff was under a duty to
+     state that he was accepting the offer. Court points out that in
+     fact they were under a duty to talk about any modifications that
+     to the offer. Defendants were arguing that if he was accepting
+     the deal they would have offered less on trade in value.
+
+     Discussion of whether the newspaper article was part of the
+     signed contract. court finds that no it is not. it is
+     separate. the sales contract is the acceptance of the newspaper
+     offer, "creating another and a separate obligation".
+
+**** takeaway
+
+*** North Central Utilities, Inc. v. Walker Community Water System, Inc.
+
+**** facts
+
+     Walker Community Water System advertised for bids, for which
+     North Central Utilities was the lowest bidder. Defendant did not
+     accept this bid and Plaintiff brings action to force acceptance
+     of bid.
+
+**** lower court
+
+     Held in favor of defendant but seems to be on grounds relating
+     to public utility and responsibilities consequent.
+
+**** rule
+
+     annoyingly, does not cite the civil code. goes to common law in
+     another state and then states that the louisiana law "is
+     basically the same". how about a cite and how it differs then.
+
+     here's the paraphrase of common law that is "basically the same"
+     as our law but not a quote of our law, just random shiz.
+
+     "For any proposal to qualify as an offer, it  must reflect the
+     intent of the author to give to the other party the right to
+     concluding the contract by assent". This is so foundational to
+     contracts that it is so strange that there isn't some language
+     in 192x stating exactly that.
+
+**** holding
+
+     The language was not an offer and therefore ofcourse the utility
+     was free to reject any and all bids it so desired.
+
+**** reasoning
+
+     Ignores public utility laws and looks at the request for
+     bids. Finds that this was not an offer but "merely indicates an
+     intent to sell, and does not constitute an offer to accept the
+     highest bid".
+
+**** takeaway
+
+** Duration of the Offer
+
+*** Schulingkamp v. Aicklen
+
+**** facts
+
+     Defendant send irrecovable offer to Plaintiff on November 15. On
+     December 21, sends revocation of offer. On December 26,
+     Plaintiff signs acceptance and sends on January 2.
+
+     Offer states was irrevocable through act of sale which plaintiff
+     argues means the defendants were unable to revoke.
+
+**** lower court
+
+**** rule
+
+     1928
+     #+BEGIN_QUOTE
      An offer that specifies a period of time for acceptance is
      irrevocable during that time.
 
      When the offeror manifests an intent to give the offeree a delay
-     within which t o accept, without specifying a time, the offer is
-     irrevocable for a reasonable time.
-
-**** 1929 Expiration of irrevocable offer for lack of acceptance
-
-     An irrecovable offer expires if not accepted within the time
-     prescribed in the preceding article.
-
-**** 1930 Revocable Offer
-
-     An offer not irrevocable under Civil Code 1928 may be revoked
-     before it is accepted.
-
-**** 1931 Expiration of revocable offer
-
-     A revocable offer expires if not accepted within a reasonable time.
-
-**** 1932 Expiration of offer by death or incapacity of either party
-
-     An offer expires by the death or incapacity of the offeror or the
-     offeree before it has been accepted.
-
-**** 1933 Option Contracts
-
-     An option is a contract whereby the parties agree that offeror is
-     bound by his offer for a specified period of time and the the
-     offeree may accept within that time.
-
-
-***** Commentary
-
-      This is distinct from an irrevocable offer even though the code
-      definition does not hint at this. Options are assignable and
-      have different rules about about death an incapacity of the
-      parties. It kinda sucks that the source of truth here is
-      woefully incomplete.
-
-**** Timetables
-
-     | action                 | timetable        |
-     |------------------------+------------------|
-     | irrevocable acceptance | when received    |
-     | recovable acceptance   | when transmitted |
-     | revocation             | when received    |
-
-     A written revocation, rejection, or acceptance is received when
-     it comes into the possession of the addressee or of a person
-     authorized by him to receive it, or when it is deposited in a
-     place the addressee has indicated as the place for this or
-     similar communications to be deposited for him.
-
-**** 1947 Form contemplated by parties
-
-     When, in the absence of a legal requirement, the parties have
-     contemplated a certain form, it is presumed that they do not
-     intend to be bound until the contract is executed in that form.
-
-** Title IX Lease
-
-*** Chapter 3 The obligations of the lessor and the lessee
-
-**** 2687 Damage caused by fault
-
-     The lessee is liable for damage to the thing caused by his fault
-     or that of a person who, with his consent, is on the presmises or
-     uses the thing.
-
-**** 2688 Obligation to inform lessor
-
-     The lessee is bound to notify the lessor without delay when the
-     thing has been damaged or requires repair, or when his possession
-     has been disturbed by a third person. The lessor is entitled to
-     damages sustained as a result of the lessee's failure to perform
-     this obligation.
-
-**** 2689 Payment of taxes and other charges
-
-     The lessor is bound to pay all taxes, assessments, and other
-     charges that burden the thing, except those that arise from the
-     use of the thing by the lessee.
-
-** Litvinoff
-
-*** Capacity
-
-**** four required elements
-
-     1. capacity
-     2. cause
-     3. consent
-     4. object
-
-     /par excellence/: better or more than all others of the same kind
-
-     generally defined as the ability to exercise certain rights and duties.
-
-**** Julius Cohen Jeweler, Inc. v. Succession of Jumonville
-
-***** facts
-
-      Senator Jumonville was known to a jeweller as a large spender. In
-      May of 1982 his family seeks to have him declared interdicted and
-      to have provisional curators appointed to manage affairs. The trial
-      court so appointed the curators /without/ a hearing declaring the
-      Senator interdicted.
-
-      In Feburary of 1983, the jeweler meets with the Senator who
-      purchases $190,000 of jewelery for family memebers. His daughter
-      happens to meet the jeweler and returns some so that the result is
-      only $40,000 of jewelery purchased. It was not until the next day
-      that the jewler heard of the pending interdiction suit. Cohen twice
-      tried to persuade the Senator to cancel the jewelry sale.
-
-      The Senator died in May of 1983 about a year after the intial
-      interdiction proceeding. The jeweler brought action against the
-      succession for the unpaid balance of $40,000.
-
-***** lower court
-
-      Petitioner plaintiff argued that the Senator had entered into a
-      binding contract. Further, the petitioner-plaintiff argued that
-      defendants were equitably estopped "from asserting the defense of
-      incapcity to contract".
-
-      Defendants argued that the contract was null because of the
-      filing for interdiction and appointment of the provisional
-      curators voided any attempt by the Senator to contract after
-      that date. They had only to ask for a rescission. They also
-      claimed that failure to recoup the remaining balance of jewelry
-      was a failure to mitigate his damages.
-
-***** rule
-
-      "The general rule is that all persons are presumed cappable of
-      contracting, except those who have been declared incapable by law".
-
-      1919: Right to plead rescission
-      #+BEGIN_QUOTE
-      A contract made by a person without legal capacity is relatively
-      null and may be rescinded only at the request of that person or his
-      legal reprsentative.
-
-      Comment: (d) Under this article, a contract made by an interdict
-      after the date of /successfull/ application for interdiction is
-      relatively null.
-      #+END_QUOTE
-
-      1926: Attack on noninterdicted decedent's contracts
-      #+BEGIN_QUOTE
-      A contract made by a noninterdicted person deprived of reason at
-      the time of contracting may be attacked after his death, on the
-      ground of incapacity, only when the contract is gratuitous, or it
-      evidences lack of understanding, or was made within thirty days
-      of his death, or when application for /interdiction was filed
-      before his death./
-      #+END_QUOTE
-
-      "The conclusive presumption to contract arises only after a
-      judgment of interdiction" Cited as 1788.1 but this seems to be
-      "Joint obligations for obligors or obligees"
-
-      1925: Noninterdicted person deprived of reason; protection of
-      innocent contracting party by onerous title
-      #+BEGIN_QUOTE
-      A noninterdicted person, who was /deprived of reason at the time/
-      of contracting, may obtain rescission of an onerous contract upon
-      the ground of incapcacity only upon /showing that the other party
-      knew or should have known that person's incapacity./
-      #+END_QUOTE
-
-***** holding
-
-      The rescission effort by the defense fails for failure to
-      demonstrate the two required showings: incapacity and known or
-      should have known. The lack of a hearing determining interdiction
-      prevents the court from assuming this quite harsh curbing of civil
-      rights.
-
-***** reasoning
-
-      The succession can attack the contract under the "interdiction was
-      filed before his death" allowance of 1926. However, their claim
-      that the Senator lacked capacity fails because a court never ruled
-      him interdicted. The appellate court holds that the lower court was
-      incorrect in finding the appointed curators sufficient to presume
-      the Senator interdicted.
-
-      As such, the defendants can only argue that the senator was
-      incapable at the time and the jeweler knew or should have
-      known. The testimony of a doctor is excluded as hearsay and the
-      court points out that the Senator hosted the jeweler along with
-      several others at a fancy dinner party, along with paying for
-      lodging and accomodations as in the past. "It was undisputed that
-      the Senator was unaware of the interdiction proceedings ... until
-      ... two days after the sale."
-
-***** takeaway
-
-**** Rabin v Blazas
-
-***** facts
-
-      Blazas is an 80 year old man who contracted to purchase two
-      properties. At the time of inspecting the properties, although
-      he had difficulty hearing plaintiff he did not have issues
-      understanding him. He drove plaintiff to the property and had a
-      discussion about interest rates, financing, and the advantage of
-      paying cash. The contract was for $55,000 with a 10% down
-      payment in 48 hours. This period elapsed without payment and a
-      suit results for breach.
-
-      A doctor testified at the trial court that Blazas (D) had a
-      brain condition that would render him incapable. This diagnosis
-      was made six months after the contract in question. The doctor
-      could not say if the symptoms were present at the time of
-      contracting.
-
-***** lower court
-
-      Blazas, defendant, argues that due to his age and infirmity, he
-      was incapable of contracting and the contract should be
-      rescinded. The court rejects this argument and rules for
-      plaintiff in amount of $12,450.
-
-***** rule
-
-      1925: Noninterdicted person deprived of reason; protection of
-      innocent contracting party by onerous title
-      #+BEGIN_QUOTE
-      A noninterdicted person, who was /deprived of reason at the time/
-      of contracting, may obtain rescission of an onerous contract upon
-      the ground of incapcacity only upon /showing that the other party
-      knew or should have known that person's incapacity./
-      #+END_QUOTE
-
-***** holding
-
-      The doctor fails to demonstrate that he was incapable at the
-      time of contracting. As such the contract is valid and damages
-      are owed. The lower court is affirmed.
-
-***** reasoning
-
-      In order to rescind the contract, the doctor must satisfy both
-      elements of 1925: (1) that his was incapable at the time of
-      contracting and (2) that the other party knew or should have
-      known. The court stops the analysis at the failure to
-      demonstrate (1). The doctor could not state that the onset of
-      the disease was present at the time of contracting, and
-      therefore the defendant had failed to prove his case to
-      rescind. But the court continues and notes that testimony
-      appears to show a lucid and savvy property owner engaged in
-      technical discussions. /If/ he was incapacitated, the other
-      party would have had no idea.
-
-***** takeaway
-
-*** Consent
-
-**** Belgard v Collins
-
-***** facts
-
-      Mrs. Collins' store was damaged in a storm. Mr. Belgard runs an
-      engineering consulting firm whose business plan is to provide
-      bids based on their own engineering inspection and recoup 25% of
-      amount supplied by the insurance company above the original
-      payout.
-
-      Mr. Belgard claims that he offered to bring his engineer to go
-      over the details. He did so while present and compiled the
-      engineers report with his bid and two others. Mrs. Collins asked
-      him to submit this package to the insurnace which he claims is
-      her acceptance of the services.
-
-      Mrs. Collins states that she thought that Mr. Belgard was a
-      contractor looking to bid on the repair work. Mrs. Collins
-      understood that she was hiring the engineer and not
-      Mr. Belgard. She had a conversation about rates with Mr. Beard,
-      which he confirmed. Mr. Beard stated he had no knowledge of any
-      agreement between Mrs. Collins and Mr. Belgard.
-
-      Mrs. Collins received an advance from the insurance company of
-      $50,000 and sought to pay Mr. Beard for his services. He said
-      that he had been paid by Mr. Belgard. Mrs. Collins tried to
-      determine why the consultant had paid the engineer and was not
-      told how much. Mrs. Collins claimed that Mr. Belgard submitted
-      the package of information of his own accord.
-
-      All three bids were rejected and Mrs. Collins received $123,000
-      from the insurance. Mr. Belgard brings suit for 25% of the
-      payout above the $50,000 initial check.
-
-***** lower court
-
-      Found in favor of Mrs. Collins stating that there was never a
-      "meeting of the minds" and thus no oral contract.
-
-***** rule
-
-      Four elements for a valid contract:
-      1. the parties must have legal capacity to contract;
-      2. the parties' mutual consent must be freely given;
-      3. there must be a lawful cause or purpose; and
-      4. the object of the contract must be lawful, possible, and
-         determined or determinable.
-
-***** holding
-
-      The lower court is affirmed and there was no oral contract
-      between the parties.
-
-      However, Mrs. Collins received the economic benefit of the
-      engineer's services and the lower court's order is amended for
-      her to pay the $1300 fee.
-
-***** reasoning
-
-      The lower court found that there was no "meeting of the minds"
-      of the two parties--a finding of fact. As such, appellate review
-      to disturb this finding is only in the case the conclusion is
-      "clearly wrong".
-
-      The court notes that Mrs. Collins believed Mr. Belgard was a
-      contractor. She tried to pay the engineer, a step that would not
-      be necessary if she thought she was dealing with a
-      contractor. This step was months after Mr. Belgard thinks she
-      agreed to the consulting contract.
-
-      There is no evidence to suggest a failing of a contract for lack
-      of "meeting of the minds" is "clearly wrong" and the lower court
-      is affirmed.
-
-***** takeaway
-**** North Louisiana Milk Producers Assoc, Inc. v. Southland Corporation
-
-***** facts
-
-      A dispute between milk producer and consumer. The two had dealt
-      for years together, taking the higher of the minimum price set
-      by a state and federal agency. After time, this price was
-      determined to be too low by the seller (North Louisiana Milk
-      Producers Association).
-
-      "Effective for the month of ____, all milk purchased by your
-      plant will be priced at $_____. Your acceptance of milk from
-      members of this assoc during .. will constitute your agreement
-      to these announced prices."
-
-      Consumer of milk (defendant) disputes these prices with several
-      letters over the months. Plaintiff responds that they reject the
-      counter offer and state that all milk received from members are
-      on terms previously stated. Defendant continued to order milk in
-      customary way: supervisors ordering by phone with no discussion
-      of price at time.
-
-      Plaintiff billed at described prices, defendant paid at the
-      customary higher of the two minimum prices set by the agencies,
-      leading to a balance of $79,958 at the time of suit. (why not in
-      federal court then?).
-
-***** lower court
-
-      Rules for plaintiff at his price. "defendant contends on appeal
-      that since there was no agreement or contract as to price, the
-      lower court erred in supplying the price".
-
-***** rule
-
-      #+BEGIN_QUOTE
-      To be considered properly as such, the offer must fulfill the
-      following three requirements clearly established in the
-      Louisiana Civil Code:
-      1) The design to give the other party the right of concluding
-         the contract by his assent
-      2) The offeror's intention to obligate himself
-      3) A Serious intent
-      #+END_QUOTE
-
-***** holding
-
-      Plaintiff made an operative offer that specified the mode of
-      acceptance: ordering milk.
-
-      Defendant never crafted a true counter offer as it did not
-      specify a specific quantity of milk at a specific price.
-
-      Therefore when defendant's employees ordered milk from plaintiff
-      without conditioning as to price, it served as acceptance of
-      standing offer to sell at stated price by plaintiff.
-
-***** reasoning
-
-      Before 1976, the time when the producer divereged from the
-      prices set by the agencies, each side could rightfully be
-      considered an offeror. An offer to sell at price X or an offer
-      to purchase at price X. Plaintiffs broke with this custom in
-      1976 and set stated prices. "[I]t made a standing or operative
-      offer to sell for the stated period as was expressed in the
-      monthly correspondence as well as in some telephone calls
-      between the managesr". The method of acceptance was
-      explicit--ordering milk--and "not the a promise by defendant
-      that it would order in the future".
-
-      Plaintiff clearly would not acquiesce to the offer of defendant
-      so it is an offer to sell, not an offer to purchase
-      after 1976. Defendant could have phrased its orders "sell us X
-      amount of milk at Y dollars" yet did not do so. Thus there was
-      never a true offer of the supposed "counter offer".
-
-***** takeaway
-
-**** Illinois Central Gulf Railroad Company v. International Harvester Company
-
-***** facts
-
-      A company rents property on Poydras street. When the superdome
-      is constructed, the property value increases. The company asks
-      to sublease to a parking garage structure, to which the leasing
-      company declines. The company does so anyways, sending rent
-      payments for the next two and a half years. Sues for eviction in
-      Novemeber 1977 when sublease was started in January 1975.
-
-***** lower court
-
-      Trial court ruled that there was no consent to a lease
-      modification and therefore the actions were a breach of the
-      lease. The contract included a right to terminate which they
-      were validly exercising.
-
-      The appellate court overturned this, ruling "by its silence and
-      inaction, had impliedly assented to the sublease and altered
-      used of the premises"
-
-***** rule
-
-      "According to the civil code, consent may be implied in the
-      following instances:
-
-      #+BEGIN_QUOTE
-      ... when it is manifested by actions, even by silence or by
-      inaction, in cases win which they can from the circumstances be
-      supposed to mean, or by legal presumption are directed to be
-      considered as evidence of assent.
-
-      when (actions without words) are done under circumstances that
-      naturally imply a consent to such contract... [1927]
-      #+END_QUOTE
-
-      i don't find the above in 1927 at all:
-
-      1927: Consent
-      #+BEGIN_QUOTE
-      A contract is formed by the consent of the parties established
-      through offer and acceptance.
-
-      Unless the law prescribes a certain formality for the intended
-      contract, offer and acceptance m,ay be made orally, in writing,
-      or by action or inaction that /under the circumstances is clearly
-      indicative of consent./
-
-      Unless otherwise specified in the offer, there need not be
-      conformity between the manner in which the offer is made and the
-      manner in which the acceptance is made.
-      #+END_QUOTE
-
-***** holding
-
-      The landlord had not demonstrated consent to the lease modification
-
-***** reasoning
-
-      There is no legal presumption of acceptance form the accepting
-      of rent. So the question is "whether the judge exercised sound
-      discretion in determing that Illinois Central's consent to a
-      modification of the lease contract was not unequivocally implied
-      from its silence and inaction under the particular circumstances
-      of the instant case."
-
-      Lack of finding of consent. The delay is not inconsistent with
-      this. Note the size of the company, amount of holdings, new
-      management, etc. The lawsuit was filed soon after they found out
-      the circumstances.
-
-***** takeaway
-
-* Jan 22
-
-** Litvinoff
-
-   p 37-84
-
-*** Consent
-
-**** Marine Ins Co Limited of London, Eng. v. Rehm
-
-***** facts
-
-      A man's car was stolen out of a parking garage. His insurance is
-      suing the parking lot company.
-
-***** lower court
-
-      seems to have agreed with defendants that the parking recepit
-      declaimed all liability
-
-***** rule
-
-***** holding
-
-      there was liability. there was no consent to the language on the receipt.
-
-***** reasoning
-
-      "the check given by the defendant in this case to Klein upon the
-      receipt of his automobile wa nothing more than a means of
-      identifying his property or a mere receipt and was not a special
-      contract".
-
-***** takeaway
-
-**** Cashio v. Amco Transmissions
-
-***** facts
-
-      A man leaves his car with a transmission shop with $3.00 parking
-      for a saints game. he is aware that the lot will be unattended
-      as both the attendant and the owner are attending the game as
-      well. The car is stolen and he brings this suit.
-
-***** lower court
-
-***** rule
-
-      #+BEGIN_QUOTE
-      ... when it is manifested by actions, even by silence or by
-      inaction, in cases win which they can from the circumstances be
-      supposed to mean, or by legal presumption are directed to be
-      considered as evidence of assent.
-
-      when (actions without words) are done under circumstances that
-      naturally imply a consent to such contract... [1927]
-      #+END_QUOTE
-
-      same reasoning as above but here we legal presumption
-
-***** holding
-
-      there was no evidence of consent to the contrary so defendants
-      consented as depositaries rather than lessors.
-
-***** reasoning
-
-      Louisiana law has taken up this very issue. R.S. 9:2783 provides
-      a safe harbor to prevent a contract of deposit and but only one
-      of hiring or letting out space. Compliance with this is not the
-      only way to create a lease agreemtn. In a related case, the
-      parking lot owner did not comply with the law but the court
-      found that there was a lease and not deposit contract by "the
-      mutual intent of the parties can be inferred from the
-      circumstances".
-
-      While the parking lot was clearly going to be unat;wtended, the
-      customer retained exclusive rights to the vehicle at all times,
-      had unrestricted access to the lot, the court finds that there
-      was a depository relationship created. The sign did not clearly
-      declaim liability and thus a depository relationship was created
-
-***** takeaway
-
-*** Offer
-
-**** Johnson v. Capital City Ford Company, Inc.
-
-***** notes
-
-     #+BEGIN_QUOTE
-     Plaintiff's /motive/ in purchasing ... was not only to receive it
-     for the trade-in and boot given, but also to receive the right ...
+     within which to accept, without specifying a time, the offer is
+     irrevocable for /a reasonable time/.
      #+END_QUOTE
 
-     goes to cause. Tate was a luminary and uses this cause hook to
-     make it an offer.
+**** holding
 
-***** facts
+     The irrevocable offer was open for a reasonable amount of time
+     and then revoked. There was no contract since there was no consent.
 
-      A newspaper ran an advertisement offering (?) to trade 1955 ford
-      pickups for 1954 pickups purchased in the next two weeks. A man
-      went in an purchased one and then later was denied the trade for
-      a 1955 Ford pickup.
+**** reasoning
 
-      The contract to purchase stipulated that it "compirse[d] the
-      entire agreement pertaining to this purhcase and no other
-      agreement of any kind, verbal understanding or promise
-      whatsoever, will be recognized".
+     With no time specified, the standard from 1928 is a "reasonable
+     time". This is circumstance specific and the court decides that
+     a reasonble period of time has passed in which the plaintiff
+     could have accepted. The factors used are elided in this
+     presentation for some dumb reason so we don't get to see why the
+     court thinks that 36 days was an unreasonable amount of time.
 
-***** lower court
+**** takeaway
 
-***** rule
+*** Meyers v. Burger King Corporation
 
-      "defendant was under a duty to notify plaintiff of any
-      modification of the newspaper offer. the omission in this
-      contract is construed against defendant."
+**** notes
 
-***** holding
+     meyers works for parkway. parkway offers to rebuild burger
+     king. he sues deep pockets. BK says they have a K and the K will
+     indemnify BK from any lawsuits from injury. but BK has no power
+     to affect the workplace safety.
 
-      The court holds that the original contract for sale was the mode
-      of acceptance of the advertisement's offer to trade a 54 for
-      a 55. This was a separate agreement from the original sale and
-      therefore the full integration clause does not exclude parole
-      evidence of the other contract. The dissent takes issue with a
-      newspaper ad being a true offer rather than an invitation to
-      offer, the majority seems to hold that its ambiguous so that
-      ambiguity is held against the author. seems a little harsh.
+**** facts
 
-***** reasoning
+     Injury relating to construction in a Burger King. Relevant to us
+     is whether there was a contract between Parkway (Burger King's
+     insurer). Parkway states that it does not have a contract with
+     BK since their offer stated the price was in effect for at least
+     45 days. Burger King did not accept within 45 days so Parkway
+     argues the offer had expired leaving a formation issue.
 
-      As to whether it was an offer, the court seems to say if it was
-      ambiguous then that ambiguity is held against the
-      author. Defendant argued that plaintiff was under a duty to
-      state that he was accepting the offer. Court points out that in
-      fact they were under a duty to talk about any modifications that
-      to the offer. Defendants were arguing that if he was accepting
-      the deal they would have offered less on trade in value.
+**** lower court
 
-      Discussion of whether the newspaper article was part of the
-      signed contract. court finds that no it is not. it is
-      separate. the sales contract is the acceptance of the newspaper
-      offer, "creating another and a separate obligation".
+**** rule
 
-***** takeaway
+     1928
+     #+BEGIN_QUOTE
+     An offer that specifies a period of time for acceptance is
+     irrevocable during that time.
 
-**** North Central Utilities, Inc. v. Walker Community Water System, Inc.
+     When the offeror manifests an intent to give the offeree a delay
+     within which to accept, without specifying a time, the offer is
+     irrevocable for /a reasonable time/.
+     #+END_QUOTE
 
-***** facts
+     1927
+     #+BEGIN_QUOTE
+     ...
+     Unless otherwise specified in the offer, there need not be
+     conformity between the manner in which the offer is made and the
+     manner in which the acceptance is made.
+     #+END_QUOTE
 
-      Walker Community Water System advertised for bids, for which
-      North Central Utilities was the lowest bidder. Defendant did not
-      accept this bid and Plaintiff brings action to force acceptance
-      of bid.
+**** holding
 
-***** lower court
+     There was a valid acceptance of the contract while the offer was
+     still open. The offer was subject to a reasonable time duration
+     as per 1928 and that reasonable time had not expired.
 
-      Held in favor of defendant but seems to be on grounds relating
-      to public utility and responsibilities consequent.
+**** reasoning
 
-***** rule
+     The offer did not expire at 45 days, it was open at least 45
+     days. Since no time was actually specified but some time was
+     indicated, 1928 stipulates that the offer is open for a
+     reasonable time. The court doesn't have to investigate this as
+     they find Burger King tacitly accepted the offer at 46 days when
+     it invited Parkway to begin renovations. The court doesn't need
+     intricate analysis that 46 days is a reasonable time with a
+     minimum floor of 45 days.
 
-      annoyingly, does not cite the civil code. goes to common law in
-      another state and then states that the louisiana law "is
-      basically the same". how about a cite and how it differs then.
+**** takeaway
 
-      here's the paraphrase of common law that is "basically the same"
-      as our law but not a quote of our law, just random shiz.
+*** W. M. Heroman & Co., Inc. v. Saia Electric, Inc.
 
-      "For any proposal to qualify as an offer, it  must reflect the
-      intent of the author to give to the other party the right to
-      concluding the contract by assent". This is so foundational to
-      contracts that it is so strange that there isn't some language
-      in 192x stating exactly that.
+**** facts
 
-***** holding
+     Saia Electric furnished a bid for electrical work. The
+     negotiations for the contract took a further 3 months during
+     which Saia was contacted a few times so that they knew the
+     progress was proceeding. At construction time, Saia would not
+     honor the bid price and furnished a price 100K
+     larger. Contractor got another sub for a cost plus job and
+     brings suit for the difference in price, 95K.
 
-      The language was not an offer and therefore ofcourse the utility
-      was free to reject any and all bids it so desired.
+**** lower court
 
-***** reasoning
+**** rule
 
-      Ignores public utility laws and looks at the request for
-      bids. Finds that this was not an offer but "merely indicates an
-      intent to sell, and does not constitute an offer to accept the
-      highest bid".
+     1928
+     #+BEGIN_QUOTE
+     An offer that specifies a period of time for acceptance is
+     irrevocable during that time.
 
-***** takeaway
+     When the offeror manifests an intent to give the offeree a delay
+     within which to acccept, without specifying a time, the offer is
+     irrevocable for a reasonable time.
+     #+END_QUOTE
 
-*** Duration of the Offer
+**** holding
 
-**** Schulingkamp v. Aicklen
+     1928 governs the bid of the subcontractor. It was irrevocable
+     and was revoked. Plaintiff recovers the difference paid versus
+     the bid price, minus a reasonable amount that was not
+     anticipated in either bid.
 
-***** facts
+**** reasoning
 
-      Defendant send irrecovable offer to Plaintiff on November 15. On
-      December 21, sends revocation of offer. On December 26,
-      Plaintiff signs acceptance and sends on January 2.
+     The court points to recent decisions that confirm that bids are
+     irrevocable offers. then find that the three months that have
+     elapsed was not an unreasonable time for a construction project
+     and note that Saia had been contacted during this time and knew
+     that the contract was progressing.
 
-      Offer states was irrevocable through act of sale which plaintiff
-      argues means the defendants were unable to revoke.
+**** takeaway
 
-***** lower court
+** Option Contracts and rights of first refusal
 
-***** rule
+*** Glover v. Abney
 
-      1928
-      #+BEGIN_QUOTE
-      An offer that specifies a period of time for acceptance is
-      irrevocable during that time.
+**** facts
 
-      When the offeror manifests an intent to give the offeree a delay
-      within which to accept, without specifying a time, the offer is
-      irrevocable for /a reasonable time/.
-      #+END_QUOTE
+     An action after death lseeking specific performance to convey
+     land promised to Glover. Abney had signed a promise to sell land
+     to Glover and then died.
 
-***** holding
+**** lower court
 
-      The irrevocable offer was open for a reasonable amount of time
-      and then revoked. There was no contract since there was no consent.
+     Ruled that the promise lacked consideration and was therefore
+     unenforceable. This is in 1926 and the requirement for
+     consideration has since been removed.
 
-***** reasoning
+**** rule
 
-      With no time specified, the standard from 1928 is a "reasonable
-      time". This is circumstance specific and the court decides that
-      a reasonble period of time has passed in which the plaintiff
-      could have accepted. The factors used are elided in this
-      presentation for some dumb reason so we don't get to see why the
-      court thinks that 36 days was an unreasonable amount of time.
+     At the time, option contracts required some consideration.
 
-***** takeaway
+**** holding
 
-**** Meyers v. Burger King Corporation
+     This promise lacked consideration and therefore the heirs were
+     not bound by it.
 
-***** notes
+**** reasoning
 
-      meyers works for parkway. parkway offers to rebuild burger
-      king. he sues deep pockets. BK says they have a K and the K will
-      indemnify BK from any lawsuits from injury. but BK has no power
-      to affect the workplace safety.
+**** takeaway
 
-***** facts
+*** Youngblood v Rosedale Develop. Co., L.L.C.
 
-      Injury relating to construction in a Burger King. Relevant to us
-      is whether there was a contract between Parkway (Burger King's
-      insurer). Parkway states that it does not have a contract with
-      BK since their offer stated the price was in effect for at least
-      45 days. Burger King did not accept within 45 days so Parkway
-      argues the offer had expired leaving a formation issue.
+**** facts
 
-***** lower court
+     Plaintiff owns 363 acres of land and Defendant is developing it
+     in stages. Originally purchased 15 acres which comes with an
+     option:
 
-***** rule
+     #+BEGIN_QUOTE
+     Such a partial exercise or any subsequent partial exercise shall
+     have the effect of extending this option for an additional three
+     year period from the closing date of the property upon which the
+     option has last been exercised.
+     #+END_QUOTE
 
-      1928
-      #+BEGIN_QUOTE
-      An offer that specifies a period of time for acceptance is
-      irrevocable during that time.
+     Over 6 years, Rosedale exrcises option four times for about 56
+     acres. Defendant gives notice of intent to exercise option again
+     and Plaintiffs sue to have option declared null.
 
-      When the offeror manifests an intent to give the offeree a delay
-      within which to accept, without specifying a time, the offer is
-      irrevocable for /a reasonable time/.
-      #+END_QUOTE
+**** lower court
 
-      1927
-      #+BEGIN_QUOTE
-      ...
-      Unless otherwise specified in the offer, there need not be
-      conformity between the manner in which the offer is made and the
-      manner in which the acceptance is made.
-      #+END_QUOTE
+     Rules that the contract fits into the exception for contracts
+     that give rise to obligations of continuous or periodic performance.
 
-***** holding
+**** rule
 
-      There was a valid acceptance of the contract while the offer was
-      still open. The offer was subject to a reasonable time duration
-      as per 1928 and that reasonable time had not expired.
+     #+BEGIN_QUOTE
+     Art 2628: Time limitation for option and right of first refusal
 
-***** reasoning
+     An option or a right of first refusal that concerns an immovable
+     thing may not be granted for a term longer than ten yeras. If a
+     longer time for an option or a right of first refusal has been
+     stipulated in a contract, that time shall be reduced to ten
+     years. Nevertheless, if the option or right of first refusal is
+     granted in connection with a contract that gives rise to
+     obligations of continuous or periodic performance, an option or a
+     right of first refusal may be granted for as long a period as
+     required for the performance of those obligations.
+     #+END_QUOTE
 
-      The offer did not expire at 45 days, it was open at least 45
-      days. Since no time was actually specified but some time was
-      indicated, 1928 stipulates that the offer is open for a
-      reasonable time. The court doesn't have to investigate this as
-      they find Burger King tacitly accepted the offer at 46 days when
-      it invited Parkway to begin renovations. The court doesn't need
-      intricate analysis that 46 days is a reasonable time with a
-      minimum floor of 45 days.
+**** holding
 
-***** takeaway
+     The contract deserves no such exception, and is therefore limited
+     to the ten year maximum as provided in 2628. The associated
+     contract has no obligations that are recurring
 
-**** W. M. Heroman & Co., Inc. v. Saia Electric, Inc.
+**** reasoning
 
-***** facts
+     #+BEGIN_QUOTE
+     Never did the original purchases of the first 15 acres of land,
+     nor the defendant when it purchased land by means of the option
+     to buy, obligate themselves to the development of the whole or
+     any part of the 363 acres of land. There is no agreement or
+     contract to the ultimate development by increments, nor any
+     requirement of the defendant to purchase any addditional
+     acreages. Since the contract to buy was not granted "in
+     connection with a contract that gives rise to obligations of
+     continuous or periodic performance," then it cannot fall into the
+     exception stipulated in Louisiana Civil Code article 2628.
+     #+END_QUOTE
 
-***** lower court
+     Since there is no exception to allow the option to keep renewing
+     forever, it must be capped at ten years which the lower court did
+     not do.
 
-***** rule
+**** takeaway
 
-***** holding
 
-***** reasoning
-
-***** takeaway
+** Communication of the Acceptance and the Time of Contract Formation
