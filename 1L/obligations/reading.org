@@ -488,13 +488,13 @@
 
 **** notes
 
-    #+BEGIN_QUOTE
-    Plaintiff's /motive/ in purchasing ... was not only to receive it
-    for the trade-in and boot given, but also to receive the right ...
-    #+END_QUOTE
+     #+BEGIN_QUOTE
+     Plaintiff's /motive/ in purchasing ... was not only to receive it
+     for the trade-in and boot given, but also to receive the right ...
+     #+END_QUOTE
 
-    goes to cause. Tate was a luminary and uses this cause hook to
-    make it an offer.
+     goes to cause. Tate was a luminary and uses this cause hook to
+     make it an offer.
 
 **** facts
 
@@ -830,3 +830,185 @@
 
 
 ** Communication of the Acceptance and the Time of Contract Formation
+
+*** Ryder v. Frost
+
+**** facts
+
+     Ryder and Frost were business partners in a failed enterprise
+     with a debt of $6,000 owed. Ryder had indemnified Frost of all
+     debts and was solely responsible for the debt. The holder of the
+     debt offered to settle the debt for $2000. Ryder wrote to Frost
+     that they should each pay the $1000. Frost responded that he had
+     no obligations whatsoever and that he was quite happy in his
+     station. However, he would happily $500 to clear the debt from
+     court papers. Ryder proceeded to settle the debt for $2000 and
+     then seeks to get $500 from Frost.
+
+     From the opinion, it appears that Ryder may not have told Frost
+     that he accepted his proposition for some time.
+
+**** lower court
+
+     Is reversed but not clear on what grounds they ruled.
+
+**** rule
+
+     Implied consent may be manifested by actions.
+
+
+
+**** holding
+
+     There was a contract between the two. Ryder accepted and
+     performed.
+
+     Two questions as the court sees it:
+     1) was there an assent by Ryder to Frosts prposition, within a
+        reasonable time?
+     2) Was it indespensable that earlier notice of acceptance should
+        have been given?
+
+**** reasoning
+
+     1) Clearly there was an assent. Ryder satisfying the debt was the
+        object of Frost and it was accomplished. It is not necessary
+        for the offeror to know of acceptance.
+
+        The court reasons that an offer accepted before death of the
+        person making the offer is valid even if that person dies
+        before knowing it has been accepted. If death won't extinguish
+        obligations, then this one is valid.
+
+     2) This one isn't answered so clearly. The court finds no injury
+        to the enjoyment of the fruits of agreement and therefore find
+        no fault. The agreement did not specify a time within which
+        Frost had to be made aware.
+
+*** Cardinal Wholesale Supply, Inc. v. Chaisson
+
+**** facts
+
+     Two co-owners of a defendant business sign personal guarantees
+     when applying for credit from plaintiff. The guarantee contained
+     a waiver of written acceptance. The credit application was denied
+     and Cardinal placed the forms into a safety deposit box. Two
+     years later the two cosigners had sold their stake. Four years
+     later defendant company opens a line of credit and goes
+     insolvent. At this point (eight years after they were originally
+     signed) Cardinal pulls the personal guarantees out of the safety
+     deposit box, signs them, and sues the two men for the debts of
+     the company.
+
+**** lower court
+
+**** rule
+
+**** holding
+
+     The plaintiff did not accept the guarantees as they were given
+     in 1972. The two men certainly did not mean to bind themselves to
+     the debts of this company 8 years later.
+
+**** reasoning
+
+     The waiver of /notice/ of acceptance does not waive the
+     requirement of acceptance. The guarantees were given to induce a
+     line of credit. Cardinal did not accept them for the purpose for
+     which they were intended. "Absent a principal obligation created
+     by the contemporaneous extension of credit by Cardinal to CMD, no
+     acecessory obligation arose".
+
+     The lines of credit eventually extended in 1976 were not relying
+     on the guarantees submitted. The court notes that filling in the
+     blanks in 1980 could not revive them. Further, Cardinal was
+     unaware of the notes and could not have relied on them to their
+     detriment. It is a stretch to think that the two men wanted to
+     secure the debts of the company in perpetuity.
+
+**** takeaway
+
+*** Ambrose v. M & M Dodge, Inc.
+
+**** facts
+
+     A man receives a bad truck from Dodge/Chrysler. His lawyer
+     negotiates a settlement and has documents which the man signs. On
+     phone with Dodge, lawyer asks Dodge when they will pay off the
+     loan which Dodge says is not part of the deal. Lawyer says there
+     is no deal. Dodge argues that signing the documents concluded the deal.
+
+**** lower court
+
+     Agrees with plaintiff that there was never an acceptance because
+     the documents were never received.
+
+**** rule
+
+     This contract requires a written acceptance.
+
+     #+BEGIN_QUOTE
+     A written revocation, rejection, or acceptance is received when
+     it comes into the possession of the addressee or of a person
+     authorized by him to receive it, or when it is deposited in a
+     place the addressee has indicated as the place for this or
+     similar communications to be deposited for him.
+     #+END_QUOTE
+
+**** holding
+
+     No acceptance was received so there could be no effective
+     acceptance of the deal.
+
+**** reasoning
+
+     This type of contract requires a written acceptance. 1938
+     provides that acceptance is effective upon reception. Louisiana
+     is a "reception theory" of contract formation, meaning that
+     formation happens as soon as the instrument reaches the
+     offeror. This has obviously never happened. The contract could
+     not have been formed orally but /only/ upon receipt of the
+     documents. Those never left the lawyer and thus could not
+     possibly have been received by Dodge.
+
+**** takeaway
+*** Ever-Tite Roofing Corporation v. Green
+
+**** facts
+
+     Defendants contract for plaintiff to repair roof. Contract
+     stipulates that it cannot be accepted by just anyone but by
+     written acceptance by the principal or authorized officer of the
+     Contractor or /upon commencing performance of the work/.
+
+     Contractor got home office approval, credit check on defendant,
+     and then set out to perform the work. The van arrived and
+     defendant prevented workers from attempting the work as they had
+     retained another crew to do the work.
+
+**** lower court
+
+     Ruled that the offer was revoked before it was accepted.
+
+**** rule
+
+     #+BEGIN_QUOTE
+     When the offeror manifests an intent ot give th eofferee a delay
+     within which to accept, without specifying a time, the offer is
+     irrevocable for a reasonable time.
+     #+END_QUOTE
+
+**** holding
+
+     Plaintiff had accepted by commencing performance. There was a
+     valid contract and a breach.
+
+**** reasoning
+
+     Plaintiff had a reasonable amount of time to contemplate the
+     offer. When plaintiff gathered materials and workmen in the
+     morning, the work was commenced and under the terms of the
+     contract there was acceptance by performance. Therefore the
+     revocation came too late.
+
+**** takeaway
