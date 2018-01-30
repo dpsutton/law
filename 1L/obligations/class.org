@@ -132,13 +132,15 @@
 
    negotiorum gestio: acting for another person.
 
-   notice neighbor's window is broken, contract to have it fixed. neighbor will have to reimburse.
+   notice neighbor's window is broken, contract to have it
+   fixed. neighbor will have to reimburse.
 
 ** K
 
    civil law: promsise or set of promises
 
-   civil law: agreement by two or more parties where obligations are created, modified, or extinguished.
+   civil law: agreement by two or more parties where obligations are
+   created, modified, or extinguished.
 
 *** elemnts of K
 
@@ -153,7 +155,8 @@
 
 *** 1920
 
-    when lacking capacity, the other party can demand to confirm the contract.
+    when lacking capacity, the other party can demand to confirm the
+    contract.
 
 **** hypo
 
@@ -161,7 +164,8 @@
 
      rescission is effective upon agreement.
 
-     a sale is perfected as soon as there is agreement on the price even though the thing is not delivered nor payment rendered.
+     a sale is perfected as soon as there is agreement on the price
+     even though the thing is not delivered nor payment rendered.
 
 *** unilateral v bilateral
 
@@ -223,12 +227,12 @@
 
 ** options
 
-2620 eliminates consideration for option which had previously existed.
+   2620 eliminates consideration for option which had previously existed.
 
-ok so an option K gives different rights in remedy it
-seems. irrevocable gives right to detrimental reliance
-damages. whereas more equity is open in the option to the full
-expectation damages.
+   ok so an option K gives different rights in remedy it
+   seems. irrevocable gives right to detrimental reliance
+   damages. whereas more equity is open in the option to the full
+   expectation damages.
 
 *** 1933 option contracts
 
@@ -236,6 +240,121 @@ expectation damages.
     is bound by his offer for a specified period of time and that the
     offeree may accept within that time.
 
-made a big deal out of this agreement.
+    made a big deal out of this agreement.
 
-read 2628 before youngblood. obligation v right.
+    read 2628 before youngblood. obligation v right.
+* jan 29
+
+** consent
+
+   "clearly indicative of consent"
+
+** rules about acceptance by performance
+
+*** 1939-1941
+
+    if an offer invites acceptance by performance AND the K is such
+    that performance will be completed if commenced, then a K is
+    formed when the offeree begins performance.
+
+    if an offer can be accepted ONLY by completed performance, then
+    the offer becomes irrevocable once the offeree has begun to
+    perform and remains irrevocable for a reasonable time.
+
+** silence  1942
+
+   generally you hav eto have special circumstnaces. that's all that
+   the code says so we look to the restatement because we are a mutt
+   state.
+
+   #+BEGIN_QUOTE
+   When, because of special circumstances, the offeree's silence leads
+   the offeror reasonably to believe that a contract has been formed,
+   the offer is deemed accepted.
+   #+END_QUOTE
+
+   could be acceptance by silence if that's customary.
+
+   international harvester: no acceptance by silence. the leasing
+   company took a while but disputed it. rent was accepted for quite a
+   while and court rejected this.
+
+** offer
+
+   manifestation of willingness to enter into a bargain so made as to
+   justify another understanding
+
+   section 24 of restatement. learn it.
+
+*** three elements
+
+    1) addressed to a person
+    2) terms that are sufficient such that a court could enforce
+    3) offeror intends to be bound if offeree just says yes
+
+*** advertisement
+
+    almost never an offer unless it invites acceptance by performance.
+
+*** bids
+
+    soliciting bids for public entities can be somewhere in the
+    middle. may be an offer because there may be a duty to accept the
+    lowest bid from a qualified bid.
+
+    walker was not a public entity in that case
+
+*** revocable offer
+
+    can be revoked before acceptance. offeror is the master of the offer
+
+*** irrevocable
+
+    if has time or offeror manifests an intent to give some delay.
+
+    36 days to accept class. burger king case where they had /at
+    least/ 45 days to accept but accepted by performance at 46 days so
+    that was reasonable. electrical subcontractor the bid was
+    irrevocable for the length of time it takes to bid/contract etc.
+
+** options and right of first refusal
+
+*** right of first refusal
+
+    giving the other party the first offer before extending to others.
+
+    remedy is specific performance.
+
+    when you decide to sell a thing, must offer to that person
+    first. parties can stipulate a price.
+
+*** option
+
+    must set for the thing, price, formal requirements, and must
+    include a time for the duration of the option.
+
+*** 2627
+
+    has 10/30 days to accept. if say nothing or turn it down free to
+    sell it to someone else. if not sold in 6 months the person
+    regains the right of first refusal. the right subsists.
+
+*** 2628
+
+    option or right of first refusal cannot extend beyond 10 years.
+
+** acceptance
+
+   compromise. 3071-3076. a settlement in common law is a compromise
+   in civil law.
+
+
+   "significant action taken to commence performance"
+
+*** 1947
+
+    #+BEGIN_QUOTE
+    When, in the absence of a legal requirement, the parties have
+    contemplated a certain form, it is presumed that they do not
+    intend to be bound untl the contract is executed in that form.
+    #+END_QUOTE
