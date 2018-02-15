@@ -1,0 +1,182 @@
+* Review Questions
+
+** Explain the difference between primary and secondary authorities, and give an example of each.
+
+
+** Explain the difference between mandatory and persuasive authorities, and give an example of each.
+
+
+** When is secondary authority useful? Is it ever binding? Why or why not?
+
+* Locating Constitutional Provisions in Print
+
+** United States Constitution
+
+*** Locate Article III, Section 1 in the United States Constitution. Briefly describe what this section provides
+
+
+**** COMMENT text
+
+     #+BEGIN_QUOTE
+     The judicial Power of the United States, shall be vested in one
+     supreme Court, and in such inferior Courts as the Congress may
+     from time to time ordain and establish. The Judges, both of the
+     supreme and inferior Courts, shall hold their Offices during good
+     Behavior, and shall, at stated Times, receive for their Services,
+     a Compensation, which shall not be diminished during their
+     Continuance in Office.
+     #+END_QUOTE
+
+*** Locate Amendment I in the United States Constitution. Briefly describe what this amendment provides.
+
+**** COMMENT text
+
+     #+BEGIN_QUOTE
+     Congress shall make no law respecting an establishment of
+     religion, or prohibiting the free exercise thereof; or abridging
+     the freedom of speech, or of the press; or the right of the
+     people peaceably to assemble, and to petition the Government for
+     a redress of grievances.
+     #+END_QUOTE
+
+*** Are these provisions primary or secondary authority?
+
+*** Are these provisions mandatory or persuasive authority for the state courts in the state for your problem set?
+
+* State Constitutions
+
+** Briefly describe what the first provision for your problem set provides
+
+*** COMMENT text
+
+    Article 5 Section 1
+
+    #+BEGIN_QUOTE
+    Courts
+
+    The judicial power of the State of Florida is vested in a supreme
+    court, district courts of appeal, circuit courts, Court of Record
+    of Escambia County, criminal courts of record, county courts,
+    county judge's courts, juvenile courts, courts of justices of the
+    peace, and such other courts, including municipal courts, or
+    commissions, as the legislature may from time to time ordain and
+    establish.
+
+    Adopted, general election Nov. 6, 1956
+    #+END_QUOTE
+
+** Briely describe what the second provision for your problem set provides
+
+*** COMMENT text
+
+    Article I Section 4
+
+    #+BEGIN_QUOTE
+    Freedom of speech and press
+
+    Every person may speak, write, and publish his sentiments on all
+    subjects but shall be responsible for the abuse of that right. No
+    law shall be passed to to restrain or abridge the liberty of
+    speech or of the press. In all criminal prosecutions and civil
+    actions for defamation the truth may be given in evidence. If the
+    matter charged as defamatory is true and was published with good
+    motives, the party shall be acquitted or exonerated.
+    #+END_QUOTE
+
+** Are these provisions of the state constitution primary or secondary authority?
+
+** Are these provisions of the state constitution mandatory or persuasive authority for the state courts in that state?
+
+* Locating State Statutes and Cases in Print
+
+** State Statutes
+
+   West's Florida Statutes Annotated 672.302
+
+*** COMMENT text
+
+    #+BEGIN_QUOTE
+    Unconscionable contract or clause
+
+    (1) If the court as a matter of law finds the contract or any
+    clause of the contract to have been unconscionable at the time it
+    was made the court may refuse to enforce th econtract, or it may
+    enforce the remained of the contract without the unconscionable
+    clause, or it may so limit the application of any unconscionable
+    clause as to avoid any unconscionable result.
+
+    (2) When it is claimed or appears to the court that the contract
+    or any clause thereof may be unconscionable the parties shall be
+    afforded a reasonable opportunity to present evidence as to its
+    commercial setting, purpose and effect to aid the court in making
+    the determination.
+
+    #+END_QUOTE
+
+
+
+*** Provide the name of the section. You will find this next to the section number.
+
+*** Briefly describe what this section provides.
+
+** State Cases
+
+   /Credit Alliance Corp. v. Westland Mach. Co., Inc.,/ volume 439,
+   /Southern Reporter/, 2d series, page 332.
+
+*** Following the name of case, yo uwill find a reference to the name of the court that decided this case. Provide the name of the court.
+
+    This case was decided by the District Court of Appeal of Florida,
+    Third District on October 18, 1983.
+
+*** How many headnotes are at the beginning of the case you located?
+
+    There are two headnotes on this case.
+
+*** Briefly explain what this case is about as it relates to the state statute you located.
+
+**** COMMENT
+
+     case relates to whether a contract can waive a jury trial. The
+     court of appeal ruled that this was not unconscionable when
+     expereinced businessmen negotiated on both sides and there "was
+     no evidence of overreaching or unconscionability within meaning
+     of contract statute". Also this provision is not against public
+     policy.
+
+     Seeking relief after insufficient replevin, there was a jury
+     trial. However, this was in error since the right to a jury trial
+     was waived in the contract.
+
+     #+BEGIN_QUOTE
+     Relying on section 672.302, Florida Statutes (1981), Westland
+     argues that such a contractual provision, conceededly buring in
+     boiler plate, is unconscionable. We disagree. The contract in
+     question was agreed to by experienced businessmen. There is no
+     evidence of overreaching or unconscionability within the meaning
+     of section 672.302. Although the record demonstrates that he
+     never read the contract, Westland's presidnt cannot now be heard
+     to complain of its terms. He is bound by the contract which he
+     signed.
+     #+END_QUOTE
+
+** Federal Statutes
+
+   Title 29 Section 654
+
+*** Provide the name of the section.
+
+    Section 654 of Title 29 in the 1994 edition of the United States
+    code is entitled, "Dutes of employers and employees".
+
+*** Briefly describe what the statute provides
+
+    This statutes describes the contours of the duties owed between
+    employer and employee relating to workplace safety. It requires
+    employers to furnish workplaces free of known hazardous materials
+    and to comply with occupational safety and health standards. It
+    requires employees to follow these standards as well.
+
+** Federal Cases
+
+   ***
