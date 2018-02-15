@@ -1069,3 +1069,326 @@
 **** reasoning
 
 **** takeaway
+
+* Cause
+
+** Cause as a Criterion for the Classification of Contracts
+
+*** Spannier v. De Voe
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Succession of Lawrence
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Perry v. Perry
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Thielman v. Gahlman
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Louisiana College v. Keller
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Baptist Hospital v. Cappel
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+*** Flood v. Thomas
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway
+
+* Applying the Theory of Cause (chapter vi)
+
+** natural obligations
+
+*** Thomas v. Bryant
+
+**** facts
+
+     A stepson signs a note promising to pay for half of alcohol
+     abuse treatment. Son brings suit upon non-payment
+
+**** lower court
+
+     Finds for stepson that the debt is valid and enforceable
+
+**** rule
+
+     In order to create a "natural obligation" from a moral duty the
+     following must be satisfied:
+     1) The moral duty must be felt towards a particular person, not
+        all persons in general
+     2) The person involved feels so strongly about the moral duty
+        that he truly feels he owes a debt
+     3) The duty can be fulfilled through rendering a performance
+        whose object is of pecuniary value
+     4) A recognition of the obligation by the obligor must occur,
+        either by performing the obligation or by promising to  to perform
+     5) Fulfillment of the moral duty must not impair the public order
+
+**** holding
+
+     The debt is enforceable, as founded upon a moral duty that
+     satisfied the above tests
+
+**** reasoning
+
+     1) The duty was owed to Bryan particularly
+     2) He felt he owed a duty to his step-son and friend
+     3) It had a monetary value
+     4) He reocgnized the moral obligation by promising to perform
+     5) Nothing abou tthis would impair public order
+
+**** Dissent
+
+     Argued that detrimental reliance would lead to the same
+     conclusion. The promise was of the type to induce the person to
+     rely. That person did rely to his detriment, incurring bills at
+     the treatment facility. The reliance was reasonable to rely on a
+     step-father and friend's promise to help pay for alcohol
+     treatment.
+
+**** takeaway
+
+*** Wortmann v. French
+
+**** facts
+
+     In divorce, a man gives to his wife the house for $10 and other
+     consideration and services. He was the cause of the divorce for
+     living with his side corn at the time.
+
+**** lower court
+
+     Rules in favor of the husband. Husband argues that the contract
+     was not founded upon a true consideration and therefore fails for
+     lack of form being a gratuitous donation.
+
+**** rule
+
+     A moral obligation does not give grounds for one to demand
+     performance, but like a shield, does allow for one to keep what
+     has been donated.
+
+     #+BEGIN_QUOTE
+     No suit will lie to recover what has been paid, or given in
+     compliance with a natural obligation.
+     #+END_QUOTE
+
+**** holding
+
+     The house was given by the husband to make ammends for his
+     behavior, a natural obligation. As such he cannot recover what
+     has given even though his ex-wife had no legal claim to enforce
+     the promise.
+
+**** reasoning
+
+     Policy reasons prevent suing on a marriage contract but the
+     notion to make reparations still rises to a natural
+     obligation. The $10 and services rendered was a ruse and this
+     "sale" was predicated on the injury that the husband recognized
+     he had caused his wife.
+
+**** takeaway
+
+*** Service Finance Co. Of Baton Rouge Inc. v. Daigle
+
+**** facts
+
+     A man owes a debt and goes through bankruptcy. His financial
+     company contacts him and he says "would go ahead and continue
+     paying as he had done before I received the notice [of
+     bankruptcy]". He makes three payments after bankruptcy and then
+     seems to stop.
+
+**** lower court
+
+     Rules in favor of the debtor. Financial services company appeals.
+
+**** rule
+
+     In order to revive a debt based on a moral obligation, an oral
+     promise would suffice it must be "an express promise to pay the
+     specific debt... [in a] clear, distinct, and unequivocal
+     recognition and renewal of the debt as a binding obligation"
+     Caselaw does not allow for interpreting payments as
+
+**** holding
+
+     The statements made are not a clear, distinct, and unequivocal
+     renewal of the obliation.
+
+**** reasoning
+
+**** takeaway
+
+*** Stoll v. Goodnight Corporation
+
+**** facts
+
+     A woman is a travel agent and accepts a bad check. Her employer
+     points out in the manual where it states employees are
+     responsible for these monies. She pays it back from salary
+     deductions and then is fired after the debt is paid.
+
+**** lower court
+
+     She sues for her money back arguing that she never owed the money
+     legally and it should be returned. the court finds for defendants
+     and she appeals.
+
+**** rule
+
+
+
+**** holding
+
+     Mrs. Stoll "freely paid her employer in resonse to her /natural
+     obligation/ to do so and cannot reclaim the payment on the
+     grounds that the obligation could not have been enforced by
+     judicial action.
+
+**** reasoning
+
+     #+BEGIN_QUOTE
+     Without inquiring whether she could have been held civilly
+     responsible, Ms. Stoll agreed, ohwever reluctantly, to reimburse
+     the agency for its loss. Ms. Stoll's payment obviously arose not
+     from coercion but from "udty of conscience", the common
+     demoninator of all natural obligations that distinguishes them
+     from acts of charity.
+     #+END_QUOTE
+
+     Her perceived fear of losing her job was not sufficient to make
+     the repayment involuntary or founded on error. It was freely
+     performed. "She considered herself a debtor and the agency a
+     creditor. After the fact of payment, under these circumstances,
+     the accuracy of Ms. Stoll's evaluation of her legal liability to
+     the agency is immaterial to the issue of whether the natural
+     obligation was freely performed or paid voluntarily."
+
+**** takeaway
+
+** remission of debt
+
+*** Hicks v. Hicks
+
+**** facts
+
+     Suit after death. Mother of defendant sold a house to
+     defendant. Notes were returned saying services had been received
+     as equivalent to cash.
+
+**** lower court
+
+     Plaintiff brings suit arguing that this was a donation that must
+     fail for lack of form. Lower court agrees.
+
+**** rule
+
+     #+BEGIN_QUOTE
+     The remission of the debt is either conventional, when it is
+     expressly granted to the debtor by a creditor either having a
+     capacity to alienate; Or tacit, when teh creditor voluntarily
+     surrenders to his debtor the orginal title under private
+     signature which establishes the obligation.
+     #+END_QUOTE
+
+**** holding
+
+     The cancelled notes were a remission of the debt. Remission has
+     no special form and therefore overrules the lower court.
+
+**** reasoning
+
+**** takeaway
+
+*** Hurley v. Hurley
+
+**** facts
+
+**** lower court
+
+**** rule
+
+**** holding
+
+**** reasoning
+
+**** takeaway

@@ -358,3 +358,326 @@
     contemplated a certain form, it is presumed that they do not
     intend to be bound untl the contract is executed in that form.
     #+END_QUOTE
+
+* jan 31
+
+** option
+
+   difficulty in louisiana. an option doesn't have to have
+   consideration. need something that demonstrates the offeror's
+   intent to be bound. an acceptance can suffice. shows some intent to
+   be bound and some intent on the part of the offerree to /want/ that
+   kind of power.
+
+** compromise
+
+   3072
+
+   has to be in writing. where parties settle a dispute by making
+   concessions.
+
+** offer invites performance
+
+   an offer can invite acceptance on its own terms. can invite
+   acceptance by return promise. but can invite acceptance by return
+   performance. the roofing cases fall into this case.
+
+** stupid signatures
+
+   if it doesn't fully comply with authentic act could be act under
+   private signature duly acknowledged or act under private signature.
+
+   any K in writing and signed is act under private signature.
+
+** cause
+
+   the reason why a person obligates himself.
+
+   consideration is what separates "serious" problems from those
+   quickly given and not meant. the bargained for exchange is what
+   separates these. In civil law cause is the "reason" someone
+   obligates himself. Reason not motive because it is meant to be
+   knowable. Objective not subjective.
+
+   cause can lead to binding of a gratuitous K as well. You promise
+   the neighbor you would take care of his vette. its parked in your
+   garage. as a depositary you need to take care of it as your
+   own. suretyship: if you promise to pay the debts of another person
+
+** donations
+
+*** inter vivos
+
+    1) gratuitous
+       giving something to another person and getting nothing back.
+    2) onerous
+       demanding a service of some kind in return. something like a
+       gift to it. its gifty.
+    3) remunerative
+       past consideration
+
+*** gratuitous
+
+    corporeal moveable: has a body. an object. incorporeal: no
+    body. access. put you on a checking account.
+
+    gratuitous donation of corporeal moveable: actual delivery with
+    donative intent. article 1543
+    #+BEGIN_QUOTE
+    the donation inter vivos of a corporeal moveable may also be made
+    by delivery of the thing to the donee without any other formality.
+    #+END_QUOTE
+
+    lease for mineral rights. incorporeal immoveable.
+
+    article 1541
+    #+BEGIN_QUOTE
+    article 1541: form required for donations
+    A donation inter vivos shall be made by authentic act under the
+    penalty of absolute nullity, unless otherwise expressly permitted
+    by law.
+    #+END_QUOTE
+
+    otherwise absolutely null
+
+    Gratuitous Donations:
+    1) If corporeal or incorporeal immovable, MUT be i nauthentic act
+       form or else absolutely null (art 1541). Act must identity
+       donor, donee, and describe thing. Ex: /Spanier v. De Voi/
+    2) If corporeal movable, may be manual gift plus donative intent
+       art 1543
+    3) If incorporeal movable, then follow UCC Title 9 (outside of
+       scope of this class).
+
+*** remunerative and onerous donations
+
+    getting something back.
+
+    1526 & 1527
+
+    drew an arbitrary line in the sand. if what you are getting is
+    worth less than 2/3 it's gratuitous and then you need an authentic
+    act. if its "susceptible of being measured of money".
+
+    many times where someone might take care of someone. usually don't
+    measure things too well.
+
+* feb 5
+
+** dorgenoy v droz
+
+   valid as a gratuitous donation
+
+** hypothets
+
+*** corporeal moveable
+
+** absence of cause
+
+   if no cause, absence of cause and the obligation is absolutely null
+
+** failure of cause is different
+
+   absence no cause in beginning. failure of cause is where cause fails after the initial part.
+
+*** losecco
+
+    wants to buy oranges. gregory is a farmer. agree that for 8k
+    losecco
+
+    assumed risk "usual, known, or foreseen"
+
+** unlawful cause
+
+   a type of absence of cause.
+
+   gambling debts: know or not know about the reason for a loan
+
+* feb 7
+
+** losecco
+
+   aleatory contract.
+
+** unlawful cause
+
+   if cause or object is unlawful or agains public policy, then the K is /ABSOLUTELY/ null.
+
+** public policy
+
+   the investigator who would only bill if he found evidence of husband cheating. the cause
+
+** gambling
+
+   hazy distinction between cause and object.
+
+   she wants us to make a distinction of legal and illegal
+   gambling. the law review article makes good distinction between
+   legal and illegal gambling.
+
+** unclean hands
+
+   common law doctrine that has been adopted in louisiana. if you've
+   done something dirty and want the court to enforce something the
+   court will leave you where it found you.
+
+   simulation can be absolute or relative: parties declare that K
+   means one thing but they actually mean something else. if they say
+   its a "sale" but it has no effect its an absolute
+   simulation. relative: intend an effect just one different from the
+   one they say. here call it a sale but its actually an onerous
+   donation. some simulations are legal, some are illegal. bona fide
+   purchaser doctrine. sale to the 3rd party is clean.
+
+   the rule. if a single party they can have their day in
+   court. dissent is better in this case.
+
+** detrimental reliance
+
+*** elements
+
+    1) promise - of a special kind likely to induce reliance
+    2) promisor knew or should have known of #1
+    3) other party's reliance is reasonable & led to a detriment
+    4) then MAY be enfroced to extent necessary
+
+
+*** comparison
+
+    its the same. last line. it is a losing argument. very
+    rare. winning is also very rare.
+
+** natural obligations
+
+   1760 obligations in general. we are not in contract land anymore.
+
+   natural obligation is where the law implies a particular moral
+   duty.
+
+   1761 that moral duty is NOT ENFORCEABLE.
+
+   1762 different types of moral obligations
+
+   - extinguished debts in bankruptcy or prescription
+   - obligation incurred by a person without capacity but with
+     *discernment*
+   - an executor who is not bound by law to follow the wishes of the
+     decedant but should. think a failure of form.
+
+
+*** autofinance case
+
+    gonna keep paying loan after bankruptcy. moral obligation. quits
+    paying. cannot get his money back.
+
+* feb 14
+
+** roadmap
+
+*** obligations
+
+**** obligations in general
+     - definition
+     - effects
+
+**** natural obligations
+
+**** 3 kinds of obligations
+
+**** 4 transfer
+
+****  5 proof
+
+     - person who claims there is an obligation has to prove it
+     - private signature, authentic act, duly acknowledged,
+     - over under $500. corroborating witness
+
+**** 6 extinction
+
+*** contracts
+
+**** definition
+
+     - kinds
+     - definiiton
+
+**** capacity
+
+**** consent
+
+**** vices of consent
+
+**** cause
+
+** review
+
+*** detrimental reliance
+
+**** is promissory estroppel
+
+     1. A promsie such that the promisor knew or should have known
+        would induce other party's reliance to his detriment
+     2. other parties relies on promise reasonably and t ohis detriment
+     3. no other remedy
+     4. recovery MAY be limited to expenses, damages
+     5. Reliance on a gratuitous promise made without required
+        formalities is NOT reasonable
+
+*** natural obligations
+
+    when the law implies a moral duty. it is NOT enforceable at
+    law. the code gives 3 examples in a non-exclusive list.
+
+**** examples
+
+     1. a debt that has proscribes
+     2. an obligation entered into someone who lacks capacity but has discernment
+     3. an obligation listed in an invalid will
+
+**** take back
+
+     if freely given in connection with a natural obligation cannot
+     take it back.
+
+**** elevation to a contract
+
+     can serve as the cause of a contract
+
+***** required
+
+      1. duty to a particular person
+      2. strong conscience
+      3. can be fulfilled with money
+      4. clear and distinct and unequivocal statement of intent to
+         perform the obligation
+      5. not against public policy
+
+*** assent
+
+    conduct under the circumstances that clearly manifests assent
+
+** remission
+
+
+*** act that leads to a presumption
+
+    if creditor voluntarily surrenders the instrument. presumption of
+    an intent to remit.
+
+*** three grounds to undo
+
+    1. due to a condition not fulfilled
+    2. obtained out of fraud, duress, or undue influence
+    3. ingratitude
+
+** compromise
+
+   written agreement between parties in order to settle
+   disputes. common law allows for an issue or potential issue or
+   uncertainty. doesn't have to be a filed action. in WRITING
+
+   parties have to have capacity. compromise has to be lawful.
+
+   once a compromise you cannot sue on those basis. precludes
+   subsequent actions on those matters. can be rescinder for error or
+   fraud but not error of law.
