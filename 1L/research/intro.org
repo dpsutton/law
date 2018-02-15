@@ -1,18 +1,46 @@
+#+OPTIONS: toc:nil
+#+AUTHOR: Dan Sutton
+#+TITLE: Research Introduction
+#+LaTeX_CLASS_OPTIONS: [a4paper,twocolumn]
 * Review Questions
 
 ** Explain the difference between primary and secondary authorities, and give an example of each.
 
+   Primary sources are statements of law from some type of
+   governmental agency. Examples are court decisions and
+   legislation. Secondary sources are /about/ the law. They might
+   discuss or critique existing law, or set out normative ideas of
+   what the law should be. Examples are law review articles and
+   treatises.
 
 ** Explain the difference between mandatory and persuasive authorities, and give an example of each.
 
+   Mandatory authorities are binding on a court's reasoning and direct
+   the outcome of cases. Statutes, precedent in common law states,
+   custom in civil jurisdictions all dictate the outcome of a case if
+   a case decides an issue at bar. Persuasive authorities may be
+   considered but are not binding on a court. The same types of
+   sources if they are from a different and not superceding
+   jurisdiction along with all secondary authorities fall into this category.
 
 ** When is secondary authority useful? Is it ever binding? Why or why not?
+
+   Secondary authority is often useful when there is no applicable
+   black letter law or perhaps conflicting black letter
+   law. It can never be binding by its very nature: it is the set of
+   legal discussions that are /not/ statements of law from some
+   competent law making body.
 
 * Locating Constitutional Provisions in Print
 
 ** United States Constitution
 
 *** Locate Article III, Section 1 in the United States Constitution. Briefly describe what this section provides
+
+    Article III, Section 1 of the United States Constitution is the
+    primary authority for the judical branch of the United States. It
+    mandates a supreme court and vests the legislative branch with the
+    power to create inferior courts as it sees fit.
 
 
 **** COMMENT text
@@ -29,6 +57,15 @@
 
 *** Locate Amendment I in the United States Constitution. Briefly describe what this amendment provides.
 
+    The First Amendment is first among equals of the amendments to the
+    United States. It prevents Congress from establishing a national
+    religion, or prohibiting anyone's exercise of their religion. It
+    prevents laws abridging speech or the free press. It further
+    prevents laws governing free association and to petition the
+    government. Colloquially, it guarantees freedom of and from
+    religion, free speech, a free press, free assembly, and the right
+    to complain about the government.
+
 **** COMMENT text
 
      #+BEGIN_QUOTE
@@ -41,11 +78,20 @@
 
 *** Are these provisions primary or secondary authority?
 
+    These provisions are as primary as authority can get.
+
 *** Are these provisions mandatory or persuasive authority for the state courts in the state for your problem set?
+
+    These provisions are mandatory authority to the state courts as
+    established by the 14th amendment.
 
 * State Constitutions
 
 ** Briefly describe what the first provision for your problem set provides
+
+   Article 5, Section 1 of the Florida Constitution mimics Article 3,
+   Section 1 of the United States Constitution in that it scaffolds
+   the judiciary for that jurisdiction.
 
 *** COMMENT text
 
@@ -67,6 +113,10 @@
 
 ** Briely describe what the second provision for your problem set provides
 
+   Article 1, Section 4 imitates the First Amendment to the
+   Constitution providing bedrock liberties to the citizens of
+   Florida. These rights include free speech and a free press.
+
 *** COMMENT text
 
     Article I Section 4
@@ -85,7 +135,12 @@
 
 ** Are these provisions of the state constitution primary or secondary authority?
 
+   These provisions are primary authority in the same way that the
+   United States Constitution is a primary authority to the several states.
+
 ** Are these provisions of the state constitution mandatory or persuasive authority for the state courts in that state?
+
+   These provisions are mandatory authority in the state of Florida.
 
 * Locating State Statutes and Cases in Print
 
@@ -113,11 +168,19 @@
 
     #+END_QUOTE
 
-
-
 *** Provide the name of the section. You will find this next to the section number.
 
+    Section 672.302 of the Florida Statutes is entitled
+    "Unconscionable contract or clause".
+
 *** Briefly describe what this section provides.
+
+    This statute implements the UCC's definition of unconscionable
+    contract or clause in the state of Florida. It does not define
+    unconscionable but lists the remedies available to a court with
+    such a finding: rescission of the contract, rescission of the
+    unconscionable parts of a contract, or limiting a clause to avoid
+    an unconscionable part.
 
 ** State Cases
 
@@ -134,6 +197,15 @@
     There are two headnotes on this case.
 
 *** Briefly explain what this case is about as it relates to the state statute you located.
+
+    Following an apparently soured business deal, plaintiffs seized
+    and sold off inventory from defendants. Part of the contract
+    between the two parties was a waiver of the right to a jury
+    trial. Defendants argue that this waiver of a right was
+    unconscionable, especially being hidden in boiler plate
+    language. The court disagreed, noting that the parties to the
+    transaction were sophisticated businessmen who were expected to
+    know what they agreed to.
 
 **** COMMENT
 
@@ -179,4 +251,4 @@
 
 ** Federal Cases
 
-   ***
+   Questions for this part of the assignment are missing.
